@@ -1,0 +1,21 @@
+> 新浪微博,有一个头条文章编辑器的东西, 只支持富文本, 为了一键把简书的markdown文章 ,直接转换到头条文章编辑器中, 我找到了一款神器 markdown-here!
+
+## markdown-here效果演示
+> ![](https://upload-images.jianshu.io/upload_images/3203841-b477e0479c6c7592.gif?imageMogr2/auto-orient/strip)
+
+## markdown-here [chrome商店安装页面](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-43f20dfddf170790.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+## markdown-here[Github开源地址](https://github.com/adam-p/markdown-here)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-fd52672fdf00e86f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## markdown-here个性化定制
+> markdown语法对于代码高亮支持的非常好, 而markdown-here提供了不同样式的代码渲染效果供我们选择
+> ![](https://upload-images.jianshu.io/upload_images/3203841-3acfb766f7c1fa85.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## markdown-here用途:
+- 用Markdown写邮件,然后转换为富文本 
+- 用Markdown编辑微信后台内容
+- 在线博客搬家(比如简书->新浪头条)
+
+## 有了markdown-here, 面对富文本编辑器, 我们也可以愉快的写markdown了!
+> 与本篇博客关联的B站1080p视频(求硬币,求弹幕...): https://www.bilibili.com/video/av24396914/
