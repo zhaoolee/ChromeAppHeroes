@@ -11,4 +11,5 @@
 * [008《Chrome Cleaner Pro》为Chrome加速](008-chrome-cleaner-pro300b-wei-chrome-jia-su.md)
 * [009《vimium》Chrome与vim双神器融合](009-vimiumchromeyu-vim-shuang-shen-qi-rong-he.md)
 * [010《speedtest》网络测速插件speedtest](010-speedtest300b-wang-luo-ce-su-cha-jian-speedtest.md)
+* [011 《setUpVpn》连接Chrome插件商店](011-setupvpn300b-lian-jie-chrome-cha-jian-shang-dian.md)
 
