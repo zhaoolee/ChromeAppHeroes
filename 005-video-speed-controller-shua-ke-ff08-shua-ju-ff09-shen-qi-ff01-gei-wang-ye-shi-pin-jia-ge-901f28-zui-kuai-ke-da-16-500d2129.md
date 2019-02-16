@@ -1,6 +1,6 @@
-> 刷一些没营养视频的时候, 我们会有倍速播放视频的需求, 而网站的在线播放器一般只提供不高于4倍的播放速度, 最近发现了一个很好用的, 可以将视频播放速度提高到16倍开源浏览器插件Video Speed Controller,分享给大家, github开源地址: https://github.com/igrigorik/videospeed
+刷一些没营养视频的时候, 我们会有倍速播放视频的需求, 而网站的在线播放器一般只提供不高于4倍的播放速度, 最近发现了一个很好用的, 可以将视频播放速度提高到16倍开源浏览器插件Video Speed Controller,分享给大家, github开源地址: https://github.com/igrigorik/videospeed
 
-- chrome商店下载地址: https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-ntp-icon
+
 > ![](https://upload-images.jianshu.io/upload_images/3203841-4e1954688b4133bf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-e308dd5751831d4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -20,3 +20,7 @@
 > 如果你不了解油猴, 可以先阅读这篇: [油猴子! 给浏览器开个挂](https://www.jianshu.com/p/8d62228c6961)
 
 留个彩蛋, 大家猜猜本文第二张图片中的眼睛是谁的?
+
+## 插件下载地址:
+
+https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-ntp-icon

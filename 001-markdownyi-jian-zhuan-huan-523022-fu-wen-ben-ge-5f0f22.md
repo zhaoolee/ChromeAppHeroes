@@ -19,3 +19,6 @@
 
 ## 有了markdown-here, 面对富文本编辑器, 我们也可以愉快的写markdown了!
 > 与本篇博客关联的B站1080p视频(求硬币,求弹幕...): https://www.bilibili.com/video/av24396914/
+
+## 插件下载地址:
+https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa

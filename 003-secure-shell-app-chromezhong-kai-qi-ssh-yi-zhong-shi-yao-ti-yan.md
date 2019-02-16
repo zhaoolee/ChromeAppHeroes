@@ -7,9 +7,8 @@
 - 软件轻量, 体积不足3M
 - chrome官方出品, 持续更新(最近一次在2018年3月27号)
 - 语言支持丰富, 中文无乱码
-```
-https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo
-```
+
+
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-c17bae0f1a577a8e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -26,3 +25,10 @@ https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnf
 
 
 > 这个插件很早就有了, 早期不支持中文输入, 大家都没把它当回事儿, 最近开始支持中文, 而且google在积极维护它, 就说明这个插件还是有折腾一下的价值的, 另外在浏览器中使用ssh还是蛮酷的!!!
+
+
+## 插件下载地址:
+
+https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo
+
+

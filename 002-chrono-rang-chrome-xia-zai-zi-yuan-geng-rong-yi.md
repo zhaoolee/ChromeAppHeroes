@@ -20,11 +20,13 @@
 > ![](https://upload-images.jianshu.io/upload_images/3203841-25db204baabcdf2c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 建议适当提高过滤图片尺寸的标准, 获得尺寸更大, 质量更高的图片(以上展示的图片筛选条件为大于200kb)
 
-## chrono下载地址
-chrome商店:https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn?hl=zh-CN
 
 
 ## 小结:
 - chrono是一个很好用的工具, 按照资源的大小来进行筛选, 的确是很巧妙的功能! 
 - chrono的下载图片的速度很快, chrono充分利用了chrome已经下载的资源,按照用户定义的规则, 批量将浏览器已经下载好的图片, 保存到本地
 - chrone不只是可以下载图片, 凡是提供下载链接的, chrono都可以下载, 可以完全替代chrome原生的下载
+
+
+## 插件下载地址
+https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn?hl=zh-CN

@@ -45,3 +45,8 @@
 > 以上脚本都可以在greasyfork找到, 如果目标网站改变了页面结构,脚本可能会失效, 当然很快会有新的脚本被推出, 所以,玩油猴要有一种折腾的精神, 针对`视频网站脚本`,这里多说一句, 如果当前脚本失效了, 直接到脚本网站, 搜索`VIP`, 一般排名第一的,就是目前最好用的, 一键安装, 即可观看VIP视频资源!
 
 > 本篇博客的优酷视频: [[油猴子] 给浏览器开个挂](http://v.youku.com/v_show/id_XMzYzNjU4MTk2NA==.html?spm=a2hzp.8244740.0.0)
+
+
+
+## 插件下载地址:
+https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
