@@ -4,6 +4,7 @@
 > **官方介绍**: 当访问任何网站时，点击紧邻您的搜索栏的SimilarSites图标，便可以获得与您正访问的网站相关的10个类似网站结果。您可以获得每个推荐网站的主页图片以及简要描述和网站标题。想要更多结果？您只需选择下拉窗口右下角的“获得更多结果”，便可以在SimilarSites.com上查看多达25个类似网站
 
 - 与bilibili类似的网站
+
 > ![](https://upload-images.jianshu.io/upload_images/3203841-1dcc29e97f4f7bba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
  > 插件推荐与之类似的网站有, a站, 北美微博广场, 百度贴吧, 人人网(b站的弹幕, 和百度贴吧的盖楼, 联系还是挺强的...)
 - 与淘宝类似的网站
@@ -27,7 +28,7 @@
 - 发现网站的隐藏属性(如下图)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-ba57e36d45347a39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
--  插件下载地址: https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn
+
 - 中文官方网站: https://cn.similarsites.com/
 
 > - 恶作剧:与similarsites类似的站点有哪些呢?
@@ -38,3 +39,5 @@
 > 对于已经被封的资源站点,如`bt天堂`, 我们可能要“曲线救国”, 到官网` https://cn.similarsites.com/`查找`bttiantang.com`,还是可以找到相关网站的, 如下图~
 > ![](https://upload-images.jianshu.io/upload_images/3203841-f50f299c910e00cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+## 插件下载地址: 
+https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn

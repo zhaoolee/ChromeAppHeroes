@@ -20,3 +20,6 @@
 ## 小结:
 - loom是一个很强大的插件, 录制后直接发布到互联网, 方便了用户, 省去了审核的步骤, 同时也为盗版翻录视频提供了很好的平台
 - loom相对于国内的抖音等短视频平台,门槛要更高一些, 当然, 也可以录制出很专业的教学视频, 分享有价值的资源
+
+## 插件下载地址:
+https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb
