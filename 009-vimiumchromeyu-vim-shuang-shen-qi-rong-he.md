@@ -56,3 +56,7 @@ zh: https://www.zhihu.com/search?type=content&q=%s Zhihu
 > - vimium也并非没有缺点, 一些网站需要点击, 拖拽, 才能通过的验证页面, 就只能依赖鼠标来完成了, 
 > - 但如果你够极客的话, 这都不是问题, 据我所知, 一些python爬虫为了过这些验证程序, 有很多好用的python脚本, 甚至有打码平台专门出售突破验证的服务
 > - 哈哈,还是不要走极端, 毕竟正常情况下, 我们遇到验证页面的机会几乎是个位数, 希望读完这篇文章的小伙伴, 能通过vimium让Chrome的浏览速度快到飞起...
+
+
+## 插件下载地址
+https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb

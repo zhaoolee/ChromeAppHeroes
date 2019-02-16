@@ -5,7 +5,7 @@
 > 让Chrome变快的最简单方式就是清理垃圾, 而Chrome的特色扩展中, 恰好有一款评分很高的插件**Chrome Cleaner Pro**, 顾名思义, 插件的主要作用是为Chrome清理垃圾, 让你的Chrome变得飞快
 > ![](https://upload-images.jianshu.io/upload_images/3203841-8f2a15018c6d378a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - 官网: http://chromecleanerpro.com/
-- Chrome商店插件地址: https://chrome.google.com/webstore/detail/chrome-cleaner-pro/ccjleegmemocfpghkhpjmiccjcacackp?utm_source=inline-install-disabled 
+
 > - 如果无法翻墙, 请查看免翻墙下载插件的方法[免代理下载安装纯净Chrome插件离线包](https://www.jianshu.com/p/02115e262c4f)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-4e5b88203736fe2c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -26,3 +26,8 @@
 
 ## 小结
 从**Chrome Cleaner Pro**的诞生, 可以感受到Chrome OS已经发展到了一定的程度, 为浏览器做垃圾清理就和**某数字软件管家**为windows做一键清理的思路很像, 区别是, **Chrome Cleaner Pro**不像**某数字软件管家**那样流氓 [手动滑稽]
+
+
+## 插件下载地址
+
+https://chrome.google.com/webstore/detail/chrome-cleaner-pro/ccjleegmemocfpghkhpjmiccjcacackp
