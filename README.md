@@ -4,6 +4,8 @@ Chrome应用英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chro
 
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 
+![](/assets/jianshu2_key.png)
+
 在线阅读地址: https://zhaoolee.gitbooks.io/chrome/content/
 
 ---
