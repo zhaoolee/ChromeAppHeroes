@@ -8,7 +8,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ---
 
-从官方商店下载Chrome插件的方法:
+## 从官方商店下载Chrome插件的方法
 
 App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrome web store 获取插件,所以国内的大多数Chrome只是一个浏览器, 本文展示一个为Chrome赋予灵魂的方法
 > Emm, 如果你不知道去哪里下载Chrome... 我可以悄悄告诉你, 从 https://tools.shuax.com/chrome/#/ 可以下载到各个平台的绿色版Chrome,解压即用~
@@ -76,4 +76,6 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 
 
 ## 小结:
-- setupvpn安装包可以通过关注公众号`jikeweikan`,回复`setupvpn`获取
+- setupvpn安装包可以从Github仓库https://github.com/zhaoolee/ChromeAppHeroes中的`相关资源`文件夹获取
+
+> ![](/assets/ChromeAppHeroes_相关资源_at_master_·_zhaoolee_ChromeAppHeroes.png)
