@@ -4,7 +4,7 @@
 
 其实,二维码可以帮我们做更多
 
-- 首先安装二維碼生成器 (Quick QR) 下载地址: https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp
+- 首先安装二維碼生成器 (Quick QR) , 下载地址: https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp
 > ![](https://upload-images.jianshu.io/upload_images/3203841-fc4588aa7aa579de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 将PC版的网页, 在手机端打开
@@ -23,14 +23,10 @@
 > 然后就可以把文字粘贴到, 手机的任意应用中了~
 
 ## 小结:
-- 问: 中国乞丐和外国乞丐的区别是什么? 答: 外国乞丐不会使用二维码, 
-- 咳~ 这里我要纠正一下(看图):
+- 问: 中国乞丐和外国乞丐的区别是什么? 答: 外国乞丐不会使用二维码~
+- 咳~ 这里要纠正一下(看图):
 > ![](https://upload-images.jianshu.io/upload_images/3203841-ac2c769753438599.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 二维码是属于全人类哒! (也是我dio哒!)
+- 二维码是属于全人类哒! (也)是我dio哒!
 
 ## 插件下载地址:
 https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp
-
----
-
-本文属于[Chrome插件英雄榜](https://www.jianshu.com/nb/27879124)文集的一部分, 为了集合更多的程序员和工具爱好者, 将**Chrome插件英雄榜**维护下去, 我已将**Chrome插件英雄榜** 文集的所有内容托管到Github, 项目地址https://github.com/zhaoolee/ChromeAppHeroes , 欢迎广大程序员和工具爱好者们为项目贡献力量, 也欢迎拥有Github账户的朋友们为本项目加星, 非常感谢!
