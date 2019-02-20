@@ -13,4 +13,5 @@
 * [010《speedtest》网络测速插件speedtest](010-speedtest300b-wang-luo-ce-su-cha-jian-speedtest.md)
 * [011《whatruns》一键分析网站技术栈](011whatruns300b-yi-jian-fen-xi-wang-zhan-ji-zhu-zhan.md)
 * [012《OurStickys》Chrome特色网页便签纸](012ourstickyschromete-se-wang-ye-bian-qian-zhi.md)
+* [013《Quick QR》用二维码实现云粘贴](013quick-qr300b-yong-er-wei-ma-shi-xian-yun-nian-tie.md)
 
