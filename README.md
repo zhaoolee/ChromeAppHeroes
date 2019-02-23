@@ -83,6 +83,8 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 
 > ![](/assets/ChromeAppHeroes_相关资源_at_master_·_zhaoolee_ChromeAppHeroes.png)
 
+---
+如果你追求更快更稳定更安全的科学上网, 可以自己搭一个科学上网服务, 这里有图文详尽的步骤:
 
 
 ---

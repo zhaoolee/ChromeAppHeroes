@@ -15,4 +15,6 @@
 * [012《OurStickys》Chrome特色网页便签纸](012ourstickyschromete-se-wang-ye-bian-qian-zhi.md)
 * [013《Quick QR》用二维码实现云粘贴](013quick-qr300b-yong-er-wei-ma-shi-xian-yun-nian-tie.md)
 * [014《超级马里奥游戏》Chrome变身小霸王](014300a-chao-ji-ma-li-ao-you-xi-300b-chrome-bian-shen-xiao-ba-wang.md)
+* [Chrome插件资源站点推荐\(未完成\)](101chromecha-jian-zi-yuan-zhan-dian-tui-jian.md)
+* [用Brook部署一个简单稳定傻瓜的科学上网工具](yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.md)
 
