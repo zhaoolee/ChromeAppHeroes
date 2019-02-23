@@ -79,7 +79,7 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 
 
 ## 小结:
-- setupvpn安装包可以从Github仓库https://github.com/zhaoolee/ChromeAppHeroes中的`相关资源`文件夹获取
+- setupvpn安装包可以从Github仓库[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 中的`相关资源`文件夹获取
 
 > ![](/assets/ChromeAppHeroes_相关资源_at_master_·_zhaoolee_ChromeAppHeroes.png)
 
