@@ -173,7 +173,7 @@ vimium可以让我们只使用键盘就可以浏览网页, 如果你第一次看
 
 
 
-#### 015 [《XPath Helper》完成Bing每日壁纸的小爬虫]()
+#### 015 [《XPath Helper》完成Bing每日壁纸的小爬虫](https://zhaoolee.gitbooks.io/chrome/content/015xpath-helper300bwan-cheng-bing-mei-ri-bi-zhi-de-xiao-pa-chong.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-f222421e9ac3fb59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
