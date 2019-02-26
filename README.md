@@ -173,10 +173,11 @@ vimium可以让我们只使用键盘就可以浏览网页, 如果你第一次看
 
 
 
+#### 015 [《XPath Helper》完成Bing每日壁纸的小爬虫]()
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-f222421e9ac3fb59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-
-
-
+XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我们完成一个Bing壁纸的小爬虫~
 
 
