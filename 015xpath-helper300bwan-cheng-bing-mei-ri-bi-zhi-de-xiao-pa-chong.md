@@ -6,6 +6,10 @@
 https://bing.ioliu.cn/
 
 ## 打开XPath Helper, 输入`/html/body/div[@class="page"]/span`, 获取页数信息
+
+```
+/html/body/div[@class="page"]/span
+```
 > ![](https://upload-images.jianshu.io/upload_images/3203841-f222421e9ac3fb59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 获取图片日期信息
