@@ -17,4 +17,5 @@
 * [014《超级马里奥游戏》Chrome变身小霸王](014300a-chao-ji-ma-li-ao-you-xi-300b-chrome-bian-shen-xiao-ba-wang.md)
 * [\(还没写完~\)Chrome插件资源站点推荐](101chromecha-jian-zi-yuan-zhan-dian-tui-jian.md)
 * [用Brook部署一个简单稳定傻瓜的科学上网工具](yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.md)
+* [015《XPath Helper》完成Bing每日壁纸的小爬虫](015xpath-helper300bwan-cheng-bing-mei-ri-bi-zhi-de-xiao-pa-chong.md)
 
