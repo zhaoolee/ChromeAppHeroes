@@ -18,4 +18,5 @@
 * [Chrome插件资源站点推荐](101chromecha-jian-zi-yuan-zhan-dian-tui-jian.md)
 * [用Brook部署一个简单稳定傻瓜的科学上网工具](yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.md)
 * [015《XPath Helper》完成Bing每日壁纸的小爬虫](015xpath-helper300bwan-cheng-bing-mei-ri-bi-zhi-de-xiao-pa-chong.md)
+* [016《解除B站区域限制》查看进击的巨人第三季](016300a-jie-chu-b-zhan-qu-yu-xian-zhi-300b-cha-kan-jin-ji-de-ju-ren-di-san-ji.md)
 
