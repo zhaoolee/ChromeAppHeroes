@@ -180,4 +180,12 @@ vimium可以让我们只使用键盘就可以浏览网页, 如果你第一次看
 
 XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我们完成一个Bing壁纸的小爬虫~
 
+#### [016《解除B站区域限制》查看进击的巨人第三季](https://zhaoolee.gitbooks.io/chrome/content/016300a-jie-chu-b-zhan-qu-yu-xian-zhi-300b-cha-kan-jin-ji-de-ju-ren-di-san-ji.html)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-baebff1c8de070c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-477422d7d93c6fb2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+解除B站区域限制,B站老司机必备技能
+
+
 
