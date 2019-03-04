@@ -184,8 +184,23 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-baebff1c8de070c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-477422d7d93c6fb2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> 解除B站区域限制,B站老司机必备技能
 
-解除B站区域限制,B站老司机必备技能
+#### [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-19bcf95d7cc235f4.gif?imageMogr2/auto-orient/strip)
+用Markdown写文章, 如果文章中使用了本地配图, 那本地配图就要和文章一起打包,否则别人是看不到图片的,如果把本地图片放到网络服务器, 然后直接把图片的url粘贴到文章里面, 就可以免除图片打包的步骤
+
+
+
+#### [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-acdeb710c40ad901.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-6dcd962a403b2937.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+我需要Github给我一根冰棍解暑,Github却坚持把装有冰棍的冰柜也送给我（哥们儿真够意思）... 有了Enhanced Github这款插件, 我们可以下载Github优秀项目中最核心的代码文件进行学习, 而不是 下载 整个仓库作为藏品
+
+
+
 
 
 
