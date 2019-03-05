@@ -10,6 +10,45 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 Chrome插件英雄榜Github地址: https://github.com/zhaoolee/ChromeAppHeroes  (欢迎加星~)
 在线阅读地址: https://zhaoolee.gitbooks.io/chrome/content/
 
+
+## 目录
+
+- [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
+
+- [002 《chrono》 让Chrome下载资源更容易](https://zhaoolee.gitbooks.io/chrome/content/002-chrono-rang-chrome-xia-zai-zi-yuan-geng-rong-yi.html)
+
+- [003《Secure Shell App》 Chrome中开启ssh一种什么体验](https://zhaoolee.gitbooks.io/chrome/content/003-secure-shell-app-chromezhong-kai-qi-ssh-yi-zhong-shi-yao-ti-yan.html)
+
+- [004《Tampermonkey》 油猴子! 给浏览器开个挂](https://zhaoolee.gitbooks.io/chrome/content/004-tampermonkey-you-hou-5b5021-gei-liu-lan-qi-kai-ge-gua.html)
+
+- [005《Video Speed Controller》 刷课（刷剧）神器！给网页视频加个速(最快可达16倍!)](https://zhaoolee.gitbooks.io/chrome/content/005-video-speed-controller-shua-ke-ff08-shua-ju-ff09-shen-qi-ff01-gei-wang-ye-shi-pin-jia-ge-901f28-zui-kuai-ke-da-16-500d2129.html)
+
+- [006《SimilarSites》 一键查找姊妹网站 SimilarSites](https://zhaoolee.gitbooks.io/chrome/content/006-similarsites-yi-jian-cha-zhao-zi-mei-wang-zhan-similarsites.html)
+
+- [007《loom》 Chrome翻录网页视频神器](https://zhaoolee.gitbooks.io/chrome/content/007-loom-chromefan-lu-wang-ye-shi-pin-shen-qi.html)
+
+- [008《Chrome Cleaner Pro》为Chrome加速](https://zhaoolee.gitbooks.io/chrome/content/008-chrome-cleaner-pro300b-wei-chrome-jia-su.html)
+
+- [009《vimium》Chrome与vim双神器融合](https://zhaoolee.gitbooks.io/chrome/content/009-vimiumchromeyu-vim-shuang-shen-qi-rong-he.html)
+
+- [010《speedtest》网络测速插件speedtest](https://zhaoolee.gitbooks.io/chrome/content/010-speedtest300b-wang-luo-ce-su-cha-jian-speedtest.html)
+
+- [011 《whatruns》一键分析网站技术栈](https://zhaoolee.gitbooks.io/chrome/content/011whatruns300b-yi-jian-fen-xi-wang-zhan-ji-zhu-zhan.html)
+
+- [012《OurStickys》Chrome特色网页便签纸](https://zhaoolee.gitbooks.io/chrome/content/012ourstickyschromete-se-wang-ye-bian-qian-zhi.html)
+
+- [013《Quick QR》用二维码实现云粘贴](https://zhaoolee.gitbooks.io/chrome/content/013quick-qr300b-yong-er-wei-ma-shi-xian-yun-nian-tie.html)
+
+- [014《超级马里奥游戏》Chrome变身小霸王](https://zhaoolee.gitbooks.io/chrome/content/014300a-chao-ji-ma-li-ao-you-xi-300b-chrome-bian-shen-xiao-ba-wang.html)
+
+-  [015 《XPath Helper》完成Bing每日壁纸的小爬虫](https://zhaoolee.gitbooks.io/chrome/content/015xpath-helper300bwan-cheng-bing-mei-ri-bi-zhi-de-xiao-pa-chong.html)
+
+- [016《解除B站区域限制》查看进击的巨人第三季](https://zhaoolee.gitbooks.io/chrome/content/016300a-jie-chu-b-zhan-qu-yu-xian-zhi-300b-cha-kan-jin-ji-de-ju-ren-di-san-ji.html)
+
+- [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)
+
+- [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html)
+
 ---
 
 ## 从官方商店下载Chrome插件的方法
@@ -90,7 +129,7 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 
 ---
 
-## 目前已完成14个小节
+## 目前已完成18个小节
 
 #### [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
@@ -174,7 +213,7 @@ vimium可以让我们只使用键盘就可以浏览网页, 如果你第一次看
 
 
 
-#### 015 [《XPath Helper》完成Bing每日壁纸的小爬虫](https://zhaoolee.gitbooks.io/chrome/content/015xpath-helper300bwan-cheng-bing-mei-ri-bi-zhi-de-xiao-pa-chong.html)
+#### [015《XPath Helper》完成Bing每日壁纸的小爬虫](https://zhaoolee.gitbooks.io/chrome/content/015xpath-helper300bwan-cheng-bing-mei-ri-bi-zhi-de-xiao-pa-chong.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-f222421e9ac3fb59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
