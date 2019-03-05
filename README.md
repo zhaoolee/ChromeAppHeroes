@@ -5,8 +5,7 @@ Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chro
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 ![](https://upload-images.jianshu.io/upload_images/3203841-b8c9c537a2dd4419.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-## 目录
-
+## 目录(2018年3月5日更新)
 
 - [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
@@ -44,14 +43,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html)
 
-
-
-![](/assets/Chrome插件英雄榜.002.jpeg)
+> 感谢 掘金沸点运营 @清蒸不是水煮 提出的添加目录的建议
 
 Chrome插件英雄榜Github地址: https://github.com/zhaoolee/ChromeAppHeroes  (欢迎加星~)
 在线阅读地址: https://zhaoolee.gitbooks.io/chrome/content/
-
-
 
 ---
 
