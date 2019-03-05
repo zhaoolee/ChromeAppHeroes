@@ -131,8 +131,8 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 ## 目前已完成18个小节
 
 #### [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-19849453d9e5c24f.gif?imageMogr2/auto-orient/strip)
 
->  ![](https://upload-images.jianshu.io/upload_images/3203841-b477e0479c6c7592.gif?imageMogr2/auto-orient/strip)
 > 有了markdown-here这个插件, 可以在网页版 QQ邮箱, Gmail, 新浪头条文章, 里面使用mardown格式进行书写,然后一键转换为富文本
 
 #### [002 《chrono》 让Chrome下载资源更容易](https://zhaoolee.gitbooks.io/chrome/content/002-chrono-rang-chrome-xia-zai-zi-yuan-geng-rong-yi.html)
