@@ -4,13 +4,6 @@ Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chro
 
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 
-
-![](/assets/Chrome插件英雄榜.002.jpeg)
-
-Chrome插件英雄榜Github地址: https://github.com/zhaoolee/ChromeAppHeroes  (欢迎加星~)
-在线阅读地址: https://zhaoolee.gitbooks.io/chrome/content/
-
-
 ## 目录
 
 - [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
@@ -48,6 +41,15 @@ Chrome插件英雄榜Github地址: https://github.com/zhaoolee/ChromeAppHeroes  
 - [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)
 
 - [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html)
+
+
+
+![](/assets/Chrome插件英雄榜.002.jpeg)
+
+Chrome插件英雄榜Github地址: https://github.com/zhaoolee/ChromeAppHeroes  (欢迎加星~)
+在线阅读地址: https://zhaoolee.gitbooks.io/chrome/content/
+
+
 
 ---
 
