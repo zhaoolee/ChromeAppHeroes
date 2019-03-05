@@ -43,8 +43,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html)
 
-> 感谢 掘金沸点运营 @清蒸不是水煮 提出的添加目录的建议
-
+(感谢 掘金沸点运营 @清蒸不是水煮 提出的添加目录的建议)
 Chrome插件英雄榜Github地址: https://github.com/zhaoolee/ChromeAppHeroes  (欢迎加星~)
 在线阅读地址: https://zhaoolee.gitbooks.io/chrome/content/
 
