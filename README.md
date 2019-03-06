@@ -43,6 +43,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html)
 
+- [019《MEGA》网盘可以良心到什么程度? 试试MEGA吧!](https://zhaoolee.gitbooks.io/chrome/content/019mega300b-wang-pan-ke-yi-liang-xin-dao-shi-yao-cheng-5ea63f-shi-shi-mega-542721.html)
+
 > 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
 
 Chrome插件英雄榜Github地址: https://github.com/zhaoolee/ChromeAppHeroes  (欢迎加星~)
@@ -238,8 +240,13 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 > ![](https://upload-images.jianshu.io/upload_images/3203841-6dcd962a403b2937.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 我需要Github给我一根冰棍解暑,Github却坚持把装有冰棍的冰柜也送给我（哥们儿真够意思）... 有了Enhanced Github这款插件, 我们可以下载Github优秀项目中最核心的代码文件进行学习, 而不是 下载 整个仓库作为藏品
 
+#### [019《MEGA》网盘可以良心到什么程度? 试试MEGA吧!](https://zhaoolee.gitbooks.io/chrome/content/019mega300b-wang-pan-ke-yi-liang-xin-dao-shi-yao-cheng-5ea63f-shi-shi-mega-542721.html)
 
-
+> ![](https://upload-images.jianshu.io/upload_images/3203841-3691895f59253171.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 没有限速的概念(真的被百度盘的限速策略恶心到了)
+- 在国内可用(google虽好, 但国内用不了, MEGAsync亲测国内可用)
+- 云端加密, 资源不会被封杀
+- 官方提供了Linux客户端
 
 
 
