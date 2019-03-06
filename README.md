@@ -5,7 +5,7 @@ Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chro
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 ![](https://upload-images.jianshu.io/upload_images/3203841-b8c9c537a2dd4419.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-## 目录(2019年3月5日更新)
+## 目录(2019年3月6日更新)
 
 - [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
