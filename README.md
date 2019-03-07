@@ -5,7 +5,7 @@ Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chro
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 ![](https://upload-images.jianshu.io/upload_images/3203841-b8c9c537a2dd4419.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-## 目录(2019年3月6日更新)
+## 目录(2019年3月7日更新)
 
 - [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 - [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html)
 
 - [019《MEGA》网盘可以良心到什么程度? 试试MEGA吧!](https://zhaoolee.gitbooks.io/chrome/content/019mega300b-wang-pan-ke-yi-liang-xin-dao-shi-yao-cheng-5ea63f-shi-shi-mega-542721.html)
+
+- [020《Boxel Rebound》“嗨到中毒”的弹跳小方块(附自制赛道分享方法)](https://zhaoolee.gitbooks.io/chrome/content/020boxel-rebound300b-201c-hai-dao-zhong-du-201d-de-dan-tiao-xiao-fang-575728-fu-zi-zhi-sai-dao-fen-xiang-fang-6cd529.html)
 
 > 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
 
@@ -247,6 +249,12 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 - 在国内可用(google虽好, 但国内用不了, MEGAsync亲测国内可用)
 - 云端加密, 资源不会被封杀
 - 官方提供了Linux客户端
+
+
+#### - [020《Boxel Rebound》“嗨到中毒”的弹跳小方块(附自制赛道分享方法)](https://zhaoolee.gitbooks.io/chrome/content/020boxel-rebound300b-201c-hai-dao-zhong-du-201d-de-dan-tiao-xiao-fang-575728-fu-zi-zhi-sai-dao-fen-xiang-fang-6cd529.html)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-36b22f7d02e13dcf.gif?imageMogr2/auto-orient/strip)
+> Boxel Rebound是一个偏极客的小游戏, 玩法简单, 可以自由创建赛道, 分享赛道, 获取别人的赛道进行二次开发; 无论你是Mac用户,Windows用户,Linux用户, 只要安装了Chrome浏览器, 就可以玩耍Boxel Rebound
 
 
 

@@ -38,15 +38,14 @@ Boxel Rebound是一款和Google浏览器**断网小恐龙**类似的弹跳小游
 > ![](https://upload-images.jianshu.io/upload_images/3203841-f7c94d41258b7c2a.gif?imageMogr2/auto-orient/strip)
 
 
-## 插件下载地址：
 
-https://chrome.google.com/webstore/detail/boxel-rebound/iginnfkhmmfhlkagcmpgofnjhanpmklb
 
 ## 小结：
 Boxel Rebound是一个偏极客的小游戏, 玩法简单, 可以自由创建赛道, 分享赛道, 获取别人的赛道进行二次开发; 无论你是Mac用户,Windows用户,Linux用户, 只要安装了Chrome浏览器, 就可以玩耍Boxel Rebound
 
 ---
 
+## 插件下载地址：
 
+https://chrome.google.com/webstore/detail/boxel-rebound/iginnfkhmmfhlkagcmpgofnjhanpmklb
 
-本文属于[Chrome插件英雄榜](https://www.jianshu.com/nb/27879124)文集的一部分, 为了集合更多的程序员和工具爱好者, 将**Chrome插件英雄榜**维护下去, 我已将**Chrome插件英雄榜** 文集的所有内容托管到Github, 项目地址[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) , 欢迎广大程序员和工具爱好者们为项目贡献力量, 也欢迎拥有Github账户的朋友们为本项目加星, 非常感谢!
