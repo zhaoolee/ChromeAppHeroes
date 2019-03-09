@@ -60,3 +60,11 @@ zh: https://www.zhihu.com/search?type=content&q=%s Zhihu
 
 ## 插件下载地址
 https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
+
+
+---
+
+## 写在最后(我需要你的支持)
+**Chrome插件英雄榜** Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+如果你喜欢这个项目, 希望你能为本项目填加一个 🌟星.
+If you like this project, I hope you can add a star 🌟 to this project.

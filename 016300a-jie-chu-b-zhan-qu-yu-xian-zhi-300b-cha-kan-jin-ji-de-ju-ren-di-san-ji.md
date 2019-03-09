@@ -26,3 +26,13 @@
 #### 油猴脚本下载地址:
 
 - https://greasyfork.org/zh-CN/scripts/25718-%E8%A7%A3%E9%99%A4b%E7%AB%99%E5%8C%BA%E5%9F%9F%E9%99%90%E5%88%B6
+
+
+
+
+---
+
+## 写在最后(我需要你的支持)
+**Chrome插件英雄榜** Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+如果你喜欢这个项目, 希望你能为本项目填加一个 🌟星.
+If you like this project, I hope you can add a star 🌟 to this project.

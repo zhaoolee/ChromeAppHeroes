@@ -114,3 +114,11 @@ pm2 delete start_brook
 
 ## 小结:
 Brook是一个蛮好用的工具, 不需要ss复杂的部署过程, 开箱即用, 配合pm2可以提供非常稳定的服务, 如果自己想搭建科学上网服务, 可以试试Brook!  
+
+
+---
+
+## 写在最后(我需要你的支持)
+**Chrome插件英雄榜** Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+如果你喜欢这个项目, 希望你能为本项目填加一个 🌟星.
+If you like this project, I hope you can add a star 🌟 to this project.
