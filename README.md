@@ -258,10 +258,18 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 > * 云端加密, 资源不会被封杀
 > * 官方提供了Linux客户端
 
-#### - [020《Boxel Rebound》“嗨到中毒”的弹跳小方块\(附自制赛道分享方法\)](https://zhaoolee.gitbooks.io/chrome/content/020boxel-rebound300b-201c-hai-dao-zhong-du-201d-de-dan-tiao-xiao-fang-575728-fu-zi-zhi-sai-dao-fen-xiang-fang-6cd529.html)
+#### [020《Boxel Rebound》“嗨到中毒”的弹跳小方块\(附自制赛道分享方法\)](https://zhaoolee.gitbooks.io/chrome/content/020boxel-rebound300b-201c-hai-dao-zhong-du-201d-de-dan-tiao-xiao-fang-575728-fu-zi-zhi-sai-dao-fen-xiang-fang-6cd529.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-36b22f7d02e13dcf.gif?imageMogr2/auto-orient/strip)  
 > Boxel Rebound是一个偏极客的小游戏, 玩法简单, 可以自由创建赛道, 分享赛道, 获取别人的赛道进行二次开发; 无论你是Mac用户,Windows用户,Linux用户, 只要安装了Chrome浏览器, 就可以玩耍Boxel Rebound
+
+#### [021《哔哩哔哩助手》助你快速成为B站老司机](https://zhaoolee.gitbooks.io/chrome/content/021300a-bi-li-bi-li-zhu-shou-300b-zhu-ni-kuai-su-cheng-wei-b-zhan-lao-si-ji.html)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-ce2576b2c1071540.gif?imageMogr2/auto-orient/strip)
+
+> 哔哩哔哩助手, 功能实用,开发者也一直保持着较高频率的更新,可以放心食用~
+
+
 
 
 
