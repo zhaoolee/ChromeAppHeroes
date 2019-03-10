@@ -5,7 +5,7 @@
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~  
 ![](https://upload-images.jianshu.io/upload_images/3203841-b8c9c537a2dd4419.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
-## 目录\(2019年3月7日更新\)
+## 目录\(2019年3月10日更新\)
 
 * [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
@@ -46,6 +46,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 * [019《MEGA》网盘可以良心到什么程度? 试试MEGA吧!](https://zhaoolee.gitbooks.io/chrome/content/019mega300b-wang-pan-ke-yi-liang-xin-dao-shi-yao-cheng-5ea63f-shi-shi-mega-542721.html)
 
 * [020《Boxel Rebound》“嗨到中毒”的弹跳小方块\(附自制赛道分享方法\)](https://zhaoolee.gitbooks.io/chrome/content/020boxel-rebound300b-201c-hai-dao-zhong-du-201d-de-dan-tiao-xiao-fang-575728-fu-zi-zhi-sai-dao-fen-xiang-fang-6cd529.html)
+
+* [021《哔哩哔哩助手》助你快速成为B站老司机](https://zhaoolee.gitbooks.io/chrome/content/021300a-bi-li-bi-li-zhu-shou-300b-zhu-ni-kuai-su-cheng-wei-b-zhan-lao-si-ji.html)
+
+
 
 > 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
 
