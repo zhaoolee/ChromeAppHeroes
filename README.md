@@ -52,7 +52,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 > 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
-> 感谢[简书](https://www.jianshu.com/)社区提供超棒的markdown编辑器
+> 感谢[简书](https://www.jianshu.com/)社区提供超棒的Markdown编辑器
 
 > **Chrome插件英雄榜** 目录页面: [https://zhaoolee.gitbooks.io/chrome/content/](https://zhaoolee.gitbooks.io/chrome/content/)
 
