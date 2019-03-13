@@ -51,6 +51,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
+
 > - 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
 > - 感谢[简书](https://www.jianshu.com/)社区提供超棒的Markdown编辑器,**Chrome插件英雄榜**的编辑工作,几乎全部由通过简书编辑器完成
 
@@ -274,6 +275,12 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 
 > 哔哩哔哩助手, 功能实用,开发者也一直保持着较高频率的更新,可以放心食用~
 
+
+
+#### [022《扩展管理器》管理你的Chrome扩展](https://zhaoolee.gitbooks.io/chrome/content/022300a-kuo-zhan-guan-li-qi-300b-guan-li-ni-de-chrome-kuo-zhan.html)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-88ccd460af7c3710.gif?imageMogr2/auto-orient/strip
+> 如果Chrome安装的插件很多, 我们可以对插件进行分组, 按照场景,启用不同组的插件
 
 
 
