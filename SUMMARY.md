@@ -26,4 +26,5 @@
 * [021《哔哩哔哩助手》助你快速成为B站老司机](021300a-bi-li-bi-li-zhu-shou-300b-zhu-ni-kuai-su-cheng-wei-b-zhan-lao-si-ji.md)
 * [对本项目有好的建议可以推到这个文件.md](dui-ben-xiang-mu-you-hao-de-jian-yi-ke-yi-tui-dao-zhe-ge-wen-4ef6-md.md)
 * 求一个好看的项目Logo.md
+* [022《扩展管理器》 管理你的Chrome扩展](022300a-kuo-zhan-guan-li-qi-300b-guan-li-ni-de-chrome-kuo-zhan.md)
 
