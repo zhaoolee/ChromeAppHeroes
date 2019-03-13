@@ -280,7 +280,7 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 
 #### [022《扩展管理器》管理你的Chrome扩展](https://zhaoolee.gitbooks.io/chrome/content/022300a-kuo-zhan-guan-li-qi-300b-guan-li-ni-de-chrome-kuo-zhan.html)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-88ccd460af7c3710.gif?imageMogr2/auto-orient/strip
+> ![](https://upload-images.jianshu.io/upload_images/3203841-88ccd460af7c3710.gif?imageMogr2/auto-orient/strip)
 > 如果Chrome安装的插件很多, 我们可以对插件进行分组, 按照场景,启用不同组的插件
 
 
