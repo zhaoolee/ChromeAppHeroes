@@ -62,9 +62,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 ## 他人眼中的 Chrome插件英雄榜(商业互吹模块)
-- [这份“插件英雄榜Top20”才是Chrome的正确打开方式！](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/88386634) 作者: [AI科技大本营](https://me.csdn.net/dQCFKyQDXYm3F8rB0)
-- [Chrome 插件英雄榜](https://zhuanlan.zhihu.com/p/58636515) 作者: [非著名程序员](https://www.zhihu.com/people/loonggg/activities)
-- [開源日報第363期](https://openingsource.org/6190/zh-tw/)  作者: [开源工厂](https://openingsource.org/)
+- [《这份“插件英雄榜Top20”才是Chrome的正确打开方式！》](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/88386634) 作者: [AI科技大本营](https://me.csdn.net/dQCFKyQDXYm3F8rB0)
+- [《Chrome 插件英雄榜》](https://zhuanlan.zhihu.com/p/58636515) 作者: [非著名程序员](https://www.zhihu.com/people/loonggg/activities)
+- [《開源日報第363期》](https://openingsource.org/6190/zh-tw/)  作者: [开源工厂](https://openingsource.org/)
 
 ---
 
@@ -162,7 +162,7 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 
 ---
 
-## 目前已完成20个小节
+## 目前已完成22个小节
 
 #### [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
