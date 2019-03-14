@@ -60,9 +60,21 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ---
 
+
+## 他人眼中的 Chrome插件英雄榜(商业互吹模块)
+- [这份“插件英雄榜Top20”才是Chrome的正确打开方式！](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/88386634) 作者: [AI科技大本营](https://me.csdn.net/dQCFKyQDXYm3F8rB0)
+- [Chrome 插件英雄榜](https://zhuanlan.zhihu.com/p/58636515) 作者: [非著名程序员](https://www.zhihu.com/people/loonggg/activities)
+- [開源日報第363期](https://openingsource.org/6190/zh-tw/)  作者: [开源工厂](https://openingsource.org/)
+
+---
+
+
+
 **Chrome插件英雄榜** Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)  
 我需要你的支持, 希望你能为本项目填加一个 🌟星.  
 I need your support, I hope you can add a star 🌟 to this project.
+
+
 
 ---
 
