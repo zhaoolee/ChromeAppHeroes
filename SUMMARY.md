@@ -27,4 +27,5 @@
 * [对本项目有好的建议可以推到这个文件.md](dui-ben-xiang-mu-you-hao-de-jian-yi-ke-yi-tui-dao-zhe-ge-wen-4ef6-md.md)
 * 求一个好看的项目Logo.md
 * [022《扩展管理器》 管理你的Chrome扩展](022300a-kuo-zhan-guan-li-qi-300b-guan-li-ni-de-chrome-kuo-zhan.md)
+* [023《FireShot》一键滚动截屏整个网页](023fireshot300b-yi-jian-gun-dong-jie-ping-zheng-ge-wang-ye.md)
 
