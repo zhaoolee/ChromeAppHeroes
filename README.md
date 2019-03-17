@@ -53,6 +53,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 * [023《FireShot》一键滚动截屏整个网页](https://zhaoolee.gitbooks.io/chrome/content/023fireshot300b-yi-jian-gun-dong-jie-ping-zheng-ge-wang-ye.html)
 
+- [024《Dark Reader》为任意网站启用夜间模式](https://zhaoolee.gitbooks.io/chrome/content/024dark-reader300b-wei-ren-yi-wang-zhan-qi-yong-ye-jian-mo-shi.html)
+
 
 > - 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
 > - 感谢[简书](https://www.jianshu.com/)社区提供超棒的Markdown编辑器,**Chrome插件英雄榜**的编辑工作,几乎全部由通过简书编辑器完成
@@ -297,11 +299,21 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 > 如果Chrome安装的插件很多, 我们可以对插件进行分组, 按照场景,启用不同组的插件
 
 
-####### [023《FireShot》一键滚动截屏整个网页](https://zhaoolee.gitbooks.io/chrome/content/023fireshot300b-yi-jian-gun-dong-jie-ping-zheng-ge-wang-ye.html)
+##### [023《FireShot》一键滚动截屏整个网页](https://zhaoolee.gitbooks.io/chrome/content/023fireshot300b-yi-jian-gun-dong-jie-ping-zheng-ge-wang-ye.html)
 
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-ed0e7dd117790d86.gif?imageMogr2/auto-orient/strip)
 > 总体来讲, FireShot是一款不错的软件, 免费且功能够用, 滚动截图的功能比同类软件做的都要好
+
+#### [024《Dark Reader》为任意网站启用夜间模式](https://zhaoolee.gitbooks.io/chrome/content/024dark-reader300b-wei-ren-yi-wang-zhan-qi-yong-ye-jian-mo-shi.html)
+
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-aa2901c3c75c9e84.gif?imageMogr2/auto-orient/strip)
+
+> 喜欢夜间模式的小伙伴, Dark Reader应该可以满足你了~
+
+
+
 
 
 
