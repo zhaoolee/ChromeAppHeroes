@@ -32,6 +32,9 @@ FireShot可以将截图保存到本地, 也可以直接复制到剪贴板,甚至
 
 总体来讲, FireShot是一款不错的软件, 免费且功能够用, 滚动截图的功能比同类软件做的都要好
 
+## 插件下载地址
+
+https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg
 
 ---
 
