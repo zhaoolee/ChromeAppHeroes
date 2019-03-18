@@ -1,7 +1,8 @@
 {
-"pluginsConfig": {
-"disqus": {
-"shortName": "zhaoolee"            
-}
-}
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "zhaoolee"
+        }
+    }  
 }
