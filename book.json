@@ -1,8 +1,36 @@
 {
-    "plugins": ["disqus"],
+    "plugins": ["disqus", "github", "github-buttons", "-sharing"],
     "pluginsConfig": {
+    "-sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": true,
+            "instapaper": true,
+            "vk": true,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+        ]},
         "disqus": {
             "shortName": "zhaoolee"
-        }
+        },
+        "github": {
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes"
+        },
+        "github-buttons": {
+      "buttons": [{
+        "user": "zhaoolee",
+        "repo": "ChromeAppHeroes",
+        "type": "star",
+        "size": "large",
+        "count": true
+      }, {
+        "user": "zhaoolee",
+        "type": "follow",
+        "width": "230",
+        "count": true
+      }]
+    }
     }  
 }
