@@ -7,6 +7,29 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录\(2019年3月17日更新\)
 
+- [024《Dark Reader》为任意网站启用夜间模式](https://zhaoolee.gitbooks.io/chrome/content/024dark-reader300b-wei-ren-yi-wang-zhan-qi-yong-ye-jian-mo-shi.html)
+
+
+* [023《FireShot》一键滚动截屏整个网页](https://zhaoolee.gitbooks.io/chrome/content/023fireshot300b-yi-jian-gun-dong-jie-ping-zheng-ge-wang-ye.html)
+
+
+* [022《扩展管理器》管理你的Chrome扩展](https://zhaoolee.gitbooks.io/chrome/content/022300a-kuo-zhan-guan-li-qi-300b-guan-li-ni-de-chrome-kuo-zhan.html)
+
+
+
+* [021《哔哩哔哩助手》助你快速成为B站老司机](https://zhaoolee.gitbooks.io/chrome/content/021300a-bi-li-bi-li-zhu-shou-300b-zhu-ni-kuai-su-cheng-wei-b-zhan-lao-si-ji.html)
+
+
+* [020《Boxel Rebound》“嗨到中毒”的弹跳小方块\(附自制赛道分享方法\)](https://zhaoolee.gitbooks.io/chrome/content/020boxel-rebound300b-201c-hai-dao-zhong-du-201d-de-dan-tiao-xiao-fang-575728-fu-zi-zhi-sai-dao-fen-xiang-fang-6cd529.html)
+
+
+
+
+
+
+
+
+
 * [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
 * [002 《chrono》 让Chrome下载资源更容易](https://zhaoolee.gitbooks.io/chrome/content/002-chrono-rang-chrome-xia-zai-zi-yuan-geng-rong-yi.html)
@@ -53,7 +76,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 * [023《FireShot》一键滚动截屏整个网页](https://zhaoolee.gitbooks.io/chrome/content/023fireshot300b-yi-jian-gun-dong-jie-ping-zheng-ge-wang-ye.html)
 
-- [024《Dark Reader》为任意网站启用夜间模式](https://zhaoolee.gitbooks.io/chrome/content/024dark-reader300b-wei-ren-yi-wang-zhan-qi-yong-ye-jian-mo-shi.html)
+
 
 
 > - 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
@@ -261,6 +284,15 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 > 解除B站区域限制,B站老司机必备技能
 
 #### [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)
+
+[017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)
+
+[017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)
+
+* [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)* [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)* [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)* [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)
+
+
+
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-19bcf95d7cc235f4.gif?imageMogr2/auto-orient/strip)  
 > 用Markdown写文章, 如果文章中使用了本地配图, 那本地配图就要和文章一起打包,否则别人是看不到图片的,如果把本地图片放到网络服务器, 然后直接把图片的url粘贴到文章里面, 就可以免除图片打包的步骤
