@@ -14,7 +14,8 @@
                 "-sharing", "sharing-plus",
                 "-lunr", "-search", "search-plus",
                 "splitter",
-                "tbfed-pagefooter"
+                "tbfed-pagefooter",
+                "donate"
                 ],
     "pluginsConfig": {
         "sharing": {
@@ -69,6 +70,12 @@
             "copyright":"Copyright zhaoolee@gmail.com",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "donate": {
+            "wechat": "https://upload-images.jianshu.io/upload_images/3203841-4d1397a44db7e4de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
+            "title": "",
+            "button": "赏",
+            "wechatText": "微信打赏"
         }
     }
 }
