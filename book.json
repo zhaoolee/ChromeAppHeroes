@@ -38,34 +38,34 @@
             "all": [
                 "weibo","qq","qzone","google","douban"
             ]
-    },
-    "disqus": {
-        "shortName": "zhaoolee"
-    },
-    "github": {
-        "url": "https://github.com/zhaoolee/starsandclown"
-    },
-    "3-ba": {
-        "token": "cffaa20fbe78d2ecb224270689e2da51"
-    },
-    "github-buttons": {
-        "buttons": [{
-        "user": "zhaoolee",
-        "repo": "ChromeAppHeroes",
-        "type": "star",
-        "size": "large",
-        "count": true
+        },
+        "disqus": {
+            "shortName": "zhaoolee"
+        },
+        "github": {
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes"
+        },
+        "3-ba": {
+            "token": "cffaa20fbe78d2ecb224270689e2da51"
+        },
+        "github-buttons": {
+            "buttons": [{
+            "user": "zhaoolee",
+            "repo": "ChromeAppHeroes",
+            "type": "star",
+            "size": "large",
+            "count": true
         }, {
-        "user": "zhaoolee",
+            "user": "zhaoolee",
             "type": "follow",
-        "width": "230",
-        "count": true
-        }]
-    },
-    "tbfed-pagefooter": {
-        "copyright":"Copyright zhaoolee@gmail.com",
-        "modify_label": "该文件修订时间：",
-        "modify_format": "YYYY-MM-DD HH:mm:ss"
+            "width": "230",
+            "count": true
+            }]
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright zhaoolee@gmail.com",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
     }
-}
 }
