@@ -9,6 +9,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [024《Dark Reader》为任意网站启用夜间模式](https://zhaoolee.gitbooks.io/chrome/content/024dark-reader300b-wei-ren-yi-wang-zhan-qi-yong-ye-jian-mo-shi.html)
 
+
 * [023《FireShot》一键滚动截屏整个网页](https://zhaoolee.gitbooks.io/chrome/content/023fireshot300b-yi-jian-gun-dong-jie-ping-zheng-ge-wang-ye.html)
 
 * [022《扩展管理器》管理你的Chrome扩展](https://zhaoolee.gitbooks.io/chrome/content/022300a-kuo-zhan-guan-li-qi-300b-guan-li-ni-de-chrome-kuo-zhan.html)
