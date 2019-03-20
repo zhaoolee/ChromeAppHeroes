@@ -1,7 +1,7 @@
 {
-    "plugins": ["disqus", "github", "github-buttons", "-sharing"],
+    "plugins": ["disqus", "github", "github-buttons", "sharing"],
     "pluginsConfig": {
-    "-sharing": {
+    "sharing": {
             "facebook": true,
             "twitter": true,
             "google": true,
