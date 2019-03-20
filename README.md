@@ -59,25 +59,6 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
-* [003《Secure Shell App》 Chrome中开启ssh一种什么体验](https://zhaoolee.gitbooks.io/chrome/content/003-secure-shell-app-chromezhong-kai-qi-ssh-yi-zhong-shi-yao-ti-yan.html)
-
-
-
-
-
-
-
-* [007《loom》 Chrome翻录网页视频神器](https://zhaoolee.gitbooks.io/chrome/content/007-loom-chromefan-lu-wang-ye-shi-pin-shen-qi.
-
-* [010《speedtest》网络测速插件speedtest](https://zhaoolee.gitbooks.io/chrome/content/010-speedtest300b-wang-luo-ce-su-cha-jian-speedtest.
-
-* [012《OurStickys》Chrome特色网页便签纸](https://zhaoolee.gitbooks.io/chrome/content/012ourstickyschromete-se-wang-ye-bian-qian-zhi.html)
-
-* [013《Quick QR》用二维码实现云粘贴](https://zhaoolee.gitbooks.io/chrome/content/013quick-qr300b-yong-er-wei-ma-shi-xian-yun-nian-tie.html)
-
-* [014《超级马里奥游戏》Chrome变身小霸王](https://zhaoolee.gitbooks.io/chrome/content/014300a-chao-ji-ma-li-ao-you-xi-300b-chrome-bian-shen-xiao-ba-wang.htm
-
-* [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.
 > - 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
 > - 感谢[简书](https://www.jianshu.com/)社区提供超棒的Markdown编辑器,**Chrome插件英雄榜**的编辑工作,几乎全部由通过简书编辑器完成
 
