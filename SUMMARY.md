@@ -29,5 +29,5 @@
 * [022《扩展管理器》 管理你的Chrome扩展](022300a-kuo-zhan-guan-li-qi-300b-guan-li-ni-de-chrome-kuo-zhan.md)
 * [023《FireShot》一键滚动截屏整个网页](023fireshot300b-yi-jian-gun-dong-jie-ping-zheng-ge-wang-ye.md)
 * [024《Dark Reader》为任意网站启用夜间模式](024dark-reader300b-wei-ren-yi-wang-zhan-qi-yong-ye-jian-mo-shi.md)
-* zh-hans/styles/website.css
+
 
