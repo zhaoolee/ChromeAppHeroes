@@ -9,7 +9,7 @@
     "plugins": ["disqus",
                 "github",
                 "3-ba",
-
+                "ga",
                 "github-buttons",
                 "-sharing", "sharing-plus",
                 "-lunr", "-search", "search-plus",
@@ -47,6 +47,9 @@
         },
         "3-ba": {
             "token": "cffaa20fbe78d2ecb224270689e2da51"
+        },
+        "ga": {
+            "token": "UA-136591510-1"
         },
         "github-buttons": {
             "buttons": [{
