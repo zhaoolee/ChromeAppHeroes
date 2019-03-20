@@ -320,6 +320,9 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 
 
 
+## 025《Console》Chrome自带的好用计算器
+> ![](https://upload-images.jianshu.io/upload_images/3203841-54462ab1368dd544.gif?imageMogr2/auto-orient/strip)
+
 
 
 
