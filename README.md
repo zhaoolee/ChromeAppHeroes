@@ -5,7 +5,7 @@
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~  
 ![](https://upload-images.jianshu.io/upload_images/3203841-b8c9c537a2dd4419.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
-## 目录\(2019年3月20日更新\)
+## 目录\(2019年3月21日更新\)
 
 -  [025《Console》Chrome自带好用的计算器](https://zhaoolee.gitbooks.io/chrome/content/025-consolechromezi-dai-de-hao-yong-ji-suan-qi.html)
 
@@ -171,7 +171,7 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 
 ---
 
-## 目前已完成22个小节
+## 目前已完成25个小节
 
 #### [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
