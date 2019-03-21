@@ -93,6 +93,11 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 
 > Emm, 如果你不知道去哪里下载Chrome... 我可以悄悄告诉你, 从 [https://tools.shuax.com/chrome/\#/](https://tools.shuax.com/chrome/#/) 可以下载到各个平台的绿色版Chrome,解压即用~  
 > ![](https://upload-images.jianshu.io/upload_images/3203841-29d4c8d00a9516a3.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)  
+
+---
+- 如果你不喜欢绿色版Chrome,可以访问这个地址 [https://www.google.cn/chrome](https://www.google.cn/chrome), 获取官方提供的安装包 (感谢Github用户[@lb091188](https://github.com/lb091188)给出的建议)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-c8c76dad72e7018c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 > [https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions)  
 > ![](https://upload-images.jianshu.io/upload_images/3203841-ce4656432b9430c3.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
