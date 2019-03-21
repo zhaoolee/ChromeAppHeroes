@@ -7,6 +7,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录\(2019年3月20日更新\)
 
+-  [025《Console》Chrome自带好用的计算器](https://zhaoolee.gitbooks.io/chrome/content/025-consolechromezi-dai-de-hao-yong-ji-suan-qi.html)
+
 - [024《Dark Reader》为任意网站启用夜间模式](https://zhaoolee.gitbooks.io/chrome/content/024dark-reader300b-wei-ren-yi-wang-zhan-qi-yong-ye-jian-mo-shi.html)
 
 
@@ -323,7 +325,7 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 #### [025《Console》Chrome自带好用的计算器](https://zhaoolee.gitbooks.io/chrome/content/025-consolechromezi-dai-de-hao-yong-ji-suan-qi.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-54462ab1368dd544.gif?imageMogr2/auto-orient/strip)
 
->Chrome计算机的好用之处: 既可以看到加数字的记录,也可以实时预览运算的结果, 输入完成后还可以很方便的核查一遍, 还有一点: Chrome计算器观赏性强(逼格很高) C 
+>Chrome计算机的好用之处: 既可以看到加数字的记录,也可以实时预览运算的结果, 输入完成后还可以很方便的核查一遍, 还有一点: Chrome计算器观赏性强(逼格很高) 
 
 
 
