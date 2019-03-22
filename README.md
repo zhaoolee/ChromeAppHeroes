@@ -66,7 +66,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 > - 感谢[简书](https://www.jianshu.com/)社区提供超棒的Markdown编辑器,**Chrome插件英雄榜**的编辑工作,几乎全部由通过简书编辑器完成
 
 > **Chrome插件英雄榜** 目录页面: [https://zhaoolee.gitbooks.io/chrome/content/](https://zhaoolee.gitbooks.io/chrome/content/)
-
+> **推荐**: Chrome插件英雄榜 姊妹篇**Github星聚弃疗榜**已开始筹划, 欢迎参与:[https://github.com/zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown)
 ---
 
 
