@@ -7,6 +7,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录\(2019年3月21日更新\)
 
+- [026《Quickey Launcher》打开网站只需一键](https://zhaoolee.gitbooks.io/chrome/content/026-quickey-launcher300b-da-kai-wang-zhan-zhi-xu-yi-jian.html)
+
 -  [025《Console》Chrome自带好用的计算器](https://zhaoolee.gitbooks.io/chrome/content/025-consolechromezi-dai-de-hao-yong-ji-suan-qi.html)
 
 - [024《Dark Reader》为任意网站启用夜间模式](https://zhaoolee.gitbooks.io/chrome/content/024dark-reader300b-wei-ren-yi-wang-zhan-qi-yong-ye-jian-mo-shi.html)
@@ -332,6 +334,10 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 
 >Chrome计算机的好用之处: 既可以看到加数字的记录,也可以实时预览运算的结果, 输入完成后还可以很方便的核查一遍, 还有一点: Chrome计算器观赏性强(逼格很高) 
 
+#### [026《Quickey Launcher》打开网站只需一键](https://zhaoolee.gitbooks.io/chrome/content/026-quickey-launcher300b-da-kai-wang-zhan-zhi-xu-yi-jian.html)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-723f52e93f9e9695.gif?imageMogr2/auto-orient/strip)
+> Quickey Launcher以优雅的方式, 为任意网页绑定一个快捷键, 绑定完成后, 即可通过快捷键,打开网页
 
 
 ---
