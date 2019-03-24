@@ -30,4 +30,5 @@
 * [023《FireShot》一键滚动截屏整个网页](023fireshot300b-yi-jian-gun-dong-jie-ping-zheng-ge-wang-ye.md)
 * [024《Dark Reader》为任意网站启用夜间模式](024dark-reader300b-wei-ren-yi-wang-zhan-qi-yong-ye-jian-mo-shi.md)
 * [025《Console》Chrome自带好用的计算器](025-consolechromezi-dai-de-hao-yong-ji-suan-qi.md)
+* [026《Quickey Launcher》打开网站只需一键](026-quickey-launcher300b-da-kai-wang-zhan-zhi-xu-yi-jian.md)
 
