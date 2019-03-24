@@ -336,7 +336,8 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 
 ---
 ## 咦? 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-428592cda14613cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-b26e3b2967ebab82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
