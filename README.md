@@ -5,7 +5,9 @@
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~  
 ![](https://upload-images.jianshu.io/upload_images/3203841-b8c9c537a2dd4419.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
-## 目录\(2019年3月21日更新\)
+## 目录\(2019年3月29日更新\)
+
+- [027《Text》来自Chrome实验室的跨平台记事本](https://zhaoolee.gitbooks.io/chrome/content/027text300b-lai-zi-chrome-shi-yan-shi-de-kua-ping-tai-ji-shi-ben.html)
 
 - [026《Quickey Launcher》打开网站只需一键](https://zhaoolee.gitbooks.io/chrome/content/026-quickey-launcher300b-da-kai-wang-zhan-zhi-xu-yi-jian.html)
 
