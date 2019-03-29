@@ -341,6 +341,12 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 > ![](https://upload-images.jianshu.io/upload_images/3203841-723f52e93f9e9695.gif?imageMogr2/auto-orient/strip)
 > Quickey Launcher以优雅的方式, 为任意网页绑定一个快捷键, 绑定完成后, 即可通过快捷键,打开网页
 
+#### [027《Text》来自Chrome实验室的跨平台记事本](https://zhaoolee.gitbooks.io/chrome/content/027text300b-lai-zi-chrome-shi-yan-shi-de-kua-ping-tai-ji-shi-ben.html)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-12a1c559efca1020.gif?imageMogr2/auto-orient/strip)
+
+> Text由谷歌Chrome实验室研发并开源, 开源地址https://github.com/GoogleChromeLabs/text-app , Text属于小而美的产品, 功能不算强大, 但是够用, 而且借助Chrome完成了跨平台(在Linux也可以使用哦~)
+
 
 ---
 ## 咦?(微信打赏) 
