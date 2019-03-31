@@ -7,6 +7,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录\(2019年3月29日更新\)
 
+- [028《AdBlock》Adblock屏蔽简书广告](https://zhaoolee.gitbooks.io/chrome/content/028adblockadblockping-bi-jian-shu-guang-gao.html)
+
 - [027《Text》来自Chrome实验室的跨平台记事本](https://zhaoolee.gitbooks.io/chrome/content/027text300b-lai-zi-chrome-shi-yan-shi-de-kua-ping-tai-ji-shi-ben.html)
 
 - [026《Quickey Launcher》打开网站只需一键](https://zhaoolee.gitbooks.io/chrome/content/026-quickey-launcher300b-da-kai-wang-zhan-zhi-xu-yi-jian.html)
@@ -347,6 +349,10 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 
 > Text由谷歌Chrome实验室研发并开源, 开源地址https://github.com/GoogleChromeLabs/text-app , Text属于小而美的产品, 功能不算强大, 但是够用, 而且借助Chrome完成了跨平台(在Linux也可以使用哦~)
 
+#### [028《AdBlock》Adblock屏蔽简书广告](https://zhaoolee.gitbooks.io/chrome/content/028adblockadblockping-bi-jian-shu-guang-gao.html)
+
+> ![屏蔽简书广告](https://upload-images.jianshu.io/upload_images/3203841-7109d71fac8e25d5.gif?imageMogr2/auto-orient/strip)
+> Adblock的功能非常丰富, 但很多功能基本用不到, 普通用户只需要开启Adblock, 会使用右键屏蔽不喜欢的广告, 也就够用了~
 
 ---
 ## 咦?(微信打赏) 
