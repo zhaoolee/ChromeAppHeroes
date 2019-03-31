@@ -352,7 +352,7 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 #### [028《AdBlock》Adblock屏蔽简书广告](https://zhaoolee.gitbooks.io/chrome/content/028adblockadblockping-bi-jian-shu-guang-gao.html)
 
 > ![屏蔽简书广告](https://upload-images.jianshu.io/upload_images/3203841-7109d71fac8e25d5.gif?imageMogr2/auto-orient/strip)
-> Adblock的功能非常丰富, 但很多功能基本用不到, 普通用户只需要开启Adblock, 会使用右键屏蔽不喜欢的广告, 也就够用了~
+> Adblock的功能非常丰富, 但很多功能基本用不到, 普通用户只需要开启Adblock, 能使用右键屏蔽不喜欢的广告, 也就够用了~
 
 ---
 ## 咦?(微信打赏) 
