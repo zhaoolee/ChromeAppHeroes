@@ -5,7 +5,7 @@
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~  
 ![](https://upload-images.jianshu.io/upload_images/3203841-b8c9c537a2dd4419.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
-## 目录\(2019年3月29日更新\)
+## 目录\(2019年3月31日更新\)
 
 - [028《AdBlock》Adblock屏蔽简书广告](https://zhaoolee.gitbooks.io/chrome/content/028adblockadblockping-bi-jian-shu-guang-gao.html)
 
