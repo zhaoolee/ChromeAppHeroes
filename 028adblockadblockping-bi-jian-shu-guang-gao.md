@@ -41,7 +41,7 @@ Adblock可以拦截网页上的广告, 被誉为最受欢迎的 Chrome 扩展
 
 ## 小结:
 
-Adblock的功能非常丰富, 但很多功能基本用不到, 普通用户只需要开启Adblock, 会使用右键屏蔽不喜欢的广告, 也就够用了~
+Adblock的功能非常丰富, 但很多功能基本用不到, 普通用户只需要开启Adblock, 能使用右键工具屏蔽不喜欢的广告, 也就够用了~
 
 ## 插件下载地址:
 [https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom)
