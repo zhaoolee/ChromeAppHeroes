@@ -1,0 +1,8 @@
+{
+    "sites"  : [{
+        "name"    : "readnovel.com",
+        "url"     : "https://www.readnovel.com/book/10307488503406403",
+        "include" : "<div class='book-information cf'>"
+    }
+  ]
+}
