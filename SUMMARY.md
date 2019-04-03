@@ -33,4 +33,5 @@
 * [026《Quickey Launcher》打开网站只需一键](026-quickey-launcher300b-da-kai-wang-zhan-zhi-xu-yi-jian.md)
 * [027《Text》来自Chrome实验室的跨平台记事本](027text300b-lai-zi-chrome-shi-yan-shi-de-kua-ping-tai-ji-shi-ben.md)
 * [028《AdBlock》Adblock屏蔽简书广告](028adblockadblockping-bi-jian-shu-guang-gao.md)
+* [029 《SimRead》为任意网页开启阅读模式](029-simread300b-wei-ren-yi-wang-ye-kai-qi-yue-du-mo-shi.md)
 
