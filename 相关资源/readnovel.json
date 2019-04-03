@@ -1,0 +1,32 @@
+{
+  "sites"  : [{
+      "name"    : "cnbeta.com",
+      "url"     : "http://*.cnbeta.com/articles/*/*.htm",
+      "title"   : "[[{$('header.title h1').text()}]]",
+      "desc"    : "[[{$('.article-summary').text()}]]",
+      "include" : "<div class='article-content'>",
+      "exclude" : [
+          "<div class='clearfix'>",
+          "<div class='rating_box'>",
+          "[['<strong>[广告]活动入口:</strong>']]"
+      ]
+  },{
+      "name"    : "tieba.baidu.com",
+      "url"     : "https://tieba.baidu.com/p/",
+      "avatar"  : [
+          {"name" : "[[{$('.p_author_name')}]]"},
+          {"url"  : "[[{$('.p_author_face').find('img')}]]"}
+      ],
+      "paging"  : [
+          {"prev" : "[[{$('.pb_list_pager').find('.tP').prev().attr('href')}]]"},
+          {"next" : "[[{$('.pb_list_pager').find('.tP').next().attr('href')}]]"}
+      ],
+      "title"   : "[[{$('.core_title_txt').text()}]]",
+      "desc"    : "",
+      "include" : "[[{$('.p_content')}]]",
+      "exclude" : [
+          "<span class='apc_src_wrapper'>",
+          "<div class='save_face_bg_2'>"
+      ]
+  }]
+}
