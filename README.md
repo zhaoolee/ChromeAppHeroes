@@ -360,6 +360,10 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 #### [029 《SimRead》为任意网页开启阅读模式](https://zhaoolee.gitbooks.io/chrome/content/029-simread300b-wei-ren-yi-wang-ye-kai-qi-yue-du-mo-shi.html)
 
 
+> ![](https://upload-images.jianshu.io/upload_images/3203841-19b19b1aaa487310.gif?imageMogr2/auto-orient/strip)
+为网页开启阅读模式, 能让我们更专注于内容, 不会被花花绿绿的广告推广分散精力, 而SimpRead就是一歀为网页开启**阅读模式**的插件
+
+
 
 
 ---
