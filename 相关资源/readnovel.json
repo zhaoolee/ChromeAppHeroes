@@ -1,7 +1,7 @@
 {
   "sites"  : [{
-      "name"    : "cnbeta.com",
-      "url"     : "http://*.cnbeta.com/articles/*/*.htm",
+      "name"    : "readnovel.com",
+      "url"     : "https://www.readnovel.com/book/10307488503406403",
       "title"   : "[[{$('head.title').text()}]]",
       "desc"    : "[[{$('.article-summary').text()}]]",
       "include" : "<div class='book-information cf'>",
