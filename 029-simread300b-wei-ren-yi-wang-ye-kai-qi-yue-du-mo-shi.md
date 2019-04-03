@@ -23,10 +23,6 @@
 
 ## 了解更多SimpRead提供的功能
 
-#### 使用站点集市
-你打开`菜鸟教程`[http://www.runoob.com/](http://www.runoob.com/), 会发现SimpRead图标不是红色高亮, 这说明官方并未对`菜鸟教程`做适配, 这时候你可以去官方的站点集市[https://simpread.ksria.cn/sites/](https://simpread.ksria.cn/sites/), 找一找第三方的适配方案
-
-
 
 #### 生成临时阅读模式
 并不是所有的网页都能完美适配SimpRead, 如果网页无法适配, 则可以手动启用临时阅读模式, 
