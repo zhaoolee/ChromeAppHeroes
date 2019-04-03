@@ -1,7 +1,7 @@
 {
   "sites"  : [{
       "name"    : "readnovel.com",
-      "url"     : "*readnovel.com/book/*",
+      "url"     : "*readnovel.com/book*",
       "title"   : "[[{$('head.title').text()}]]",
       "include" : "<div class='book-information cf'>"
   }]
