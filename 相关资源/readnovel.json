@@ -1,14 +1,8 @@
 {
   "sites"  : [{
       "name"    : "readnovel.com",
-      "url"     : "https://www.readnovel.com/book/10307488503406403",
+      "url"     : "*readnovel.com/book/*",
       "title"   : "[[{$('head.title').text()}]]",
-      "desc"    : "[[{$('.article-summary').text()}]]",
-      "include" : "<div class='book-information cf'>",
-      "exclude" : [
-          "<div class='clearfix'>",
-          "<div class='rating_box'>",
-          "[['<strong>[广告]活动入口:</strong>']]"
-      ]
+      "include" : "<div class='book-information cf'>"
   }]
 }
