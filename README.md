@@ -5,6 +5,9 @@
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~  
 ![](https://upload-images.jianshu.io/upload_images/3203841-b8c9c537a2dd4419.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
+
 ## 目录\(2019年4月3日更新\)
 
 - [029 《SimRead》为任意网页开启阅读模式](https://zhaoolee.gitbooks.io/chrome/content/029-simread300b-wei-ren-yi-wang-ye-kai-qi-yue-du-mo-shi.html)
