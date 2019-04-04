@@ -8,7 +8,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 
-## 目录\(2019年4月3日更新\)
+## 目录\(2019年4月4日更新\)
+
+- [030《掘金》相信优质技术内容的力量](https://zhaoolee.gitbooks.io/chrome/content/030300a-jue-jin-300b-xiang-xin-you-zhi-ji-zhu-nei-rong-de-li-liang.html)
 
 - [029 《SimRead》为任意网页开启阅读模式](https://zhaoolee.gitbooks.io/chrome/content/029-simread300b-wei-ren-yi-wang-ye-kai-qi-yue-du-mo-shi.html)
 
@@ -366,7 +368,11 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 > ![](https://upload-images.jianshu.io/upload_images/3203841-19b19b1aaa487310.gif?imageMogr2/auto-orient/strip)
 为网页开启阅读模式, 能让我们更专注于内容, 不会被花花绿绿的广告推广分散精力, 而SimpRead就是一歀为网页开启**阅读模式**的插件
 
+#### [030《掘金》相信优质技术内容的力量](https://zhaoolee.gitbooks.io/chrome/content/030300a-jue-jin-300b-xiang-xin-you-zhi-ji-zhu-nei-rong-de-li-liang.html)
 
+> ![](https://upload-images.jianshu.io/upload_images/3203841-4d12c34062cd74db.gif?imageMogr2/auto-orient/strip)
+
+> 如果你想对 程序员, 产品经理, 设计师的行业知识有所了解, 可以没事儿打开掘金插件看一看, 如果你感觉很喜欢里面的内容, 可以到掘金官网 [https://juejin.im/](https://juejin.im/) 逛一逛
 
 
 ---
