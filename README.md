@@ -69,7 +69,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 * [003《Secure Shell App》 Chrome中开启ssh一种什么体验](https://zhaoolee.gitbooks.io/chrome/content/003-secure-shell-app-chromezhong-kai-qi-ssh-yi-zhong-shi-yao-ti-yan.html)
 
-* [002 《chrono》 让Chrome下载资源更容易](https://zhaoolee.gitbooks.io/chrome/content/002-chrono-rang-chrome-xia-zai-zi-yuan-geng-rong-yi.html)
+* [002《chrono》 让Chrome下载资源更容易](https://zhaoolee.gitbooks.io/chrome/content/002-chrono-rang-chrome-xia-zai-zi-yuan-geng-rong-yi.html)
 
 * [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
