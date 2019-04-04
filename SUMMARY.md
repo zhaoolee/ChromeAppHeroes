@@ -34,4 +34,5 @@
 * [027《Text》来自Chrome实验室的跨平台记事本](027text300b-lai-zi-chrome-shi-yan-shi-de-kua-ping-tai-ji-shi-ben.md)
 * [028《AdBlock》Adblock屏蔽简书广告](028adblockadblockping-bi-jian-shu-guang-gao.md)
 * [029 《SimRead》为任意网页开启阅读模式](029-simread300b-wei-ren-yi-wang-ye-kai-qi-yue-du-mo-shi.md)
+* [030《掘金》相信优质技术内容的力量](030300a-jue-jin-300b-xiang-xin-you-zhi-ji-zhu-nei-rong-de-li-liang.md)
 
