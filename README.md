@@ -8,7 +8,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 
-## 目录\(2019年4月4日更新\)
+## 目录\(2019年4月5日更新\)
 
 - [031《OneTab》把多个Tab转换为一个列表](https://zhaoolee.gitbooks.io/chrome/content/031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.html)
 
