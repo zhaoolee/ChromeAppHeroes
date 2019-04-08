@@ -111,78 +111,82 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 
 ---
 - 如果你不喜欢绿色版Chrome,可以访问这个地址 [https://www.google.cn/chrome](https://www.google.cn/chrome), 获取官方提供的安装包 (感谢Github用户[@lb091188](https://github.com/lb091188)给出的建议)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-c8c76dad72e7018c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-> [https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions)  
+>![](https://upload-images.jianshu.io/upload_images/3203841-c8c76dad72e7018c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+>[https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions) 
+
+
 > ![](https://upload-images.jianshu.io/upload_images/3203841-ce4656432b9430c3.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
 ---
 
 **下面是正文**
 
-- 获取setupvpn安装包, 并解压\(setupvpn的获取方式在文末\)
+- 获取setupvpn安装包, 并解压(setupvpn的获取方式在文末)
 
 
-![](https://upload-images.jianshu.io/upload_images/3203841-b334b511a5b7bd76.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+>![](https://upload-images.jianshu.io/upload_images/3203841-b334b511a5b7bd76.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
 
 - 在Chrome打开chrome://extensions/
 
 
-![](https://upload-images.jianshu.io/upload_images/3203841-847f56ffb96dd12d.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+>![](https://upload-images.jianshu.io/upload_images/3203841-847f56ffb96dd12d.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
 
 - 开启开发者模式
 
 
-![](https://upload-images.jianshu.io/upload_images/3203841-483d6ba8a50541c5.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+>![](https://upload-images.jianshu.io/upload_images/3203841-483d6ba8a50541c5.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
 * 安装setupvpn安装包
 
 
-![](https://upload-images.jianshu.io/upload_images/3203841-ad46480edd5b4d44.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)  
+>![](https://upload-images.jianshu.io/upload_images/3203841-ad46480edd5b4d44.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)  
 
-![](https://upload-images.jianshu.io/upload_images/3203841-a9b5d0712900843d.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+>![](https://upload-images.jianshu.io/upload_images/3203841-a9b5d0712900843d.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
 * 安装成功
 
 
-![](https://upload-images.jianshu.io/upload_images/3203841-099140f3400ce0cf.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+>![](https://upload-images.jianshu.io/upload_images/3203841-099140f3400ce0cf.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
 * 选择汉语
 
 
-![](https://upload-images.jianshu.io/upload_images/3203841-30db136866b615fe.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+>![](https://upload-images.jianshu.io/upload_images/3203841-30db136866b615fe.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
 * 创建账户
 
 
-![](https://upload-images.jianshu.io/upload_images/3203841-d75156f8a3ddb213.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)  
-
-![](https://upload-images.jianshu.io/upload_images/3203841-f03b348fd6644542.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
-
-* 登录邮箱, 点击激活邮件链接
+>![](https://upload-images.jianshu.io/upload_images/3203841-d75156f8a3ddb213.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)  
 
 
-![](https://upload-images.jianshu.io/upload_images/3203841-6d3ae5db5b3494c5.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+>![](https://upload-images.jianshu.io/upload_images/3203841-f03b348fd6644542.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+
+- 登录邮箱, 点击激活邮件链接
 
 
-![](https://upload-images.jianshu.io/upload_images/3203841-e6c51830233d34a7.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+>![](https://upload-images.jianshu.io/upload_images/3203841-6d3ae5db5b3494c5.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
 
-* 点击图标,输入账户密码进行登录
+>![](https://upload-images.jianshu.io/upload_images/3203841-e6c51830233d34a7.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+
+
+- 点击图标,输入账户密码进行登录
 
 
 >![](https://upload-images.jianshu.io/upload_images/3203841-076f3df5a1e3c583.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
 
-* 选择服务器
+- 选择服务器
 
 >![](https://upload-images.jianshu.io/upload_images/3203841-cac06c6353098310.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240) 
 
 > 如果米国服务器连接速度慢,就换一个小国的, 比如荷兰~
 
-* 连接成功
+- 嘿嘿,连接成功
 
 >![](https://upload-images.jianshu.io/upload_images/3203841-ac2e71b08e54cea3.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
@@ -203,7 +207,7 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 
 ## 小结:
 
-* setupvpn安装包可以从Github仓库[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 中的`相关资源`文件夹获取
+- setupvpn安装包可以从Github仓库[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 中的`相关资源`文件夹获取
 
 > ![](/assets/ChromeAppHeroes_相关资源_at_master_·_zhaoolee_ChromeAppHeroes.png)
 
