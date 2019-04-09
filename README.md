@@ -5,7 +5,13 @@
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~  
 ![](https://upload-images.jianshu.io/upload_images/3203841-b8c9c537a2dd4419.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) 
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
+
+![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) 
+
+![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
 ## 目录\(2019年4月5日更新\)
@@ -80,8 +86,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 > - 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
 > - 感谢[简书](https://www.jianshu.com/)社区提供超棒的Markdown编辑器,**Chrome插件英雄榜**的编辑工作,几乎全部由通过简书编辑器完成
 
-> **Chrome插件英雄榜** 目录页面: [https://zhaoolee.gitbooks.io/chrome/content/](https://zhaoolee.gitbooks.io/chrome/content/)
-> **推荐**: Chrome插件英雄榜 姊妹篇**Github星聚弃疗榜**已开始筹划, 欢迎参与:[https://github.com/zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown)
+- **Chrome插件英雄榜** 目录页面: [https://zhaoolee.gitbooks.io/chrome/content/](https://zhaoolee.gitbooks.io/chrome/content/)
+
+- 推荐: Chrome插件英雄榜 姊妹篇 **Github星聚弃疗榜**已开始筹划, 欢迎参与:[https://github.com/zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown)
 ---
 
 
