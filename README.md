@@ -249,25 +249,25 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 
 #### [005《Video Speed Controller》 刷课（刷剧）神器！给网页视频加个速\(最快可达16倍!\)](https://zhaoolee.gitbooks.io/chrome/content/005-video-speed-controller-shua-ke-ff08-shua-ju-ff09-shen-qi-ff01-gei-wang-ye-shi-pin-jia-ge-901f28-zui-kuai-ke-da-16-500d2129.html)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-e308dd5751831d4d.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-e308dd5751831d4d.png)
 
 刷一些没营养视频的时候, 我们会有倍速播放视频的需求, 而网站的在线播放器一般只提供不高于4倍的播放速度, 而Video Speed Controller可以将视频播放速度提高到16倍速~
 
 #### [006《SimilarSites》 一键查找姊妹网站 SimilarSites](https://zhaoolee.gitbooks.io/chrome/content/006-similarsites-yi-jian-cha-zhao-zi-mei-wang-zhan-similarsites.html)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-1dcc29e97f4f7bba.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-1dcc29e97f4f7bba.png)
 
 当你浏览一个很棒的站点的时候, 或许你会想到, 和它"差不多"的站点有哪些, 尤其是针对一些资源站点, 这个站点没有, 而它同类的站点"往往有"! SimilarSites, 它的作用只有一个, 发现同类站点!
 
 #### [007《loom》 Chrome翻录网页视频神器](https://zhaoolee.gitbooks.io/chrome/content/007-loom-chromefan-lu-wang-ye-shi-pin-shen-qi.html)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b5b8d95559de5cd8.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-b5b8d95559de5cd8.png)
 
 Loom可以一键录制浏览器的单个标签页\(盗版翻录视频的神器\), 录制完成后自动生成在线网页,进行视频播放, 可以下载刚刚录制的视频, 也可以为刚刚生成的在线视频设置密码\(盗版录屏加发布一条龙服务~\)
 
 #### [008《Chrome Cleaner Pro》为Chrome加速](https://zhaoolee.gitbooks.io/chrome/content/008-chrome-cleaner-pro300b-wei-chrome-jia-su.html)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-59e4a96b66c0bd7b.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-59e4a96b66c0bd7b.png)
 
 Chrome经过最近几年的发展, 强力的扩展越来越多, 离Chrome OS的目标也越来越近, 软件做大了就会有类似Windows的通病, 软件会变慢, 让Chrome变快的最简单方式就是清理垃圾, 而Chrome Cleaner Pro走的是一键清理的路子~
 
@@ -279,13 +279,13 @@ vimium可以让我们只使用键盘就可以浏览网页, 如果你第一次看
 
 #### [010《speedtest》网络测速插件speedtest](https://zhaoolee.gitbooks.io/chrome/content/010-speedtest300b-wang-luo-ce-su-cha-jian-speedtest.html)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-8111a4984b29fd8a.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-8111a4984b29fd8a.png)
 
 当上网速度很慢的时候, 人们想到的第一件事就进行网络测速,在window上, 只要你安装了360全家桶, 测速功能就是默认安装的, 但测速这种功能根本不需要安装到本地, 交给浏览器就好了
 
 #### [011 《whatruns》一键分析网站技术栈](https://zhaoolee.gitbooks.io/chrome/content/011whatruns300b-yi-jian-fen-xi-wang-zhan-ji-zhu-zhan.html)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-84af6226625f2303.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-84af6226625f2303.png)
 
 如果你对当前浏览的网站非常感兴趣, 可以通过whatruns了解软件的技术栈, 比如看看这个名为facebook用了什么技术
 
@@ -297,7 +297,7 @@ vimium可以让我们只使用键盘就可以浏览网页, 如果你第一次看
 
 #### [013《Quick QR》用二维码实现云粘贴](https://zhaoolee.gitbooks.io/chrome/content/013quick-qr300b-yong-er-wei-ma-shi-xian-yun-nian-tie.html)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-594510c855555187.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-594510c855555187.png)
 
 通过Quick QR, 我们可以不借助任何通讯软件,通过手机扫码,获取PC浏览器上任意一段文字信息\(云粘贴板哦~\)
 
@@ -309,7 +309,7 @@ vimium可以让我们只使用键盘就可以浏览网页, 如果你第一次看
 
 #### [015《XPath Helper》完成Bing每日壁纸的小爬虫](https://zhaoolee.gitbooks.io/chrome/content/015xpath-helper300bwan-cheng-bing-mei-ri-bi-zhi-de-xiao-pa-chong.html)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f222421e9ac3fb59.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-f222421e9ac3fb59.png)
 
 XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我们完成一个Bing壁纸的小爬虫~
 
@@ -334,7 +334,7 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 
 #### [019《MEGA》网盘可以良心到什么程度? 试试MEGA吧!](https://zhaoolee.gitbooks.io/chrome/content/019mega300b-wang-pan-ke-yi-liang-xin-dao-shi-yao-cheng-5ea63f-shi-shi-mega-542721.html)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-3691895f59253171.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-3691895f59253171.png)
 >
 > * 没有限速的概念\(真的被百度盘的限速策略恶心到了\)
 > * 在国内可用\(google虽好, 但国内用不了, MEGAsync亲测国内可用\)
