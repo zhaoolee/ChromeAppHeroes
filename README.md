@@ -126,7 +126,7 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 - 获取setupvpn安装包, 并解压(setupvpn的获取方式在文末)
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-b334b511a5b7bd76.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+>![](https://upload-images.jianshu.io/upload_images/3203841-b334b511a5b7bd76.png)
 
 
 - 在Chrome打开chrome://extensions/
