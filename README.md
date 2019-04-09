@@ -124,7 +124,7 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 >[https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions) 
 
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-ce4656432b9430c3.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-ce4656432b9430c3.png)
 
 ---
 
