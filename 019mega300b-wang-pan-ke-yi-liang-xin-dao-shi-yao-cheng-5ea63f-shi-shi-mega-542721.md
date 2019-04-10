@@ -11,8 +11,8 @@
 > ![](https://upload-images.jianshu.io/upload_images/3203841-8bb5d4a9320fadc7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 如何安装?
-> MEGAsync的官网是https://mega.nz, 你可以从官网下载对应的客户端,直接安装! 但有意思的是, 在国内, https://mega.nz是不存在的...
-> 更有趣的是, 虽然https://mega.nz在国内无无法访问,但如果你能安装maga的客户端, 那么你就可以正常使用mega在国内的服务, 而且同步速度超级快~
+> MEGAsync的官网是https://mega.nz, 你可以从官网下载对应的客户端,直接安装! 但有意思的是, 在国内, https://mega.nz 是不存在的...
+> 更有趣的是, 虽然 https://mega.nz 在国内无无法访问,但如果你能安装maga的客户端, 那么你就可以正常使用mega在国内的服务, 而且同步速度超级快~
 > 或许你现在就缺一个mega的客户端了,如果你网络环境不好, 无法下载客户端, 可以用我下载好的,资源链接:https://pan.baidu.com/s/1yaUTRHpfAnpFKgd55BPIHg  密码:mjx8
 > ![](https://upload-images.jianshu.io/upload_images/3203841-d8b75895dd5e2c4f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 另外mega的浏览器插件也非常强大,如果你没有同步本地文件的需求, 可以安装浏览器插件https://chrome.google.com/webstore/detail/mega/bigefpfhnfcobdlfbedofhhaibnlghod?hl=zh-CN
@@ -31,7 +31,7 @@
 > 如果你对安全性要求很高, 你可以把链接中的黑色字体的资源链接, 和红色字体的资源秘钥分开发送~
 
 
-- 嵌入代码方式分享视频: 
+- 嵌入代码方式分享视频:
 > 与百度网盘类似, 视频可以在线播放, 无广告, 优势在于,可以将视频代码嵌入到自己的网站中, 节省服务器空间...
 > ![](https://upload-images.jianshu.io/upload_images/3203841-3053e2313980f9d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
