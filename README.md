@@ -8,7 +8,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square)  ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录\(2019年4月5日更新\)
+## 目录\(2019年4月11日更新\)
 
 - [032《Smallpdf》简单好用的线上PDF工具](https://zhaoolee.gitbooks.io/chrome/content/032smallpdf300b-jian-dan-hao-yong-de-xian-shang-pdf-gong-ju.html)
 
@@ -406,11 +406,16 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 > 如果你想对 程序员, 产品经理, 设计师的行业知识有所了解, 可以没事儿打开掘金插件看一看, 如果你感觉很喜欢里面的内容, 可以到掘金官网 [https://juejin.im/](https://juejin.im/) 逛一逛
 
 
-#### - [031《OneTab》把多个Tab转换为一个列表](https://zhaoolee.gitbooks.io/chrome/content/031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.html)
+####  [031《OneTab》把多个Tab转换为一个列表](https://zhaoolee.gitbooks.io/chrome/content/031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-8bc107e6c67a52c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 当你发现自己有太多的标签页时,单击OneTab图标,所有标签页会转换成一个列表,当你需要再次访问这些标签页时,点击OneTab图标唤出列表,点击列表恢复标签页
 
+
+####  [032《Smallpdf》简单好用的线上PDF工具](https://zhaoolee.gitbooks.io/chrome/content/032smallpdf300b-jian-dan-hao-yong-de-xian-shang-pdf-gong-ju.html)
+
+>  ![](https://upload-images.jianshu.io/upload_images/3203841-5301340e6eb4e659.gif?imageMogr2/auto-orient/strip)
+Smallpdf是一个非常好用的PDF工具,可以收藏起来,作为日常办公的工具, Smallpdf可以进行多份pdf在线合并, pdf在线编辑, 如果你是一个经常和PDF打交道的人, 可不要错过它~
 
 
 
