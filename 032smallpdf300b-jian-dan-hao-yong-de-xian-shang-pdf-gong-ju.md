@@ -33,24 +33,11 @@ Smallpdf是一个非常好用的PDF工具,可以收藏起来,作为日常办公�
 ## 插件下载链接: 
 [https://chrome.google.com/webstore/detail/smallpdf/ohfgljdgelakfkefopgklcohadegdpjf](https://chrome.google.com/webstore/detail/smallpdf/ohfgljdgelakfkefopgklcohadegdpjf)
 
-
 ---
 
-本文属于[Chrome插件英雄榜](https://www.jianshu.com/nb/27879124)文集的一部分, 为了集合更多的程序员和工具爱好者, 将**Chrome插件英雄榜**维护下去, 我已将**Chrome插件英雄榜** 文集的所有内容托管到Github, 项目地址[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) , 欢迎广大程序员和工具爱好者们为项目贡献力量, 也欢迎拥有Github账户的朋友们为本项目加星, 非常感谢!
+## 写在最后(我需要你的支持)
+- 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 
----
+- **Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个项目, 希望你能为本项目添加一颗 🌟星.
 
-## 本系列近期文章
-
-
-- [031《OneTab》把多个Tab转换为一个列表](https://zhaoolee.gitbooks.io/chrome/content/031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.html)
-
-- [030《掘金》相信优质技术内容的力量](https://zhaoolee.gitbooks.io/chrome/content/030300a-jue-jin-300b-xiang-xin-you-zhi-ji-zhu-nei-rong-de-li-liang.html)
-
-- [029 《SimpRead》为任意网页开启阅读模式](https://zhaoolee.gitbooks.io/chrome/content/029-simread300b-wei-ren-yi-wang-ye-kai-qi-yue-du-mo-shi.html)
-
-- [028《AdBlock》Adblock自定义屏蔽简书广告](https://zhaoolee.gitbooks.io/chrome/content/028adblockadblockping-bi-jian-shu-guang-gao.html)
-
-- [027《Text》来自Chrome实验室的跨平台记事本](https://zhaoolee.gitbooks.io/chrome/content/027text300b-lai-zi-chrome-shi-yan-shi-de-kua-ping-tai-ji-shi-ben.html)
-
-- [026《Quickey Launcher》打开网站只需一键](https://zhaoolee.gitbooks.io/chrome/content/026-quickey-launcher300b-da-kai-wang-zhan-zhi-xu-yi-jian.html)
+- ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human, If you like this project, I hope you can add a star 🌟 to this project.
