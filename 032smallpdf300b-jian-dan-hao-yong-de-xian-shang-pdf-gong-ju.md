@@ -27,7 +27,7 @@ smallpdf.com, 官方推出了Chrome插件,插件列出了常用的6个功能,点
 > [Adblock的使用方法链接](https://zhaoolee.gitbooks.io/chrome/content/028adblockadblockping-bi-jian-shu-guang-gao.html)
 
 ## 小结:
-Smallpdf是一个非常好用的PDF工具,可以收藏起来,作为日常办公的工具, Smallpdf可以支持多份pdf在线合并, pdf在线编辑, 如果你经常和PDF打交道的人, 可不要错过它~
+Smallpdf是非常好用的PDF工具,可以收藏起来,作为日常办公的工具, Smallpdf可以支持多份pdf在线合并, pdf在线编辑, 如果你经常和PDF打交道的人, 可不要错过它~
 
 
 ## 插件下载链接: 
