@@ -36,4 +36,5 @@
 * [029 《SimpRead》为任意网页开启阅读模式](029-simread300b-wei-ren-yi-wang-ye-kai-qi-yue-du-mo-shi.md)
 * [030《掘金》相信优质技术内容的力量](030300a-jue-jin-300b-xiang-xin-you-zhi-ji-zhu-nei-rong-de-li-liang.md)
 * [031《OneTab》把多个Tab转换为一个列表](031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.md)
+* [032《Smallpdf》简单好用的线上PDF工具](032smallpdf300b-jian-dan-hao-yong-de-xian-shang-pdf-gong-ju.md)
 
