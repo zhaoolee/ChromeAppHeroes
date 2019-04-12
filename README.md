@@ -220,7 +220,7 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 
 ---
 
-## 目前已完成25个小节
+## 目前已完成32个小节
 
 #### [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
