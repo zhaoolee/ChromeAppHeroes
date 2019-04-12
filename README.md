@@ -84,7 +84,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - **Chrome插件英雄榜** 目录页面: [https://zhaoolee.gitbooks.io/chrome/content/](https://zhaoolee.gitbooks.io/chrome/content/)
 
-- **推荐** : **《Chrome插件英雄榜》兄弟篇《Github星聚弃疗榜》** 已正式发布, 欢迎贡献: [https://github.com/zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown)
+- **Chrome插件英雄榜 姊妹篇《Github星聚弃疗榜》：为Github创意项目写一本推荐书，让Github优秀项目造福人类~ ** 已开源到Github: [https://github.com/zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) , 欢迎查看~
 ---
 
 
