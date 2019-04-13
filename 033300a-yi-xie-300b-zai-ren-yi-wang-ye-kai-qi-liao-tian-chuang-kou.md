@@ -1,0 +1,73 @@
+![](https://upload-images.jianshu.io/upload_images/3203841-6c2100df17f1da49.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+**一叶**是一款Chrome插件, 可以为任意网页开启聊天室, 让你随时随地可以聊天
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-aeee4814139c9815.gif?imageMogr2/auto-orient/strip)
+
+## 模拟多人聊天的效果(无处不弹幕)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-2fde3d443a23c7f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+为了演示,我开启了两个Chrome浏览器,两个浏览器各开启一个窗口, Google Chrome窗口在左侧, Google Chrome Cannary窗口在右侧,左右两个窗口分别登录了不同的用户, 效果可以查看下面的gif图
+> ![](https://upload-images.jianshu.io/upload_images/3203841-294ff06c27ef2d6a.gif?imageMogr2/auto-orient/strip)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-6da2205932395165.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## 面板功能详解
+> ![](https://upload-images.jianshu.io/upload_images/3203841-b2529c90ce5b42c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## 留言板也很有趣
+
+#### 有趣的留言板(各种彩蛋)
+- baidu.com
+> ![](https://upload-images.jianshu.io/upload_images/3203841-58fe4338b22b3218.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- youtube.com
+> ![](https://upload-images.jianshu.io/upload_images/3203841-272091dea0c7eed2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- google.com
+> ![](https://upload-images.jianshu.io/upload_images/3203841-2975b1078c46d866.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- bilibili.com
+> ![](https://upload-images.jianshu.io/upload_images/3203841-77ca665af37d9f6a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- zhihu.com
+> ![](https://upload-images.jianshu.io/upload_images/3203841-de6350fed1d94357.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- github.com
+> ![](https://upload-images.jianshu.io/upload_images/3203841-c7db988541118523.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#### 留言方法:
+> ![](https://upload-images.jianshu.io/upload_images/3203841-1f9647977e4f756a.gif?imageMogr2/auto-orient/strip)
+
+## 如何保护你的账号?
+当你下载并启动一叶的插件后, 一叶会自动给你分配一个id(这里的id相当于早期的qq号, 比如我分配的id就是15519),直接可以进入聊天,如果你把插件卸载再重新安装,就不一定能找回原来的id了,为了避免这种问题, 建议你登录后, 进入个人资料面板, 先记下自己的id,然后修改密码, 然后退出登录, 用记下的id和修改后的密码登录一下, 就稳了~
+- 修改密码
+> ![](https://upload-images.jianshu.io/upload_images/3203841-94e2654f2badd9ab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 确认修改
+> ![](https://upload-images.jianshu.io/upload_images/3203841-afbde786d286f223.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## 一些小建议
+
+[https://api.yiyechat.com/db/comments_with_votes/offset/-1/user_id/f2f563cb-4a82-93a0-2f96-5b2914155241/url/https://www.baidu.com/](https://api.yiyechat.com/db/comments_with_votes/offset/-1/user_id/f2f563cb-4a82-93a0-2f96-5b2914155241/url/https://www.baidu.com/)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-419085dbf85edc50.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-9fdefd4eebada6f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+一叶目前拉取论坛留言板的方式是get方式,你可以通过浏览器直接获取留言信息,如果用别人的id去大量爬取主流网站的留言,就有点不公平的感觉
+
+
+ 
+## 小结:
+一叶是一款很有想法的产品,但目前用户量还是很少, 对此,我个人也有一些想法,如果官方可以效仿pokemongo这类寻宝游戏,在各大网站的主页对应的留言板内,埋下一些有意思的彩蛋,让用户去寻宝,或许会有利于产品的推广~
+
+## 插件下载地址:
+[https://chrome.google.com/webstore/detail/same-page/bldcellajihanglphncgjmceklbibjkk](https://chrome.google.com/webstore/detail/same-page/bldcellajihanglphncgjmceklbibjkk)
+
+
+
+---
+
+## 写在最后(我需要你的支持)
+- 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+
+- **Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个项目, 希望你能为本项目添加一颗 🌟星.
+
+- ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human, If you like this project, I hope you can add a star 🌟 to this project.
+
+
