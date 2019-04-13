@@ -37,5 +37,5 @@
 * [030《掘金》相信优质技术内容的力量](030300a-jue-jin-300b-xiang-xin-you-zhi-ji-zhu-nei-rong-de-li-liang.md)
 * [031《OneTab》把多个Tab转换为一个列表](031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.md)
 * [032《Smallpdf》简单好用的线上PDF工具](032smallpdf300b-jian-dan-hao-yong-de-xian-shang-pdf-gong-ju.md)
-* [033《一叶》在任意网页开启聊天窗口](033300a-yi-xie-300b-zai-ren-yi-wang-ye-kai-qi-liao-tian-chuang-kou.md)
+* [033《一叶》在任意网页开启聊天窗口](033.md)
 
