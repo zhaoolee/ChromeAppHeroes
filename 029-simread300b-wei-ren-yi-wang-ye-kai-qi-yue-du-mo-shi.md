@@ -55,6 +55,13 @@ SimpRead为我们提供了`插件中心`[https://simpread.ksria.cn/plugins/](htt
 [https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll)
 
 
+## 其它浏览器下载地址
+
+| FireFox | Safari | Edge|
+| - | - | - | 
+| [插件地址](https://addons.mozilla.org/zh-CN/firefox/addon/simpread/) | [油猴脚本](https://greasyfork.org/zh-CN/scripts/39998-%E7%AE%80%E6%82%A6-simpread-%E8%BD%BB%E9%98%85%E7%89%88) | [油猴脚本](https://greasyfork.org/zh-CN/scripts/39998-%E7%AE%80%E6%82%A6-simpread-%E8%BD%BB%E9%98%85%E7%89%88) |
+
+
 ---
 
 ## 写在最后(我需要你的支持)
