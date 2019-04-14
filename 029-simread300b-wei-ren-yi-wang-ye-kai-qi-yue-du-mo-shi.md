@@ -55,7 +55,7 @@ SimpRead为我们提供了`插件中心`[https://simpread.ksria.cn/plugins/](htt
 [https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll)
 
 
-## 其它浏览器下载地址
+## 对其它浏览器的支持
 
 | FireFox | Safari | Edge|
 | - | - | - | 
