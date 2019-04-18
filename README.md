@@ -82,7 +82,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 开源插件推广(作者自荐)
 
-| 名称 | 作者 | 开源地址 | 简介 |
+| 名称 | 作者主页 | 开源信息 | 简介 |
 | --  | -- | -- | -- |
 | [The Fucking Github](https://chrome.google.com/webstore/detail/the-fucking-github/agajobpbaphiohkbkjigcalebbfmofdo)| [lvxianchao](https://github.com/lvxianchao) | [Github仓库地址](https://github.com/lvxianchao/the-fucking-github) | 很方便地查看、整理、搜索你已经 Star 过的项目和搜索 Github 上的项目 |
 | [HitUP](https://chrome.google.com/webstore/detail/hitup/eiokaohkigpbonodjcbjpecbnccijkjb)| [wonderbeyond](https://github.com/wonderbeyond) | [Github仓库地址](https://github.com/wonderbeyond/HitUP) | 利用 New Tab “空白页” 助您保持对流行技术趋势的跟进，附带其它福利。 |
