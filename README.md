@@ -80,6 +80,22 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 * [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
 
+## 开源插件推广(作者自荐)
+
+| 名称 | 作者 | 开源地址 | 简介 |
+| --  | -- | -- | -- |
+| [The Fucking Github](https://chrome.google.com/webstore/detail/the-fucking-github/agajobpbaphiohkbkjigcalebbfmofdo)| [lvxianchao](https://github.com/lvxianchao) | [Github仓库地址](https://github.com/lvxianchao/the-fucking-github) | 很方便地查看、整理、搜索你已经 Star 过的项目和搜索 Github 上的项目 |
+| [HitUP](https://chrome.google.com/webstore/detail/hitup/eiokaohkigpbonodjcbjpecbnccijkjb)| [wonderbeyond](https://github.com/wonderbeyond) | [Github仓库地址](https://github.com/wonderbeyond/HitUP) | 利用 New Tab “空白页” 助您保持对流行技术趋势的跟进，附带其它福利。 |
+
+
+
+
+
+
+-  | 方便地查看、整理、搜索你已经 Star 过的项目和搜索 Github 上的项目。
+
+
+
 
 > - 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
 > - 感谢[简书](https://www.jianshu.com/)社区提供超棒的Markdown编辑器,**Chrome插件英雄榜**的编辑工作,几乎全部由通过简书编辑器完成
