@@ -35,30 +35,30 @@
 
 * [022《扩展管理器》Manage your Chrome extensions](https://zhaoolee.gitbooks.io/chrome/content/022300a-kuo-zhan-guan-li-qi-300b-guan-li-ni-de-chrome-kuo-zhan.html)
 
-* [021《哔哩哔哩助手》助你快速成为B站老司机](https://zhaoolee.gitbooks.io/chrome/content/021300a-bi-li-bi-li-zhu-shou-300b-zhu-ni-kuai-su-cheng-wei-b-zhan-lao-si-ji.html)
+* [021《哔哩哔哩助手》Bbecome the old driver of bilibili](https://zhaoolee.gitbooks.io/chrome/content/021300a-bi-li-bi-li-zhu-shou-300b-zhu-ni-kuai-su-cheng-wei-b-zhan-lao-si-ji.html)
 
-* [020《Boxel Rebound》“嗨到中毒”的弹跳小方块\(附自制赛道分享方法\)](https://zhaoolee.gitbooks.io/chrome/content/020boxel-rebound300b-201c-hai-dao-zhong-du-201d-de-dan-tiao-xiao-fang-575728-fu-zi-zhi-sai-dao-fen-xiang-fang-6cd529.html)
+* [020《Boxel Rebound》Bounce small squares (with homemade track sharing method)](https://zhaoolee.gitbooks.io/chrome/content/020boxel-rebound300b-201c-hai-dao-zhong-du-201d-de-dan-tiao-xiao-fang-575728-fu-zi-zhi-sai-dao-fen-xiang-fang-6cd529.html)
 
-* [019《MEGA》网盘可以良心到什么程度? 试试MEGA吧!](https://zhaoolee.gitbooks.io/chrome/content/019mega300b-wang-pan-ke-yi-liang-xin-dao-shi-yao-cheng-5ea63f-shi-shi-mega-542721.html)
+* [019《MEGA》Network disk conscience? Try MEGA!](https://zhaoolee.gitbooks.io/chrome/content/019mega300b-wang-pan-ke-yi-liang-xin-dao-shi-yao-cheng-5ea63f-shi-shi-mega-542721.html)
 
-* [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html)
+* [018《Enhanced Github》Download Github single file](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html)
 
-* [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)
+* [017《新浪微博图床》Local Markdown is written more smoothly, Sina Weibo map bed to help you](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)
 
 
-* [016《解除B站区域限制》查看进击的巨人第三季](https://zhaoolee.gitbooks.io/chrome/content/016300a-jie-chu-b-zhan-qu-yu-xian-zhi-300b-cha-kan-jin-ji-de-ju-ren-di-san-ji.html)
+* [016《解除B站区域限制》View the attacking giants third season](https://zhaoolee.gitbooks.io/chrome/content/016300a-jie-chu-b-zhan-qu-yu-xian-zhi-300b-cha-kan-jin-ji-de-ju-ren-di-san-ji.html)
 
-* [015 《XPath Helper》完成Bing每日壁纸的小爬虫](https://zhaoolee.gitbooks.io/chrome/content/015xpath-helper300bwan-cheng-bing-mei-ri-bi-zhi-de-xiao-pa-chong.html)
+* [015 《XPath Helper》Bing daily wallpaper web crawler](https://zhaoolee.gitbooks.io/chrome/content/015xpath-helper300bwan-cheng-bing-mei-ri-bi-zhi-de-xiao-pa-chong.html)
 
-* [014《超级马里奥游戏》Chrome变身小霸王](https://zhaoolee.gitbooks.io/chrome/content/014300a-chao-ji-ma-li-ao-you-xi-300b-chrome-bian-shen-xiao-ba-wang.html)
+* [014《超级马里奥游戏》Convert Chrome to game console](https://zhaoolee.gitbooks.io/chrome/content/014300a-chao-ji-ma-li-ao-you-xi-300b-chrome-bian-shen-xiao-ba-wang.html)
 
-* [013《Quick QR》用二维码实现云粘贴](https://zhaoolee.gitbooks.io/chrome/content/013quick-qr300b-yong-er-wei-ma-shi-xian-yun-nian-tie.html)
+* [013《Quick QR》Implement cloud paste with QR code](https://zhaoolee.gitbooks.io/chrome/content/013quick-qr300b-yong-er-wei-ma-shi-xian-yun-nian-tie.html)
 
-* [012《OurStickys》Chrome特色网页便签纸](https://zhaoolee.gitbooks.io/chrome/content/012ourstickyschromete-se-wang-ye-bian-qian-zhi.html)
+* [012《OurStickys》Web page note paper](https://zhaoolee.gitbooks.io/chrome/content/012ourstickyschromete-se-wang-ye-bian-qian-zhi.html)
 
-* [011 《whatruns》一键分析网站技术栈](https://zhaoolee.gitbooks.io/chrome/content/011whatruns300b-yi-jian-fen-xi-wang-zhan-ji-zhu-zhan.html)
+* [011 《whatruns》Analysis of website technology stack](https://zhaoolee.gitbooks.io/chrome/content/011whatruns300b-yi-jian-fen-xi-wang-zhan-ji-zhu-zhan.html)
 
-* [010《speedtest》网络测速插件speedtest](https://zhaoolee.gitbooks.io/chrome/content/010-speedtest300b-wang-luo-ce-su-cha-jian-speedtest.html)
+* [010《speedtest》Test network speed](https://zhaoolee.gitbooks.io/chrome/content/010-speedtest300b-wang-luo-ce-su-cha-jian-speedtest.html)
 
 * [009《vimium》Chrome与vim双神器融合](https://zhaoolee.gitbooks.io/chrome/content/009-vimiumchromeyu-vim-shuang-shen-qi-rong-he.html)
 
