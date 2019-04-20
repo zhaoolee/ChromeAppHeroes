@@ -10,6 +10,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(2019年4月18日更新)
 
+- [034《Astro Bot》用新标签页刷编程题](https://zhaoolee.gitbooks.io/chrome/content/034astro-bot.html)
+
 - [033《一叶》在任意网页开启实时弹幕 聊天窗口 留言板](https://zhaoolee.gitbooks.io/chrome/content/033.html)
 
 - [032《Smallpdf》简单好用的线上PDF工具](https://zhaoolee.gitbooks.io/chrome/content/032smallpdf300b-jian-dan-hao-yong-de-xian-shang-pdf-gong-ju.html)
@@ -437,6 +439,15 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-294ff06c27ef2d6a.gif?imageMogr2/auto-orient/strip)
 一叶是一款很有想法的产品,但目前用户量还是很少, 对此,我个人也有一些想法,如果官方可以效仿pokemongo这类寻宝游戏,在各大网站的主页对应的留言板内,埋下一些有意思的彩蛋,让用户去寻宝,或许会有利于产品的推广~
+
+
+#### [034《Astro Bot》用新标签页刷编程题](https://zhaoolee.gitbooks.io/chrome/content/034astro-bot.html)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-bb2ca8b27142c6dd.gif?imageMogr2/auto-orient/strip)
+Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新闻
+
+
+
 
 
 
