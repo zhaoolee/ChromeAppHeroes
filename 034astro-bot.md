@@ -23,7 +23,7 @@
 
 
 ## 插件下载地址:
-[https://chrome.google.com/webstore/detail/astro-bot/acjiedbilhbchmjblapmekfajpplpgdo](https://chrome.google.com/webstore/detail/astro-bot/acjiedbilhbchmjblapmekfajpplpgdo)!
+[https://chrome.google.com/webstore/detail/astro-bot/acjiedbilhbchmjblapmekfajpplpgdo](https://chrome.google.com/webstore/detail/astro-bot/acjiedbilhbchmjblapmekfajpplpgdo)
 
 
 ## 小结:
