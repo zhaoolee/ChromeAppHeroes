@@ -60,13 +60,13 @@
 
 * [010《speedtest》Test network speed](https://zhaoolee.gitbooks.io/chrome/content/010-speedtest300b-wang-luo-ce-su-cha-jian-speedtest.html)
 
-* [009《vimium》Chrome与vim双神器融合](https://zhaoolee.gitbooks.io/chrome/content/009-vimiumchromeyu-vim-shuang-shen-qi-rong-he.html)
+* [009《vimium》Fusion Chrome and vim](https://zhaoolee.gitbooks.io/chrome/content/009-vimiumchromeyu-vim-shuang-shen-qi-rong-he.html)
 
-* [008《Chrome Cleaner Pro》为Chrome加速](https://zhaoolee.gitbooks.io/chrome/content/008-chrome-cleaner-pro300b-wei-chrome-jia-su.html)
+* [008《Chrome Cleaner Pro》Speed up for Chrome](https://zhaoolee.gitbooks.io/chrome/content/008-chrome-cleaner-pro300b-wei-chrome-jia-su.html)
 
-* [007《loom》 Chrome翻录网页视频神器](https://zhaoolee.gitbooks.io/chrome/content/007-loom-chromefan-lu-wang-ye-shi-pin-shen-qi.html)
+* [007《loom》Chrome recording web video](https://zhaoolee.gitbooks.io/chrome/content/007-loom-chromefan-lu-wang-ye-shi-pin-shen-qi.html)
 
-* [006《SimilarSites》 一键查找姊妹网站 SimilarSites](https://zhaoolee.gitbooks.io/chrome/content/006-similarsites-yi-jian-cha-zhao-zi-mei-wang-zhan-similarsites.html)
+* [006《SimilarSites》 Find similar sites by SimilarSites](https://zhaoolee.gitbooks.io/chrome/content/006-similarsites-yi-jian-cha-zhao-zi-mei-wang-zhan-similarsites.html)
 
 * [005《Video Speed Controller》 刷课（刷剧）神器！给网页视频加个速\(最快可达16倍!\)](https://zhaoolee.gitbooks.io/chrome/content/005-video-speed-controller-shua-ke-ff08-shua-ju-ff09-shen-qi-ff01-gei-wang-ye-shi-pin-jia-ge-901f28-zui-kuai-ke-da-16-500d2129.html)
 
