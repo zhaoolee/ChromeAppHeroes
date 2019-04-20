@@ -1,7 +1,9 @@
 # ChromeAppHeroes
 
 🌈ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~  
-![](https://upload-images.jianshu.io/upload_images/3203841-b8c9c537a2dd4419.jpeg?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+
+
+![](https://upload-images.jianshu.io/upload_images/3203841-eddfd3e8e0bf0d29.png)
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square)  ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
@@ -84,9 +86,9 @@
 
 | name | Developer homepage | Open source information | Introduction |
 | --  | -- | -- | -- |
-| [The Fucking Github](https://chrome.google.com/webstore/detail/the-fucking-github/agajobpbaphiohkbkjigcalebbfmofdo)| [lvxianchao](https://github.com/lvxianchao) | [Github仓库地址](https://github.com/lvxianchao/the-fucking-github) | It's easy to view, organize, search for items you've already Stared and search for items on Github. |
-| [HitUP](https://chrome.google.com/webstore/detail/hitup/eiokaohkigpbonodjcbjpecbnccijkjb)| [wonderbeyond](https://github.com/wonderbeyond) | [Github仓库地址](https://github.com/wonderbeyond/HitUP) | Use New Tab “blank pages” to keep you up to date with popular technology trends, along with other benefits. |
-| [Gitako - Github file tree](https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk)| [EnixCoda](https://github.com/EnixCoda) | [Github仓库地址](https://github.com/EnixCoda/Gitako) | Functionally similar to the famous Octotree, but with more modern front-end tools, the performance is much better. |
+| [The Fucking Github](https://chrome.google.com/webstore/detail/the-fucking-github/agajobpbaphiohkbkjigcalebbfmofdo)| [lvxianchao](https://github.com/lvxianchao) | [Github](https://github.com/lvxianchao/the-fucking-github) | It's easy to view, organize, search for items you've already Stared and search for items on Github. |
+| [HitUP](https://chrome.google.com/webstore/detail/hitup/eiokaohkigpbonodjcbjpecbnccijkjb)| [wonderbeyond](https://github.com/wonderbeyond) | [Github](https://github.com/wonderbeyond/HitUP) | Use New Tab “blank pages” to keep you up to date with popular technology trends, along with other benefits. |
+| [Gitako - Github file tree](https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk)| [EnixCoda](https://github.com/EnixCoda) | [Github](https://github.com/EnixCoda/Gitako) | Functionally similar to the famous Octotree, but with more modern front-end tools, the performance is much better. |
 
 
 
