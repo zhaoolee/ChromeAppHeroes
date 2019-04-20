@@ -1,3 +1,6 @@
+[English](https://zhaoolee.gitbooks.io/chrome/content/readme-en.html)   |  [中文简体](https://zhaoolee.gitbooks.io/chrome/content/)
+
+
 # ChromeAppHeroes
 
 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~
