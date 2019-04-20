@@ -296,51 +296,46 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 
 > Text由谷歌Chrome实验室研发并开源, 开源地址https://github.com/GoogleChromeLabs/text-app , Text属于小而美的产品, 功能不算强大, 但是够用, 而且借助Chrome完成了跨平台(在Linux也可以使用哦~)
 
-#### [028《AdBlock》Adblock屏蔽简书广告](https://zhaoolee.gitbooks.io/chrome/content/028adblockadblockping-bi-jian-shu-guang-gao.html)
+#### [028《AdBlock》Custom blocking ads](https://zhaoolee.gitbooks.io/chrome/content/028adblockadblockping-bi-jian-shu-guang-gao.html)
 
 > ![屏蔽简书广告](https://upload-images.jianshu.io/upload_images/3203841-7109d71fac8e25d5.gif?imageMogr2/auto-orient/strip)
 > Adblock的功能非常丰富, 但很多功能基本用不到, 普通用户只需要开启Adblock, 能使用右键工具屏蔽不喜欢的广告, 也就够用了~
 
 
-#### [029 《SimpRead》为任意网页开启阅读模式](https://zhaoolee.gitbooks.io/chrome/content/029-simread300b-wei-ren-yi-wang-ye-kai-qi-yue-du-mo-shi.html)
+#### [029 《SimpRead》Turn on reading mode for any webpage](https://zhaoolee.gitbooks.io/chrome/content/029-simread300b-wei-ren-yi-wang-ye-kai-qi-yue-du-mo-shi.html)
 
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-19b19b1aaa487310.gif?imageMogr2/auto-orient/strip)
 为网页开启阅读模式, 能让我们更专注于内容, 不会被花花绿绿的广告推广分散精力, 而SimpRead就是一歀为网页开启**阅读模式**的插件
 
-#### [030《掘金》相信优质技术内容的力量](https://zhaoolee.gitbooks.io/chrome/content/030300a-jue-jin-300b-xiang-xin-you-zhi-ji-zhu-nei-rong-de-li-liang.html)
+#### [030《掘金》Believe in the power of quality technical content](https://zhaoolee.gitbooks.io/chrome/content/030300a-jue-jin-300b-xiang-xin-you-zhi-ji-zhu-nei-rong-de-li-liang.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-4d12c34062cd74db.gif?imageMogr2/auto-orient/strip)
 
-> 如果你想对 程序员, 产品经理, 设计师的行业知识有所了解, 可以没事儿打开掘金插件看一看, 如果你感觉很喜欢里面的内容, 可以到掘金官网 [https://juejin.im/](https://juejin.im/) 逛一逛
+> If you want to know the industry knowledge of programmers, product managers, and designers, you can open the Nuggets plug-in to see if you feel like it. If you feel like the content, you can go to the official website of Nuggets.[https://juejin.im/](https://juejin.im/)
 
 
-#### [031《OneTab》把多个Tab转换为一个列表](https://zhaoolee.gitbooks.io/chrome/content/031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.html)
+#### [031《OneTab》Convert multiple tabs into a list](https://zhaoolee.gitbooks.io/chrome/content/031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.html)
+
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-8bc107e6c67a52c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> 当你发现自己有太多的标签页时,单击OneTab图标,所有标签页会转换成一个列表,当你需要再次访问这些标签页时,点击OneTab图标唤出列表,点击列表恢复标签页
+> When you find yourself having too many tabs, click on the OneTab icon and all tabs will be converted into a list. When you need to access them again, click the OneTab icon to call up the list and click on the list recovery tab.
 
 
-#### [032《Smallpdf》简单好用的线上PDF工具](https://zhaoolee.gitbooks.io/chrome/content/032smallpdf300b-jian-dan-hao-yong-de-xian-shang-pdf-gong-ju.html)
+#### [032《Smallpdf》Online pdf tool easy to use](https://zhaoolee.gitbooks.io/chrome/content/032smallpdf300b-jian-dan-hao-yong-de-xian-shang-pdf-gong-ju.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-5301340e6eb4e659.gif?imageMogr2/auto-orient/strip)
-> Smallpdf是一个非常好用的PDF工具,可以收藏起来,作为日常办公的工具, Smallpdf可以进行多份pdf在线合并, pdf在线编辑, 如果你是一个经常和PDF打交道的人, 可不要错过它~
+> Smallpdf is a very easy to use PDF tool that can be collected as a daily office tool. Smallpdf can be used for multiple pdf online mergers, pdf online editing. If you are a regular person dealing with PDF, don't miss it~
 
 
-#### [033《一叶》在任意网页开启实时弹幕 聊天窗口 留言板](https://zhaoolee.gitbooks.io/chrome/content/033.html)
+#### [033《一叶》Barrage, Chat, Message board on every web page](https://zhaoolee.gitbooks.io/chrome/content/033.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-294ff06c27ef2d6a.gif?imageMogr2/auto-orient/strip)
-一叶是一款很有想法的产品,但目前用户量还是很少, 对此,我个人也有一些想法,如果官方可以效仿pokemongo这类寻宝游戏,在各大网站的主页对应的留言板内,埋下一些有意思的彩蛋,让用户去寻宝,或许会有利于产品的推广~
+yiyechat is a very interesting product, but the current user volume is still very small. I personally have some ideas for this. If the official can follow the treasure hunt game like pokemongo, in the message board corresponding to the homepage of each major website, Embed some interesting eggs and let users go to treasure hunt, which may be beneficial to the promotion of products~
 
 
-#### [034《Astro Bot》用新标签页刷编程题](https://zhaoolee.gitbooks.io/chrome/content/034astro-bot.html)
+#### [034《Astro Bot》A programming question with every new tab](https://zhaoolee.gitbooks.io/chrome/content/034astro-bot.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bb2ca8b27142c6dd.gif?imageMogr2/auto-orient/strip)
-Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新闻
-
----
-## 咦?(微信打赏) 
-
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b26e3b2967ebab82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+Astro Bot can display a program-related question or related news on a new tab page.
 
 
