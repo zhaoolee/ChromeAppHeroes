@@ -164,104 +164,100 @@ When you browse a great site, you might think of the "similar" sites, especially
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-b5b8d95559de5cd8.png)
 
-Loom可以一键录制浏览器的单个标签页\(盗版翻录视频的神器\), 录制完成后自动生成在线网页,进行视频播放, 可以下载刚刚录制的视频, 也可以为刚刚生成的在线视频设置密码\(盗版录屏加发布一条龙服务~\)
+Loom can record a single tab page of the browser with one click, automatically generate online webpage after recording, play video, download the video just recorded, or set password for the online video just generated.
 
 #### [008《Chrome Cleaner Pro》Speed up for Chrome](https://zhaoolee.gitbooks.io/chrome/content/008-chrome-cleaner-pro300b-wei-chrome-jia-su.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-59e4a96b66c0bd7b.png)
 
-Chrome经过最近几年的发展, 强力的扩展越来越多, 离Chrome OS的目标也越来越近, 软件做大了就会有类似Windows的通病, 软件会变慢, 让Chrome变快的最简单方式就是清理垃圾, 而Chrome Cleaner Pro走的是一键清理的路子~
+After the development of recent years, Chrome has been expanding more and more. The goal of Chrome OS is getting closer and closer. If the software is bigger, there will be a common problem similar to Windows. The software will slow down and make Chrome the fastest. The easy way is to clean up the garbage, and Chrome Cleaner Pro is a one-click cleanup path~
 
 #### [009《vimium》Fusion Chrome and vim](https://zhaoolee.gitbooks.io/chrome/content/009-vimiumchromeyu-vim-shuang-shen-qi-rong-he.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-eca92b882578ab3d.gif?imageMogr2/auto-orient/strip)
-
-vimium可以让我们只使用键盘就可以浏览网页, 如果你第一次看到有人使用vimium, 它的操作方式绝对能让你感到惊艳~
+Vimium allows us to browse the web using only the keyboard. If you see someone using vimium for the first time, it will definitely make you feel amazing~
 
 #### [010《speedtest》Test network speed](https://zhaoolee.gitbooks.io/chrome/content/010-speedtest300b-wang-luo-ce-su-cha-jian-speedtest.html)
 
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-8111a4984b29fd8a.png)
-
-当上网速度很慢的时候, 人们想到的第一件事就进行网络测速,在window上, 只要你安装了360全家桶, 测速功能就是默认安装的, 但测速这种功能根本不需要安装到本地, 交给浏览器就好了
+When the Internet speed is very slow, the first thing people think of is to perform network speed measurement. On the window, as long as you install the 360 family bucket, the speed measurement function is installed by default, but the speed measurement function does not need to be installed locally. , just hand it to the browser.
 
 #### [011 《whatruns》Analysis of website technology stack](https://zhaoolee.gitbooks.io/chrome/content/011whatruns300b-yi-jian-fen-xi-wang-zhan-ji-zhu-zhan.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-84af6226625f2303.png)
 
-如果你对当前浏览的网站非常感兴趣, 可以通过whatruns了解软件的技术栈, 比如看看这个名为facebook用了什么技术
+If you are very interested in the website you are currently browsing, you can use the whatruns to understand the software technology stack, for example, what technology is used by facebook?
 
 #### [012《OurStickys》Web page note paper](https://zhaoolee.gitbooks.io/chrome/content/012ourstickyschromete-se-wang-ye-bian-qian-zhi.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-074fe1eee91a1399.gif?imageMogr2/auto-orient/strip)
 
-向众人介绍喜欢的网页功能时,可以边讲,边向网页打便签,这样既能让人眼前一亮,也让听众容易抓住重点~
+When you introduce the favorite webpage features to everyone, you can talk to the webpage while you are talking, so that you can make people's eyes shine and make the audience easy to grasp the key points~
 
 #### [013《Quick QR》Implement cloud paste with QR code](https://zhaoolee.gitbooks.io/chrome/content/013quick-qr300b-yong-er-wei-ma-shi-xian-yun-nian-tie.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-594510c855555187.png)
 
-通过Quick QR, 我们可以不借助任何通讯软件,通过手机扫码,获取PC浏览器上任意一段文字信息\(云粘贴板哦~\)
+With Quick QR, we can get any piece of text information on the PC browser without scanning any code through the mobile phone (cloud paste board~)
 
 #### [014《超级马里奥游戏》Convert Chrome to game console](https://zhaoolee.gitbooks.io/chrome/content/014300a-chao-ji-ma-li-ao-you-xi-300b-chrome-bian-shen-xiao-ba-wang.html)
 
 > ![超级玛丽.gif](https://upload-images.jianshu.io/upload_images/3203841-e9882471bf5510da.gif?imageMogr2/auto-orient/strip)
 
-用Chrome玩超级马里奥是一种什么体验? 哈哈, 好玩! 《超级马里奥游戏》这款插件,可以让你打开Chrome, 随时玩一局超级玛丽, 嘿嘿😋
+What is the experience of playing Super Mario with Chrome? Haha, fun! Super Mario Game is a plugin that lets you open Chrome and play Super Mario at any time.😋
 
  [015 《XPath Helper》Bing daily wallpaper web crawler](https://zhaoolee.gitbooks.io/chrome/content/015xpath-helper300bwan-cheng-bing-mei-ri-bi-zhi-de-xiao-pa-chong.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-f222421e9ac3fb59.png)
-
-XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我们完成一个Bing壁纸的小爬虫~
+XPath is an extension that helps us complete web crawlers. We can use XPath to help us complete a small crawler of Bing wallpapers~
 
 #### [016《解除B站区域限制》View the attacking giants third season](https://zhaoolee.gitbooks.io/chrome/content/016300a-jie-chu-b-zhan-qu-yu-xian-zhi-300b-cha-kan-jin-ji-de-ju-ren-di-san-ji.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-baebff1c8de070c3.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)  
 > ![](https://upload-images.jianshu.io/upload_images/3203841-477422d7d93c6fb2.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)  
-> 解除B站区域限制,B站老司机必备技能
+> Relieve bilibili area restrictions,Old drivers of bilibili  must have skills
 
 #### [017《新浪微博图床》Local Markdown is written more smoothly, Sina Weibo map bed to help you](https://zhaoolee.gitbooks.io/chrome/content/017300a-xin-lang-wei-bo-tu-chuang-300b-ben-di-markdown-bian-xie-geng-liu-75452c-xin-lang-wei-bo-tu-chuang-lai-bang-mang.html)
 
 
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-19bcf95d7cc235f4.gif?imageMogr2/auto-orient/strip)  
-> 用Markdown写文章, 如果文章中使用了本地配图, 那本地配图就要和文章一起打包,否则别人是看不到图片的,如果把本地图片放到网络服务器, 然后直接把图片的url粘贴到文章里面, 就可以免除图片打包的步骤
+> Write an article with Markdown. If the article uses a local map, the local map will be packaged with the article, otherwise others will not see the image. If you put the local image on the web server, then paste the url of the image directly. In the article, you can eliminate the steps of image packaging.
 
 #### [018《Enhanced Github》Download Github single file](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-acdeb710c40ad901.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)  
 > ![](https://upload-images.jianshu.io/upload_images/3203841-6dcd962a403b2937.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)  
-> 我需要Github给我一根冰棍解暑,Github却坚持把装有冰棍的冰柜也送给我（哥们儿真够意思）... 有了Enhanced Github这款插件, 我们可以下载Github优秀项目中最核心的代码文件进行学习, 而不是 下载 整个仓库作为藏品
+> I need Github to give me a popsicle to relieve the heat, Github insists on giving me the freezer with popsicles. (The buddy is really interesting)... With the enhanced Github plugin, we can download the core of the Github excellent project. Code file to learn, instead of downloading the entire repository as a collection
 
 #### [019《MEGA》Network disk conscience? Try MEGA!](https://zhaoolee.gitbooks.io/chrome/content/019mega300b-wang-pan-ke-yi-liang-xin-dao-shi-yao-cheng-5ea63f-shi-shi-mega-542721.html)
 
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-3691895f59253171.png)
->
-> * 没有限速的概念\(真的被百度盘的限速策略恶心到了\)
-> * 在国内可用\(google虽好, 但国内用不了, MEGAsync亲测国内可用\)
-> * 云端加密, 资源不会被封杀
-> * 官方提供了Linux客户端
+
+- There is no concept of speed limit (it is really disgusting by the speed limit strategy of Baidu's network disk)
+- Cloud encryption, resources will not be blocked
+- Officially provided Linux client
 
 #### [020《Boxel Rebound》Bounce small squares (with homemade track sharing method)](https://zhaoolee.gitbooks.io/chrome/content/020boxel-rebound300b-201c-hai-dao-zhong-du-201d-de-dan-tiao-xiao-fang-575728-fu-zi-zhi-sai-dao-fen-xiang-fang-6cd529.html)
 
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-36b22f7d02e13dcf.gif?imageMogr2/auto-orient/strip)  
-> Boxel Rebound是一个偏极客的小游戏, 玩法简单, 可以自由创建赛道, 分享赛道, 获取别人的赛道进行二次开发; 无论你是Mac用户,Windows用户,Linux用户, 只要安装了Chrome浏览器, 就可以玩耍Boxel Rebound
+> Boxel Rebound is a little geek game with simple gameplay, free to create tracks, share tracks, and get other people's tracks for secondary development; whether you are a Mac user, a Windows user, or a Linux user, just install Chrome. Browser, you can play Boxel Rebound
 
 #### [021《哔哩哔哩助手》Become the old driver of bilibili](https://zhaoolee.gitbooks.io/chrome/content/021300a-bi-li-bi-li-zhu-shou-300b-zhu-ni-kuai-su-cheng-wei-b-zhan-lao-si-ji.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-ce2576b2c1071540.gif?imageMogr2/auto-orient/strip)
 
-> 哔哩哔哩助手, 功能实用,开发者也一直保持着较高频率的更新,可以放心食用~
+> 哔哩哔哩助手,functional, developers have always maintained a high frequency of updates, you can rest assured to eat ~
 
 
 
 #### [022《扩展管理器》Manage your Chrome extensions](https://zhaoolee.gitbooks.io/chrome/content/022300a-kuo-zhan-guan-li-qi-300b-guan-li-ni-de-chrome-kuo-zhan.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-88ccd460af7c3710.gif?imageMogr2/auto-orient/strip)
-> 如果Chrome安装的插件很多, 我们可以对插件进行分组, 按照场景,启用不同组的插件
+> If there are a lot of plugins installed in Chrome, we can group the plugins and enable different groups of plugins according to the scenario.
 
 
 ##### [023《FireShot》scrolling across the entire page just one click](https://zhaoolee.gitbooks.io/chrome/content/023fireshot300b-yi-jian-gun-dong-jie-ping-zheng-ge-wang-ye.html)
@@ -269,37 +265,37 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-ed0e7dd117790d86.gif?imageMogr2/auto-orient/strip)
-> 总体来讲, FireShot是一款不错的软件, 免费且功能够用, 滚动截图的功能比同类软件做的都要好
+> In general, FireShot is a good software, free and useful, scrolling screenshots are better than similar software.
 
 #### [024《Dark Reader》Enable night mode for any website](https://zhaoolee.gitbooks.io/chrome/content/024dark-reader300b-wei-ren-yi-wang-zhan-qi-yong-ye-jian-mo-shi.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-aa2901c3c75c9e84.gif?imageMogr2/auto-orient/strip)
 
-> 喜欢夜间模式的小伙伴, Dark Reader应该可以满足你了~
+> Like the night mode partner, Dark Reader should be able to satisfy you~
 
 
 
 #### [025《Console》Chrome comes with a good calculator](https://zhaoolee.gitbooks.io/chrome/content/025-consolechromezi-dai-de-hao-yong-ji-suan-qi.html)
 > ![](https://upload-images.jianshu.io/upload_images/3203841-54462ab1368dd544.gif?imageMogr2/auto-orient/strip)
 
->Chrome计算机的好用之处: 既可以看到加数字的记录,也可以实时预览运算的结果, 输入完成后还可以很方便的核查一遍, 还有一点: Chrome计算器观赏性强(逼格很高) 
+> The usefulness of the Chrome computer: You can see the number of records, you can also preview the results of the operation in real time, you can check it again after the input is completed, and one more point: Chrome calculator is very popular 
 
 #### [026《Quickey Launcher》Open a website with just one click](https://zhaoolee.gitbooks.io/chrome/content/026-quickey-launcher300b-da-kai-wang-zhan-zhi-xu-yi-jian.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-723f52e93f9e9695.gif?imageMogr2/auto-orient/strip)
-> Quickey Launcher以优雅的方式, 为任意网页绑定一个快捷键, 绑定完成后, 即可通过快捷键,打开网页
+> Quickey Launcher binds a shortcut to any web page in an elegant way. Once the binding is complete, you can open the web page with the shortcut key.
 
 #### [027《Text》Cross-platform notepad from Chrome Labs](https://zhaoolee.gitbooks.io/chrome/content/027text300b-lai-zi-chrome-shi-yan-shi-de-kua-ping-tai-ji-shi-ben.html)
 
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-12a1c559efca1020.gif?imageMogr2/auto-orient/strip)
 
-> Text由谷歌Chrome实验室研发并开源, 开源地址https://github.com/GoogleChromeLabs/text-app , Text属于小而美的产品, 功能不算强大, 但是够用, 而且借助Chrome完成了跨平台(在Linux也可以使用哦~)
+> Text is developed and open sourced by Google Chrome Labs. The open source address is https://github.com/GoogleChromeLabs/text-app. Text is a small and beautiful product. It is not powerful, but it is enough, and it has completed cross-platform with Chrome (Can also be used in Linux ~)
 
 #### [028《AdBlock》Custom blocking ads](https://zhaoolee.gitbooks.io/chrome/content/028adblockadblockping-bi-jian-shu-guang-gao.html)
 
 > ![屏蔽简书广告](https://upload-images.jianshu.io/upload_images/3203841-7109d71fac8e25d5.gif?imageMogr2/auto-orient/strip)
-> Adblock的功能非常丰富, 但很多功能基本用不到, 普通用户只需要开启Adblock, 能使用右键工具屏蔽不喜欢的广告, 也就够用了~
+> The function of Adblock is very rich, but many functions are basically not used. Ordinary users only need to open Adblock, and can use the right-click tool to block ads that they don't like, which is enough~
 
 
 #### [029 《SimpRead》Turn on reading mode for any webpage](https://zhaoolee.gitbooks.io/chrome/content/029-simread300b-wei-ren-yi-wang-ye-kai-qi-yue-du-mo-shi.html)
