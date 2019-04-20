@@ -38,4 +38,5 @@
 * [031《OneTab》把多个Tab转换为一个列表](031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.md)
 * [032《Smallpdf》简单好用的线上PDF工具](032smallpdf300b-jian-dan-hao-yong-de-xian-shang-pdf-gong-ju.md)
 * [033《一叶》在任意网页开启聊天窗口](033.md)
+* [034《Astro Bot》用新标签页刷编程题](034astro-bot300b-yong-xin-biao-qian-ye-shua-bian-cheng-ti.md)
 
