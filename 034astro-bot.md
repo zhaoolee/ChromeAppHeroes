@@ -1,14 +1,16 @@
+Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新闻
+
 ## 使用效果
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bb2ca8b27142c6dd.gif?imageMogr2/auto-orient/strip)
-
-
 
 - 如果选错答案，可以重新选择
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-dcc14ed15e447834.gif?imageMogr2/auto-orient/strip)
 (正确答案为绿色)
+
 - 不只是刷出题目, 有时也会**随机刷出极客新闻**
+
 > ![](https://upload-images.jianshu.io/upload_images/3203841-804254ee11545465.gif?imageMogr2/auto-orient/strip)
 
 - 彩蛋: 进入开发者的网站
@@ -22,12 +24,24 @@
 > ![](https://upload-images.jianshu.io/upload_images/3203841-a06eeb6a71f5643b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-## 插件下载地址:
-[https://chrome.google.com/webstore/detail/astro-bot/acjiedbilhbchmjblapmekfajpplpgdo](https://chrome.google.com/webstore/detail/astro-bot/acjiedbilhbchmjblapmekfajpplpgdo)
 
 
 ## 小结:
 Astro Bot本身就像是一个彩蛋,Astro Bot的命名源于一款宇宙小机器人游戏,[https://astro.codes/](https://astro.codes/) 网站主页也是以一个机器人的视角发言, Astro Bot是一个适合程序员的浏览器插件, 题目的范围也是非常广, 不限编程语言, 算法, 数据结构都有涉及, 每天打开新标签页都能刷刷题, 也是很独特的一种体验~
+
+## 插件下载地址:
+[https://chrome.google.com/webstore/detail/astro-bot/acjiedbilhbchmjblapmekfajpplpgdo](https://chrome.google.com/webstore/detail/astro-bot/acjiedbilhbchmjblapmekfajpplpgdo)
+
+
+
+## 对其它浏览器的支持
+
+| FireFox | Safari | Edge|
+| - | - | - | 
+| 暂不支持 | 暂不支持 | 暂不支持 |
+
+---
+
 
 
 ## 写在最后(我需要你的支持)
