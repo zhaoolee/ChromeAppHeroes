@@ -6,34 +6,34 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square)  ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年4月20日更新)
+## Table of contents (Updated April 20, 2019)
 
 - [034《Astro Bot》A programming question with every new tab](https://zhaoolee.gitbooks.io/chrome/content/034astro-bot.html)
 
-- [033《一叶》Barrage, Chat, Message board on Every WebPage](https://zhaoolee.gitbooks.io/chrome/content/033.html)
+- [033《一叶》Barrage, Chat, Message board on every web page](https://zhaoolee.gitbooks.io/chrome/content/033.html)
 
-- [032《Smallpdf》简单好用的线上PDF工具](https://zhaoolee.gitbooks.io/chrome/content/032smallpdf300b-jian-dan-hao-yong-de-xian-shang-pdf-gong-ju.html)
+- [032《Smallpdf》Online pdf tool easy to use](https://zhaoolee.gitbooks.io/chrome/content/032smallpdf300b-jian-dan-hao-yong-de-xian-shang-pdf-gong-ju.html)
 
-- [031《OneTab》把多个Tab转换为一个列表](https://zhaoolee.gitbooks.io/chrome/content/031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.html)
+- [031《OneTab》Convert multiple tabs into a list](https://zhaoolee.gitbooks.io/chrome/content/031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.html)
 
-- [030《掘金》相信优质技术内容的力量](https://zhaoolee.gitbooks.io/chrome/content/030300a-jue-jin-300b-xiang-xin-you-zhi-ji-zhu-nei-rong-de-li-liang.html)
+- [030《掘金》Believe in the power of quality technical content](https://zhaoolee.gitbooks.io/chrome/content/030300a-jue-jin-300b-xiang-xin-you-zhi-ji-zhu-nei-rong-de-li-liang.html)
 
-- [029 《SimpRead》为任意网页开启阅读模式](https://zhaoolee.gitbooks.io/chrome/content/029-simread300b-wei-ren-yi-wang-ye-kai-qi-yue-du-mo-shi.html)
+- [029 《SimpRead》Turn on reading mode for any webpage](https://zhaoolee.gitbooks.io/chrome/content/029-simread300b-wei-ren-yi-wang-ye-kai-qi-yue-du-mo-shi.html)
 
-- [028《AdBlock》Adblock自定义屏蔽简书广告](https://zhaoolee.gitbooks.io/chrome/content/028adblockadblockping-bi-jian-shu-guang-gao.html)
+- [028《AdBlock》Custom blocking ads](https://zhaoolee.gitbooks.io/chrome/content/028adblockadblockping-bi-jian-shu-guang-gao.html)
 
-- [027《Text》来自Chrome实验室的跨平台记事本](https://zhaoolee.gitbooks.io/chrome/content/027text300b-lai-zi-chrome-shi-yan-shi-de-kua-ping-tai-ji-shi-ben.html)
+- [027《Text》Cross-platform notepad from Chrome Labs](https://zhaoolee.gitbooks.io/chrome/content/027text300b-lai-zi-chrome-shi-yan-shi-de-kua-ping-tai-ji-shi-ben.html)
 
-- [026《Quickey Launcher》打开网站只需一键](https://zhaoolee.gitbooks.io/chrome/content/026-quickey-launcher300b-da-kai-wang-zhan-zhi-xu-yi-jian.html)
+- [026《Quickey Launcher》Open a website with just one click](https://zhaoolee.gitbooks.io/chrome/content/026-quickey-launcher300b-da-kai-wang-zhan-zhi-xu-yi-jian.html)
 
--  [025《Console》Chrome自带好用的计算器](https://zhaoolee.gitbooks.io/chrome/content/025-consolechromezi-dai-de-hao-yong-ji-suan-qi.html)
+-  [025《Console》Chrome comes with a good calculator](https://zhaoolee.gitbooks.io/chrome/content/025-consolechromezi-dai-de-hao-yong-ji-suan-qi.html)
 
-- [024《Dark Reader》为任意网站启用夜间模式](https://zhaoolee.gitbooks.io/chrome/content/024dark-reader300b-wei-ren-yi-wang-zhan-qi-yong-ye-jian-mo-shi.html)
+- [024《Dark Reader》Enable night mode for any website](https://zhaoolee.gitbooks.io/chrome/content/024dark-reader300b-wei-ren-yi-wang-zhan-qi-yong-ye-jian-mo-shi.html)
 
 
-* [023《FireShot》一键滚动截屏整个网页](https://zhaoolee.gitbooks.io/chrome/content/023fireshot300b-yi-jian-gun-dong-jie-ping-zheng-ge-wang-ye.html)
+* [023《FireShot》scrolling across the entire page just one click](https://zhaoolee.gitbooks.io/chrome/content/023fireshot300b-yi-jian-gun-dong-jie-ping-zheng-ge-wang-ye.html)
 
-* [022《扩展管理器》管理你的Chrome扩展](https://zhaoolee.gitbooks.io/chrome/content/022300a-kuo-zhan-guan-li-qi-300b-guan-li-ni-de-chrome-kuo-zhan.html)
+* [022《扩展管理器》Manage your Chrome extensions](https://zhaoolee.gitbooks.io/chrome/content/022300a-kuo-zhan-guan-li-qi-300b-guan-li-ni-de-chrome-kuo-zhan.html)
 
 * [021《哔哩哔哩助手》助你快速成为B站老司机](https://zhaoolee.gitbooks.io/chrome/content/021300a-bi-li-bi-li-zhu-shou-300b-zhu-ni-kuai-su-cheng-wei-b-zhan-lao-si-ji.html)
 
