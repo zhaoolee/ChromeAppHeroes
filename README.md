@@ -6,7 +6,15 @@
 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~  
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-64c7a4817bbf3359.png)
+> ![谷粒](https://upload-images.jianshu.io/upload_images/3203841-64c7a4817bbf3359.png)
+
+感谢[罗老师](https://github.com/LuoJiangYong)为本项目设计的新的Logo, 
+
+## 何为谷粒：
+- 用火柴的元素延展成线条组合文字谷粒取意
+- 稻谷本就为中国乃至世界重要粮食,与谷歌的谷结合
+- 火柴为希望, 谷粒指代Chrome插件
+
 
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square)  ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
