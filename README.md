@@ -6,9 +6,9 @@
 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~  
 
-> ![谷粒](https://upload-images.jianshu.io/upload_images/3203841-64c7a4817bbf3359.png)
+> ![谷粒](https://upload-images.jianshu.io/upload_images/3203841-73c51c5dab4829e5.png)
 
-感谢[罗老师](https://github.com/LuoJiangYong)为本项目设计的新的Logo, 
+感谢[罗老师](https://github.com/LuoJiangYong)为本项目设计的新的Logo
 
 ## 何为谷粒：
 - 用火柴的元素延展成线条组合文字谷粒取意
