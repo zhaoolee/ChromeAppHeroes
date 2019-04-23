@@ -6,7 +6,7 @@
 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~  
 
-> ![谷粒](https://upload-images.jianshu.io/upload_images/3203841-c23432f3cf53ce27.png)
+![谷粒](https://upload-images.jianshu.io/upload_images/3203841-c23432f3cf53ce27.png)
 
 ## 谷粒取意：
 - chrome为谷歌旗下的一款世界现象级浏览器，取其谷字；谷粒寓意系列插件；
