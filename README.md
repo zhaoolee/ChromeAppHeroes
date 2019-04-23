@@ -8,12 +8,15 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 > ![谷粒](https://upload-images.jianshu.io/upload_images/3203841-c23432f3cf53ce27.png)
 
-感谢[罗老师](https://github.com/LuoJiangYong)为本项目设计的新的Logo
+## 谷粒取意：
+- chrome为谷歌旗下的一款世界现象级浏览器，取其谷字；谷粒寓意系列插件；
+- 采用火柴为基础元素进行演变，重新造字；同时寓意希望，圆满；也意味着进化，暗指插件的迭代；
+- 稻谷为世界粮食的其中一种重要组成部分；
+- 粒的组成中有部分壁画缺失，意味着插件的不断开发，功能的不断完善和延展。
 
-## 何为谷粒：
-- 用火柴的元素延展成线条组合文字谷粒取意
-- 稻谷本就为中国乃至世界重要粮食,与谷歌的谷结合
-- 火柴为希望, 谷粒指代Chrome插件
+
+**感谢[罗老师](https://github.com/LuoJiangYong)为本项目设计的新的Logo**
+
 
 
 
