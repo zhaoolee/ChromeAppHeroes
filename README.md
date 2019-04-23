@@ -17,6 +17,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢[罗老师](https://github.com/LuoJiangYong)为本项目设计的新的Logo**
 
+----
+
+#### 本项目由**[伊利谷粒多](https://weibo.com/u/2401764807)**截屏商标赞助[手动捂脸]
+
+----
 
 
 
