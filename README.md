@@ -19,7 +19,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ----
 
-- **Chrome插件英雄榜**这个名字本身其实有点偏差,这个仓库严格来说介绍的是chrome扩展程序（extension），也就是chrome://extensions中的东西。所以这把这个仓库称为**Chrome扩展英雄榜**更准确些,但**插件**这个名词更容易让人了解本仓库内容,所以就使用了**插件**这个名词 ,感谢@[hjthjthjt](https://github.com/hjthjthjt) 给出的[issue](https://github.com/zhaoolee/ChromeAppHeroes/issues/14)
+- 把这个仓库称为**Chrome扩展英雄榜**更准确些,但**插件**这个名词更容易让人了解本仓库内容, 所以就使用了**插件**这个名词 ,感谢@[hjthjthjt](https://github.com/hjthjthjt) 给出的[issue](https://github.com/zhaoolee/ChromeAppHeroes/issues/14)
 
 
 
