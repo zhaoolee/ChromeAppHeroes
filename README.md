@@ -117,7 +117,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 | [Gitako - Github file tree](https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk)| [EnixCoda](https://github.com/EnixCoda) | [Github仓库地址](https://github.com/EnixCoda/Gitako) | 功能上类似于大名鼎鼎的 Octotree ，但是用了更现代化的前端工具，性能好很多。 |
 | [GITHUBER](https://chrome.google.com/webstore/detail/githuber/janmcneaglgklfljjcpihkkomeghljnf)| [zhuowenli](https://github.com/zhuowenli) | [Github仓库地址](https://github.com/zhuowenli/githuber) | 这是一个帮助 GitHub 开发者每日发现优质内容的 Chrome 主页拓展。 |
 
-> ![造福人类.png](https://upload-images.jianshu.io/upload_images/3203841-1862f71e603ecdcf.png)
+![造福人类.png](https://upload-images.jianshu.io/upload_images/3203841-1862f71e603ecdcf.png)
 
 
 
@@ -129,10 +129,15 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ---
 
-## 谷粒取意：
-![元素起源.png](https://upload-images.jianshu.io/upload_images/3203841-4329d98476eeb9ae.png)
+
+## 谷粒取意(老罗巴扎嘿语录)：
 - Chrome为谷歌旗下的一款世界现象级浏览器（这里不提国内任何一款以其内核开发的浏览器，嗯哼，都明白，也不提影响人类前途的IE），因为该开源项目（重要的事情说三遍），《Chrome插件英雄榜》主要是谷歌浏览器的插件推荐、使用说明、资源仓库等，因此取谷歌的“谷”字。
 - 而“粒”字，咳咳，划重点！完全是（没错，你没看错）老罗在梯田徒步中看到漫山遍野（就是要夸张）的稻谷，然后被晒得只想坐在树下喝椰子水的时候想到的，好的，隔壁同事说我要讲正事了（就知道bibi），“粒”首先寓意着插件英雄们为了谷歌浏览器的功能拓展和使用便捷开发的插件（用完即走，一点不拖泥带水）。
+![元素起源.png](https://upload-images.jianshu.io/upload_images/3203841-4329d98476eeb9ae.png)
+
+
+---
+
 - 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
 
 - 感谢[简书](https://www.jianshu.com/)社区提供超棒的Markdown编辑器,**Chrome插件英雄榜**的编辑工作,几乎全部由通过简书编辑器完成
