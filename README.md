@@ -1,8 +1,7 @@
 [English](https://zhaoolee.gitbooks.io/chrome/content/readme-en.html)   |  [中文简体](https://zhaoolee.gitbooks.io/chrome/content/)
 
-![smartmockups_juunqacy.jpg](https://upload-images.jianshu.io/upload_images/3203841-2c26aa093d3068d5.jpg)
 
-
+![smartmockups_juunlhbe.jpg](https://upload-images.jianshu.io/upload_images/3203841-4f0b239a3bb43be8.jpg)
 
 
 # ChromeAppHeroes
@@ -20,9 +19,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ![谷粒VI设计.png](https://upload-images.jianshu.io/upload_images/3203841-106b5a5db4b5bc42.png)
 
 
-## 谷粒取意：
-- chrome为谷歌旗下的一款世界现象级浏览器，取其谷字；谷粒寓意系列插件；
-- 普罗米修斯为人类带来火种，在东方，造型1意味着万物起源，采用火柴为基础元素进行演变，重新造字；同时寓意希望，圆满；也意味着进化，暗指插件的迭代；
+## 谷粒)：
+- Chrome为谷歌旗下的一款世界现象级浏览器（这里不提国内任何一款以其内核开发的浏览器，嗯哼，都明白，也不提影响人类前途的IE），因为该开源项目（重要的事情说三遍），《Chrome插件英雄榜》主要是谷歌浏览器的插件推荐、使用说明、资源仓库等，因此取谷歌的“谷”字。
+- 而“粒”字，咳咳，划重点！完全是（没错，你没看错）老罗在梯田徒步中看到漫山遍野（就是要夸张）的稻谷，然后被晒得只想坐在树下喝椰子水的时候想到的，好的，隔壁同事说我要讲正事了（就知道bibi），“粒”首先寓意着插件英雄们为了谷歌浏览器的功能拓展和使用便捷开发的插件（用完即走，一点不拖泥带水）。
 ![元素起源.png](https://upload-images.jianshu.io/upload_images/3203841-4329d98476eeb9ae.png)
 
 
@@ -33,7 +32,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
-**感谢[罗老师](https://github.com/LuoJiangYong)为本项目设计的新的Logo**
+**感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo**
 
 ----
 
@@ -152,7 +151,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 - [《这份“插件英雄榜Top20”才是Chrome的正确打开方式！》](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/88386634) 作者: [AI科技大本营](https://me.csdn.net/dQCFKyQDXYm3F8rB0)
 - [《Chrome 插件英雄榜》](https://zhuanlan.zhihu.com/p/58636515) 作者: [非著名程序员](https://www.zhihu.com/people/loonggg/activities)
 - [《開源日報第363期》](https://openingsource.org/6190/zh-tw/)  作者: [开源工厂](https://openingsource.org/)
-
+- [《一根火柴的N种打开方式》](https://mp.weixin.qq.com/s/Y-9ht-E7-OdJOEDDb3yyWw) 作者: [老罗巴扎嘿](https://github.com/LuoJiangYong)
 ---
 
 
