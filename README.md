@@ -4,9 +4,15 @@
 # ChromeAppHeroes
 
 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~
+
+![造福人类.png](https://upload-images.jianshu.io/upload_images/3203841-1862f71e603ecdcf.png)
+
+
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~  
 
-![谷粒](https://upload-images.jianshu.io/upload_images/3203841-c23432f3cf53ce27.png)
+
+![谷粒VI设计.png](https://upload-images.jianshu.io/upload_images/3203841-106b5a5db4b5bc42.png)
+
 
 ## 谷粒取意：
 - chrome为谷歌旗下的一款世界现象级浏览器，取其谷字；谷粒寓意系列插件；
@@ -470,6 +476,78 @@ XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我�
 > ![](https://upload-images.jianshu.io/upload_images/3203841-bb2ca8b27142c6dd.gif?imageMogr2/auto-orient/strip)
 Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新闻
 
+
+---
+
+## 一根火柴的N种打开方式
+
+![1.png](https://upload-images.jianshu.io/upload_images/3203841-9917c128f126af04.png)
+
+![2.png](https://upload-images.jianshu.io/upload_images/3203841-65f557ebe2d43416.png)
+
+![3.png](https://upload-images.jianshu.io/upload_images/3203841-8812cb5d942efdf1.png)
+
+![4.png](https://upload-images.jianshu.io/upload_images/3203841-4c6d4242dd0ee0ef.png)
+
+![mockup组图.png](https://upload-images.jianshu.io/upload_images/3203841-bc56f504ae35ab85.png)
+
+![smartmockups_jutnmk30.jpg](https://upload-images.jianshu.io/upload_images/3203841-aca8caddcef581a5.jpg)
+
+![smartmockups_jutnp8g2.jpg](https://upload-images.jianshu.io/upload_images/3203841-35f80459d5660b48.jpg)
+
+![smartmockups_jutnpzqb.jpg](https://upload-images.jianshu.io/upload_images/3203841-84ecfb05ea5f9a25.jpg)
+
+![smartmockups_jutnr2ss.png](https://upload-images.jianshu.io/upload_images/3203841-ef1208a04e95ca8f.png)
+
+![smartmockups_juumivqn.jpg](https://upload-images.jianshu.io/upload_images/3203841-569b013ae8c48224.jpg)
+
+![smartmockups_juumxrou.png](https://upload-images.jianshu.io/upload_images/3203841-0e7a602c9ece4343.png)
+
+![smartmockups_juumykap.png](https://upload-images.jianshu.io/upload_images/3203841-412f37584fd9d764.png)
+
+![smartmockups_juumzcer.png](https://upload-images.jianshu.io/upload_images/3203841-7ff1ca6f61f385d5.png)
+
+![smartmockups_juumzwth.png](https://upload-images.jianshu.io/upload_images/3203841-626437f8017e62b5.png)
+
+![smartmockups_juun0icz.jpg](https://upload-images.jianshu.io/upload_images/3203841-49d418d107210254.jpg)
+
+![smartmockups_juun1ezl.jpg](https://upload-images.jianshu.io/upload_images/3203841-b0bf3cd24b756a84.jpg)
+
+![smartmockups_juun4lgg.jpg](https://upload-images.jianshu.io/upload_images/3203841-dc3b30930cf3cc53.jpg)
+
+![smartmockups_juun6czp.jpg](https://upload-images.jianshu.io/upload_images/3203841-1cff6dba719f0d4d.jpg)
+
+![smartmockups_juun7wrm.jpg](https://upload-images.jianshu.io/upload_images/3203841-6ae6d8cec9d80512.jpg)
+
+![smartmockups_juun8icp.jpg](https://upload-images.jianshu.io/upload_images/3203841-8080071d1c1afb48.jpg)
+
+![smartmockups_juun73em.jpg](https://upload-images.jianshu.io/upload_images/3203841-beb6f86a153812d0.jpg)
+
+![smartmockups_juunbrme.jpg](https://upload-images.jianshu.io/upload_images/3203841-f5fbba4ae9d930b6.jpg)
+
+![smartmockups_juuncsz7.jpg](https://upload-images.jianshu.io/upload_images/3203841-b69deab6823e9072.jpg)
+
+![smartmockups_juunduht.jpg](https://upload-images.jianshu.io/upload_images/3203841-c81a8ea0e2cd051d.jpg)
+
+![smartmockups_juuneg9s.jpg](https://upload-images.jianshu.io/upload_images/3203841-5df16363263e115e.jpg)
+
+![smartmockups_juunjkp6.jpg](https://upload-images.jianshu.io/upload_images/3203841-e15f36c4f3b5c2d8.jpg)
+
+![smartmockups_juunlhbe.jpg](https://upload-images.jianshu.io/upload_images/3203841-4f0b239a3bb43be8.jpg)
+
+![smartmockups_juunolgx.jpg](https://upload-images.jianshu.io/upload_images/3203841-12742c4c3ce24374.jpg)
+
+![smartmockups_juunqacy.jpg](https://upload-images.jianshu.io/upload_images/3203841-2c26aa093d3068d5.jpg)
+
+![smartmockups_juunyihx.jpg](https://upload-images.jianshu.io/upload_images/3203841-358c409f773b6276.jpg)
+
+![元素起源.png](https://upload-images.jianshu.io/upload_images/3203841-4329d98476eeb9ae.png)
+
+![谷粒VI设计.png](https://upload-images.jianshu.io/upload_images/3203841-106b5a5db4b5bc42.png)
+
+![谷粒VI设计(红).png](https://upload-images.jianshu.io/upload_images/3203841-8420d907452210fd.png)
+
+![造福人类.png](https://upload-images.jianshu.io/upload_images/3203841-1862f71e603ecdcf.png)
 
 
 
