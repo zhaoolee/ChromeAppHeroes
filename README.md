@@ -491,13 +491,12 @@ Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新�
 
 ---
 
-## 一根火柴的N种打开方式
+## 一根火柴的N种打开方式(谷粒文化)
 
 ![1.png](https://upload-images.jianshu.io/upload_images/3203841-9917c128f126af04.png)
 
 ![2.png](https://upload-images.jianshu.io/upload_images/3203841-65f557ebe2d43416.png)
 
-![3.png](https://upload-images.jianshu.io/upload_images/3203841-8812cb5d942efdf1.png)
 
 ![4.png](https://upload-images.jianshu.io/upload_images/3203841-4c6d4242dd0ee0ef.png)
 
@@ -545,7 +544,6 @@ Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新�
 
 ![smartmockups_juunjkp6.jpg](https://upload-images.jianshu.io/upload_images/3203841-e15f36c4f3b5c2d8.jpg)
 
-![smartmockups_juunlhbe.jpg](https://upload-images.jianshu.io/upload_images/3203841-4f0b239a3bb43be8.jpg)
 
 ![smartmockups_juunolgx.jpg](https://upload-images.jianshu.io/upload_images/3203841-12742c4c3ce24374.jpg)
 
@@ -553,11 +551,7 @@ Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新�
 
 ![smartmockups_juunyihx.jpg](https://upload-images.jianshu.io/upload_images/3203841-358c409f773b6276.jpg)
 
-![元素起源.png](https://upload-images.jianshu.io/upload_images/3203841-4329d98476eeb9ae.png)
 
-![谷粒VI设计.png](https://upload-images.jianshu.io/upload_images/3203841-106b5a5db4b5bc42.png)
-
-![谷粒VI设计(红).png](https://upload-images.jianshu.io/upload_images/3203841-8420d907452210fd.png)
 
 ![造福人类.png](https://upload-images.jianshu.io/upload_images/3203841-1862f71e603ecdcf.png)
 
