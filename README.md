@@ -1,9 +1,15 @@
 [English](https://zhaoolee.gitbooks.io/chrome/content/readme-en.html)   |  [中文简体](https://zhaoolee.gitbooks.io/chrome/content/)
 
+![smartmockups_juunqacy.jpg](https://upload-images.jianshu.io/upload_images/3203841-2c26aa093d3068d5.jpg)
+
+
+
 
 # ChromeAppHeroes
 
+
 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~
+
 
 ![造福人类.png](https://upload-images.jianshu.io/upload_images/3203841-1862f71e603ecdcf.png)
 
@@ -17,8 +23,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ## 谷粒取意：
 - chrome为谷歌旗下的一款世界现象级浏览器，取其谷字；谷粒寓意系列插件；
 - 普罗米修斯为人类带来火种，在东方，造型1意味着万物起源，采用火柴为基础元素进行演变，重新造字；同时寓意希望，圆满；也意味着进化，暗指插件的迭代；
+![元素起源.png](https://upload-images.jianshu.io/upload_images/3203841-4329d98476eeb9ae.png)
+
+
+
 - 稻谷为世界粮食的重要组成部分，希望chrome插件英雄榜可以造福人类；
 - 粒的组成中有部分笔画缺失，意味着插件的不断开发，功能的不断完善和延展。
+
+
 
 
 **感谢[罗老师](https://github.com/LuoJiangYong)为本项目设计的新的Logo**
