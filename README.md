@@ -27,7 +27,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
-## 目录(2019年4月23日更新)
+## 目录(2019年4月25日更新)
 
 - [034《Astro Bot》用新标签页刷编程题](https://zhaoolee.gitbooks.io/chrome/content/034astro-bot.html)
 
