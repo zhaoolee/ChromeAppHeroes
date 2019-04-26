@@ -40,4 +40,5 @@
 * [033《一叶》在任意网页开启聊天窗口](033.md)
 * [034《Astro Bot》用新标签页刷编程题](034astro-bot.md)
 * [README-EN](readme-en.md)
+* [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](035print-friendly-and-pdf300b-rang-ni-yong-you-zui-jia-de-da-yin-yue-du-ti-yan.md)
 
