@@ -41,5 +41,5 @@
 * [034《Astro Bot》用新标签页刷编程题](034astro-bot.md)
 * [README-EN](readme-en.md)
 * [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](035print-friendly-and-pdf.md)
-* [036《Screen Shader》把屏幕调成暖色，你的眼睛会感谢你🙏](036screen-shader300b-ba-ping-mu-diao-cheng-nuan-se-ff0c-ni-de-yan-jing-hui-gan-xie-ni-d83d-de4f.md)
+* [036《Screen Shader》把屏幕调成暖色，你的眼睛会感谢你🙏](036screen-shader.md)
 
