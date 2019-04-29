@@ -35,6 +35,10 @@ Screen Shader可以将浏览器界面调成暖色, 保护你的眼睛
 ![谷粒-Chrome插件英雄榜](https://upload-images.jianshu.io/upload_images/3203841-4f0b239a3bb43be8.jpg)
 
 
+## 小结:
+
+对于长时间看电脑的办公人员, 可以尝试吧屏幕调成暖色, 开始可能会不习惯, 但后面会感觉眼睛会舒服很多, 你的眼睛也会感谢你的~
+
 ## 写在最后(我需要你的支持)
 - 本文属于**谷粒-Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 

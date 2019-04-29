@@ -27,7 +27,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
-## 目录(2019年4月26日更新)
+## 目录(2019年4月29日更新)
+
+- [036《Screen Shader》把屏幕调成暖色，你的眼睛会感谢你🙏](https://zhaoolee.gitbooks.io/chrome/content/036screen-shader.html)
 
 - [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](https://zhaoolee.gitbooks.io/chrome/content/035print-friendly-and-pdf.html)
 
@@ -487,6 +489,14 @@ Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新�
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-a6c27797fdeb8d73.gif?imageMogr2/auto-orient/strip)
 《Print Friendly & PDF》是一款文件打印chrome插件，会在打印之前删除垃圾广告，导航和无用浮窗从而实现页面优化，让你拥有最佳的打印阅读体验, 如果你经常需要打印网页, 可以通过《Print Friendly & PDF》让你的打印工作变得省时省力~
+
+
+
+#### [036《Screen Shader》把屏幕调成暖色，你的眼睛会感谢你🙏](https://zhaoolee.gitbooks.io/chrome/content/036screen-shader.html)
+
+>![](https://upload-images.jianshu.io/upload_images/3203841-583068dcecfa059a.gif)
+
+
 
 ---
 
