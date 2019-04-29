@@ -29,7 +29,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(2019年4月29日更新)
 
-- [036《Screen Shader》把屏幕调成暖色，你的眼睛会感谢你🙏](https://zhaoolee.gitbooks.io/chrome/content/036screen-shader.html)
+- [036《Screen Shader》把网页调成暖色，你的眼睛会感谢你🙏](https://zhaoolee.gitbooks.io/chrome/content/036screen-shader.html)
 
 - [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](https://zhaoolee.gitbooks.io/chrome/content/035print-friendly-and-pdf.html)
 
