@@ -42,6 +42,6 @@
 * [README-EN](readme-en.md)
 * [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](035print-friendly-and-pdf.md)
 * [036《Screen Shader》把屏幕调成暖色，你的眼睛会感谢你🙏](036screen-shader.md)
-* [037](037.md)
+* [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](037.md)
 * [038《Alexa Traffic Rank》一键查看网站全球排名](038alexa-traffic-rank.md)
 
