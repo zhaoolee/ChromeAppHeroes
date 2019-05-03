@@ -17,8 +17,13 @@
 
 - Video Speed Controller只支持html5的视频播放, flash无法使用, 我查了一些数据,貌似flash的倍速播放并不容易实现, 即使有类似`Enounce MySpeed`的工具, 也是有各种局限性, 为了一个已经被adobe抛弃的flash技术, 也没有什么必要
 - 我也看到了一些曲线救国的方案, 比如一些油猴脚本, 可以让网站提供html5的视频播放方式(这确实是一个不错的思路（￣︶￣）)
+
+
 > ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c4681fe18cab?w=1240&h=747&f=png&s=168679)
+
+
 > 油猴脚本地址:https://greasyfork.org/zh-CN/scripts/30879-bye-flash-hello-html5-%E5%86%8D%E8%A7%81flash-%E4%BD%A0%E5%A5%BDhtml5
+
 > 如果你不了解油猴, 可以先阅读这篇: [油猴子! 给浏览器开个挂](https://www.jianshu.com/p/8d62228c6961)
 
 留个彩蛋, 大家猜猜本文第二张图片中的眼睛是谁的?
