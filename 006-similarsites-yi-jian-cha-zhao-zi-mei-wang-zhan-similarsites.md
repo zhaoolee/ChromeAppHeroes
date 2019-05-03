@@ -5,18 +5,18 @@
 
 - 与bilibili类似的网站
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-1dcc29e97f4f7bba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- > 插件推荐与之类似的网站有, a站, 北美微博广场, 百度贴吧, 人人网(b站的弹幕, 和百度贴吧的盖楼, 联系还是挺强的...)
+> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c48cc431cd09?w=1240&h=849&f=png&s=931330)
+> 插件推荐与之类似的网站有, a站, 北美微博广场, 百度贴吧, 人人网(b站的弹幕, 和百度贴吧的盖楼, 联系还是挺强的...)
 - 与淘宝类似的网站
-> ![](https://upload-images.jianshu.io/upload_images/3203841-d7e5facd3fbbbe9f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c48cc45f3eda?w=1240&h=834&f=png&s=823544)
 > 插件推荐的有, 亚马逊中国, 当当网, 京东, 易趣网(中国的亚马逊总有一种外包的感觉...)
 
 - 与简书类似的网站
-> ![](https://upload-images.jianshu.io/upload_images/3203841-8fbbdcaae031dd2f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c48cc4aa7ff3?w=1240&h=841&f=png&s=538900)
 > 插件推荐的有 十五言, 马克飞象, 作业部落等(十五言的口号是: 每个人都在创造, 简书的口号是: "创作你的创作")
 
 - 找软件资源
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b37bb9aa3613762b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c48cc5e559a0?w=1240&h=841&f=png&s=549945)
 > 这种找资源的方式还是很有用的...
 
 ## 工作机制:
@@ -26,20 +26,20 @@
 - 分析同类网站, 了解潜在竞争对手
 - 分析同类网站的流量(插件面板对每个网站的流量, 都有详细标注)
 - 发现网站的隐藏属性(如下图)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-ba57e36d45347a39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c48cd5d4419a?w=1240&h=743&f=png&s=187080)
 
 
 - 中文官方网站: https://cn.similarsites.com/
 
 > - 恶作剧:与similarsites类似的站点有哪些呢?
-> ![](https://upload-images.jianshu.io/upload_images/3203841-60b972946e4483ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c48ce8814e57?w=1240&h=739&f=png&s=318333)
 > 打破砂锅问到底的结果就是: 砂锅坏了!
 
 ## 小技巧:
 > 对于已经被封的资源站点,如`bt天堂`, 我们可能要“曲线救国”, 到官网` https://cn.similarsites.com/`查找`bttiantang.com`,还是可以找到相关网站的, 如下图~
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f50f299c910e00cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c48d5cf18157?w=1240&h=738&f=png&s=370814)
 
-## 插件下载地址: 
+## 插件下载地址:
 https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn
 
 ---
