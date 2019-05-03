@@ -29,6 +29,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(2019年4月29日更新)
 
+- [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/037.md)
+
 - [036《Screen Shader》把网页调成暖色，你的眼睛会感谢你🙏](https://zhaoolee.gitbooks.io/chrome/content/036screen-shader.html)
 
 - [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](https://zhaoolee.gitbooks.io/chrome/content/035print-friendly-and-pdf.html)
@@ -497,6 +499,16 @@ Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新�
 >![](https://upload-images.jianshu.io/upload_images/3203841-583068dcecfa059a.gif)
 
 对于长时间看电脑的办公人员, 可以尝试吧屏幕调成暖色, 开始可能会不习惯, 但后面会感觉眼睛会舒服很多, 你的眼睛也会感谢你的~
+
+
+
+####  [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/037.md)
+
+>![](https://upload-images.jianshu.io/upload_images/3203841-1b4cc199f31c1c20.gif?imageMogr2/auto-orient/strip)
+
+沙拉查词(Saladict)是一款非常优秀的查词扩展, 上文只是提及了它最常用的一些功能, 沙拉查词的后台管理选项非常丰富, 感兴趣的小伙伴可以慢慢探索
+
+
 
 ---
 
