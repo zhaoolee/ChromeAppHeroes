@@ -42,5 +42,4 @@
 * [README-EN](readme-en.md)
 * [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](035print-friendly-and-pdf.md)
 * [036《Screen Shader》把屏幕调成暖色，你的眼睛会感谢你🙏](036screen-shader.md)
-* [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](037saladict300b-gu-6b4c21-you-905321-wo-quan-du-898121-ju-he-ci-51782c-bing-xing-fan-yi.md)
 
