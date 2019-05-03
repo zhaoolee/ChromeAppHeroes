@@ -54,20 +54,10 @@
 [https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg)
 
 
+## 写在最后(我需要你的支持)
+- 本文属于**谷粒-Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 
-![谷粒-Chrome插件英雄榜](https://upload-images.jianshu.io/upload_images/3203841-4f0b239a3bb43be8.jpg)
-本文属于[谷粒-Chrome插件英雄榜](https://www.jianshu.com/nb/27879124)文集的一部分, 为了集合更多的程序员和工具爱好者, 将**谷粒-Chrome插件英雄榜**维护下去, 我已将**谷粒-Chrome插件英雄榜** 文集的所有内容托管到Github, 项目地址[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) , 欢迎广大程序员和工具爱好者们为项目贡献力量, 也欢迎拥有Github账户的朋友们为本项目加星, 非常感谢!
+- **谷粒-Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个项目, 希望你能为本项目添加一颗 🌟星.
 
-## 本系列近期文章
+- ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human, If you like this project, I hope you can add a star 🌟 to this project.
 
-- [036《Screen Shader》把网页调成暖色，你的眼睛会感谢你🙏](https://zhaoolee.gitbooks.io/chrome/content/036screen-shader.html)
-
-- [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](https://zhaoolee.gitbooks.io/chrome/content/035print-friendly-and-pdf.html)
-
-- [034《Astro Bot》用新标签页刷编程题](https://zhaoolee.gitbooks.io/chrome/content/034astro-bot.html)
-
-- [033《一叶》在任意网页开启实时弹幕 聊天窗口 留言板](https://zhaoolee.gitbooks.io/chrome/content/033.html)
-
-- [032《Smallpdf》简单好用的线上PDF工具](https://zhaoolee.gitbooks.io/chrome/content/032smallpdf300b-jian-dan-hao-yong-de-xian-shang-pdf-gong-ju.html)
-
-- [031《OneTab》把多个Tab转换为一个列表](https://zhaoolee.gitbooks.io/chrome/content/031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.html)
