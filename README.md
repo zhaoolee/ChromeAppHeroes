@@ -29,6 +29,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(2019年4月29日更新)
 
+- [038《Alexa Traffic Rank》一键查看网站全球排名](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/038alexa-traffic-rank.md)
+
 - [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/037.md)
 
 - [036《Screen Shader》把网页调成暖色，你的眼睛会感谢你🙏](https://zhaoolee.gitbooks.io/chrome/content/036screen-shader.html)
@@ -509,7 +511,11 @@ Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新�
 沙拉查词(Saladict)是一款非常优秀的查词扩展, 上文只是提及了它最常用的一些功能, 沙拉查词的后台管理选项非常丰富, 感兴趣的小伙伴可以慢慢探索
 
 
+#### [038《Alexa Traffic Rank》一键查看网站全球排名](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/038alexa-traffic-rank.md)
 
+> ![](https://upload-images.jianshu.io/upload_images/3203841-225bf2a37dd4864a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/600/format/webp)
+
+Alexa给出的网站排名, 是目前公认最具参考价值的排名, 打开一个新站点, 查一下新站点的Alexa排名, 以及与它类似的站点, 让我们很快对新站点的定位, 有一个大致的认知~
 
 
 
