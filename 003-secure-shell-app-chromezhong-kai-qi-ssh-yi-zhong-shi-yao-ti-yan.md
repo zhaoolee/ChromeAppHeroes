@@ -10,18 +10,18 @@
 
 
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-c17bae0f1a577a8e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c410d5d8f79c?w=1240&h=776&f=png&s=479395)
 
 ## 插件登录界面
-> ![](https://upload-images.jianshu.io/upload_images/3203841-ccfa31e6af6279ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c410d5f69ec2?w=1240&h=631&f=png&s=176540)
 ## 插件操作界面
-> ![支持高亮](https://upload-images.jianshu.io/upload_images/3203841-698ae935d8bf4c94.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![支持高亮](https://user-gold-cdn.xitu.io/2019/5/3/16a7c410d62e6295?w=1240&h=390&f=png&s=135319)
 
 ## 支持窗口多开
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b65a4e685983e3e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c410d6392f42?w=1240&h=651&f=png&s=314054)
 
 ## 支持界面自定义
-> ![](https://upload-images.jianshu.io/upload_images/3203841-1c2074771358952d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c410f613befa?w=1240&h=769&f=png&s=144707)
 
 
 > 这个插件很早就有了, 早期不支持中文输入, 大家都没把它当回事儿, 最近开始支持中文, 而且google在积极维护它, 就说明这个插件还是有折腾一下的价值的, 另外在浏览器中使用ssh还是蛮酷的!!!
