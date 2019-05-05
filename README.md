@@ -27,7 +27,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
-## 目录(2019年4月29日更新)
+## 目录(2019年5月5日更新)
+
+- [039《Simplify Gmail》让网页版Gmail更清爽](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/039simplify-gmail300b-rang-wang-ye-ban-gmail-geng-qing-shuang.md)
 
 - [038《Alexa Traffic Rank》一键查看网站全球排名](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/038alexa-traffic-rank.md)
 
@@ -516,6 +518,15 @@ Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新�
 > ![](https://upload-images.jianshu.io/upload_images/3203841-225bf2a37dd4864a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/600/format/webp)
 
 Alexa给出的网站排名, 是目前公认最具参考价值的排名, 打开一个新站点, 查一下新站点的Alexa排名, 以及与它类似的站点, 让我们很快对新站点的定位, 有一个大致的认知~
+
+#### [039《Simplify Gmail》让网页版Gmail更清爽](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/039simplify-gmail300b-rang-wang-ye-ban-gmail-geng-qing-shuang.md)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-b223d6efb3becbb2.gif?imageMogr2/auto-orient/strip)
+
+好的扩展程序就应该这样, 让人见到后耳目一新, 使用的方法却非常简单。
+如果你并没有注册过Gmail邮箱, 可以尝试注册一个, Gmail是非常好用的, 拥有规范的接口, 不会随便拦截邮件, 也不会在页面铺满广告
+
+
 
 
 
