@@ -21,12 +21,6 @@
 > ![](https://upload-images.jianshu.io/upload_images/3203841-9afb61cb79747d24.gif?imageMogr2/auto-orient/strip)
 
 
-## 小结:
-- Simplify Gmail的使用非常简单, 所以这一篇异常的短, 
-- 好的扩展程序就应该这样, 让人见到后耳目一新, 使用的方法却非常简单
-- 如果你并没有注册过Gmail邮箱, 可以尝试注册一个, Gmail是非常好用的, 拥有规范的接口, 不会随便拦截邮件, 也不会在页面铺满广告
-
-
 
 ## 扩展下载地址
 
@@ -34,9 +28,19 @@
 https://chrome.google.com/webstore/detail/simplify-gmail/pbmlfaiicoikhdbjagjbglnbfcbcojpj)
 
 
+## 小结:
+- Simplify Gmail的使用非常简单, 所以这一篇异常的短, 
+- 好的扩展程序就应该这样, 让人见到后耳目一新, 使用的方法却非常简单
+- 如果你并没有注册过Gmail邮箱, 可以尝试注册一个, Gmail是非常好用的, 拥有规范的接口, 不会随便拦截邮件, 也不会在页面铺满广告
 
 
 
+
+
+
+## 写在最后(我需要你的支持)
+
+- 本文属于**谷粒-Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 
 - **谷粒-Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个项目, 希望你能为本项目添加一颗 🌟星.
 
