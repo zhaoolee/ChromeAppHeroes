@@ -70,11 +70,9 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 ## 对其它浏览器的支持
 
-| FireFox | Safari | Edge | Opera Next | Opera Next | Dolhpin Browser | UC Browser |
-| - | - | - | - | - | - | - |
-| 支持 | 支持 | 支持 | 支持 | 支持 | 支持 | 支持 |
-
-下载地址：https://www.tampermonkey.net/ 
+| FireFox | Safari | Edge | Opera Next | Dolhpin Browser | UC Browser |
+| - | - | - | - | - | - |
+| [支持](https://www.tampermonkey.net/?ext=dhdg&browser=firefox) | [支持](https://www.tampermonkey.net/?ext=dhdg&browser=safari) | [支持](https://www.tampermonkey.net/?ext=dhdg&browser=edge) | [支持](https://www.tampermonkey.net/?ext=dhdg&browser=opera) | [支持](https://www.tampermonkey.net/?ext=dhdg&browser=dolphin) | [支持](https://www.tampermonkey.net/?ext=dhdg&browser=ucweb) |
 
 ---
 
