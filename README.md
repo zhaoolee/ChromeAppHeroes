@@ -22,7 +22,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(2019年5月8日更新)
 
-- [039《Simplify Gmail》让网页版Gmail更清爽](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/039simplify-gmail300b-rang-wang-ye-ban-gmail-geng-qing-shuang.md)
+- [039《Simplify Gmail》让网页版Gmail更清爽](https://zhaoolee.gitbooks.io/chrome/content/039simplify-gmail300b-rang-wang-ye-ban-gmail-geng-qing-shuang.html)
 
 - [038《Alexa Traffic Rank》一键查看网站全球排名](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/038alexa-traffic-rank.md)
 
@@ -356,7 +356,7 @@ Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新�
 
 Alexa给出的网站排名, 是目前公认最具参考价值的排名, 打开一个新站点, 查一下新站点的Alexa排名, 以及与它类似的站点, 让我们很快对新站点的定位, 有一个大致的认知~
 
-#### [039《Simplify Gmail》让网页版Gmail更清爽](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/039simplify-gmail300b-rang-wang-ye-ban-gmail-geng-qing-shuang.md)
+#### [039《Simplify Gmail》让网页版Gmail更清爽](https://zhaoolee.gitbooks.io/chrome/content/039simplify-gmail300b-rang-wang-ye-ban-gmail-geng-qing-shuang.html)
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-b223d6efb3becbb2.gif?imageMogr2/auto-orient/strip)
 
