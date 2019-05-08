@@ -26,7 +26,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [038《Alexa Traffic Rank》一键查看网站全球排名](https://zhaoolee.gitbooks.io/chrome/content/038alexa-traffic-rank.html)
 
-- [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/037.md)
+- [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](https://zhaoolee.gitbooks.io/chrome/content/037.html)
 
 - [036《Screen Shader》把网页调成暖色，你的眼睛会感谢你🙏](https://zhaoolee.gitbooks.io/chrome/content/036screen-shader.html)
 
@@ -343,7 +343,7 @@ Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新�
 
 
 
-####  [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/037.md)
+####  [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](https://zhaoolee.gitbooks.io/chrome/content/037.html)
 
 >![](https://upload-images.jianshu.io/upload_images/3203841-1b4cc199f31c1c20.gif?imageMogr2/auto-orient/strip)
 
