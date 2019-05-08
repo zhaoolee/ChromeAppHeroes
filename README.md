@@ -10,8 +10,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![谷粒VI设计.png](https://upload-images.jianshu.io/upload_images/3203841-106b5a5db4b5bc42.png)
 
-
-**感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo |    [谷粒文化(老罗巴扎嘿语录)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html) **
+**感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo |    [谷粒文化(老罗巴扎嘿语录)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)**
 
 
 ----
