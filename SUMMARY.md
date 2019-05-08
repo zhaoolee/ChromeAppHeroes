@@ -46,4 +46,5 @@
 * [038《Alexa Traffic Rank》一键查看网站全球排名](038alexa-traffic-rank.md)
 * [039《Simplify Gmail》让网页版Gmail更清爽](039simplify-gmail300b-rang-wang-ye-ban-gmail-geng-qing-shuang.md)
 * [从官方商店下载Chrome插件的方法](cong-guan-fang-shang-dian-xia-zai-chrome-cha-jian-de-fang-fa.md)
+* [谷粒取意](gu-li-qu-yi.md)
 
