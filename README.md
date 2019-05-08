@@ -1,11 +1,6 @@
 [English](https://zhaoolee.gitbooks.io/chrome/content/readme-en.html)   |  [中文简体](https://zhaoolee.gitbooks.io/chrome/content/)
 
 
-![smartmockups_juunlhbe.jpg](https://upload-images.jianshu.io/upload_images/3203841-4f0b239a3bb43be8.jpg)
-
----
-
-
 # ChromeAppHeroes
 
 
@@ -16,7 +11,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ![谷粒VI设计.png](https://upload-images.jianshu.io/upload_images/3203841-106b5a5db4b5bc42.png)
 
 
-**感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo**
+**感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo |    [谷粒取意(老罗巴扎嘿语录)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html) **
+
 
 ----
 
@@ -122,15 +118,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
-- [谷粒取意(老罗巴扎嘿语录)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)
 
-
-## 他人眼中的 Chrome插件英雄榜(商业互吹模块)
-- [《这份“插件英雄榜Top20”才是Chrome的正确打开方式！》](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/88386634) 作者: [AI科技大本营](https://me.csdn.net/dQCFKyQDXYm3F8rB0)
-- [《Chrome 插件英雄榜》](https://zhuanlan.zhihu.com/p/58636515) 作者: [非著名程序员](https://www.zhihu.com/people/loonggg/activities)
-- [《開源日報第363期》](https://openingsource.org/6190/zh-tw/)  作者: [开源工厂](https://openingsource.org/)
-- [《一根火柴的N种打开方式》](https://mp.weixin.qq.com/s/Y-9ht-E7-OdJOEDDb3yyWw) 作者: [老罗巴扎嘿](https://github.com/LuoJiangYong)
----
 
 
 
@@ -382,18 +370,13 @@ Alexa给出的网站排名, 是目前公认最具参考价值的排名, 打开�
 
 ---
 
-## 一根火柴的N种打开方式(谷粒文化)
-
-![1.png](https://upload-images.jianshu.io/upload_images/3203841-9917c128f126af04.png)
-
-![2.png](https://upload-images.jianshu.io/upload_images/3203841-65f557ebe2d43416.png)
 
 
-![4.png](https://upload-images.jianshu.io/upload_images/3203841-4c6d4242dd0ee0ef.png)
-
-![mockup组图.png](https://upload-images.jianshu.io/upload_images/3203841-bc56f504ae35ab85.png)
-
-
+## 他人眼中的 Chrome插件英雄榜(商业互吹模块)
+- [《这份“插件英雄榜Top20”才是Chrome的正确打开方式！》](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/88386634) 作者: [AI科技大本营](https://me.csdn.net/dQCFKyQDXYm3F8rB0)
+- [《Chrome 插件英雄榜》](https://zhuanlan.zhihu.com/p/58636515) 作者: [非著名程序员](https://www.zhihu.com/people/loonggg/activities)
+- [《開源日報第363期》](https://openingsource.org/6190/zh-tw/)  作者: [开源工厂](https://openingsource.org/)
+- [《一根火柴的N种打开方式》](https://mp.weixin.qq.com/s/Y-9ht-E7-OdJOEDDb3yyWw) 作者: [老罗巴扎嘿](https://github.com/LuoJiangYong)
 
 ## 名字起啥好?
 将这个仓库命名为**Chrome扩展英雄榜**可能更准确些,但**插件**这个名词, 更通俗易懂, 所以就使用了**Chrome插件英雄榜**这个命名 ,感谢@[hjthjthjt](https://github.com/hjthjthjt) 给出的[issue](https://github.com/zhaoolee/ChromeAppHeroes/issues/14)纠正
@@ -413,23 +396,35 @@ Alexa给出的网站排名, 是目前公认最具参考价值的排名, 打开�
 
 
 ---
+
+
+** emm... [从官方商店下载Chrome插件的方法](https://zhaoolee.gitbooks.io/chrome/content/cong-guan-fang-shang-dian-xia-zai-chrome-cha-jian-de-fang-fa.html)**
+
+
 **Chrome插件英雄榜** Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 我需要你的支持, 希望你能为本项目填加一个 🌟星.
 I need your support, I hope you can add a star 🌟 to this project.
 
----
 
 
 
-## [从官方商店下载Chrome插件的方法](https://zhaoolee.gitbooks.io/chrome/content/cong-guan-fang-shang-dian-xia-zai-chrome-cha-jian-de-fang-fa.html)
 
----
+
 
 
 
 ## 咦?(微信打赏) 
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b26e3b2967ebab82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/3203841-b26e3b2967ebab82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+## 一根火柴的N种打开方式(谷粒文化)
+
+![smartmockups_juunlhbe.jpg](https://upload-images.jianshu.io/upload_images/3203841-4f0b239a3bb43be8.jpg)
+
+
+
+![2.png](https://upload-images.jianshu.io/upload_images/3203841-65f557ebe2d43416.png)
 
 
 
