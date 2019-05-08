@@ -1,9 +1,13 @@
 [English](https://zhaoolee.gitbooks.io/chrome/content/readme-en.html)   |  [中文简体](https://zhaoolee.gitbooks.io/chrome/content/)
 
 
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square)  ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
+
 # ChromeAppHeroes
 
 
+
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square)  ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~  
 
@@ -365,12 +369,7 @@ Alexa给出的网站排名, 是目前公认最具参考价值的排名, 打开�
 如果你并没有注册过Gmail邮箱, 可以尝试注册一个, Gmail是非常好用的, 拥有规范的接口, 不会随便拦截邮件, 也不会在页面铺满广告
 
 
-
-
-
 ---
-
-
 
 ## 他人眼中的 Chrome插件英雄榜(商业互吹模块)
 - [《这份“插件英雄榜Top20”才是Chrome的正确打开方式！》](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/88386634) 作者: [AI科技大本营](https://me.csdn.net/dQCFKyQDXYm3F8rB0)
@@ -379,19 +378,18 @@ Alexa给出的网站排名, 是目前公认最具参考价值的排名, 打开�
 - [《一根火柴的N种打开方式》](https://mp.weixin.qq.com/s/Y-9ht-E7-OdJOEDDb3yyWw) 作者: [老罗巴扎嘿](https://github.com/LuoJiangYong)
 
 ## 名字起啥好?
+
 将这个仓库命名为**Chrome扩展英雄榜**可能更准确些,但**插件**这个名词, 更通俗易懂, 所以就使用了**Chrome插件英雄榜**这个命名 ,感谢@[hjthjthjt](https://github.com/hjthjthjt) 给出的[issue](https://github.com/zhaoolee/ChromeAppHeroes/issues/14)纠正
 
+## [推荐姊妹仓库](https://github.com/zhaoolee/StarsAndClown)
+
+本仓库的姊妹篇:**[《Github星聚弃疗榜》](https://github.com/zhaoolee/StarsAndClown)**为Github创意项目写一本推荐书，让Github优秀项目造福人类~ 已开源到Github: [https://github.com/zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) 同样有趣有料哦~
 
 ## 感谢
 
 - 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
 
 - 感谢[简书](https://www.jianshu.com/)社区提供超棒的Markdown编辑器,**Chrome插件英雄榜**的编辑工作,几乎全部由通过简书编辑器完成
-
-
-## 推荐姊妹仓库
-
-本仓库的姊妹篇:**[《Github星聚弃疗榜》](https://github.com/zhaoolee/StarsAndClown)**为Github创意项目写一本推荐书，让Github优秀项目造福人类~ 已开源到Github: [https://github.com/zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) 同样有趣有料哦~
 
 
 
@@ -418,7 +416,7 @@ I need your support, I hope you can add a star 🌟 to this project.
 ![](https://upload-images.jianshu.io/upload_images/3203841-b26e3b2967ebab82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-## 一根火柴的N种打开方式(谷粒文化)
+## [一根火柴的N种打开方式(谷粒文化)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)
 
 ![smartmockups_juunlhbe.jpg](https://upload-images.jianshu.io/upload_images/3203841-4f0b239a3bb43be8.jpg)
 
