@@ -46,5 +46,5 @@
 * [用Brook部署一个简单稳定傻瓜的科学上网工具](yong-brook-bu-shu-yi-ge-jian-dan-wen-ding-sha-gua-de-ke-xue-shang-wang-gong-ju.md)
 * [对本项目有好的建议可以推到这个文件.md](dui-ben-xiang-mu-you-hao-de-jian-yi-ke-yi-tui-dao-zhe-ge-wen-4ef6-md.md)
 * [README-EN](readme-en.md)
-* [040《GitZip for github》从Github批量下载表情包](040gitzip-for-github300b-cong-github-pi-liang-xia-zai-biao-qing-bao.md)
+* [040《GitZip for github》从Github批量下载表情包](040gitzip-for-github.md)
 
