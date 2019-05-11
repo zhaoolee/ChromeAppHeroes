@@ -20,7 +20,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square)  ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年5月8日更新)
+## 目录(2019年5月11日更新)
+
+- [040《GitZip for github》从Github批量下载表情包](https://zhaoolee.gitbooks.io/chrome/content/040gitzip-for-github.html)
 
 - [039《Simplify Gmail》让网页版Gmail更清爽](https://zhaoolee.gitbooks.io/chrome/content/039simplify-gmail300b-rang-wang-ye-ban-gmail-geng-qing-shuang.html)
 
@@ -362,6 +364,17 @@ Alexa给出的网站排名, 是目前公认最具参考价值的排名, 打开�
 
 好的扩展程序就应该这样, 让人见到后耳目一新, 使用的方法却非常简单。
 如果你并没有注册过Gmail邮箱, 可以尝试注册一个, Gmail是非常好用的, 拥有规范的接口, 不会随便拦截邮件, 也不会在页面铺满广告
+
+
+#### [040《GitZip for github》从Github批量下载表情包](https://zhaoolee.gitbooks.io/chrome/content/040gitzip-for-github.html)
+
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-a4e7a7958d026592.gif)
+
+
+以前介绍过Github快速下载单个文件的扩展工具[《Enhanced Github》](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html) , 《Enhanced Github》 和 《GitZip for github》 结合到一起, 就可以让我们快速下载, github任意仓库任意文件夹的优质资源了~
+
+
 
 
 ---
