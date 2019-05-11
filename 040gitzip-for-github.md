@@ -23,7 +23,8 @@
 
 ## 小结:
 
-以前写过Github快速下载单个文件的工具[《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html) , Enhanced 和 GitZip for github 结合到一起, 让我们更有选择性的下载github内任意文件夹的优质资源了~
+
+以前介绍过Github快速下载单个文件的扩展工具[《Enhanced Github》](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html) , 《Enhanced Github》 和 《GitZip for github》 结合到一起, 就可以让我们快速下载, github任意仓库任意文件夹的优质资源了~
 
 
 ## 写在最后(我需要你的支持)
