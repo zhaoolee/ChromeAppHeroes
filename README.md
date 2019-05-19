@@ -136,7 +136,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ---
 
-**作者消耗了大量的精力维护这个项目, 感谢以上赞赏者对本开源项目的支持**
+**感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
 
 #### [040《GitZip for github》从Github批量下载表情包](https://zhaoolee.gitbooks.io/chrome/content/040gitzip-for-github.html)
