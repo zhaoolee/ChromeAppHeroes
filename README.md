@@ -23,7 +23,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square)  ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年5月11日更新)
+## 目录(2019年5月19日更新)
 
 - [040《GitZip for github》从Github批量下载表情包](https://zhaoolee.gitbooks.io/chrome/content/040gitzip-for-github.html)
 
@@ -121,6 +121,22 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ![造福人类.png](https://upload-images.jianshu.io/upload_images/3203841-1862f71e603ecdcf.png)
 
 
+## 咦?(微信打赏) 
+
+![](https://upload-images.jianshu.io/upload_images/3203841-b26e3b2967ebab82.png)
+
+| 赞赏金额 | 赞赏者(微信名) | 赞赏时间|
+| --- | --- | --- |
+| 5.00 | 那都不重要 | 2019年5月19日 |
+| 1.00 | Joseph | 2019年4月24日 |
+| 1.00 | (未留姓名) | 2019年4月12日 |
+| 1.00 | 于云鹏Edward | 2019年4月12日 |
+| 1.00 | 黄金星 | 2019年4月11日 |
+| 1.00 | Cloud 9 | 2019年4月5日 |
+
+---
+
+**作者消耗了大量的精力维护这个项目, 感谢以上赞赏者对本开源项目的支持**
 
 
 #### [040《GitZip for github》从Github批量下载表情包](https://zhaoolee.gitbooks.io/chrome/content/040gitzip-for-github.html)
@@ -451,9 +467,11 @@ I need your support, I hope you can add a star 🌟 to this project.
 
 
 
-## 咦?(微信打赏) 
 
-![](https://upload-images.jianshu.io/upload_images/3203841-b26e3b2967ebab82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
 
 
 ## [一根火柴的N种打开方式(谷粒文化)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)
