@@ -47,4 +47,5 @@
 * [对本项目有好的建议可以推到这个文件.md](dui-ben-xiang-mu-you-hao-de-jian-yi-ke-yi-tui-dao-zhe-ge-wen-4ef6-md.md)
 * [README-EN](readme-en.md)
 * [040《GitZip for github》从Github批量下载表情包](040gitzip-for-github.md)
+* [041《Copy All Urls》优雅地保存-开启多个标签页](041copy-all-urls300b-you-ya-di-bao-5b58-kai-qi-duo-ge-biao-qian-ye.md)
 
