@@ -23,7 +23,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square)  ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年5月19日更新)
+## 目录(2019年5月20日更新)
+
+- [041《Copy All Urls》优雅地保存-开启多个标签页](https://zhaoolee.gitbooks.io/chrome/content/041copy-all-urls.html)
 
 - [040《GitZip for github》从Github批量下载表情包](https://zhaoolee.gitbooks.io/chrome/content/040gitzip-for-github.html)
 
@@ -137,6 +139,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [041《Copy All Urls》优雅地保存-开启多个标签页](https://zhaoolee.gitbooks.io/chrome/content/041copy-all-urls.html)
+
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-59b41cf1d7ba07fb.gif?imageMogr2/auto-orient/strip)
+
+Copy All Urls属于小而美地工具，如果你每天都需要查看几个固定的网页, Copy All Urls能帮你省很多时间~ 
 
 
 #### [040《GitZip for github》从Github批量下载表情包](https://zhaoolee.gitbooks.io/chrome/content/040gitzip-for-github.html)
