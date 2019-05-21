@@ -1,4 +1,4 @@
-新浪微博,有一个头条文章编辑器的东西, 只支持富文本, 为了一键把简书的markdown文章 ,直接转换到头条文章编辑器中, 我找到了一款神器 markdown-here!
+新浪微博，有一个头条文章编辑器的东西，只支持富文本，为了一键把简书的markdown文章，直接转换到头条文章编辑器中，我找到了一款神器 markdown-here！
 
 ## markdown-here效果演示
 
@@ -6,7 +6,7 @@
 
 ## markdown-here [chrome商店安装页面](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
 > ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c3d105d17c73?w=1240&h=722&f=png&s=465463)
-## markdown-here[Github开源地址](https://github.com/adam-p/markdown-here)
+## markdown-here [Github开源地址](https://github.com/adam-p/markdown-here)
 > ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c3d128ccfc9c?w=1240&h=891&f=png&s=310522)
 
 ## markdown-here个性化定制
@@ -14,16 +14,21 @@
 > ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c3d15c585be2?w=1240&h=621&f=png&s=256030)
 
 ## markdown-here用途:
-- 用Markdown写邮件,然后转换为富文本
-- 用Markdown编辑微信后台内容
-- 在线博客搬家(比如简书->新浪头条)
+- 用 Markdown 写邮件，然后转换为富文本
+- 用 Markdown 编辑微信后台内容
+- 在线博客搬家（比如简书 -> 新浪头条）
 
-## 有了markdown-here, 面对富文本编辑器, 我们也可以愉快的写markdown了!
-> 与本篇博客关联的B站1080p视频(求硬币,求弹幕...): https://www.bilibili.com/video/av24396914/
+## 有了markdown-here, 面对富文本编辑器, 我们也可以愉快的写markdown了！
+> 与本篇博客关联的B站1080p视频（求硬币，求弹幕...）：https://www.bilibili.com/video/av24396914/
 
 ## 插件下载地址:
 https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa
 
+## 对其它浏览器的支持
+
+| FireFox | Safari | Opera Next |
+| - | - | - |
+| [支持](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/) | [支持](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz) | [支持](https://addons.opera.com/en/extensions/details/markdown-here/) | 
 ---
 
 ## 写在最后(我需要你的支持)
