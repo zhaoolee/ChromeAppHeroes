@@ -1,4 +1,4 @@
-FireShort是一款网页截屏工具, 最出色的功能是可以截取整个网页
+FireShot是一款网页截屏工具, 最出色的功能是可以截取整个网页
 以Github趋势榜页面为例 [https://github.com/trending](https://github.com/trending)：
 > ![](https://upload-images.jianshu.io/upload_images/3203841-87df89d67e5acf3c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
