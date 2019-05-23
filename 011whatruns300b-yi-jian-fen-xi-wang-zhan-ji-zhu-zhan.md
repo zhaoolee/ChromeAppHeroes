@@ -35,6 +35,11 @@
 ## 插件下载地址:
 https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip
 
+## 对其它浏览器的支持
+
+| FireFox |
+| - |
+| [支持](https://www.whatruns.com/downloads/) | 
 ---
 
 ## 写在最后(我需要你的支持)

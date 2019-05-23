@@ -40,6 +40,8 @@ https://bing.ioliu.cn/
 ## 插件下载地址
 https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl
 
+## 开源地址 （基于XPath的解析框架（XPaF））
+https://github.com/google/xpaf
 
 ---
 
