@@ -48,4 +48,5 @@
 * [README-EN](readme-en.md)
 * [040《GitZip for github》从Github批量下载表情包](040gitzip-for-github.md)
 * [041《Copy All Urls》优雅地保存-开启多个标签页](041copy-all-urls.md)
+* [042 在Edge中安装Chrome扩展程序](042-zai-edge-zhong-an-zhuang-chrome-kuo-zhan-cheng-xu.md)
 
