@@ -31,6 +31,12 @@ Dream Afar New Tab是一款标签壁纸扩展程序，每次打开新标签， �
 
 > ![](https://upload-images.jianshu.io/upload_images/3203841-8ad7a09025790eae.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+## 日常分享的日常
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-d7757c8a9e4155a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-3e76a809dd81650a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 ## 扩展程序下载地址:
