@@ -25,8 +25,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(2019年5月29日更新)
 
-
-
+- [043《Dream Afar New Tab》探索世界的新方式](https://zhaoolee.gitbooks.io/chrome/content/043dream-afar-new-tab.html)
 
 - [042 在Edge中安装Chrome扩展程序](https://zhaoolee.gitbooks.io/chrome/content/042-zai-edge-zhong-an-zhuang-chrome-kuo-zhan-cheng-xu.html)
 
