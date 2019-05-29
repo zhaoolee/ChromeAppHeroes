@@ -23,7 +23,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square)  ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年5月20日更新)
+## 目录(2019年5月29日更新)
 
 
 - [042 在Edge中安装Chrome扩展程序](https://zhaoolee.gitbooks.io/chrome/content/042-zai-edge-zhong-an-zhuang-chrome-kuo-zhan-cheng-xu.html)
