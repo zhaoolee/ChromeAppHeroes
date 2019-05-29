@@ -144,7 +144,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+#### [043《Dream Afar New Tab》探索世界的新方式](https://zhaoolee.gitbooks.io/chrome/content/043dream-afar-new-tab.html)
 
+> ![](https://upload-images.jianshu.io/upload_images/3203841-afe4703d530d99ad.gif?imageMogr2/auto-orient/strip)
+
+《Dream Afar New Tab》的设计非常漂亮, 功能调节也非常简单, 只有两级菜单, 壁纸也非常精美, 对浏览器颜值有要求的小伙伴, 可以试一试~
 
 #### [042 在Edge中安装Chrome扩展程序](https://zhaoolee.gitbooks.io/chrome/content/042-zai-edge-zhong-an-zhuang-chrome-kuo-zhan-cheng-xu.html)
 
