@@ -1,19 +1,19 @@
 最近我创建了一个关于表情包的github仓库,里面收录了国人常用的表情包, 并可以在线预览表情包 [https://zhaoolee.github.io/ChineseBQB/](https://zhaoolee.github.io/ChineseBQB/)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-cbb0e71812639bbb.png)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edda9e640e10?w=1774&h=1223&f=png&s=542036)
 
 - 仓库地址: [https://github.com/zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
 
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-4cf7b3ca526c8d9c.png)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edda9e70e24f?w=1606&h=1336&f=png&s=304586)
 
 - 后面发现下载单个文件夹的表情包并不方便, 于是找到了Chrome扩展程序[GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)来解决问题
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-a4e7a7958d026592.gif)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda0ddfec74c?w=1000&h=456&f=gif&s=756375)
 
 - 如果遇到无法下载的问题, 可以尝试将自己的github账号授权GitZip for github, 就可以正常下载了
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-047639bc03ec1131.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edda9f0e3b58?w=1342&h=918&f=gif&s=564869)
 
 
 ## 扩展程序GitZip for github下载地址
