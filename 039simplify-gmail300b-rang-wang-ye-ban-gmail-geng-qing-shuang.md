@@ -1,9 +1,9 @@
 先放一张使用Simplify Gmail后, 清爽的gmail界面~
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-7d2e46c01b77952a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0e4f489561?w=1240&h=715&f=png&s=1021377)
 
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b223d6efb3becbb2.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda0e41143aa?w=600&h=304&f=gif&s=391232)
 
 - Simplify Gmail是一款简化 Gmail 界面的扩展程序
 
@@ -14,11 +14,11 @@
 
 ## 如何给Gmail换个主题
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-5b79b922377c849a.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0e4f8292bb?w=600&h=328&f=gif&s=605411)
 
 
 ## 如何获取更多Gmail扩展程序
-> ![](https://upload-images.jianshu.io/upload_images/3203841-9afb61cb79747d24.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0e4f8c12b4?w=600&h=331&f=gif&s=472029)
 
 
 
@@ -29,7 +29,7 @@ https://chrome.google.com/webstore/detail/simplify-gmail/pbmlfaiicoikhdbjagjbgln
 
 
 ## 小结:
-- Simplify Gmail的使用非常简单, 所以这一篇异常的短, 
+- Simplify Gmail的使用非常简单, 所以这一篇异常的短,
 - 好的扩展程序就应该这样, 让人见到后耳目一新, 使用的方法却非常简单
 - 如果你并没有注册过Gmail邮箱, 可以尝试注册一个, Gmail是非常好用的, 拥有规范的接口, 不会随意拦截邮件, 也不会在页面铺满广告
 
