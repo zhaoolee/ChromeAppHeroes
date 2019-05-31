@@ -1,5 +1,4 @@
--
-Brook是一个github开源项目, 项目地址https://github.com/txthinking/brook.
+- Brook是一个github开源项目, 项目地址https://github.com/txthinking/brook.
 - Brook是一个跨平台的代理/ VPN软件, 软件的目标是保持简单,傻瓜, 无感知.
 - Brook部署和使用比ss更简单, 如果ss某天挂了, 可以用Brook作为替代品.
 
