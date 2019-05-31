@@ -23,7 +23,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square)  ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年5月20日更新)
+## 目录(2019年5月29日更新)
+
+- [043《Dream Afar New Tab》探索世界的新方式](https://zhaoolee.gitbooks.io/chrome/content/043dream-afar-new-tab.html)
+
+- [042 在Edge中安装Chrome扩展程序](https://zhaoolee.gitbooks.io/chrome/content/042-zai-edge-zhong-an-zhuang-chrome-kuo-zhan-cheng-xu.html)
 
 - [041《Copy All Urls》优雅地保存-开启多个标签页](https://zhaoolee.gitbooks.io/chrome/content/041copy-all-urls.html)
 
@@ -139,6 +143,19 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [043《Dream Afar New Tab》探索世界的新方式](https://zhaoolee.gitbooks.io/chrome/content/043dream-afar-new-tab.html)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-afe4703d530d99ad.gif?imageMogr2/auto-orient/strip)
+
+《Dream Afar New Tab》的设计非常漂亮, 功能调节也非常简单, 只有两级菜单, 壁纸也非常精美, 对浏览器颜值有要求的小伙伴, 可以试一试~
+
+#### [042 在Edge中安装Chrome扩展程序](https://zhaoolee.gitbooks.io/chrome/content/042-zai-edge-zhong-an-zhuang-chrome-kuo-zhan-cheng-xu.html)
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-096aee5b214a4b12.gif?imageMogr2/auto-orient/strip)
+
+Edge可以安装绝大多数Chrome商店中的扩展, 但Chrome中的谷歌开发App程序, 类似[Secure Shell App](https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo), 目前是无法安装的, 新版Edge使用了Chrome的Chromium内核, 可以兼容安装Chrome生态中的各种应用程序,为Edge未来的发展带来了无限可能~
+
 
 #### [041《Copy All Urls》优雅地保存-开启多个标签页](https://zhaoolee.gitbooks.io/chrome/content/041copy-all-urls.html)
 
