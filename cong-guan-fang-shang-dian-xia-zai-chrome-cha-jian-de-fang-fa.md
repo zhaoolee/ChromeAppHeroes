@@ -1,20 +1,19 @@
-
 ## 从官方商店下载Chrome插件的方法
 
 App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrome web store 获取插件,所以国内的大多数Chrome只是一个浏览器, 本文展示一个为Chrome赋予灵魂的方法
 
-> Emm, 如果你不知道去哪里下载Chrome... 我可以悄悄告诉你, 从 [https://tools.shuax.com/chrome/\#/](https://tools.shuax.com/chrome/#/) 可以下载到各个平台的绿色版Chrome,解压即用~  
-> ![](https://upload-images.jianshu.io/upload_images/3203841-29d4c8d00a9516a3.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)  
+> Emm, 如果你不知道去哪里下载Chrome... 我可以悄悄告诉你, 从 [https://tools.shuax.com/chrome/\#/](https://tools.shuax.com/chrome/#/) 可以下载到各个平台的绿色版Chrome,解压即用~
+> ![](https://upload-images.jianshu.io/upload_images/3203841-29d4c8d00a9516a3.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
 ---
 - 如果你不喜欢绿色版Chrome,可以访问这个地址 [https://www.google.cn/chrome](https://www.google.cn/chrome), 获取官方提供的安装包 (感谢Github用户[@lb091188](https://github.com/lb091188)给出的建议)
 
->![](https://upload-images.jianshu.io/upload_images/3203841-c8c76dad72e7018c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee03d9345eb4?w=1240&h=698&f=png&s=147269)
 
->[https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions) 
+>[https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions)
 
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-ce4656432b9430c3.png)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee03d94325e3?w=2524&h=1520&f=png&s=975245)
 
 ---
 
@@ -23,84 +22,84 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 - 获取setupvpn安装包, 并解压(setupvpn的获取方式在文末)
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-b334b511a5b7bd76.png)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee03d94b13ef?w=530&h=318&f=png&s=34131)
 
 
 - 在Chrome打开chrome://extensions/
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-847f56ffb96dd12d.png)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee03d9742e0c?w=1948&h=1110&f=png&s=96908)
 
 
 - 开启开发者模式
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-483d6ba8a50541c5.png)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee03d96de80c?w=1954&h=1408&f=png&s=152381)
 
 * 安装setupvpn安装包
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-ad46480edd5b4d44.png)  
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0413aa33e3?w=1940&h=1408&f=png&s=138453)
 
->![](https://upload-images.jianshu.io/upload_images/3203841-a9b5d0712900843d.png)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0418c8bc08?w=1780&h=1072&f=png&s=124800)
 
 * 安装成功
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-099140f3400ce0cf.png)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0419f02ab5?w=2162&h=1436&f=png&s=199676)
 
 * 选择汉语
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-30db136866b615fe.png)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee041c89c5d1?w=2170&h=1422&f=png&s=203946)
 
 * 创建账户
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-d75156f8a3ddb213.png)  
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee041dca73f1?w=2170&h=1288&f=png&s=204712)
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-f03b348fd6644542.png)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee043ac3a68b?w=2176&h=1502&f=png&s=259119)
 
 - 登录邮箱, 点击激活邮件链接
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-6d3ae5db5b3494c5.png)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee04478b6d75?w=3196&h=1268&f=png&s=412156)
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-e6c51830233d34a7.png)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0460857d64?w=3088&h=1712&f=png&s=450795)
 
 
 - 点击图标,输入账户密码进行登录
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-076f3df5a1e3c583.png)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0469ea21bb?w=2166&h=1500&f=png&s=254101)
 
 
 - 选择服务器
 
->![](https://upload-images.jianshu.io/upload_images/3203841-cac06c6353098310.png) 
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee046a0d606d?w=2170&h=1484&f=png&s=247574)
 
 > 如果米国服务器连接速度慢,就换一个小国的, 比如荷兰~
 
 - 嘿嘿,连接成功
 
->![](https://upload-images.jianshu.io/upload_images/3203841-ac2e71b08e54cea3.png)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0469f45ce2?w=2150&h=1380&f=png&s=206038)
 
 ## 尝试访问chrome web store\(谷歌商店\)[https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions)
 
 
->![](https://upload-images.jianshu.io/upload_images/3203841-ffb318494aec08ca.png) 
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0474e7bc35?w=2178&h=1500&f=png&s=929140)
 
-> 愉快的使用chrome web store吧!  
-> 由于vpn是免费的, 所以刷youtube.com估计会卡  
+> 愉快的使用chrome web store吧!
+> 由于vpn是免费的, 所以刷youtube.com估计会卡
 > 但访问chrome web store下载插件, 简单用google搜资料还是够用的!
 
 ## 用完后, 记得退出setupvpn
 
 * 开启插件后, 浏览器所有的请求都会走代理, 访问百度,淘宝等常用网站也会变得特别慢,所以不访问外网的时候, 记得关闭插件
 
->![](https://upload-images.jianshu.io/upload_images/3203841-ac7b3e6d5c527547.png)
+>![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0499809ba9?w=2180&h=1506&f=png&s=524064)
 
 ## 小结:
 
