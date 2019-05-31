@@ -1,40 +1,41 @@
-Adblock可以拦截网页上的广告, 被誉为最受欢迎的 Chrome 扩展
+A
+dblock可以拦截网页上的广告, 被誉为最受欢迎的 Chrome 扩展
 
 ## 屏蔽简书广告
-> ![屏蔽简书广告](https://upload-images.jianshu.io/upload_images/3203841-7109d71fac8e25d5.gif?imageMogr2/auto-orient/strip)
+> ![屏蔽简书广告](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda1799b7236?w=600&h=368&f=gif&s=266016)
 
 ## 屏蔽csdn广告, 开箱即用
-> ![](https://upload-images.jianshu.io/upload_images/3203841-d41f03c49e18c8a1.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee6974eb2294?w=600&h=367&f=gif&s=741889)
 
 ## 关于屏蔽视频广告
 - 原则上Adblock也可以屏蔽视频广告, 比如youtube的绝大多数视频广告就可以屏蔽, 但国内的视频网站都很强大, 主流的视频网站几乎都禁用了Adblock, Adblock毕竟只是个浏览器插件,没有很多的重定向权限, 如果对视频广告深恶痛绝, 可以使用`阿呆喵`, [http://www.admflt.com/](http://www.admflt.com/), 或者直接开个视频网站会员
 
 ## 订阅更多官方推荐 屏蔽规则
-如果你感觉广告屏蔽的效果不满意, 可以尝试订阅更多广告屏蔽规则, 但屏蔽规则并不是越多越好, 由于规则的变多, 插件会占用更多的内存, 网页加载也会变慢 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-547a55c0e274c9e5.gif?imageMogr2/auto-orient/strip)
+如果你感觉广告屏蔽的效果不满意, 可以尝试订阅更多广告屏蔽规则, 但屏蔽规则并不是越多越好, 由于规则的变多, 插件会占用更多的内存, 网页加载也会变慢
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee6975808d51?w=600&h=359&f=gif&s=821231)
 
 
 ## 隐藏广告的方式
-> ![](https://upload-images.jianshu.io/upload_images/3203841-c7785567486c556e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee6975aad46a?w=1240&h=935&f=png&s=658665)
 - 通过右键隐藏广告(推荐)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b8c82b7124d88af0.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee697597b5bf?w=600&h=472&f=gif&s=1623710)
 - 通过css规则隐藏广告
-> ![](https://upload-images.jianshu.io/upload_images/3203841-dcae90d0007e9b01.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee6975c71711?w=600&h=467&f=gif&s=2697269)
 
 
 ## 在特定网站关闭Adblock
 > 有些网站会明确提醒,需要关闭adblock(知乎,掘金), 否则就会影响正常功能的使用, 关闭的方法也很简单
-> ![](https://upload-images.jianshu.io/upload_images/3203841-39b799fc60d92e2f.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee697cfa6494?w=600&h=364&f=gif&s=314598)
 ---
 ###### 至此, Adblock的功能已经够用了, 如果你想了解更多, 可以继续往下看~
 ---
 ## Adblock一些配置项
-> ![](https://upload-images.jianshu.io/upload_images/3203841-6ec78968e9b2edcb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-2a5824905e938b06.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-5f35ea3ba7d0cd4c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-7ca35822de1fd55a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f5a50f47cbbc901f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-bf985841c22fa293.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee69ad84b98c?w=1240&h=779&f=png&s=301619)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee69b8a5a03c?w=1240&h=883&f=png&s=289311)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee69bb57d779?w=1240&h=638&f=png&s=272525)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee69c84cf116?w=1240&h=459&f=png&s=160032)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee69d0480edf?w=1240&h=839&f=png&s=323056)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee69d300bdee?w=1240&h=807&f=png&s=171877)
 
 
 
