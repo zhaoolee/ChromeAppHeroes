@@ -1,24 +1,24 @@
-> ![](https://upload-images.jianshu.io/upload_images/3203841-4e1150798181403f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee6f65a5becc?w=1240&h=718&f=png&s=118018)
 
 Text与普通的Chrome插件不同, 它是一个App, 安装Text后在Chrome地址栏键入`chrome://apps`即可找到(普通插件的查看方法是, 在地址栏键入`chrome://extensions/`)
 
 
 ## 打开本地代码并高亮显示
-> ![](https://upload-images.jianshu.io/upload_images/3203841-89d94e6a36422664.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee6f65beaedc?w=949&h=603&f=gif&s=690749)
 
 ## 自由切换编辑器主题
-> ![](https://upload-images.jianshu.io/upload_images/3203841-3a9536e56c7e50e2.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee6f661a304e?w=955&h=605&f=gif&s=195882)
 
 ## 浮动于所有窗口上方
-> ![](https://upload-images.jianshu.io/upload_images/3203841-9a677971992ce28b.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee6f6621920c?w=1633&h=835&f=gif&s=636844)
 
 ## 新建文本文件, 并保存到本地
-> ![](https://upload-images.jianshu.io/upload_images/3203841-d8b6fad22f442d77.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee6f663bb7fe?w=600&h=277&f=gif&s=108710)
 
 ## 相关设置说明
-> ![](https://upload-images.jianshu.io/upload_images/3203841-12a1c559efca1020.gif?imageMogr2/auto-orient/strip)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b38d7530aec964fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-86172251d9f29d46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda18303b8ae?w=948&h=602&f=gif&s=576264)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee6f6ee997da?w=951&h=603&f=png&s=192282)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee6f94305c8e?w=955&h=606&f=png&s=226257)
 
 
 
