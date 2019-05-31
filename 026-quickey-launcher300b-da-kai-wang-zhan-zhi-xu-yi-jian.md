@@ -1,42 +1,42 @@
 Quickey Launcher以优雅的方式, 为任意网页绑定一个快捷键, 绑定完成后, 即可通过快捷键,打开网页
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-efdcffb2ccd869a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee7671187266?w=1240&h=615&f=png&s=556907)
 
 ## 为特定网址绑定特定字母
 - 我们可以为以下三个不同网址绑定三个不同的字母
 `B` 绑定 `https://bilibili.com`
 `C` 绑定 `https://github.com/zhaoolee/ChromeAppHeroes`
 `T` 绑定 `https://github.com/trending`
-> ![](https://upload-images.jianshu.io/upload_images/3203841-0987649791ec1c74.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee767128ae7f?w=600&h=302&f=gif&s=1181659)
 
 
 
 ## 用快捷键, 打开页面
-我们可以在键盘界面,按字母键c, 打开并跳转到`https://github.com/zhaoolee/ChromeAppHeroes`,  然后再按组合键`alt+t`,打开并跳转到`https://github.com/trending`
+我们可以在键盘界面,按字母键c, 打开并跳转到`https://github.com/zhaoolee/ChromeAppHeroes`, 然后再按组合键`alt+t`,打开并跳转到`https://github.com/trending`
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-723f52e93f9e9695.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda1893756b1?w=600&h=373&f=gif&s=262113)
 
 ## 进行配置
 - 查看当前配置, 以及关闭配置配置页面
-> ![](https://upload-images.jianshu.io/upload_images/3203841-9e5e0a8069af0227.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee7671718cc7?w=600&h=300&f=gif&s=337816)
 - 配置详解
-> ![](https://upload-images.jianshu.io/upload_images/3203841-65c67a523c7107b0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee7671802d76?w=1144&h=383&f=png&s=195601)
 - 选择背景主题
-> ![](https://upload-images.jianshu.io/upload_images/3203841-3aa7aafc941e3143.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee7671c9ee44?w=481&h=362&f=png&s=28252)
 - 选择背景图片更换频率
-> ![](https://upload-images.jianshu.io/upload_images/3203841-c16e948d74844327.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee7679ecf26b?w=704&h=363&f=png&s=60033)
 - 其它配置
-> ![](https://upload-images.jianshu.io/upload_images/3203841-9e2e8c47f18e935e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee76af77160b?w=481&h=364&f=png&s=55588)
 - 与功能无关的一些面板
-> ![](https://upload-images.jianshu.io/upload_images/3203841-5e64993b225338b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee76af89e559?w=631&h=358&f=png&s=62199)
 
 - 一个很好玩的功能: 可以给每个字母绑定一个emoji表情
-> ![](https://upload-images.jianshu.io/upload_images/3203841-3b32417b9093091b.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee76af80c39c?w=600&h=317&f=gif&s=936544)
 
-## 插件下载地址: 
+## 插件下载地址:
 [https://chrome.google.com/webstore/detail/quickey-launcher/nibepjokbndognmmejkdjcflfehkdhce](https://chrome.google.com/webstore/detail/quickey-launcher/nibepjokbndognmmejkdjcflfehkdhce)
 
-## 小结: 
+## 小结:
 Quickey Launcher是一个偏极客的工具, 界面非常漂亮, 虽然功能不够强大, 但确实很好玩, 而且使用方法, 很有观赏性,感兴趣的小伙伴可以玩一玩~
 
 ---
