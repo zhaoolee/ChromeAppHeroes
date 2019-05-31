@@ -1,15 +1,15 @@
 有一个名为Alexa的网站, 专注于对全球网站进行排名
-> ![](https://upload-images.jianshu.io/upload_images/3203841-07c77cd3c6174c62.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee14e6b2999f?w=1240&h=938&f=png&s=250382)
 
 - 查询网站的方法(以掘金 juejin.im为例)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f79d951d7eb87f8b.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee14e6f738e9?w=600&h=443&f=gif&s=249871)
 
 - 但上面的方法, 需要输入网站的域名, 有点麻烦, 所以官方提供了这个插件, 使用方法如下图所示
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-225bf2a37dd4864a.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee14e707497b?w=600&h=397&f=gif&s=54417)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-cb858ab65f9bed7b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee14e71ca4f1?w=1112&h=874&f=png&s=192957)
 
 
 ## 扩展下载地址
