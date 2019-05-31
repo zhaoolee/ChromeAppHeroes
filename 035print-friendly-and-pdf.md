@@ -3,33 +3,33 @@
 ## 以掘金的一篇热门文章为例
 - [https://juejin.im/post/5cc089eae51d456e7d189f9d](https://juejin.im/post/5cc089eae51d456e7d189f9d)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-4a532e1a8f308c3d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee2cf4188c70?w=1240&h=806&f=png&s=263314)
 
 - Chrome默认打印效果
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-900e69911db6c2ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee2cf444bc54?w=1240&h=667&f=png&s=179538)
 
 ## 使用 《Print Friendly & PDF》 生成打印效果
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-7c248152544f88b7.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee2cf4481b9e?w=1164&h=881&f=gif&s=509385)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b33ba18555d74ba4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee2cf4a9bdae?w=1146&h=759&f=png&s=184505)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-758cdb93ba199424.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee2cf4b6c81f?w=1153&h=722&f=png&s=168631)
 
 > Chrome默认生成为41页, 通过 《Print Friendly & PDF 》 生成的PDF为 36页(Print Friendly & PDF自动移除了 与文章内容无关的 相关推荐内容)
 
 - 如果有些内容不想打印, 可以直接通过 《Print Friendly & PDF》 删掉
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-a6c27797fdeb8d73.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee2cf4c0a8b8?w=600&h=439&f=gif&s=210933)
 
 - 如果你想减少打印页数, 可以通过Print Friendly & PDF改变字号来实现
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-c0daa7bafb2570af.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee2d270c377b?w=1166&h=850&f=gif&s=480911)
 
 - 如果你不想打印, 只是将网页内容保存为pdf, 《Print Friendly & PDF》也是支持的~
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b763c0c1338a0e50.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee2d27fea71c?w=600&h=439&f=gif&s=347060)
 
 ## 小结:
 《Print Friendly & PDF》是一款文件打印chrome插件，会在打印之前删除垃圾广告，导航和无用浮窗从而实现页面优化，让你拥有最佳的打印阅读体验, 如果你经常需要打印网页, 可以通过《Print Friendly & PDF》让你的打印工作变得省时省力~
@@ -39,7 +39,7 @@
 
 
 
-![谷粒-Chrome插件英雄榜](https://upload-images.jianshu.io/upload_images/3203841-4f0b239a3bb43be8.jpg)
+![谷粒-Chrome插件英雄榜](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda0a52ff396?w=3000&h=1941&f=jpeg&s=98230)
 
 
 ## 写在最后(我需要你的支持)
