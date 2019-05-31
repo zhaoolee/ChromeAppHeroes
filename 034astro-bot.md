@@ -2,26 +2,26 @@ Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新�
 
 ## 使用效果
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-bb2ca8b27142c6dd.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ede44654a4dc?w=600&h=527&f=gif&s=143384)
 
 - 如果选错答案，可以重新选择
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-dcc14ed15e447834.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee33fa545a8e?w=600&h=384&f=gif&s=118553)
 (正确答案为绿色)
 
 - 不只是刷出题目, 有时也会**随机刷出极客新闻**
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-804254ee11545465.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee33fa98699c?w=600&h=382&f=gif&s=262566)
 
 - 彩蛋: 进入开发者的网站
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-ec35458e4d0e6b90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee33fa96d092?w=1240&h=506&f=png&s=98764)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-cf8d2bff8612017b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee33fa511e0d?w=1240&h=630&f=png&s=467297)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-a548b36af7d6cc10.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee3401018891?w=1240&h=402&f=png&s=215774)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-a06eeb6a71f5643b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee3402285398?w=512&h=512&f=png&s=10997)
 
 
 
@@ -37,7 +37,7 @@ Astro Bot本身就像是一个彩蛋,Astro Bot的命名源于一款宇宙小机�
 ## 对其它浏览器的支持
 
 | FireFox | Safari | Edge|
-| - | - | - | 
+| - | - | - |
 | 暂不支持 | 暂不支持 | 暂不支持 |
 
 ---
