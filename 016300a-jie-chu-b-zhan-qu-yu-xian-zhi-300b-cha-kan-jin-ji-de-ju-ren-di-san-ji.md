@@ -1,8 +1,8 @@
 ## 在B站, 即使开了大会员, 也总有一些刷不到的视频
-> ![](https://upload-images.jianshu.io/upload_images/3203841-baebff1c8de070c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-477422d7d93c6fb2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda1fb59966e?w=1240&h=630&f=png&s=493486)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda212f369a5?w=1240&h=157&f=png&s=88599)
 - 打开超链接后的画面
-> ![](https://upload-images.jianshu.io/upload_images/3203841-a2fef2e7ad2c55c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec345e07816?w=1240&h=939&f=png&s=320425)
 
 ## 解决方法
 
@@ -10,18 +10,18 @@
 
 - 然后安装油猴插件 `解除B站区域限制`
 > 插件地址 https://greasyfork.org/zh-CN/scripts/25718-%E8%A7%A3%E9%99%A4b%E7%AB%99%E5%8C%BA%E5%9F%9F%E9%99%90%E5%88%B6
-> ![](https://upload-images.jianshu.io/upload_images/3203841-38b93bc72764ad33.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec34606e541?w=1240&h=609&f=png&s=193753)
 
 - 安装此脚本
-> ![](https://upload-images.jianshu.io/upload_images/3203841-36dc34152239d54a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec345f0d864?w=1240&h=498&f=png&s=151192)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-76de9d05e04145c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec3462fa39f?w=1240&h=637&f=png&s=230316)
 
 - 打开超链接https://www.bilibili.com/bangumi/play/ep234658 (进击的巨人第三季) 授权脚本
-> ![](https://upload-images.jianshu.io/upload_images/3203841-ef4a258ee3f30c8e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-161d64261bb942bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec34dbbf55a?w=1240&h=620&f=png&s=303082)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec34decabb4?w=1240&h=732&f=png&s=403439)
 - 成功
-> ![](https://upload-images.jianshu.io/upload_images/3203841-a0b32fda54ad0f4c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec39e23a7bc?w=1240&h=970&f=png&s=1160268)
 
 #### 油猴脚本下载地址:
 

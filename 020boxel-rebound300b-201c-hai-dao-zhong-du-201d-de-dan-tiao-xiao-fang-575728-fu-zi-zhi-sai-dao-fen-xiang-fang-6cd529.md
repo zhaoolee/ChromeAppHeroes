@@ -6,36 +6,35 @@ Boxel Rebound是一款和Google浏览器**断网小恐龙**类似的弹跳小游
 - 游戏免费，BGM带感，玩法多样
 ## 闯关模式玩法
 - 进入游戏
-> ![](https://upload-images.jianshu.io/upload_images/3203841-9ad89c3d04ba397d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eea9e37ec5d7?w=342&h=316&f=png&s=34101)
 
 - 到达终点🏁区域后即可完成本局游戏
-> ![](https://upload-images.jianshu.io/upload_images/3203841-310b46036736220d.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eea9e43519d6?w=271&h=413&f=gif&s=375480)
 
 - 注意游戏中的方向箭头提示，有助于通关
-> ![](https://upload-images.jianshu.io/upload_images/3203841-36b22f7d02e13dcf.gif?imageMogr2/auto-orient/strip)
- 
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda1bb6e93e4?w=181&h=323&f=gif&s=740441)
 - 玩家方块撞到特殊道具会改变体积
-> ![](https://upload-images.jianshu.io/upload_images/3203841-4098c90de5837d19.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eea9e47837a9?w=174&h=320&f=gif&s=725324)
 
 - 玩家方块在下落期间，可不借助地面，完成弹跳（轻功？左脚蹬右脚？方块哪里来的左脚和右脚？）
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f0d48f51bc41490d.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eea9e463a373?w=350&h=630&f=gif&s=761796)
 
 ## 自制赛道玩法
 - 先制作一个最简单的赛道
-> ![](https://upload-images.jianshu.io/upload_images/3203841-efa3a57a68c1ce0a.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eea9e4845e98?w=250&h=392&f=gif&s=393780)
 - 道具说明
-> ![](https://upload-images.jianshu.io/upload_images/3203841-6440f63a6e748f69.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eea9ecd83f75?w=1240&h=292&f=png&s=119318)
 
 
 - 通过道具完善后的的赛道(我自制的)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-5412e91138fdb673.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeaa177289d0?w=182&h=319&f=gif&s=734461)
 
 ## 分享赛道
-> ![](https://upload-images.jianshu.io/upload_images/3203841-bc60efdbe6a5e098.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeaa1db3f3c4?w=506&h=491&f=gif&s=321599)
 > - 上图赛道分享号码(可以拿去玩)：#C445EC
 
 ## 获取他人分享的赛道
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f7c94d41258b7c2a.gif?imageMogr2/auto-orient/strip)
+> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeaa21db0105?w=601&h=380&f=gif&s=666173)
 
 
 
