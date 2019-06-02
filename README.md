@@ -133,7 +133,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 | 赞赏金额 | 赞赏者(微信名) | 赞赏时间|
 | --- | --- | --- |
-| 10.00 | 金三古月 | 2019年6月6日 |
+| 10.00 | 金三古月 | 2019年6月2日 |
 | 10.00 | Azuno | 2019年6月1日 |
 | 10.00 | 邦妥 | 2019年5月22日 |
 | 5.00 | 那都不重要 | 2019年5月19日 |
