@@ -1,33 +1,33 @@
 S
 creen Shader可以将浏览器界面调成暖色, 保护你的眼睛
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee257c4a3c83?w=1240&h=822&f=png&s=292963)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/dd31ffb21b3c49688ce28e3d229b489f.png)
 
 ## Screen Shader会按照一天时间的变化, 自动调整屏幕颜色
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee257c51883a?w=600&h=298&f=gif&s=732682)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/51a71e0a4023446ea00d802543fa5b6f.gif)
 
 ## 如果你想白天也让屏幕变成橙色,可以通过Screen Shader主界面的滑块来实现
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee257c66ced8?w=600&h=300&f=gif&s=582108)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/317aeb26b3184c23bd5707f14c166c57.gif)
 - 调整后, 一整天所有时段的颜色会更"暖"一些(各时段橙色的饱和度都会提高)
 
 ## 你也可以对"白天时间(Daytime)","夜晚时间(Night)", "睡觉时间(Bedtime)",三个时段的"橙色饱和度"分别进行调整
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee257c6fac16?w=600&h=307&f=gif&s=1127589)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0dfa4bc0b5ee44b2b26ceae10fdb555f.gif)
 
 
 ## Screen Shader支持修改主色调, 并支持加入暗色(程序员色调),保护眼睛
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee257c7bf39b?w=400&h=337&f=gif&s=420779)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e4fb1c4508ce4c098a22075a61cf8fa0.gif)
 
 
 ## Screen Shader支持自定义位置,自动适配你所处位置的日出日落时间
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee257c917a33?w=600&h=384&f=gif&s=171290)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/5ccdf9d546e749b49dc3af788c5b2c88.gif)
 
 ## 如果你对自己当前的方案不满意, 可以快速恢复到到初始默认设置
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee25c36580ae?w=600&h=451&f=gif&s=355240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/62964606a5784cff8f1ae5d827a03504.gif)
 
 ## 扩展下载地址
 [https://chrome.google.com/webstore/detail/screen-shader-smart-scree/fmlboobidmkelggdainpknloccojpppi](https://chrome.google.com/webstore/detail/screen-shader-smart-scree/fmlboobidmkelggdainpknloccojpppi)
@@ -39,7 +39,7 @@ creen Shader可以将浏览器界面调成暖色, 保护你的眼睛
 
 
 
-![谷粒-Chrome插件英雄榜](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda0a52ff396?w=3000&h=1941&f=jpeg&s=98230)
+![谷粒-Chrome插件英雄榜](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1c2c0d491c9f4916a39064c87016c9ca.jpeg)
 
 
 

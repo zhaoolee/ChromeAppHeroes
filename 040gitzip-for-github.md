@@ -1,19 +1,19 @@
 最近我创建了一个关于表情包的github仓库,里面收录了国人常用的表情包, 并可以在线预览表情包 [https://zhaoolee.github.io/ChineseBQB/](https://zhaoolee.github.io/ChineseBQB/)
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edda9e640e10?w=1774&h=1223&f=png&s=542036)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/2f7218d909cd4e038c3d1dff5717d9c8.png)
 
 - 仓库地址: [https://github.com/zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
 
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edda9e70e24f?w=1606&h=1336&f=png&s=304586)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/00f5446e98744f7bbae16412f8d882e1.png)
 
 - 后面发现下载单个文件夹的表情包并不方便, 于是找到了Chrome扩展程序[GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)来解决问题
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda0ddfec74c?w=1000&h=456&f=gif&s=756375)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/9e16839ccf0c4c348051bc5065092cc5.gif)
 
 - 如果遇到无法下载的问题, 可以尝试将自己的github账号授权GitZip for github, 就可以正常下载了
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edda9f0e3b58?w=1342&h=918&f=gif&s=564869)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/3fe548a32df1460a8f45086762881afb.gif)
 
 
 ## 扩展程序GitZip for github下载地址

@@ -10,18 +10,18 @@
 
 
 
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c410d5d8f79c?w=1240&h=776&f=png&s=479395)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c7d94a6e5fc346489514f20d4a73616f.png)
 
 ## 插件登录界面
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c410d5f69ec2?w=1240&h=631&f=png&s=176540)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/639a15198f6047638974b9c7470a0770.png)
 ## 插件操作界面
-> ![支持高亮](https://user-gold-cdn.xitu.io/2019/5/3/16a7c410d62e6295?w=1240&h=390&f=png&s=135319)
+> ![支持高亮](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/2bb916abf8234c829f2b1bde03ec4398.png)
 
 ## 支持窗口多开
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c410d6392f42?w=1240&h=651&f=png&s=314054)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/070a384456fa4e22815bf5944d7a0b34.png)
 
 ## 支持界面自定义
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c410f613befa?w=1240&h=769&f=png&s=144707)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/ccc82a56ecf544f59b58ce99e71967cd.png)
 
 
 > 这个插件很早就有了, 早期不支持中文输入, 大家都没把它当回事儿, 最近开始支持中文, 而且google在积极维护它, 就说明这个插件还是有折腾一下的价值的, 另外在浏览器中使用ssh还是蛮酷的!!!

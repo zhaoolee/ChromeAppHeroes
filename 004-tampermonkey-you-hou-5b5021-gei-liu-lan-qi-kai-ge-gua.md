@@ -3,61 +3,61 @@
 
 ## 油猴有哪些超神的外挂?
 #### 1. 免费观看视频网站的VIP视频（以爱奇艺'药王'为例） [油猴脚本链接](https://greasyfork.org/zh-CN/scripts/27530-%E7%A0%B4%E8%A7%A3vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E9%9B%86%E5%90%88)
-![爱奇艺](https://user-gold-cdn.xitu.io/2019/5/3/16a7c4272ab1555a?w=1240&h=697&f=png&s=678644)
+![爱奇艺](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/90896017cac34834b75a58ed79fe79b1.png)
 
 >只需点击左侧的视频网站列表, 就可以跳转到一个新的页面, 页面内有对应的的在线播放的视频
 
-![在线视频](https://user-gold-cdn.xitu.io/2019/5/3/16a7c42781c3fd0b?w=1240&h=705&f=png&s=587748)
+![在线视频](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/42b7b830831541c99b041e201ce8f746.png)
 
 #### 2. 百度网盘直接下载 [油猴脚本链接](https://greasyfork.org/zh-CN/scripts/39504-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E7%9B%B4%E9%93%BE%E5%8A%A0%E9%80%9F%E7%89%88)
-![百度网盘直接下载](https://user-gold-cdn.xitu.io/2019/5/3/16a7c42784808390?w=1240&h=749&f=png&s=110606)
+![百度网盘直接下载](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/00fbb6a3c7cd4006b0e4dea68a916448.png)
 
 #### 3. 过滤百度搜索的推广 [油猴脚本链接](https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6-%E6%90%9C%E7%8B%97-%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E4%B9%8B%E9%87%8D%E5%AE%9A%E5%90%91%E5%8E%BB%E9%99%A4-%E5%8E%BB%E5%B9%BF%E5%91%8A-favicon)
-![启用前](https://user-gold-cdn.xitu.io/2019/5/3/16a7c4278ef8c45d?w=1240&h=862&f=png&s=683974)
-![启用后](https://user-gold-cdn.xitu.io/2019/5/3/16a7c42791a2bd10?w=1240&h=931&f=png&s=431222)
+![启用前](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/011852112db344018b150cbb5d1ac556.png)
+![启用后](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/05ca2e333d364da2a0f203009c204555.png)
 ## 如何安装油猴子?
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c427b169a7a1?w=1240&h=507&f=png&s=24760)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/aa3f982dde394b10a13d9d0d8370f54c.png)
 > 油猴的官网有详细的中文安装指导：`https://tampermonkey.net/`
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c427e77ced7e?w=1240&h=580&f=png&s=226138)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/2cf14dbcd0154416b97783b8aab523ee.png)
 
 如果你使用的浏览器自带插件下载商店的话，直接搜索tampermonkey，一键安装即可。
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c42801676102?w=1240&h=786&f=png&s=314673)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0ae7e5b0f6194726a094c20d3e0ac3df.png)
 
 ## 如何获取脚本?
 
 >油猴脚本资源网站有很多, 这里只推荐一个最好用的 https://greasyfork.org/zh-CN
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c42801c1c816?w=1240&h=832&f=png&s=348602)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/3256a6f0ef494bdf8dff1464fe397c51.png)
 
 ## 自制简书编辑器护眼脚本
 - 进入管理面板
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c428255c1c96?w=438&h=666&f=png&s=69772)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/634085667e31445da72dad5b2fbe90e5.png)
 
 - 新建脚本, 添加适用的网站
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c42866283f46?w=1240&h=159&f=png&s=61996)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/9bbb86033df84aa6991f353cb0261428.png)
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c4286927e484?w=1240&h=535&f=png&s=153441)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/b4f6726646e04e1b972408e816f554e9.png)
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c4287a757dd9?w=1240&h=659&f=png&s=128491)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/01403f2c178d479fb09b54e44616a5af.png)
 - 脚本效果展示:
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c428a9dad97c?w=1240&h=760&f=png&s=558282)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/321b09f953b349388276e3ba94aaacab.png)
 
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c428bca713a6?w=1240&h=756&f=png&s=595611)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/221ffcc0d37f4d50a41f5057db4f1f9b.png)
 
 ## 如何快速迁移油猴?
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c428d2e384fb?w=1240&h=569&f=png&s=118284)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/af6405f8c26446128a93846f4cc8eb9d.png)
 
 ## 推荐一些在用的脚本
 > 脚本的更新很快, 放链接意义不大, 这里直接放张我正在使用的,最好到`https://greasyfork.org/zh-CN`手动搜一下,熟悉了开车的基本操作, 遇到弯道,才不会熄火...
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c428e2b9b1a8?w=1240&h=744&f=png&s=252298)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1c9bf1594b894d4286857aa338673116.png)
 
 > 以上脚本都可以在greasyfork找到, 如果目标网站改变了页面结构,脚本可能会失效, 当然很快会有新的脚本被推出, 所以,玩油猴要有一种折腾的精神, 针对`视频网站脚本`,这里多说一句, 如果当前脚本失效了, 直接到脚本网站, 搜索`VIP`, 一般排名第一的,就是目前最好用的, 一键安装, 即可观看VIP视频资源!
 

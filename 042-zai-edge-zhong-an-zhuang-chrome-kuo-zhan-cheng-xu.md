@@ -1,12 +1,12 @@
 - 最终效果图
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edc6f5e3448e?w=1240&h=830&f=png&s=1301048)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/301dc549a1104c34b520bbda8e9376dc.png)
 
 - 打开[https://www.microsoftedgeinsider.com/en-us/download/](https://www.microsoftedgeinsider.com/en-us/download/) ,下载Edge的`CAN`版本 (Logo为金色配色), 并完成安装
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edc6f5f4db3c?w=2984&h=1742&f=png&s=435384)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/6fa3c284cfb445219c4b55b570a7dd0f.png)
 
 - 打开`允许Edge从其它商店安装扩展程序`的按钮
 
-![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edc6f61bbac6?w=600&h=406&f=gif&s=481599)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/701d48b350e844e9bec17e828f80bcec.gif)
 
 - 从Chrome商店安装扩展程序
 
@@ -14,7 +14,7 @@
 > - markdown here具体使用方法和安装链接: [https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda0ac772a51?w=600&h=308&f=gif&s=636786)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/b19588eab9a2438c97761f45689ca447.gif)
 
 ## 小结
 
@@ -22,7 +22,7 @@ Edge可以安装绝大多数Chrome商店中的扩展, 但Chrome中的谷歌开�
 
 
 
-> ![谷粒-Chrome插件英雄榜](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda0a52ff396?w=3000&h=1941&f=jpeg&s=98230)
+> ![谷粒-Chrome插件英雄榜](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1b8e3f49df2b4ab4ac737a1684975cac.jpeg)
 
 
 ## 写在最后(我需要你的支持)

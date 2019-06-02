@@ -2,26 +2,26 @@ Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新�
 
 ## 使用效果
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ede44654a4dc?w=600&h=527&f=gif&s=143384)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0b3125408c2544ada48be6634091d5b5.gif)
 
 - 如果选错答案，可以重新选择
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee33fa545a8e?w=600&h=384&f=gif&s=118553)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/bf22b68567f6424fbd055b188335c5d6.gif)
 (正确答案为绿色)
 
 - 不只是刷出题目, 有时也会**随机刷出极客新闻**
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee33fa98699c?w=600&h=382&f=gif&s=262566)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/9b9d8b9a8e6d46e78f4cbdd1f080c28b.gif)
 
 - 彩蛋: 进入开发者的网站
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee33fa96d092?w=1240&h=506&f=png&s=98764)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/06bca0a0ad774a628c97ea7a34a6f8d7.png)
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee33fa511e0d?w=1240&h=630&f=png&s=467297)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a78f882e5383497fac2bf09dbd1a1223.png)
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee3401018891?w=1240&h=402&f=png&s=215774)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/99842e415c3e4af09fcbef8cb32dc8d9.png)
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee3402285398?w=512&h=512&f=png&s=10997)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/4b0c0a8e289d415ba745e59477969c5d.png)
 
 
 

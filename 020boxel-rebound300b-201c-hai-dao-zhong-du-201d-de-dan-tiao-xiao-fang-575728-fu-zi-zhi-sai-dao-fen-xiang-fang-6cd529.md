@@ -6,35 +6,35 @@ Boxel Rebound是一款和Google浏览器**断网小恐龙**类似的弹跳小游
 - 游戏免费，BGM带感，玩法多样
 ## 闯关模式玩法
 - 进入游戏
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eea9e37ec5d7?w=342&h=316&f=png&s=34101)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/7f58e9ff05fa438db385f5a7aa311fb8.png)
 
 - 到达终点🏁区域后即可完成本局游戏
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eea9e43519d6?w=271&h=413&f=gif&s=375480)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/8de478ef54914769b19a49607259cefd.gif)
 
 - 注意游戏中的方向箭头提示，有助于通关
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda1bb6e93e4?w=181&h=323&f=gif&s=740441)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/59ed60632413452991e019d747eb7963.gif)
 - 玩家方块撞到特殊道具会改变体积
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eea9e47837a9?w=174&h=320&f=gif&s=725324)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/7337377a15cc448288c8a9f1a9659af8.gif)
 
 - 玩家方块在下落期间，可不借助地面，完成弹跳（轻功？左脚蹬右脚？方块哪里来的左脚和右脚？）
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eea9e463a373?w=350&h=630&f=gif&s=761796)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0e97454d61814081a5844607928980eb.gif)
 
 ## 自制赛道玩法
 - 先制作一个最简单的赛道
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eea9e4845e98?w=250&h=392&f=gif&s=393780)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c8ed89ec75a04f1cbc05dd3597154b0f.gif)
 - 道具说明
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eea9ecd83f75?w=1240&h=292&f=png&s=119318)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d85d17a999604681ab28367cab3e2b89.png)
 
 
 - 通过道具完善后的的赛道(我自制的)
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeaa177289d0?w=182&h=319&f=gif&s=734461)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/680ad68a8b0941df865c5883e9dccdca.gif)
 
 ## 分享赛道
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeaa1db3f3c4?w=506&h=491&f=gif&s=321599)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/189f8811618e4275b689056527b7caa4.gif)
 > - 上图赛道分享号码(可以拿去玩)：#C445EC
 
 ## 获取他人分享的赛道
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeaa21db0105?w=601&h=380&f=gif&s=666173)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/52db70aef1924462877b14fdafa8d23f.gif)
 
 
 

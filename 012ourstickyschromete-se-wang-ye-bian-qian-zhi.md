@@ -1,47 +1,47 @@
 便签在办公室随处可见,给网页贴便签,你玩过么？
 
 **OurStickys是chrome的一款特色网页便签纸**
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee7a52f1c3a?w=1240&h=818&f=png&s=180196)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a5a1d6083cbf4ea3afd3e5400b464295.png)
 
 ## 基本操作:
 - 新建便签
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee7a56e06d8?w=674&h=474&f=png&s=93073)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0c826766ab114940a1558f0d16327fb2.png)
 - 开启便签设置
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee7a57d490e?w=664&h=478&f=png&s=25841)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/35a4e800d1224d2ba35dae01ca411a2d.png)
 
 
 
 ## 特色一: 可以特定的网址下,自动显示特定的便签
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee7a5ada32c?w=904&h=594&f=png&s=135567)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/f1c86a0c59b449fdbcf6d3e0775ea188.png)
 
 
 ## 特色二: 刷剧神器, 可以把视频粘贴到便签, 结合特色一的功能, 可以随时查看多个在线视频
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee7a5bc8043?w=1044&h=616&f=png&s=365223)
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee7a5ecdc53?w=1240&h=534&f=png&s=557513)
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee7e770af11?w=1240&h=901&f=png&s=943154)
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee7e90c592a?w=1240&h=799&f=png&s=435164)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a126dc3294ee48c8b85db47622a54ea6.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/99155f15a5eb422c8da0541e0b79e2e1.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a4bbfe88600a46469bdbed3e4f1cfeb6.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d7635d3136464b519befe31f36e04fed.png)
 
 ## 特色三: 可以将网页当做画板, 在任意位置贴标签
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee8026dd83a?w=664&h=606&f=png&s=35611)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/084c2c05b5004f238821670c5aa97a59.png)
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda2387df6cc?w=2780&h=1730&f=gif&s=4992956)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/34f477991cca45528a66da7a9d596206.gif)
 
 
 
 平时用到的便签功能,比如云端同步, 便签换颜色, 支持Todolist, 定时提醒,OurStickys都包含在内
 - 云端同步(支持facebook和google授权登录)
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee80abfc877?w=828&h=908&f=png&s=202162)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/38bd23611d2e464798a046d31436dab2.png)
 
 
 
 - 便签换颜色, 颜色偏向浅色调, 给人打感受比较小清新
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee80c448e73?w=892&h=762&f=png&s=95822)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a6a60d6d746d4df28a6d38fc4a985446.png)
 
 - 支持Todolist
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee81077ef30?w=912&h=630&f=png&s=90650)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1e8ddbc2f9e34efcbb736594925985ac.png)
 - 支持定期提醒, 产品功能比较克制, 只支持1天, 7天, 1个月的定时提醒
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eee8451a1497?w=942&h=604&f=png&s=86985)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1bb2640ecfc145359be1d113686256b0.png)
 > 另外, OurStickys支持json格式, 支持统一定位任意页面粘贴的标签, 支持一键隐藏所有标签, 支持为标签手动添加关键词索引等等
 
 

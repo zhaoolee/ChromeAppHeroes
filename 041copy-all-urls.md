@@ -2,21 +2,21 @@ Copy All Urls可以一键复制当前窗口所有已打开标签页Url, 而且�
 
 - 一图胜前言, 先看使用效果
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda0d9a1a26a?w=600&h=313&f=gif&s=201041)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/7426231bb2014e0884e03e3f0d3b5464.gif)
 
 - 当然你也可以把得到的url们, 保存到本地
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edd358f29253?w=600&h=296&f=gif&s=140205)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/abb64d7076014e34a4b81377bef1ec1b.gif)
 
 - 当然, 也可以从保存的url中, 任意选择两个打开
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edd35901920e?w=600&h=252&f=gif&s=83883)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0f38c4f78b6f4b468c5f27d99cc00c77.gif)
 
 使用场景: 很多文职人员, 每天经常打开的页面也就那么几个, 可以把url们保存到桌面记事本(比如起名为`开工.txt`), 每天上班, 打开记事本, 复制记事本内容, 用`Copy All Urls` 一键批量打开, 简单优雅~ 有新同事入职, 想搭讪的话 ,可以把`开工.txt`和`Copy All Urls`分享给新同事, 并传授其使用方法,新同事会感觉你很贴心~
 
 ## 更多选项
 
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edd3591f0e07?w=1220&h=920&f=png&s=298779)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c14833d8d02a4be680a6cd2752257b8c.png)
 
 
 ## 扩展程序下载地址:

@@ -1,9 +1,9 @@
 先放一张使用Simplify Gmail后, 清爽的gmail界面~
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0e4f489561?w=1240&h=715&f=png&s=1021377)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/de1ec2f005854671b75feb3f5e484b8d.png)
 
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda0e41143aa?w=600&h=304&f=gif&s=391232)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/45ee49beae1b451b80210a17856e97fe.gif)
 
 - Simplify Gmail是一款简化 Gmail 界面的扩展程序
 
@@ -14,11 +14,11 @@
 
 ## 如何给Gmail换个主题
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0e4f8292bb?w=600&h=328&f=gif&s=605411)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/895fe19ba16f4882b8a9c4fabb756092.gif)
 
 
 ## 如何获取更多Gmail扩展程序
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0e4f8c12b4?w=600&h=331&f=gif&s=472029)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/bfa37cf207f644768697b1710c8fc0e7.gif)
 
 
 

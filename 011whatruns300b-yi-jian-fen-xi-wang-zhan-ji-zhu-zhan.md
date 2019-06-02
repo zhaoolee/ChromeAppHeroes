@@ -7,23 +7,23 @@
 
 - 这里先用简书jianshu.com试试水
 
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c744e46383d2?w=1240&h=1186&f=png&s=467984)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/129438a1f42348739f846d45321676c4.png)
 > - 简书使用webpack做打包, 也使用了VueJS, jQuery, Monment JS等技术
 
 - 看看vue的官网用了什么技术
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c744e47a72fe?w=1240&h=744&f=png&s=204296)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/16635272913343f8937943aaeda13dfd.png)
 - 看看facebook用了什么技术
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c744e4886d4c?w=1240&h=889&f=png&s=512290)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/4f037040621341e8a282fe9ba762379e.png)
 
 ## 详细了解相关技术
 如果你需要详细了解某个技术, 可以通过whatruns快速调转到相关技术的官网
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c744e49beb0c?w=924&h=968&f=png&s=127846)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e5597c1ee3af41c0a52d67eb9ac417e2.png)
 同样的,你也可以查看使用了当前技术的相关网站, 以vue为例
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c744e4f02ddb?w=890&h=678&f=png&s=93934)
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c744e65f14d9?w=1240&h=908&f=png&s=181439)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/2da4326622c444f785101f5d7380bb65.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/06aef35378524f74b8e0b3bad24b85f5.png)
 
 
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c7451dce301a?w=1240&h=776&f=png&s=411901)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/5b556edb9a82463789e5f95caf3c024d.png)
 
 
 ## 小结:

@@ -1,38 +1,38 @@
 Dark Reader是一款Chrome护眼插件，可以实时生成黑色主题，为任意网站启用夜间模式
 ## 先放两张对比图
 - Dark Reader启用后
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee83c5e7080e?w=1240&h=640&f=png&s=183793)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/123b3d6a516643c1b288ce88293169e1.png)
 - Dark Reader启用前
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee83c5ffd33f?w=1240&h=640&f=png&s=128334)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e1ee4f298f114748b0224f7170d4f776.png)
 
 
 Dark Reader是一款Chrome护眼插件，可以实时生成黑色主题，为任意网站启用夜间模式
 - 开启和关闭插件
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee83c60f0397?w=824&h=1112&f=png&s=113664)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1113ba06b68049afb1aedc1f0d3093d6.png)
 
 
 - 有的网站的配色本来就很美, 可以对特定网站禁用Dark Reader
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee83c64643c3?w=599&h=312&f=gif&s=320954)
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee83c6643ab0?w=1016&h=1112&f=png&s=123940)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1dc999af1f0847de8b03df66f508d1cc.gif)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/84d9c49309074bddb21d4119e2c32955.png)
 
 至此, DarkReader的功能已经可以满足你日常的使用, 后面的属于进阶玩法
 ---
 
 
 - 调节四大参数:
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee83c673b70a?w=1240&h=896&f=png&s=331038)
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda19a9c5d35?w=600&h=330&f=gif&s=1708391)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/fb931fa1ca334da29db229fd7709d7e1.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d0080d2a77f840898db47b71152afc85.gif)
 - 上面提到的四大参数, 在亮色模式下也同样适用
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee8403153d9f?w=600&h=329&f=gif&s=1786406)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/f7874660dec944968f971445fcd56c62.gif)
 
 - 设置 Dark Reader 可以生效的域名网站列表
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee840320bbbc?w=1240&h=577&f=png&s=112243)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/cb42673290174e1c80965bb851c7e23d.png)
 
 - 更换网站字体,调整字体粗细
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee84038f7fdf?w=600&h=321&f=gif&s=3465157)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d1e7062e9b4f407a835eb0c0210e062c.gif)
 
 - 更换网站主题, 或自定义网站主题
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee8403bdf939?w=600&h=323&f=gif&s=2389974)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/9f5474822278448c8518fc75a83440b3.gif)
 
 
 ## 插件下载地址:

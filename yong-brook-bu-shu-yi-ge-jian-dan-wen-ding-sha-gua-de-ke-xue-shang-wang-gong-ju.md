@@ -2,7 +2,7 @@
 - Brook是一个跨平台的代理/ VPN软件, 软件的目标是保持简单,傻瓜, 无感知.
 - Brook部署和使用比ss更简单, 如果ss某天挂了, 可以用Brook作为替代品.
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edecf9237d45?w=1000&h=1000&f=png&s=35777)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/400b6c393df448428973df595435950f.png)
 
 
 ## 准备工作
@@ -22,7 +22,7 @@ mkdir my_brook
 cd my_brook
 wget https://github.com/txthinking/brook/releases/download/v20181212/brook
 ```
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edecf9561c6f?w=1079&h=304&f=png&s=70068)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d041120e80364cc5b79eead72f3b9aa7.png)
 
 ## 开启服务
 
@@ -34,7 +34,7 @@ chmod 777 brook
 # 以非阻塞方式开启服务(比较推荐)
 ./brook server -l :9999 -p password /dev/null 2>&1 &
 ```
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edecfa312c44?w=1066&h=106&f=png&s=51478)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/7515538692f9495a8e01900590aa9060.png)
 
 ## 用客户端登录
 - 下载客户端
@@ -44,25 +44,25 @@ Mac客户端下载:https://github.com/txthinking/brook/releases/download/v201812
 IOS客户端下载(你可能需要美国区账户): https://itunes.apple.com/us/app/brook-brook-shadowsocks-vpn-proxy/id1216002642
 
 - 填写登录信息
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edecfa651e7b?w=695&h=696&f=png&s=57256)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e8af9af693184fceb920c1f57344c8e8.png)
 - 右击任务栏图标选择start
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0edecfa7dc8f2?w=414&h=238&f=png&s=72801)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e6c3812831cd4650996e0da0a4a0e450.png)
 
-> ![ios版本登录](https://user-gold-cdn.xitu.io/2019/6/1/16b0edecfab77a2e?w=750&h=1334&f=jpeg&s=55029)
+> ![ios版本登录](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/ca60464f37b34df2a4f1f761595344d2.jpeg)
 
 
 
 
 - 可以愉快的上网了
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eded2d7acc36?w=959&h=679&f=png&s=245513)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c04cf3ae3fe949f1acdef86e4f89d7e9.png)
 
-> ![ios查看youtube](https://user-gold-cdn.xitu.io/2019/6/1/16b0eded3439ed3c?w=750&h=1334&f=jpeg&s=208886)
+> ![ios查看youtube](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/502d4d4260e442cd9a9f40c5d339d8a8.jpeg)
 
 
 
 > 如果你想让自己的服务更稳定一些, 可以继续往下读
 ## 先结束刚刚创建的进程
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eded3935b18d?w=1090&h=131&f=png&s=77004)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a56fa2eb49b240529d14cb26e1918933.png)
 
 ## 安装守护进程pm2
 ```
@@ -86,7 +86,7 @@ vi start_brook.sh
 ```
 pm2 start start_brook.sh
 ```
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eded3f511f61?w=1084&h=496&f=png&s=210922)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/b16a55e37cd848c395f437aea6056f42.png)
 
 > 大功告成! 现在可以稳定的访问服务了, 即使brook服务端程序挂掉了, pm2也会自动重启brook服务端程序
 
@@ -97,7 +97,7 @@ pm2 start start_brook.sh
 ```
 pm2 list
 ```
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eded4bf77fd7?w=1061&h=262&f=png&s=122058)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/4f5f769a86ec4ffc8ba98c0e123d3420.png)
 
 - 如何关闭brook服务端进程
 
@@ -105,11 +105,11 @@ pm2 list
 pm2 delete start_brook
 ```
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eded5a4db701?w=982&h=264&f=png&s=137244)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/89f330fcfec14057adf808ee2e15be41.png)
 
 ## 愉快的访问谷歌和油管吧~
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eded66c35d6a?w=1240&h=737&f=png&s=367278)
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eded686ac2bb?w=1240&h=652&f=png&s=1020928)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/37139eabd9f7493580abf64e06aa76a6.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/7eaae3ed9ac54fe2a56b146996c16a82.png)
 
 
 ## 小结:

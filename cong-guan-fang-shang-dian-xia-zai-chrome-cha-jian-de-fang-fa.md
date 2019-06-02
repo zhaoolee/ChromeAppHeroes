@@ -3,17 +3,17 @@
 App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrome web store 获取插件,所以国内的大多数Chrome只是一个浏览器, 本文展示一个为Chrome赋予灵魂的方法
 
 > Emm, 如果你不知道去哪里下载Chrome... 我可以悄悄告诉你, 从 [https://tools.shuax.com/chrome/\#/](https://tools.shuax.com/chrome/#/) 可以下载到各个平台的绿色版Chrome,解压即用~
-> ![](https://upload-images.jianshu.io/upload_images/3203841-29d4c8d00a9516a3.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/95df2adac8c04d61b803497ce2e946a2.png)
 
 ---
 - 如果你不喜欢绿色版Chrome,可以访问这个地址 [https://www.google.cn/chrome](https://www.google.cn/chrome), 获取官方提供的安装包 (感谢Github用户[@lb091188](https://github.com/lb091188)给出的建议)
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee03d9345eb4?w=1240&h=698&f=png&s=147269)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/bb8d3dc8de9a404894a475ccc1f79032.png)
 
 >[https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions)
 
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee03d94325e3?w=2524&h=1520&f=png&s=975245)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/6f5d902873834e0c879404ffe55779f4.png)
 
 ---
 
@@ -22,74 +22,74 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 - 获取setupvpn安装包, 并解压(setupvpn的获取方式在文末)
 
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee03d94b13ef?w=530&h=318&f=png&s=34131)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/506c51f444fe4302808b24c41f59a509.png)
 
 
 - 在Chrome打开chrome://extensions/
 
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee03d9742e0c?w=1948&h=1110&f=png&s=96908)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0fa9697e25234d1e87e793ea6cdbfe81.png)
 
 
 - 开启开发者模式
 
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee03d96de80c?w=1954&h=1408&f=png&s=152381)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e750d67c638546a5b6f3c551539addf8.png)
 
 * 安装setupvpn安装包
 
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0413aa33e3?w=1940&h=1408&f=png&s=138453)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/54688894ed02449ea38ad2e9126ad183.png)
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0418c8bc08?w=1780&h=1072&f=png&s=124800)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/b428b01d1f02433b9a0f2e9a1392b7bd.png)
 
 * 安装成功
 
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0419f02ab5?w=2162&h=1436&f=png&s=199676)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/977d52fcc6df45878163650b34f25aed.png)
 
 * 选择汉语
 
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee041c89c5d1?w=2170&h=1422&f=png&s=203946)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/9c2e77c63c784aca8a1379916f48278b.png)
 
 * 创建账户
 
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee041dca73f1?w=2170&h=1288&f=png&s=204712)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/335be8451afd467a871dacc4752c7c3f.png)
 
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee043ac3a68b?w=2176&h=1502&f=png&s=259119)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/025dda6c3be34e95b625b2b36795292c.png)
 
 - 登录邮箱, 点击激活邮件链接
 
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee04478b6d75?w=3196&h=1268&f=png&s=412156)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/de5075b5090f48e3af21ebf683b05652.png)
 
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0460857d64?w=3088&h=1712&f=png&s=450795)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/168b1faa2e234048adb7f0370e93efc6.png)
 
 
 - 点击图标,输入账户密码进行登录
 
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0469ea21bb?w=2166&h=1500&f=png&s=254101)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/8e01408f17c24f748651b6eab73dcd08.png)
 
 
 - 选择服务器
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee046a0d606d?w=2170&h=1484&f=png&s=247574)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/f30565cdda344ca7aded678edfc11cfe.png)
 
 > 如果米国服务器连接速度慢,就换一个小国的, 比如荷兰~
 
 - 嘿嘿,连接成功
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0469f45ce2?w=2150&h=1380&f=png&s=206038)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e2775fdf3238404c81b01774d2ff2d72.png)
 
 ## 尝试访问chrome web store\(谷歌商店\)[https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions)
 
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0474e7bc35?w=2178&h=1500&f=png&s=929140)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a8727e80321540f58b3a7396280c8ee6.png)
 
 > 愉快的使用chrome web store吧!
 > 由于vpn是免费的, 所以刷youtube.com估计会卡
@@ -99,7 +99,7 @@ App是手机的灵魂, 插件是Chrome的灵魂,然而国内很难连接到chrom
 
 * 开启插件后, 浏览器所有的请求都会走代理, 访问百度,淘宝等常用网站也会变得特别慢,所以不访问外网的时候, 记得关闭插件
 
->![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee0499809ba9?w=2180&h=1506&f=png&s=524064)
+>![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/3bd3415ee2924fc28bdcfd851b4e701d.png)
 
 ## 小结:
 

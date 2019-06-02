@@ -4,34 +4,34 @@
 
 > 让Chrome变快的最简单方式就是清理垃圾, 而Chrome的特色扩展中, 恰好有一款评分很高的插件**Chrome Cleaner Pro**, 顾名思义, 插件的主要作用是为Chrome清理垃圾, 让你的Chrome变得飞快
 
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c710bea37939?w=1240&h=741&f=png&s=294811)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/282f321517e249968f349bda10a4f474.png)
 
 - 官网: http://chromecleanerpro.com/
 
 > - 如果无法翻墙, 请查看免翻墙下载插件的方法[免代理下载安装纯净Chrome插件离线包](https://www.jianshu.com/p/02115e262c4f)
 
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c710beb38c87?w=1156&h=342&f=png&s=57447)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/bc1b9558c87a423abca709de742826e8.png)
 
 ## 使用方法:
 - 单击扩展图标:
 
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c710bf06ac3f?w=946&h=374&f=png&s=49103)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c39d0727962f4d8cada9975c72c04820.png)
 
 - 单击`Clean Now` 清理浏览器
 
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c710bf20faee?w=1240&h=1202&f=png&s=305501)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/cc1f88ce77b646f2adbf9d62403e56ef.png)
 
 - 确认清理
 
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c710bfc3c461?w=1240&h=961&f=png&s=227820)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/fccdf819bfa043dfb312a80995c858ee.png)
 
 - 清理完成后, 关闭网页即可
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c710bfd2ae22?w=1240&h=823&f=png&s=116203)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/6645ff81a6164660a5749a7a56ce8b1f.png)
 
 ## 为啥不用Chrome原生的工具清理?
 > Chrome Cleaner Pro比原生的更方便使用, 而且选项更为丰富
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c710ff3aa1dc?w=1088&h=1000&f=png&s=139501)
-> ![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c710ffcf70f5?w=1240&h=1099&f=png&s=427350)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0cf16026ce9247c49eebd7877d663559.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c8e36ef5fd1b47e19260eec271a5e608.png)
 
 ## 小结
 从**Chrome Cleaner Pro**的诞生, 可以感受到Chrome OS已经发展到了一定的程度, 为浏览器做垃圾清理就和**某数字软件管家**为windows做一键清理的思路很像, 区别是, **Chrome Cleaner Pro**不像**某数字软件管家**那样流氓 [手动滑稽]

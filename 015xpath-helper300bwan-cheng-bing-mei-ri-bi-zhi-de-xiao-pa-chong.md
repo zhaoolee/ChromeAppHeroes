@@ -10,31 +10,31 @@ https://bing.ioliu.cn/
 ```
 /html/body/div[@class="page"]/span
 ```
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeca32fe6e6d?w=1240&h=601&f=png&s=975101)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c386fd93de5a4942b785994698f225aa.png)
 
 ## 获取图片日期信息
 ```
 /html/body/div[@class="container"]/div/div[@class="card progressive"]/div[@class="description"]/p[@class="calendar"]/em
 ```
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeca332943df?w=1240&h=559&f=png&s=1027387)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/b9f7882fc32d498cb30bc621359ab9f7.png)
 
 
 ## 获取图片下载链接信息
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeca32dec091?w=1240&h=717&f=png&s=1433933)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/044682301def4141b9907738b10cd0f4.png)
 
 ```
 /html/body/div[@class="container"]/div/div/a/@href
 ```
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeca3309060f?w=1240&h=633&f=png&s=1212122)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0193d0122feb4eb29ea6dc11d049c764.png)
 
 
 ## 编写爬虫脚本,并运行
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeca33262255?w=1240&h=1466&f=png&s=1275673)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0ed47e862c3443a0a801a7779ee716b8.png)
 
 > 如果你不是程序员, 也可以使用编译好的bing.exe, 右键管理员身份运行即可~
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeca3a408119?w=1240&h=443&f=png&s=74489)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/388f7686cb3149a5b2692ab23535de65.png)
 > 爬虫脚本和.exe文件都被我放到了github上, 感兴趣可以自行下载, 链接地址 https://github.com/zhaoolee/ChromeAppHeroes/tree/master/%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90/bing
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eeca6d6d584a?w=1240&h=652&f=png&s=170937)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1b015ac803c041e5a7bdd27c3f6245ae.png)
 
 
 ## 插件下载地址

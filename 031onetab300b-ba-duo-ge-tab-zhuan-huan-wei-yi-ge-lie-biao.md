@@ -3,28 +3,28 @@
 ## 应用场景一: 把多个Tab转换为一个列表
 当你发现自己有太多的标签页时,单击OneTab图标,所有标签页会转换成一个列表,当你需要再次访问这些标签页时,点击OneTab图标唤出列表,点击列表恢复标签页
 - 当前我在浏览器打开了一组标签页
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee534e4d3d06?w=1240&h=716&f=png&s=666549)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/6418858c3da74e42bde5b76b91be265c.png)
 - 点击OneTab图标
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee534e6183c6?w=1240&h=716&f=png&s=668767)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/29a667780cd940c8a08ade699f2c5577.png)
 - 所有标签页合并为列表(点击列表可恢复)
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee534e6b7c10?w=1240&h=466&f=png&s=242007)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/57f3d5d3fe7c4b2bb0a9a860760f5872.png)
 - 点击恢复页面(点击恢复标签页后, 开启新的标签页)
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee534e9993c0?w=1240&h=537&f=png&s=276378)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/2a2142f68cc14d8388384b0ee1097a1b.png)
 > 如果关闭了OneTab标签页, 只需点击浏览器插件栏OneTab图标恢复即可!
 
 ## 应用场景二: 批量分享网页
 可以将**场景一**中 生成的列表页生成二维码, 将二维码分享给别人, 这样别就可以收到你分享的一组网页了!
 
 - 将当前6个标签页分享为二维码
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda1337a4a56?w=1240&h=506&f=png&s=254023)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c521739fc62349dd91f94f8c45250d68.png)
 
 - 扫描二维码即可查看分享的6个网址
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee534ebc47bc?w=1240&h=394&f=png&s=233202)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/6c7fae770bce4f74b4f1e00d5f277cbf.png)
 - 可以用这个二维码,体验一下
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee5356c214f1?w=428&h=190&f=png&s=15373)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/cdce9cc22cbd4e8f81569e5e486244e8.png)
 
 - 通过二维码, 在手机端查看
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0ee5386eb521c?w=750&h=1284&f=jpeg&s=74135)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/600be59abe4b4f0f82883599b7085411.jpeg)
 
 
 

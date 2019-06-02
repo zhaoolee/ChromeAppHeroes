@@ -1,8 +1,8 @@
 ## 在B站, 即使开了大会员, 也总有一些刷不到的视频
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda1fb59966e?w=1240&h=630&f=png&s=493486)
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eda212f369a5?w=1240&h=157&f=png&s=88599)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e3b1434ed6164584b5b14106a3145ace.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d290981019d54a7f8973989ed8e7f754.png)
 - 打开超链接后的画面
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec345e07816?w=1240&h=939&f=png&s=320425)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/27e7116f4aae4829a7e80ba5a051ed6b.png)
 
 ## 解决方法
 
@@ -10,18 +10,18 @@
 
 - 然后安装油猴插件 `解除B站区域限制`
 > 插件地址 https://greasyfork.org/zh-CN/scripts/25718-%E8%A7%A3%E9%99%A4b%E7%AB%99%E5%8C%BA%E5%9F%9F%E9%99%90%E5%88%B6
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec34606e541?w=1240&h=609&f=png&s=193753)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/2c9ed35fdb3447c8b9929cac8a02d145.png)
 
 - 安装此脚本
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec345f0d864?w=1240&h=498&f=png&s=151192)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d24f491ead734fc890fe69f4a945cfcd.png)
 
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec3462fa39f?w=1240&h=637&f=png&s=230316)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/b7ccaa16860448d0a6a630ff37eefdab.png)
 
 - 打开超链接https://www.bilibili.com/bangumi/play/ep234658 (进击的巨人第三季) 授权脚本
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec34dbbf55a?w=1240&h=620&f=png&s=303082)
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec34decabb4?w=1240&h=732&f=png&s=403439)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/66328cbf4a954bb996239c991b2f8203.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d1ae9442e3994b4f935502bdbf5f16fe.png)
 - 成功
-> ![](https://user-gold-cdn.xitu.io/2019/6/1/16b0eec39e23a7bc?w=1240&h=970&f=png&s=1160268)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/de9242ae504e410cb978890cdad7d827.png)
 
 #### 油猴脚本下载地址:
 

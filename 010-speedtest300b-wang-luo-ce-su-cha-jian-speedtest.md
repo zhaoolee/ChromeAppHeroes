@@ -2,24 +2,24 @@
 
 - 你可以通过浏览器打开网站 http://www.speedtest.net/ 在线进行测速
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c733c8947c74?w=1240&h=826&f=png&s=120361)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/9fb8383534ab40979fa56c21185b07fc.png)
 
 - 最后网站会给出ping，上传，下载，各自的速度
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c733c98c0455?w=1240&h=557&f=png&s=100189)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/71dc8d85b4a74c8fbc0c311741fade7d.png)
 ---
 然而，http://www.speedtest.net/ 貌似在大陆是访问不到的，好在speedtest提供了chrome插件，插件的完整名字是`Speedtest by Ookla`， 一样的画风, 一样的味道, 而且支持中文。
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c733c99f6498?w=1240&h=882&f=png&s=533692)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d24ac44d88794366938fc4529c59f34c.png)
 
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c733c9aae19d?w=728&h=1084&f=png&s=134676)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c6963d49da8044cfb2ac722fc77ce444.png)
 ---
 
 ## 插件不止能测速
 插件`Speedtest by Ookla`不止是测速，还可以获取打开当前网页的速度（这个功能是默认开启的）
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c733c9ae04fd?w=1240&h=408&f=png&s=126743)
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c733c9c4daae?w=1240&h=446&f=png&s=136845)
-![](https://user-gold-cdn.xitu.io/2019/5/3/16a7c734042eea68?w=1240&h=415&f=png&s=361573)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/23378d582216478ba492e9a7dbcc8b30.png)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/283df580a21c431599db0c6ed5b2d6f2.png)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/de67c5646f9240849528f533adb05056.png)
 
 ## 小结
 - 是一个不错的插件，很好的解决了测速问题，而且可以记录打开网页的速度，如果完成基本功能是100分，`Speedtest by Ookla`可以打个120分了。
