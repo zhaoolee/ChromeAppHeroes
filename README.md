@@ -153,6 +153,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/deff71a536ba4027a01fe3c7a558c277.gif)
 
+《谷歌访问助手》可以让我们访问Chrome商店, 以及谷歌搜索, 谷歌Gmail等服务
+`仅为香港地区用户提，供方便科研,外贸提供帮助,不良用户,将封锁访问IP,后果自负`, 谷歌访问助手需要你设置主页为`https://2018.hao245.com/`才能使用, 有百度全家桶, 360全家桶的流氓内涵~
+
 
 
 #### [043《Dream Afar New Tab》探索世界的新方式](https://zhaoolee.gitbooks.io/chrome/content/043dream-afar-new-tab.html)
