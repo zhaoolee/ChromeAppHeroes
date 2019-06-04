@@ -148,6 +148,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+
+#### [044《谷歌访问助手》访问Chrome商店 Gmail 谷歌搜索](https://zhaoolee.gitbooks.io/chrome/content/044300a-gu-ge-fang-wen-zhu-shou-300b-cong-chrome-shang-dian-xia-zai-cha-4ef628-kuo-zhan-cheng-5e8f29.html)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/deff71a536ba4027a01fe3c7a558c277.gif)
+
+
+
 #### [043《Dream Afar New Tab》探索世界的新方式](https://zhaoolee.gitbooks.io/chrome/content/043dream-afar-new-tab.html)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e40b7bec41ce4ac892578bc88a03d25c.gif)
