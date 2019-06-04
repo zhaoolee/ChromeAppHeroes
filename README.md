@@ -23,7 +23,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年5月29日更新)
+## 目录(2019年6月4日更新)
+
+- [044《谷歌访问助手》访问Chrome商店 Gmail 谷歌搜索](https://zhaoolee.gitbooks.io/chrome/content/044300a-gu-ge-fang-wen-zhu-shou-300b-cong-chrome-shang-dian-xia-zai-cha-4ef628-kuo-zhan-cheng-5e8f29.html)
+
+
 
 - [043《Dream Afar New Tab》探索世界的新方式](https://zhaoolee.gitbooks.io/chrome/content/043dream-afar-new-tab.html)
 
