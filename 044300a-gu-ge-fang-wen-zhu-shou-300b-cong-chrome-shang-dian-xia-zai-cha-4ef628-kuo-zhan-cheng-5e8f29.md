@@ -8,29 +8,29 @@
 
 从官方网站下载: [http://www.ggfwzs.com/](http://www.ggfwzs.com/)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-60d8f1fa4589a895.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/316e734a70494346a07bfc23860901ce.png)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-7c8e46fdca166512.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/8369fcf16b8c4b0c9cbc68fa64bc5d1c.png)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-7155229f261c4c9e.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/87bd9745fc7b45d48de71a0297d609b7.gif)
 
 
 
 ## 添加到chrome
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-6801501c948c5248.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a8c8c62f3e24412d83d0b8d1c5dc9088.gif)
 
 
 
 
 ## 更改主页
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-72b046b7fe43cb63.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d55791772789449bab55cc3f42d82b00.gif)
 
 
 
 ## 重启浏览器,即可使用Chrome商店, 谷歌搜索
-> ![](https://upload-images.jianshu.io/upload_images/3203841-3401981af0832f14.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/deff71a536ba4027a01fe3c7a558c277.gif)
 
 ## 谷歌访问助手Chrome商店下载地址:
 
@@ -44,5 +44,5 @@
 `仅为香港地区用户提，供方便科研,外贸提供帮助,不良用户,将封锁访问IP,后果自负`, 谷歌访问助手需要你设置主页为`https://2018.hao245.com/`才能使用, 有百度全家桶, 360全家桶的流氓内涵~
 
 
-> ![谷粒-Chrome插件英雄榜](https://upload-images.jianshu.io/upload_images/3203841-4f0b239a3bb43be8.jpg)
+> ![谷粒-Chrome插件英雄榜](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0c458deaffc9466ab51b63724adbc392.jpeg)
 本文属于[谷粒-Chrome插件英雄榜](https://www.jianshu.com/nb/27879124)文集的一部分, 为了集合更多的程序员和工具爱好者, 将**谷粒-Chrome插件英雄榜**维护下去, 我已将**谷粒-Chrome插件英雄榜** 文集的所有内容托管到Github, 项目地址[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) , 欢迎广大程序员和工具爱好者们为项目贡献力量, 也欢迎拥有Github账户的朋友们为本项目加星, 非常感谢!
