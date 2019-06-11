@@ -158,6 +158,19 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+#### [045《Restlet Client》优秀的Api测试工具](https://zhaoolee.gitbooks.io/chrome/content/045-restlet-client.html)
+
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/89ea1e51dab48d5a84f089adf33eb274.gif)
+
+- Restlet Client是一款开发实用工具, 支持一键导入Postman等api测试工具的测试用例 
+- 近来, Postman开始主推自己的70M左右的客户端安装包, 功能没什么改进, 体积却变得超大,而且Postman的Chrome扩展程序, 对macOS的支持不太好(每次打开, 都会弹窗报一个错)
+- Restlet Client依然只是一个开箱即用的Chrome扩展程序, 非常适合硬盘空间有限的小伙伴使用(软件功能够用就可以了~)
+
+
+
+
+
 
 #### [044《谷歌访问助手》访问Chrome商店 Gmail 谷歌搜索](https://zhaoolee.gitbooks.io/chrome/content/044300a-gu-ge-fang-wen-zhu-shou-300b-cong-chrome-shang-dian-xia-zai-cha-4ef628-kuo-zhan-cheng-5e8f29.html)
 
