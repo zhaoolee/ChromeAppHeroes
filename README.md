@@ -25,6 +25,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(2019年6月15日更新)
 
+- [047《Go to Tab》快速跳转到打开的网页](https://zhaoolee.gitbooks.io/chrome/content/047go-to-tab.html)
 
 - [046《WhatFont》字体爱好者优雅查看网页字体](https://zhaoolee.gitbooks.io/chrome/content/046whatfont.html)
 
@@ -160,6 +161,15 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [047《Go to Tab》快速跳转到打开的网页](https://zhaoolee.gitbooks.io/chrome/content/047go-to-tab.html)
+
+
+
+![2019-06-15-18 54 23](https://user-images.githubusercontent.com/15868458/59550928-2a623b00-8fa4-11e9-8525-8e830907463b.gif)
+
+Go to Tab对于工作期间大量打开页面, 又长时间不关机的程序员们, 是非常有帮助的
+
 
 #### [046《WhatFont》字体爱好者优雅查看网页字体](https://zhaoolee.gitbooks.io/chrome/content/046whatfont.html)
 
