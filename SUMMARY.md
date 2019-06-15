@@ -52,4 +52,5 @@
 * [043《Dream Afar New Tab》探索世界的新方式](043dream-afar-new-tab.md)
 * [044《谷歌访问助手》从Chrome商店下载插件\(扩展程序\)](044300a-gu-ge-fang-wen-zhu-shou-300b-cong-chrome-shang-dian-xia-zai-cha-4ef628-kuo-zhan-cheng-5e8f29.md)
 * [045 《Restlet Client》优秀的Api测试工具](045-restlet-client.md)
+* [046《WhatFont》字体爱好者优雅查看网页字体](046whatfont.md)
 
