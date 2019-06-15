@@ -23,7 +23,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年6月11日更新)
+## 目录(2019年6月15日更新)
+
+
+- [046《WhatFont》字体爱好者优雅查看网页字体](https://zhaoolee.gitbooks.io/chrome/content/046whatfont.html)
 
 - [045《Restlet Client》优秀的Api测试工具](https://zhaoolee.gitbooks.io/chrome/content/045-restlet-client.html)
 
@@ -157,6 +160,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [046《WhatFont》字体爱好者优雅查看网页字体](https://zhaoolee.gitbooks.io/chrome/content/046whatfont.html)
+
+![font 2019-06-15 16_04_10](https://user-images.githubusercontent.com/15868458/59549312-4529b500-8f8e-11e9-8107-004486a02258.gif)
+
+WhatFont属于功能非常单一的小工具, 让字体爱好者优雅查看网页字体属性, 如果你对漂亮字体有一份执念, 推荐到[https://fonts.google.com/](https://fonts.google.com/), [https://www.myfonts.com/](https://www.myfonts.com/)
+ 等字体网站,找寻更多可爱的字体~
+
 
 #### [045《Restlet Client》优秀的Api测试工具](https://zhaoolee.gitbooks.io/chrome/content/045-restlet-client.html)
 
