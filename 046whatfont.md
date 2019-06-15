@@ -23,7 +23,13 @@ WhatFont提供了亮色和暗色两种风格的图标, 如果你对默认的图�
 WhatFont属于功能非常单一的小工具, 让字体爱好者优雅查看网页字体属性, 如果你对漂亮字体有一份执念, 推荐到[https://fonts.google.com/](https://fonts.google.com/), [https://www.myfonts.com/](https://www.myfonts.com/)
  等字体网站,找寻更多可爱的字体~
 
+> ![谷粒-Chrome插件英雄榜](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1b8e3f49df2b4ab4ac737a1684975cac.jpeg)
 
 
-> ![谷粒-Chrome插件英雄榜](https://upload-images.jianshu.io/upload_images/3203841-4f0b239a3bb43be8.jpg)
-本文属于[谷粒-Chrome插件英雄榜](https://www.jianshu.com/nb/27879124)文集的一部分, 为了集合更多的程序员和工具爱好者, 将**谷粒-Chrome插件英雄榜**维护下去, 我已将**谷粒-Chrome插件英雄榜** 文集的所有内容托管到Github, 项目地址[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) , 欢迎广大程序员和工具爱好者们为项目贡献力量, 也欢迎拥有Github账户的朋友们为本项目加星, 非常感谢!
+## 写在最后(我需要你的支持)
+
+- 本文属于**谷粒-Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+
+- **谷粒-Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个项目, 希望你能为本项目添加一颗 🌟星.
+
+- ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human, If you like this project, I hope you can add a star 🌟 to this project.
