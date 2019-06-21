@@ -166,6 +166,16 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+
+#### [048《Words Discoverer》背单词新姿势,提升你的词汇量](https://zhaoolee.gitbooks.io/chrome/content/048words-discoverer.html)
+
+
+
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/305439fdd84017da654e00f16aaee752.gif)
+
+Words Discoverer(中文译名: 单词发现者),**可以突出显示网页上罕见的英语字典词汇和惯用语。促进英语语言学习并扩大词汇量**,通过自动高亮网页单词, 辅助单词记忆是一个很好的路子, 建议过一段时间,就稍微调高**不突出显示 最常用的英语单词**的数量, 比如从默认的15%调整到16%,  单词发现者与沙拉查词结合使用, 真的是体验极佳~
+
 #### [047《Go to Tab》快速跳转到打开的网页](https://zhaoolee.gitbooks.io/chrome/content/047go-to-tab.html)
 
 
