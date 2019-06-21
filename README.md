@@ -25,6 +25,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(2019年6月15日更新)
 
+- [048《Words Discoverer》背单词新姿势,提升你的词汇量](https://zhaoolee.gitbooks.io/chrome/content/048words-discoverer.html)
+
+
+
 - [047《Go to Tab》快速跳转到打开的网页](https://zhaoolee.gitbooks.io/chrome/content/047go-to-tab.html)
 
 - [046《WhatFont》字体爱好者优雅查看网页字体](https://zhaoolee.gitbooks.io/chrome/content/046whatfont.html)
