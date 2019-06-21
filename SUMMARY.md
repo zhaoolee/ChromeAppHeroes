@@ -54,5 +54,5 @@
 * [045 《Restlet Client》优秀的Api测试工具](045-restlet-client.md)
 * [046《WhatFont》字体爱好者优雅查看网页字体](046whatfont.md)
 * [047《Go to Tab》快速跳转到打开的网页](047go-to-tab.md)
-* [048《Words Discoverer》背单词新姿势\_提升你的词汇量](048words-discoverer300b-bei-dan-ci-xin-zi-shi-ti-sheng-ni-de-ci-hui-liang.md)
+* [048《Words Discoverer》背单词新姿势\_提升你的词汇量](048words-discoverer.md)
 
