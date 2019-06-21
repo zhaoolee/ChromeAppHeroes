@@ -25,7 +25,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(2019年6月21日更新)
 
-- [048《Words Discoverer》背单词新姿势,提升你的词汇量](https://zhaoolee.gitbooks.io/chrome/content/048words-discoverer.html)
+- [048《Words Discoverer》高亮标注单词,提升你的词汇量](https://zhaoolee.gitbooks.io/chrome/content/048words-discoverer.html)
 
 
 
