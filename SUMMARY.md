@@ -55,4 +55,5 @@
 * [046《WhatFont》字体爱好者优雅查看网页字体](046whatfont.md)
 * [047《Go to Tab》快速跳转到打开的网页](047go-to-tab.md)
 * [048《Words Discoverer》背单词新姿势\_提升你的词汇量](048words-discoverer.md)
+* [049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹](049web-server-for-chrome.md)
 
