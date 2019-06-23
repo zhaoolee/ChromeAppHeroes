@@ -23,7 +23,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年6月21日更新)
+## 目录(2019年6月23日更新)
+
+
+
+
+- [049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹](https://zhaoolee.gitbooks.io/chrome/content/049web-server-for-chrome.html)
+
 
 - [048《Words Discoverer》高亮标注单词,提升你的词汇量](https://zhaoolee.gitbooks.io/chrome/content/048words-discoverer.html)
 
@@ -165,6 +171,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+#### [049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹](https://zhaoolee.gitbooks.io/chrome/content/049web-server-for-chrome.html)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/74d3eb882b103e0fb1e5e5dd651c052f.gif)
+
+Web Server for Chrome可以帮我们在本地快速开启http服务,让开发和测试变得更加简单, 如果你想和同处某个局域网的小伙伴, 建立一个共享文件夹, Web Server for Chrome或许是你最简单的实现方法~ 
 
 
 #### [048《Words Discoverer》背单词新姿势,提升你的词汇量](https://zhaoolee.gitbooks.io/chrome/content/048words-discoverer.html)
