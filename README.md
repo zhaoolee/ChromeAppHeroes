@@ -23,9 +23,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年6月23日更新)
+## 目录(2019年6月28日更新)
 
-
+- [050《Google Results Previewer》无点击查看谷歌搜索结果](https://zhaoolee.gitbooks.io/chrome/content/050google-results-previewer.html)
 
 
 - [049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹](https://zhaoolee.gitbooks.io/chrome/content/049web-server-for-chrome.html)
@@ -171,6 +171,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [050《Google Results Previewer》无点击查看谷歌搜索结果](https://zhaoolee.gitbooks.io/chrome/content/050google-results-previewer.html)
+
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/9219a092f0f4eb1c6f614c1667b316d1.gif)
+
+Google Results Previewer的功能简单实用, 也没有多余的设置, 属于新手友好型工具
 
 
 #### [049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹](https://zhaoolee.gitbooks.io/chrome/content/049web-server-for-chrome.html)
