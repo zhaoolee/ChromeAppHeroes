@@ -1,20 +1,20 @@
 ## Google Results Previewer可以在谷歌搜索结果页面直接预览网页, 也可以通过预览窗口直接打开页面
 
-![](https://upload-images.jianshu.io/upload_images/3203841-abff4a50c57220ff.gif?imageMogr2/auto-orient/strip)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/9219a092f0f4eb1c6f614c1667b316d1.gif)
 
 
 ##  Google Results Previewer 支持一键复制当前网页url 并在其它窗口打开
-![](https://upload-images.jianshu.io/upload_images/3203841-13c0e0de78d86800.gif?imageMogr2/auto-orient/strip)
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/45f72c199292f270e9526aae32930086.gif)
 
 - 小彩蛋: 如果某些页面无法生成预览, 会出现两个小人(小人A在安慰小人B ?)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-30e7e6179a8b0d4a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-19e3d834bd3f4423.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/f7c10def8f691e93270c24fdcb806318.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/9c1b81bcd8cbf427ce2aa41c00917523.png)
 
 
 
 ## 感谢[lIIllIIl](https://github.com/lIIllIIl)推荐Google Results Previewer
-> ![](https://upload-images.jianshu.io/upload_images/3203841-408acfbb1c3ff42a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/3626d7354dca8fbc38c585f723216d41.png)
 
 
 ## Google Results Previewer下载链接
@@ -26,6 +26,7 @@
 ## 小结
 
 Google Results Previewer的功能简单实用, 也没有多余的设置, 属于新手友好型工具
+
 
 ## 写在最后(我需要你的支持)
 
