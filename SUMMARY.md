@@ -57,4 +57,5 @@
 * [048《Words Discoverer》背单词新姿势\_提升你的词汇量](048words-discoverer.md)
 * [049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹](049web-server-for-chrome.md)
 * [050《Google Results Previewer》无点击查看谷歌搜索结果](050google-results-previewer.md)
+* [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](051custom-cursor-for-chrome2122-300b-wei-chrome-huan-shang-ke-ai-chu-yin-guang-biao.md)
 
