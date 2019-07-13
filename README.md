@@ -25,6 +25,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(2019年7月13日更新)
 
+- [052《Site Palette》自动提取网站配色](https://zhaoolee.gitbooks.io/chrome/content/052site-palette.html)
+
+
+
 - [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](https://zhaoolee.gitbooks.io/chrome/content/051custom-cursor-for-chrome.html)
 
 - [050《Google Results Previewer》无点击查看谷歌搜索结果](https://zhaoolee.gitbooks.io/chrome/content/050google-results-previewer.html)
@@ -173,6 +177,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+#### [052《Site Palette》自动提取网站配色](https://zhaoolee.gitbooks.io/chrome/content/052site-palette.html)
+
+![](https://user-images.githubusercontent.com/15868458/61169390-2f101400-a58f-11e9-8769-4d62b7b64f37.gif)
+
+Site Palette使用简单, 功能实用, 没有广告, 是典型的小而美的扩展程序, 这类扩展程序越多, Chrome的用户体验也就越好~
 
 
 #### [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](https://zhaoolee.gitbooks.io/chrome/content/051custom-cursor-for-chrome.html)
