@@ -58,5 +58,5 @@
 * [049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹](049web-server-for-chrome.md)
 * [050《Google Results Previewer》无点击查看谷歌搜索结果](050google-results-previewer.md)
 * [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](051custom-cursor-for-chrome.md)
-* [052《Site Palette》自动提取网站配色](052site-palette300b-zi-dong-ti-qu-wang-zhan-pei-se.md)
+* [052《Site Palette》自动提取网站配色](052site-palette.md)
 
