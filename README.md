@@ -23,7 +23,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年6月28日更新)
+## 目录(2019年7月13日更新)
+
+- [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](https://zhaoolee.gitbooks.io/chrome/content/051custom-cursor-for-chrome.html)
 
 - [050《Google Results Previewer》无点击查看谷歌搜索结果](https://zhaoolee.gitbooks.io/chrome/content/050google-results-previewer.html)
 
@@ -171,6 +173,18 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+#### [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](https://zhaoolee.gitbooks.io/chrome/content/051custom-cursor-for-chrome.html)
+
+
+
+![](https://user-images.githubusercontent.com/15868458/61166967-d0846f00-a569-11e9-9141-15cef4983098.gif)
+
+
+早期的QQ空间和个人博客, 我们会给页面加各种各样的装饰, 连鼠标指针也要定制一下, 当时感觉乐趣无穷, 后面就失去了兴趣, 对于个人博客, 感觉越简洁越好, 于是就有了Next这些大量留白的博客主题,但我感觉在Next这类主题中加一些定制化的小物件也是不错的, 在简洁与花哨之间找到平衡, 不正是生活的乐趣之源么~
+
+
 
 #### [050《Google Results Previewer》无点击查看谷歌搜索结果](https://zhaoolee.gitbooks.io/chrome/content/050google-results-previewer.html)
 
