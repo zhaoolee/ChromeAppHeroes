@@ -52,3 +52,12 @@ https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejo
 早期的QQ空间和个人博客, 我们会给页面加各种各样的装饰, 连鼠标指针也要定制一下, 当时感觉乐趣无穷, 后面就失去了兴趣, 对于个人博客, 感觉越简洁越好, 于是就有了Next这些大量留白的博客主题,但我感觉在Next这类主题中加一些定制化的小物件也是不错的, 在简洁与花哨之间找到平衡, 不正是生活的乐趣之源么~顺便分享一下我为个人主页添加萌萌哒看板娘的经历[3行代码 为网站添加萌萌哒看板娘](https://zhaoolee.github.io/GBlog/2019/07/04/live2d/)
 
 
+## 写在最后(我需要你的支持)
+
+- 本文属于**谷粒-Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+
+- **谷粒-Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个项目, 希望你能为本项目添加一颗 🌟星.
+
+- ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human, If you like this project, I hope you can add a star 🌟 to this project.
+
+
