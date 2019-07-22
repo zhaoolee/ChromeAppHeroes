@@ -59,4 +59,5 @@
 * [050《Google Results Previewer》无点击查看谷歌搜索结果](050google-results-previewer.md)
 * [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](051custom-cursor-for-chrome.md)
 * [052《Site Palette》自动提取网站配色](052site-palette.md)
+* [053《鼠标点击特效 \(๑•́ ∀ •̀๑\)》为鼠标点击添加有趣的特效](053300a-shu-biao-dian-ji-te-xiao-2022-0300-0e5129-300b-wei-shu-biao-dian-ji-tian-jia-you-qu-de-te-xiao.md)
 
