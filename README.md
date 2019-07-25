@@ -23,7 +23,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年7月22日更新)
+## 目录(2019年7月25日更新)
+
+- [054《二箱+以图搜图》让你在搜图方面随心所欲（为所欲为）](https://zhaoolee.gitbooks.io/chrome/content/054300a-er-xiang-yi-tu-sou-tu-300b-rang-ni-zai-sou-tu-fang-mian-sui-xin-suo-yu-ff08-wei-suo-yu-wei-ff09.html)
 
 - [053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效](https://zhaoolee.gitbooks.io/chrome/content/053300a-shu-biao-dian-ji-te-xiao-2022-0300-0e5129-300b-wei-shu-biao-dian-ji-tian-jia-you-qu-de-te-xiao.html)
 
