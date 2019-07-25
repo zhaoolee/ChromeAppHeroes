@@ -4,6 +4,8 @@
 
 > ![0001](https://user-images.githubusercontent.com/15868458/61757068-93ce3880-adf1-11e9-8903-ebf313fb6098.gif)
 
+![](https://user-images.githubusercontent.com/15868458/61839185-3b656c80-aebf-11e9-9953-0e0846ccc7d1.jpg)
+
 ## 实用功能二: 获取更高质量的图片
 
 > ![0002](https://user-images.githubusercontent.com/15868458/61757094-ac3e5300-adf1-11e9-9e82-76a021aecb0f.gif)
