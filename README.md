@@ -183,6 +183,16 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
 
+
+#### [054《二箱+以图搜图》让你在搜图方面随心所欲（为所欲为）](https://zhaoolee.gitbooks.io/chrome/content/054300a-er-xiang-yi-tu-sou-tu-300b-rang-ni-zai-sou-tu-fang-mian-sui-xin-suo-yu-ff08-wei-suo-yu-wei-ff09.html)
+
+
+![](https://user-images.githubusercontent.com/15868458/61757068-93ce3880-adf1-11e9-8903-ebf313fb6098.gif)
+
+
+《二箱 以图搜图》是一款简单实用的搜图小工具，如果你是一名设计师, 可以帮你快速查找他人设计作品中所用的素材来源, 提升你的工作效率~
+
+
 #### [053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效](https://zhaoolee.gitbooks.io/chrome/content/053300a-shu-biao-dian-ji-te-xiao-2022-0300-0e5129-300b-wei-shu-biao-dian-ji-tian-jia-you-qu-de-te-xiao.html)
 
 
