@@ -60,4 +60,5 @@
 * [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](051custom-cursor-for-chrome.md)
 * [052《Site Palette》自动提取网站配色](052site-palette.md)
 * [053《鼠标点击特效 \(๑•́ ∀ •̀๑\)》为鼠标点击添加有趣的特效](053300a-shu-biao-dian-ji-te-xiao-2022-0300-0e5129-300b-wei-shu-biao-dian-ji-tian-jia-you-qu-de-te-xiao.md)
+* [054《二箱 以图搜图》让你在搜图方面随心所欲（为所欲为）](054300a-er-xiang-yi-tu-sou-tu-300b-rang-ni-zai-sou-tu-fang-mian-sui-xin-suo-yu-ff08-wei-suo-yu-wei-ff09.md)
 
