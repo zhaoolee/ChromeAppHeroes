@@ -25,6 +25,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(2019年7月25日更新)
 
+- [055《Keylines》为网页元素添加随机描边颜色 ](https://zhaoolee.gitbooks.io/chrome/content/055keylines300b-wei-wang-ye-yuan-su-tian-jia-sui-ji-miao-bian-yan-se.html)
+
 - [054《二箱 以图搜图》让你在搜图方面随心所欲（为所欲为）](https://zhaoolee.gitbooks.io/chrome/content/054300a-er-xiang-yi-tu-sou-tu-300b-rang-ni-zai-sou-tu-fang-mian-sui-xin-suo-yu-ff08-wei-suo-yu-wei-ff09.html)
 
 - [053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效](https://zhaoolee.gitbooks.io/chrome/content/053300a-shu-biao-dian-ji-te-xiao-2022-0300-0e5129-300b-wei-shu-biao-dian-ji-tian-jia-you-qu-de-te-xiao.html)
@@ -182,6 +184,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+
+#### [055《Keylines》为网页元素添加随机描边颜色 ](https://zhaoolee.gitbooks.io/chrome/content/055keylines300b-wei-wang-ye-yuan-su-tian-jia-sui-ji-miao-bian-yan-se.html)
+
+
+![](https://user-images.githubusercontent.com/15868458/61917657-dbcf9580-af80-11e9-87d3-528609ab85b0.gif)
+
+Keylines的实现原理非常简单(为网页dom元素添加了outline属性), 但展示的效果却非常惊艳, 这应该归功于Keylines作者优秀的想法, 很多时候, 优秀的软件并不一定使用了很难掌握的技术, 而是包含了作者优秀的想法~
 
 
 #### [054《二箱+以图搜图》让你在搜图方面随心所欲（为所欲为）](https://zhaoolee.gitbooks.io/chrome/content/054300a-er-xiang-yi-tu-sou-tu-300b-rang-ni-zai-sou-tu-fang-mian-sui-xin-suo-yu-ff08-wei-suo-yu-wei-ff09.html)
