@@ -189,7 +189,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 #### [056《Search》为Chrome设置搜索引擎关键词](https://zhaoolee.gitbooks.io/chrome/content/056wei-chrome-she-zhi-sou-suo-yin-qing-guan-jian-ci.html)
 
+![](https://user-images.githubusercontent.com/15868458/62503773-3c37c000-b828-11e9-9605-4ecce76830ec.gif)
 
+在早期的网址导航主页上, 可以通过点击选择不同的搜索引擎进行搜索(数量有限, 而且不支持自定义), 而Chrome搜索更极客一些, 通过**自定义关键词加空格**的方法, 在搜索引擎之间自由切换, 是一种兼具扩展性与易用性的做法
 
 
 #### [055《Keylines》为网页元素添加随机描边颜色 ](https://zhaoolee.gitbooks.io/chrome/content/055keylines300b-wei-wang-ye-yuan-su-tian-jia-sui-ji-miao-bian-yan-se.html)
