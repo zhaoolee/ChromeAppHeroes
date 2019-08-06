@@ -62,4 +62,5 @@
 * [053《鼠标点击特效 \(๑•́ ∀ •̀๑\)》为鼠标点击添加有趣的特效](053300a-shu-biao-dian-ji-te-xiao-2022-0300-0e5129-300b-wei-shu-biao-dian-ji-tian-jia-you-qu-de-te-xiao.md)
 * [054《二箱 以图搜图》让你在搜图方面随心所欲（为所欲为）](054300a-er-xiang-yi-tu-sou-tu-300b-rang-ni-zai-sou-tu-fang-mian-sui-xin-suo-yu-ff08-wei-suo-yu-wei-ff09.md)
 * [055《Keylines》为网页元素添加随机描边颜色](055keylines300b-wei-wang-ye-yuan-su-tian-jia-sui-ji-miao-bian-yan-se.md)
+* [056《Search》为Chrome设置搜索引擎关键词](056wei-chrome-she-zhi-sou-suo-yin-qing-guan-jian-ci.md)
 
