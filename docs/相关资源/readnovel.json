@@ -1,0 +1,14 @@
+{
+  "sites"  : [{
+      "name"    : "readnovel.com",
+      "url"     : "*readnovel.com/book*",
+      "title"   : "[[{$('head.title').text()}]]",
+      "desc"    : "[[{$('.article-summary').text()}]]",
+      "include" : "<div class='book-information cf'>",
+      "exclude" : [
+          "<div class='clearfix'>",
+          "<div class='rating_box'>",
+          "[['<strong>[广告]活动入口:</strong>']]"
+      ]
+  }]
+}
