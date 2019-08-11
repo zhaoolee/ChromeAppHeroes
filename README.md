@@ -129,7 +129,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 * [006《SimilarSites》 一键查找姊妹网站 SimilarSites](https://zhaoolee.com/ChromeAppHeroes/page/006_similarsites.html)
 
-* [005《Video Speed Controller》 刷课（刷剧）神器！给网页视频加个速(最快可达16倍!)]https://zhaoolee.com/ChromeAppHeroes/page/005_video_speed_controller.html)
+* [005《Video Speed Controller》 刷课（刷剧）神器！给网页视频加个速(最快可达16倍!)](https://zhaoolee.com/ChromeAppHeroes/page/005_video_speed_controller.html)
 
 * [004《Tampermonkey》 油猴子! 给浏览器开个挂](https://zhaoolee.com/ChromeAppHeroes/page/004_tampermonkey.html)
 
@@ -618,27 +618,14 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 I need your support, I hope you can add a star 🌟 to this project.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## [一根火柴的N种打开方式(谷粒文化)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)
 
 ![smartmockups_juunlhbe.jpg](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/9ac21b8aea054eb48fc404fd429638bf.jpeg)
 
 
-
 ![2.png](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/dc9ab48d958843c98f2a4c9336cff748.png)
 
+
+## 项目相关阅读
 
 
