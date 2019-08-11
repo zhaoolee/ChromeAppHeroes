@@ -1,4 +1,4 @@
-[English](https://zhaoolee.gitbooks.io/chrome/content/readme-en.html) | [中文简体](https://zhaoolee.gitbooks.io/chrome/content/)
+[English](https://zhaoolee.com/ChromeAppHeroes/readme-en.html) | [中文简体](https://zhaoolee.gitbooks.io/chrome/content/)
 
 
 ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/9ac21b8aea054eb48fc404fd429638bf.jpeg)
@@ -610,7 +610,7 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 ---
 
 
-** emm... [从官方商店下载Chrome插件的方法](https://zhaoolee.gitbooks.io/chrome/content/cong-guan-fang-shang-dian-xia-zai-chrome-cha-jian-de-fang-fa.html)**
+** emm... [从官方商店下载Chrome插件的方法](https://zhaoolee.com/ChromeAppHeroes/download_the_chrome_extension_from_the_store.html)**
 
 
 **Chrome插件英雄榜** Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
@@ -618,7 +618,7 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 I need your support, I hope you can add a star 🌟 to this project.
 
 
-## [一根火柴的N种打开方式(谷粒文化)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)
+## [一根火柴的N种打开方式(谷粒文化)](https://zhaoolee.com/ChromeAppHeroes/meaning_of_gu_li.html)
 
 ![smartmockups_juunlhbe.jpg](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/9ac21b8aea054eb48fc404fd429638bf.jpeg)
 
@@ -628,4 +628,4 @@ I need your support, I hope you can add a star 🌟 to this project.
 
 ## 项目相关阅读
 
-
+[Chrome扩展资源站点推荐](https://zhaoolee.com/ChromeAppHeroes/chrome_extended_resources_site.html)

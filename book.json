@@ -15,7 +15,8 @@
                 "-lunr", "-search", "search-plus",
                 "splitter",
                 "tbfed-pagefooter",
-                "donate"
+                "donate",
+                "sitemap-general"
                 ],
     "pluginsConfig": {
         "sharing": {
@@ -47,10 +48,10 @@
             "url": "https://github.com/zhaoolee/ChromeAppHeroes"
         },
         "3-ba": {
-            "token": "cffaa20fbe78d2ecb224270689e2da51"
+            "token": "58db316ae8a39f946e264dae4c0b0dd4"
         },
         "ga": {
-            "token": "UA-136591510-1"
+            "token": "UA-129665260-2"
         },
         "github-buttons": {
             "buttons": [{
@@ -72,10 +73,13 @@
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "donate": {
-            "wechat": "https://upload-images.jianshu.io/upload_images/3203841-b26e3b2967ebab82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
+            "wechat": "https://user-images.githubusercontent.com/15868458/62830339-e1470400-bc3f-11e9-9851-3cf72d04d7b5.png",
             "title": "",
             "button": "咦?",
             "wechatText": "微信赞赏"
+        },
+        "sitemap-general": {
+            "prefix": "https://zhaoolee.com/ChromeAppHeroes/"
         }
     }
 }
