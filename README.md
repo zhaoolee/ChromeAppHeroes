@@ -23,9 +23,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年8月6日更新)
+## 目录(2019年8月11日更新)
 
-- [056《Search》为Chrome设置搜索引擎关键词](https://zhaoolee.gitbooks.io/chrome/content/056wei-chrome-she-zhi-sou-suo-yin-qing-guan-jian-ci.html)
+- [056《Search》为Chrome设置搜索引擎关键词](https://zhaoolee.github.io/chrome/content/056wei-chrome-she-zhi-sou-suo-yin-qing-guan-jian-ci.html)
 
 - [055《Keylines》为网页元素添加随机描边颜色 ](https://zhaoolee.gitbooks.io/chrome/content/055keylines300b-wei-wang-ye-yuan-su-tian-jia-sui-ji-miao-bian-yan-se.html)
 
