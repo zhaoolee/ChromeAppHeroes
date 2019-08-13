@@ -152,6 +152,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/60c92f0de3d44bb7a612d08e2e1f3d18.png)
 
 
+## [用Chrome学编程](https://github.com/zhaoolee/ProgrammingWithChrome)
+
+如果你对编程很感兴趣, 但又不知从何学起, 不如试一下 [用Chrome学编程](https://github.com/zhaoolee/ProgrammingWithChrome)
+
+
 ## 咦?(微信打赏)
 
 ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c4fdea49e11241e392d6bcaa33855897.png)
