@@ -31,7 +31,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ## 目录(2019年8月18日更新)
 
 
-- [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式.md](https://zhaoolee.com/ChromeAppHeroes/page/057_webp_save_as_png.html)
+- [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式](https://zhaoolee.com/ChromeAppHeroes/page/057_webp_save_as_png.html)
 
 - [056《Search》为Chrome设置搜索引擎关键词](https://zhaoolee.com/ChromeAppHeroes/page/056_search.html)
 
