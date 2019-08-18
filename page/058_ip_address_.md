@@ -46,8 +46,6 @@ https://chrome.google.com/webstore/detail/ip-address/ghlojgpiinfelppegaabbiphgom
 
 ## 小结:
 
-获取当前设备的IP地址,对于开发者而言是一个经常遇到的问题,而《IP-Address》这款简洁小巧的软件, 可以很方便的让我们获取当前设备的地址, 真的很赞了~
-
-
+获取当前设备的IP地址,对于开发者而言,是一个经常遇到的问题,而《IP-Address》这款简洁小巧的软件, 能满足我们的需求
 
 
