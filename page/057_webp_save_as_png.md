@@ -14,7 +14,7 @@ WebP是google推行的新的图片格式, 可以使用更小的空间,保存更�
 除了能将浏览器图片保存为png, 还可以保存为jpg和WebP格式
 
 
-Chrome扩展`图片另存为JPG/PNG/WebP` 下载链接:
+## Chrome扩展`图片另存为JPG/PNG/WebP` 下载链接:
 
 ```
 https://chrome.google.com/webstore/detail/save-image-as-type/gabfmnliflodkdafenbcpjdlppllnemd
@@ -40,5 +40,12 @@ WebP是非常先进的格式, 但由于Photoshop这类元老级图像编辑软�
 
 
 
+## 写在最后(我需要你的支持)
+
+- 本文属于**谷粒-Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+
+- **谷粒-Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个项目, 希望你能为本项目添加一颗 🌟星.
+
+- ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human, If you like this project, I hope you can add a star 🌟 to this project.
 
 
