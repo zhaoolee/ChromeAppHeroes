@@ -1,5 +1,6 @@
 # Summary
 * [编者序](README.md)
+* [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式.md](/page/057_webp_save_as_png.md)
 * [056《Search》为Chrome设置搜索引擎关键词](/page/056_search.md)
 * [055《Keylines》为网页元素添加随机描边颜色](/page/055_keylines.md)
 * [054《二箱 以图搜图》让你在搜图方面随心所欲（为所欲为）](/page/054_er_xiang_yi_tu_sou_tu.md)

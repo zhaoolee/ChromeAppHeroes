@@ -25,7 +25,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gitbook install && gitbook build ./ ./docs",
     "pdf": "gitbook pdf ./ ./pdf",
-    "push": "gitbook install && gitbook build ./ ./docs && git add . && git commit -m 'ok' && git push"
+    "bpush": "gitbook install && gitbook build ./ ./docs && git add . && git commit -m 'ok' && git push",
+    "push": "gitbook build ./ ./docs && git add . && git commit -m 'ok' && git push"
   },
   "repository": {
     "type": "git",

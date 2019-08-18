@@ -10,10 +10,13 @@
 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 
-
 ![谷粒VI设计.png](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/5ecd2856f287477c89c20efb7de11a9b.png)
 
 **感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo | [谷粒文化(老罗巴扎嘿语录)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)**
+
+
+## 相关项目推广: [用Chrome学编程](https://github.com/zhaoolee/ProgrammingWithChrome)
+**《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力! https://github.com/zhaoolee/ProgrammingWithChrome**
 
 
 ----
@@ -23,7 +26,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
-## 目录(2019年8月11日更新)
+
+
+## 目录(2019年8月18日更新)
+
+
+- [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式.md](https://zhaoolee.com/ChromeAppHeroes/page/057_webp_save_as_png.html)
 
 - [056《Search》为Chrome设置搜索引擎关键词](https://zhaoolee.com/ChromeAppHeroes/page/056_search.html)
 
@@ -152,9 +160,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/60c92f0de3d44bb7a612d08e2e1f3d18.png)
 
 
-## [用Chrome学编程](https://github.com/zhaoolee/ProgrammingWithChrome)
 
-如果你对编程很感兴趣, 但又不知从何学起, 不如试一下 [用Chrome学编程](https://github.com/zhaoolee/ProgrammingWithChrome)
 
 
 ## 咦?(微信打赏)
@@ -178,6 +184,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+#### [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式.md](https://zhaoolee.com/ChromeAppHeroes/page/057_webp_save_as_png.html)
+
+![save_as_png](https://user-images.githubusercontent.com/15868458/63221240-ce48ac80-c1c8-11e9-9860-376fedc0845e.gif
+
+WebP是非常先进的格式, 但由于Photoshop这类元老级图像编辑软件不支持, 我们只能将图片为png格式,再进行编辑, 先进技术改变世界, 需要一个过程, 而在过程中提供一个折中的方案(把WebP装换为png, 再将png图片装换为WebP), 也是一件有价值的事~
 
 #### [056《Search》为Chrome设置搜索引擎关键词](https://zhaoolee.com/ChromeAppHeroes/page/056_search.html)
 
