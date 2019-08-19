@@ -196,7 +196,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 #### [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式.md](https://zhaoolee.com/ChromeAppHeroes/page/057_webp_save_as_png.html)
 
-![save_as_png](https://user-images.githubusercontent.com/15868458/63221240-ce48ac80-c1c8-11e9-9860-376fedc0845e.gif
+![save_as_png](https://user-images.githubusercontent.com/15868458/63221240-ce48ac80-c1c8-11e9-9860-376fedc0845e.gif)
 
 WebP是非常先进的格式, 但由于Photoshop这类元老级图像编辑软件不支持, 我们只能将图片为png格式,再进行编辑, 先进技术改变世界, 需要一个过程, 而在过程中提供一个折中的方案(把WebP装换为png, 再将png图片装换为WebP), 也是一件有价值的事~
 
