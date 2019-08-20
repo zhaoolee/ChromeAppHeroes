@@ -30,9 +30,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(2019年8月20日更新)
 
-- [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](https://zhaoolee.com/ChromeAppHeroes/page/059_page_speed_insight_and_check_list.md)
+- [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](https://zhaoolee.com/ChromeAppHeroes/page/059_page_speed_insight_and_check_list.html)
 
-- [058《IP-Address》快速查看当前设备IP](https://zhaoolee.com/ChromeAppHeroes/page/058_ip_address_.md)
+- [058《IP-Address》快速查看当前设备IP](https://zhaoolee.com/ChromeAppHeroes/page/058_ip_address.html)
 
 - [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式](https://zhaoolee.com/ChromeAppHeroes/page/057_webp_save_as_png.html)
 
@@ -187,7 +187,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
-#### [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](https://zhaoolee.com/ChromeAppHeroes/page/059_page_speed_insight_and_check_list.md)
+#### [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](https://zhaoolee.com/ChromeAppHeroes/page/059_page_speed_insight_and_check_list.html)
 
 
 ![pag_speed](https://user-images.githubusercontent.com/15868458/63309328-f818e500-c328-11e9-8f1a-68fed13a4015.gif)
@@ -196,7 +196,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 PageSpeed Insight and CheckList 和 Google Page Speed 结合使用, 能够为网页质量评分,量化网页优化的效果,也为优化网页指明了方向,对前端工程师而言,是非常重要的工具
 
 
-#### [058《IP-Address》快速查看当前设备IP](https://zhaoolee.com/ChromeAppHeroes/page/058_ip_address_.md)
+#### [058《IP-Address》快速查看当前设备IP](https://zhaoolee.com/ChromeAppHeroes/page/058_ip_address.html)
 
 
 ![ip_address](https://user-images.githubusercontent.com/15868458/63222725-ee369b00-c1dd-11e9-986e-cbc002168db8.gif)
