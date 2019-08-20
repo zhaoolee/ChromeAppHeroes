@@ -1,5 +1,6 @@
 # Summary
 * [编者序](README.md)
+* [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](/page/059_page_speed_insight_and_check_list.md)
 * [058《IP-Address》快速查看当前设备IP](/page/058_ip_address_.md）
 * [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式.md](/page/057_webp_save_as_png.md)
 * [056《Search》为Chrome设置搜索引擎关键词](/page/056_search.md)
