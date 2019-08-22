@@ -28,7 +28,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
-## 目录(2019年8月20日更新)
+## 目录(2019年8月22日更新)
+
+- [060《Tabagotchi》为减缓全球变暖做出贡献](https://zhaoolee.com/ChromeAppHeroes/page/060_tabagotchi.html)
 
 - [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](https://zhaoolee.com/ChromeAppHeroes/page/059_page_speed_insight_and_check_list.html)
 
@@ -186,6 +188,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+#### [060《Tabagotchi》为减缓全球变暖做出贡献](https://zhaoolee.com/ChromeAppHeroes/page/060_tabagotchi.html)
+
+![tabagotchi](https://user-images.githubusercontent.com/15868458/63478935-7b1f7400-c4be-11e9-8679-5f4a6a56c89c.gif)
+
+Tabagotchi扩展以一种有趣的方式, 提醒我们减少标签页数量, 减少了计算机产生的热量, 为阻止全球变暖做出了贡献~
+
 
 #### [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](https://zhaoolee.com/ChromeAppHeroes/page/059_page_speed_insight_and_check_list.html)
 
