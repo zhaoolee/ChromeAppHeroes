@@ -38,6 +38,14 @@ let tmp_state = {
 chrome.storage.local.set({monster: tmp_state})
 ```
 
+
+## Chrome扩展`Tabagotchi` 下载链接:
+
+
+[https://chrome.google.com/webstore/detail/tabagotchi-by-breather/ojahbhfflnbaiddhnkgeccgopmedjjen](https://chrome.google.com/webstore/detail/tabagotchi-by-breather/ojahbhfflnbaiddhnkgeccgopmedjjen)
+
+
+
 ## 小结
 
 Tabagotchi扩展以一种有趣的方式, 提醒我们减少标签页数量, 减少了计算机产生的热量, 为阻止全球变暖做出了贡献~
