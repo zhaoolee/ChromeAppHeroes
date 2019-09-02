@@ -41,6 +41,7 @@
 ## 插件下载地址
 https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn?hl=zh-CN
 
+历史版本下载地址: https://crx.dam.io/ext/mciiogijehkdemklbdcbfkefimifhecn.html 
 ---
 
 ## 写在最后(我需要你的支持)
