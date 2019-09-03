@@ -5,7 +5,7 @@ As we all know, Chrome's native download feature is not easy to use, for example
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/f720059371014ee6ba1da7af9d29a10f.png)
 
 而使用了chrono, 只需要点击一次
-However, chrono only need one click
+ / However, chrono only need one click
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/f15a6a6dcc6c4fc2af074138805cd6b2.png)
 
@@ -16,7 +16,7 @@ However, chrono only need one click
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/5713085dce85442388def379cda874e9.png)
 
 ### 以抓取behance的图片为例 / For example, download the images from behance
-- 切换至资源嗅探器
+- 切换至资源嗅探器 / Switch to resource sniffer
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/f4cff877fa2c452281130ef92524aa97.png)
 
 - 按照图片的空间尺寸, 过滤图片 / Filter images as size of image
@@ -54,7 +54,7 @@ However, chrono only need one click
 - chrono can not only download pictures, any download link, but also can completely replace chrome native download(you can try this link [wikileaks](https://file.wikileaks.org/file/))
 
 
-## Chrome扩展`chrono` 下载链接 / Chrome extension `markdown-here` download link
+## Chrome扩展`chrono` 下载链接 / Chrome extension `chrono` download link
 
 https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn
 
