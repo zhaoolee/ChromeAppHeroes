@@ -1,3 +1,5 @@
+![70](https://user-images.githubusercontent.com/15868458/65732838-3c548d80-e0fe-11e9-8cd7-ca3168a0e750.png)
+
 [English](https://zhaoolee.com/ChromeAppHeroes/readme-en.html) | [中文简体](https://zhaoolee.gitbooks.io/chrome/content/)
 
 
@@ -7,6 +9,7 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 # 谷粒-Chrome插件英雄榜
+
 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 
@@ -22,13 +25,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ----
 
 
-
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
 
-
-## 目录(2019年8月22日更新)
+## 目录(2019年9月27日更新)
 
 - [060《Tabagotchi》为减缓全球变暖做出贡献](https://zhaoolee.com/ChromeAppHeroes/page/060_tabagotchi.html)
 
@@ -174,16 +175,35 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 | 赞赏金额 | 赞赏者(微信名) | 赞赏时间|
 | --- | --- | --- |
+| 20.00 | (未留姓名) | 2019年8月2日 |
+| 20.00 | (未留姓名) | 2019年7月11日 |
+| 12.34 | 张明辉 | 2019年8月20日 |
+| 10.00 | 六小登登 | 2019年9月5日 |
+| 10.00 | 云淡风晴 | 2019年7月24日 |
 | 10.00 | 金三古月 | 2019年6月2日 |
 | 10.00 | Azuno | 2019年6月1日 |
 | 10.00 | 邦妥 | 2019年5月22日 |
+| 5.00 | enjoy life | 2019年9月20日 |
+| 5.00 | L__hoo原 | 2019年9月20日 |
+| 5.00 | 梦想旅程(公众号:苏生不惑) | 2019年9月14日 |
+| 5.00 | 1111 | 2019年7月27日 |
 | 5.00 | 那都不重要 | 2019年5月19日 |
+| 5.00 | Lismg | 2019年6月5日 |
+| 5.00 | small胖 | 2019年7月9日 |
+| 2.00 | 良辰美 | 2019年7月20日 |
+| 2.00 | @Coolstar | 2019年7月6日 |
+| 1.00 | (未留姓名) | 2019年9月26日 |
+| 1.00 | 夏天的小虫子 | 2019年9月23日 |
+| 1.00 | (未留姓名) | 2019年7月26日 |
+| 1.00 | 17 | 2019年7月12日 |
+| 1.00 | (未留姓名) | 2019年6月13日 |
 | 1.00 | Walter Wu | 2019年6月1日 |
 | 1.00 | Joseph | 2019年4月24日 |
 | 1.00 | (未留姓名) | 2019年4月12日 |
 | 1.00 | 于云鹏Edward | 2019年4月12日 |
 | 1.00 | 黄金星 | 2019年4月11日 |
 | 1.00 | Cloud 9 | 2019年4月5日 |
+| 0.20 | (未留姓名) | 2019年7月25日 |
 
 ---
 
