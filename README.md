@@ -1,5 +1,3 @@
-![70](https://user-images.githubusercontent.com/15868458/65732838-3c548d80-e0fe-11e9-8cd7-ca3168a0e750.png)
-
 [English](https://zhaoolee.com/ChromeAppHeroes/readme-en.html) | [中文简体](https://zhaoolee.gitbooks.io/chrome/content/)
 
 
@@ -21,15 +19,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ## 相关项目推广: [用Chrome学编程](https://github.com/zhaoolee/ProgrammingWithChrome)
 **《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力! https://github.com/zhaoolee/ProgrammingWithChrome**
 
-
 ----
-
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 
 
-## 目录(2019年9月27日更新)
+## 目录(点击以下标题, 可以进入文章页~)
 
 - [060《Tabagotchi》为减缓全球变暖做出贡献](https://zhaoolee.com/ChromeAppHeroes/page/060_tabagotchi.html)
 
