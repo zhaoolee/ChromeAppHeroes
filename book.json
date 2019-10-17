@@ -21,7 +21,7 @@
     "tbfed-pagefooter",
     "donate",
     "sitemap-general",
-    "adsense"
+    "ad"
   ],
   "pluginsConfig": {
     "sharing": {
@@ -87,12 +87,8 @@
     "sitemap-general": {
       "prefix": "https://zhaoolee.com/ChromeAppHeroes/"
     },
-    "adsense": {
-        "client": "ca-pub-4504000699134547",
-        "slot": "2251771396",
-        "format": "auto",
-        "element": ".page-inner section",
-        "position": "bottom"
+    "ad": {
+      "contentBottom": "%3Cscript%20data-ad-client%3D%22ca-pub-4504000699134547%22%20async%20src%3D%22https%3A//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js%22%3E%3C/script%3E"
     }
 
 
