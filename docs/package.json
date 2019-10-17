@@ -9,6 +9,7 @@
   "dependencies": {
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-3-ba": "^0.9.0",
+    "gitbook-plugin-adsense": "^1.0.3",
     "gitbook-plugin-disqus": "^0.1.0",
     "gitbook-plugin-donate": "^1.0.2",
     "gitbook-plugin-ga": "^1.0.1",
