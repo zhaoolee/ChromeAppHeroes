@@ -88,7 +88,7 @@
       "prefix": "https://zhaoolee.com/ChromeAppHeroes/"
     },
     "ad": {
-      "contentBottom": "%3Cscript%20data-ad-client%3D%22ca-pub-4504000699134547%22%20async%20src%3D%22https%3A//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js%22%3E%3C/script%3E%3Cscript%20src%3D%22%2F%2Fcdnjs.cloudflare.com%2Fajax%2Flibs%2Fjquery%2F2.2.1%2Fjquery.min.js%22%3E%3C%2Fscript%3E%3C%2Fscript%3E%3Cscript%20src%3D%22%2F%2Fcdnjs.cloudflare.com%2Fajax%2Flibs%2Funveil2%2F2.0.8%2Fjquery.unveil2.min.js%22%3E%3C%2Fscript%3E%3Cscript%3E%24('img').unveil()%3C%2Fscript%3E"
+      "contentBottom": "%3Cscript%20data-ad-client%3D%22ca-pub-4504000699134547%22%20async%20src%3D%22https%3A//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js%22%3E%3C/script%3E%3Cscript%20src%3D%22%2F%2Fcdnjs.cloudflare.com%2Fajax%2Flibs%2Fjquery%2F2.2.1%2Fjquery.min.js%22%20defer%3E%3C%2Fscript%3E%3Cscript%20src%3D%22%2F%2Fcdnjs.cloudflare.com%2Fajax%2Flibs%2Funveil2%2F2.0.8%2Fjquery.unveil2.min.js%22%20defer%3E%3C%2Fscript%3E%3Cscript%3E%24(%22img%22).unveil()%3B%3C%2Fscript%3E"
     }
 
 
