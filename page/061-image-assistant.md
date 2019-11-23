@@ -52,6 +52,11 @@
 ![](https://user-images.githubusercontent.com/15868458/69475598-0be15500-0e0a-11ea-8149-1ec54bac9fc7.png)
 
 
+## Chrome扩展**图片助手(ImageAssistant) 批量图片下载器**下载链接
+
+[https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko)
+
+
 ## 小结:
 
 《ImageAssistant》图片助手批量图片下载器,在提取网页图片的方面,功能非常全面, 能提取绝大多数图片网站的资源, 如果你经常为无法提取网页图片资源发愁, 相信这款扩展程序能为你带来惊喜
