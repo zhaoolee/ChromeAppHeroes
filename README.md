@@ -28,29 +28,28 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ## 目录(点击以下标题, 可以进入文章页~)
 
 
-- [061《ImageAssistant》图片助手批量图片下载器](https://www.v2fy.com/p/061-image-assistant/)   | [备用链接](https://zhaoolee.com/ChromeAppHeroes/page/061-image-assistant.html)
+- [061《ImageAssistant》图片助手批量图片下载器](https://www.v2fy.com/p/061-image-assistant/)
 
-- [060《Tabagotchi》为减缓全球变暖做出贡献](https://www.v2fy.com/p/060_tabagotchi/) | [备用链接](https://zhaoolee.com/ChromeAppHeroes/page/060_tabagotchi.html)
+- [060《Tabagotchi》为减缓全球变暖做出贡献](https://www.v2fy.com/p/060_tabagotchi/)
 
-- [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](https://www.v2fy.com/p/059_page_speed_insight_and_check_list/) | [备用链接](https://zhaoolee.com/ChromeAppHeroes/page/059_page_speed_insight_and_check_list.html)
+- [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](https://www.v2fy.com/p/059_page_speed_insight_and_check_list/)
 
-- [058《IP-Address》快速查看当前设备IP](https://www.v2fy.com/p/058_ip_address/) |  [备用链接](https://zhaoolee.com/ChromeAppHeroes/page/058_ip_address.html)
+- [058《IP-Address》快速查看当前设备IP](https://www.v2fy.com/p/058_ip_address/) 
 
-- [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式](https://www.v2fy.com/p/057_webp_save_as_png/) |  [备用链接](https://zhaoolee.com/ChromeAppHeroes/page/057_webp_save_as_png.html)
+- [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式](https://www.v2fy.com/p/057_webp_save_as_png/)
+
+- [056《Search》为Chrome设置搜索引擎关键词](https://www.v2fy.com/p/056_search/)
+
+- [055《Keylines》为网页元素添加随机描边颜色](https://www.v2fy.com/p/055_keylines/) | [备用链接](https://zhaoolee.com/ChromeAppHeroes/page/055_keylines.html)
+
+- [054《二箱 以图搜图》让你在搜图方面随心所欲（为所欲为）](https://www.v2fy.com/p/054_er_xiang_yi_tu_sou_tu/)
+
+- [053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效](hhttps://www.v2fy.com/p/053_shu_biao_dian_ji_te_xiao/)
+
+- [052《Site Palette》自动提取网站配色](https://www.v2fy.com/p/052_site_palette/)
 
 
-- [056《Search》为Chrome设置搜索引擎关键词](https://www.v2fy.com/p/056_search/) | [备用链接](https://zhaoolee.com/ChromeAppHeroes/page/056_search.html)
-
-- [055《Keylines》为网页元素添加随机描边颜色 ](https://zhaoolee.com/ChromeAppHeroes/page/055_keylines.html)
-
-- [054《二箱 以图搜图》让你在搜图方面随心所欲（为所欲为）](https://zhaoolee.com/ChromeAppHeroes/page/054_er_xiang_yi_tu_sou_tu.html)
-
-- [053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效](https://zhaoolee.com/ChromeAppHeroes/page/053_shu_biao_dian_ji_te_xiao.html)
-
-- [052《Site Palette》自动提取网站配色](https://zhaoolee.com/ChromeAppHeroes/page/052_site_palette.html)
-
-
-- [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](https://zhaoolee.com/ChromeAppHeroes/page/051_custom_cursor_for_chrome.html)
+- [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](https://www.v2fy.com/p/051_custom_cursor_for_chrome/)
 
 - [050《Google Results Previewer》无点击查看谷歌搜索结果](https://zhaoolee.com/ChromeAppHeroes/page/050_google_results_previewer.html)
 
@@ -255,7 +254,7 @@ WebP是非常先进的格式, 但由于Photoshop这类元老级图像编辑软�
 在早期的网址导航主页上, 可以通过点击选择不同的搜索引擎进行搜索(数量有限, 而且不支持自定义), 而Chrome搜索更极客一些, 通过**自定义关键词加空格**的方法, 在搜索引擎之间自由切换, 是一种兼具扩展性与易用性的做法
 
 
-#### [055《Keylines》为网页元素添加随机描边颜色 ](https://zhaoolee.com/ChromeAppHeroes/page/055_keylines.html)
+#### [055《Keylines》为网页元素添加随机描边颜色 ](https://www.v2fy.com/p/055_keylines/)
 
 
 ![](https://user-images.githubusercontent.com/15868458/61917657-dbcf9580-af80-11e9-87d3-528609ab85b0.gif)
@@ -263,7 +262,7 @@ WebP是非常先进的格式, 但由于Photoshop这类元老级图像编辑软�
 Keylines的实现原理非常简单(为网页dom元素添加了outline属性), 但展示的效果却非常惊艳, 这应该归功于Keylines作者优秀的想法, 很多时候, 优秀的软件并不一定使用了很难掌握的技术, 而是包含了作者优秀的想法~
 
 
-#### [054《二箱+以图搜图》让你在搜图方面随心所欲（为所欲为）](https://zhaoolee.com/ChromeAppHeroes/page/054_er_xiang_yi_tu_sou_tu.html)
+#### [054《二箱+以图搜图》让你在搜图方面随心所欲（为所欲为）](https://www.v2fy.com/p/054_er_xiang_yi_tu_sou_tu/)
 
 
 ![](https://user-images.githubusercontent.com/15868458/61757068-93ce3880-adf1-11e9-8903-ebf313fb6098.gif)
@@ -272,7 +271,7 @@ Keylines的实现原理非常简单(为网页dom元素添加了outline属性), �
 《二箱 以图搜图》是一款简单实用的搜图小工具，如果你是一名设计师, 可以帮你快速查找他人设计作品中所用的素材来源, 提升你的工作效率~
 
 
-#### [053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效](https://zhaoolee.com/ChromeAppHeroes/page/053_shu_biao_dian_ji_te_xiao.htmll)
+#### [053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效](hhttps://www.v2fy.com/p/053_shu_biao_dian_ji_te_xiao/)
 
 
 ![](https://user-images.githubusercontent.com/15868458/61600040-04921b00-ac61-11e9-8446-533752d71de1.gif)
@@ -280,14 +279,14 @@ Keylines的实现原理非常简单(为网页dom元素添加了outline属性), �
 
 《鼠标点击特效 (๑•́ ∀ •̀๑)》是一款为鼠标点击添加有趣的特效的扩展程序,虽然没啥实际用途,但很好玩, 录制一些有趣的网页小程序时, 会非常出彩~
 
-#### [052《Site Palette》自动提取网站配色](https://zhaoolee.com/ChromeAppHeroes/page/052_site_palette.html)
+#### [052《Site Palette》自动提取网站配色](https://www.v2fy.com/p/052_site_palette/)
 
 ![](https://user-images.githubusercontent.com/15868458/61169390-2f101400-a58f-11e9-8769-4d62b7b64f37.gif)
 
 Site Palette使用简单, 功能实用, 没有广告, 是典型的小而美的扩展程序, 这类扩展程序越多, Chrome的用户体验也就越好~
 
 
-#### [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](https://zhaoolee.com/ChromeAppHeroes/page/051_custom_cursor_for_chrome.html)
+#### [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](https://www.v2fy.com/p/051_custom_cursor_for_chrome/)
 
 
 
