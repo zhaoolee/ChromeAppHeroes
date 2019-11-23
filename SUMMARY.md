@@ -1,5 +1,6 @@
 # Summary
 * [编者序](README.md)
+* [061《ImageAssistant》图片助手批量图片下载器](/page/061-image-assistant.md)
 * [060《Tabagotchi》为减缓全球变暖做出贡献](/page/060_tabagotchi.md)
 * [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](/page/059_page_speed_insight_and_check_list.md)
 * [058《IP-Address》快速查看当前设备IP](/page/058_ip_address.md)

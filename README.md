@@ -27,6 +27,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+
+- [061《ImageAssistant》图片助手批量图片下载器](https://zhaoolee.com/ChromeAppHeroes/page/061-image-assistant.html)
+
 - [060《Tabagotchi》为减缓全球变暖做出贡献](https://zhaoolee.com/ChromeAppHeroes/page/060_tabagotchi.html)
 
 - [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](https://zhaoolee.com/ChromeAppHeroes/page/059_page_speed_insight_and_check_list.html)
