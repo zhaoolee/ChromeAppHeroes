@@ -51,11 +51,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标](https://www.v2fy.com/p/051_custom_cursor_for_chrome/)
 
-- [050《Google Results Previewer》无点击查看谷歌搜索结果](https://zhaoolee.com/ChromeAppHeroes/page/050_google_results_previewer.html)
+- [050《Google Results Previewer》无点击查看谷歌搜索结果](https://www.v2fy.com/p/050_google_results_previewer/)
 
-- [049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹](https://zhaoolee.com/ChromeAppHeroes/page/049_web_server_for_chrome.html)
+- [049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹](https://www.v2fy.com/p/049_web_server_for_chrome/)
 
-- [048《Words Discoverer》高亮标注单词,提升你的词汇量](https://zhaoolee.com/ChromeAppHeroes/page/048_words_discoverer.html)
+- [048《Words Discoverer》高亮标注单词,提升你的词汇量](https://www.v2fy.com/p/048_words_discoverer/)
 
 - [047《Go to Tab》快速跳转到打开的网页](https://zhaoolee.com/ChromeAppHeroes/page/047_go_to_tab.html)
 
@@ -297,7 +297,7 @@ Site Palette使用简单, 功能实用, 没有广告, 是典型的小而美的�
 
 
 
-#### [050《Google Results Previewer》无点击查看谷歌搜索结果](https://zhaoolee.com/ChromeAppHeroes/page/050_google_results_previewer.html)
+#### [050《Google Results Previewer》无点击查看谷歌搜索结果](https://www.v2fy.com/p/050_google_results_previewer/)
 
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/9219a092f0f4eb1c6f614c1667b316d1.gif)
@@ -305,14 +305,14 @@ Site Palette使用简单, 功能实用, 没有广告, 是典型的小而美的�
 Google Results Previewer的功能简单实用, 也没有多余的设置, 属于新手友好型工具
 
 
-#### [049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹](https://zhaoolee.com/ChromeAppHeroes/page/049_web_server_for_chrome.html)
+#### [049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹](https://www.v2fy.com/p/049_web_server_for_chrome/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/74d3eb882b103e0fb1e5e5dd651c052f.gif)
 
 Web Server for Chrome可以帮我们在本地快速开启http服务,让开发和测试变得更加简单, 如果你想和同处某个局域网的小伙伴, 建立一个共享文件夹, Web Server for Chrome或许是你最简单的实现方法~ 
 
 
-#### [048《Words Discoverer》背单词新姿势,提升你的词汇量](https://zhaoolee.com/ChromeAppHeroes/page/048_words_discoverer.html)
+#### [048《Words Discoverer》背单词新姿势,提升你的词汇量](https://www.v2fy.com/p/048_words_discoverer/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/305439fdd84017da654e00f16aaee752.gif)
 
