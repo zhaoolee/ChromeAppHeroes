@@ -93,23 +93,23 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [030《掘金》相信优质技术内容的力量](https://www.v2fy.com/p/030_jue_jin/)
 
-- [029 《SimpRead》为任意网页开启阅读模式](https://zhaoolee.com/ChromeAppHeroes/page/029_simread.html)
+- [029 《SimpRead》为任意网页开启阅读模式](https://www.v2fy.com/p/029_simread/)
 
-- [028《AdBlock》Adblock自定义屏蔽简书广告](https://zhaoolee.com/ChromeAppHeroes/page/028_adblock.html)
+- [028《AdBlock》Adblock自定义屏蔽简书广告](https://www.v2fy.com/p/028_adblock/)
 
-- [027《Text》来自Chrome实验室的跨平台记事本](https://zhaoolee.com/ChromeAppHeroes/page/027_text.html)
+- [027《Text》来自Chrome实验室的跨平台记事本](https://www.v2fy.com/p/027_text/)
 
-- [026《Quickey Launcher》打开网站只需一键](https://zhaoolee.com/ChromeAppHeroes/page/026_quickey_launcher.html)
+- [026《Quickey Launcher》打开网站只需一键](https://www.v2fy.com/p/026_quickey_launcher/)
 
-- [025《Console》Chrome自带好用的计算器](https://zhaoolee.com/ChromeAppHeroes/page/025_console.html)
+- [025《Console》Chrome自带好用的计算器](https://www.v2fy.com/p/025_console/)
 
-- [024《Dark Reader》为任意网站启用夜间模式](https://zhaoolee.com/ChromeAppHeroes/page/024_dark_reader.html)
+- [024《Dark Reader》为任意网站启用夜间模式](https://www.v2fy.com/p/024_dark_reader/)
 
-* [023《FireShot》一键滚动截屏整个网页](https://zhaoolee.com/ChromeAppHeroes/page/023_fireshot.html)
+* [023《FireShot》一键滚动截屏整个网页](https://www.v2fy.com/p/023_fireshot/)
 
-* [022《扩展管理器》管理你的Chrome扩展](https://zhaoolee.com/ChromeAppHeroes/page/022kuo_zhan_guan_li_qi.html)
+* [022《扩展管理器》管理你的Chrome扩展](https://www.v2fy.com/p/022kuo_zhan_guan_li_qi/)
 
-* [021《哔哩哔哩助手》助你快速成为B站老司机](https://zhaoolee.com/ChromeAppHeroes/page/021_bi_li_bi_li_zhu_shou.html)
+* [021《哔哩哔哩助手》助你快速成为B站老司机](https://www.v2fy.com/p/021_bi_li_bi_li_zhu_shou/)
 
 * [020《Boxel Rebound》“嗨到中毒”的弹跳小方块(附自制赛道分享方法)](https://zhaoolee.com/ChromeAppHeroes/page/020_boxel_rebound.html)
 
@@ -450,7 +450,7 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 > 如果你想对 程序员, 产品经理, 设计师的行业知识有所了解, 可以没事儿打开掘金插件看一看, 如果你感觉很喜欢里面的内容, 可以到掘金官网 [https://juejin.im/](https://juejin.im/) 逛一逛
 
 
-#### [029 《SimpRead》为任意网页开启阅读模式](https://zhaoolee.com/ChromeAppHeroes/page/029_simread.html)
+#### [029 《SimpRead》为任意网页开启阅读模式](https://www.v2fy.com/p/029_simread/)
 
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0f9aa9ca332c4325806f92784af9f9ac.gif)
@@ -458,30 +458,30 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 
 
 
-#### [028《AdBlock》Adblock屏蔽简书广告](https://zhaoolee.com/ChromeAppHeroes/page/028_adblock.html)
+#### [028《AdBlock》Adblock屏蔽简书广告](https://www.v2fy.com/p/028_adblock/)
 
 > ![屏蔽简书广告](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e149c42ac1f343b88f50e522cba9ad64.gif)
 > Adblock的功能非常丰富, 但很多功能基本用不到, 普通用户只需要开启Adblock, 能使用右键工具屏蔽不喜欢的广告, 也就够用了~
 
-#### [027《Text》来自Chrome实验室的跨平台记事本](https://zhaoolee.com/ChromeAppHeroes/page/027_text.html)
+#### [027《Text》来自Chrome实验室的跨平台记事本](https://www.v2fy.com/p/027_text/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/6e287798ca1d4b939705447d4b8b2b3b.gif)
 
 > Text由谷歌Chrome实验室研发并开源, 开源地址https://github.com/GoogleChromeLabs/text-app , Text属于小而美的产品, 功能不算强大, 但是够用, 而且借助Chrome完成了跨平台(在Linux也可以使用哦~)
 
-#### [026《Quickey Launcher》打开网站只需一键](https://zhaoolee.com/ChromeAppHeroes/page/026_quickey_launcher.html)
+#### [026《Quickey Launcher》打开网站只需一键](https://www.v2fy.com/p/026_quickey_launcher/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/322a82d214b34ff2ba70d9c1cd71d276.gif)
 > Quickey Launcher以优雅的方式, 为任意网页绑定一个快捷键, 绑定完成后, 即可通过快捷键,打开网页
 
 
-#### [025《Console》Chrome自带好用的计算器](https://zhaoolee.com/ChromeAppHeroes/page/025_console.html)
+#### [025《Console》Chrome自带好用的计算器](https://www.v2fy.com/p/025_console/)
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c7bc7cabd06a453dbed2bae0a2bf08d5.gif)
 
 >Chrome计算机的好用之处: 既可以看到加数字的记录,也可以实时预览运算的结果, 输入完成后还可以很方便的核查一遍, 还有一点: Chrome计算器观赏性强(逼格很高)
 
 
-#### [024《Dark Reader》为任意网站启用夜间模式](https://zhaoolee.com/ChromeAppHeroes/page/024_dark_reader.html)
+#### [024《Dark Reader》为任意网站启用夜间模式](https://www.v2fy.com/p/024_dark_reader/)
 
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/35e84f58945d4775a31154ea4dc51cac.gif)
@@ -491,20 +491,20 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 
 
 
-##### [023《FireShot》一键滚动截屏整个网页](https://zhaoolee.com/ChromeAppHeroes/page/023_fireshot.html)
+##### [023《FireShot》一键滚动截屏整个网页](https://www.v2fy.com/p/023_fireshot/)
 
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/81ac43fe1d6e454b93dc7f3ae57d96cd.gif)
 > 总体来讲, FireShot是一款不错的软件, 免费且功能够用, 滚动截图的功能比同类软件做的都要好
 
 
-#### [022《扩展管理器》管理你的Chrome扩展](https://zhaoolee.com/ChromeAppHeroes/page/022kuo_zhan_guan_li_qi.html)
+#### [022《扩展管理器》管理你的Chrome扩展](https://www.v2fy.com/p/022kuo_zhan_guan_li_qi/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0480fffebb10437c8d5555f085de9006.gif)
 > 如果Chrome安装的插件很多, 我们可以对插件进行分组, 按照场景,启用不同组的插件
 
 
-#### [021《哔哩哔哩助手》助你快速成为B站老司机](https://zhaoolee.com/ChromeAppHeroes/page/021_bi_li_bi_li_zhu_shou.html)
+#### [021《哔哩哔哩助手》助你快速成为B站老司机](https://www.v2fy.com/p/021_bi_li_bi_li_zhu_shou/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/6ccb9837b60d4d79814a8add20723d97.gif)
 
