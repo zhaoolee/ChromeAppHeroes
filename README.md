@@ -36,9 +36,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [058《IP-Address》快速查看当前设备IP](https://www.v2fy.com/p/058_ip_address/) |  [备用链接](https://zhaoolee.com/ChromeAppHeroes/page/058_ip_address.html)
 
-- [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式](https://zhaoolee.com/ChromeAppHeroes/page/057_webp_save_as_png.html)
+- [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式](https://www.v2fy.com/p/057_webp_save_as_png/) |  [备用链接](https://zhaoolee.com/ChromeAppHeroes/page/057_webp_save_as_png.html)
 
-- [056《Search》为Chrome设置搜索引擎关键词](https://zhaoolee.com/ChromeAppHeroes/page/056_search.html)
+
+- [056《Search》为Chrome设置搜索引擎关键词](https://www.v2fy.com/p/056_search/) | [备用链接](https://zhaoolee.com/ChromeAppHeroes/page/056_search.html)
 
 - [055《Keylines》为网页元素添加随机描边颜色 ](https://zhaoolee.com/ChromeAppHeroes/page/055_keylines.html)
 
@@ -241,13 +242,13 @@ PageSpeed Insight and CheckList 和 Google Page Speed 结合使用, 能够为网
 获取当前设备的IP地址,对于开发者而言,是一个经常遇到的问题,而《IP-Address》这款简洁小巧的软件, 能满足我们的需求
 
 
-#### [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式.md](https://zhaoolee.com/ChromeAppHeroes/page/057_webp_save_as_png.html)
+#### [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式](https://www.v2fy.com/p/057_webp_save_as_png/)
 
 ![save_as_png](https://user-images.githubusercontent.com/15868458/63221240-ce48ac80-c1c8-11e9-9860-376fedc0845e.gif)
 
 WebP是非常先进的格式, 但由于Photoshop这类元老级图像编辑软件不支持, 我们只能将图片为png格式,再进行编辑, 先进技术改变世界, 需要一个过程, 而在过程中提供一个折中的方案(把WebP装换为png, 再将png图片装换为WebP), 也是一件有价值的事~
 
-#### [056《Search》为Chrome设置搜索引擎关键词](https://zhaoolee.com/ChromeAppHeroes/page/056_search.html)
+#### [056《Search》为Chrome设置搜索引擎关键词](https://www.v2fy.com/p/056_search/)
 
 ![](https://user-images.githubusercontent.com/15868458/62503773-3c37c000-b828-11e9-9605-4ecce76830ec.gif)
 
