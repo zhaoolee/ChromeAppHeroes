@@ -111,26 +111,26 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 * [021《哔哩哔哩助手》助你快速成为B站老司机](https://www.v2fy.com/p/021_bi_li_bi_li_zhu_shou/)
 
-* [020《Boxel Rebound》“嗨到中毒”的弹跳小方块(附自制赛道分享方法)](https://zhaoolee.com/ChromeAppHeroes/page/020_boxel_rebound.html)
+* [020《Boxel Rebound》“嗨到中毒”的弹跳小方块(附自制赛道分享方法)](https://www.v2fy.com/p/020_boxel_rebound/)
 
-* [019《MEGA》网盘可以良心到什么程度? 试试MEGA吧!](https://zhaoolee.com/ChromeAppHeroes/page/019_mega.html)
+* [019《MEGA》网盘可以良心到什么程度? 试试MEGA吧!](https://www.v2fy.com/p/019_mega/)
 
-* [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://zhaoolee.com/ChromeAppHeroes/page/018_enhanced_github.html)
+* [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://www.v2fy.com/p/018_enhanced_github/)
 
-* [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.com/ChromeAppHeroes/page/017_xin_lang_wei_bo_tu_chuang.html)
+* [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://www.v2fy.com/p/017_xin_lang_wei_bo_tu_chuang/)
 
 
-* [016《解除B站区域限制》查看进击的巨人第三季](https://zhaoolee.com/ChromeAppHeroes/page/016_jie_chu_b_zhan_qu_yu_xian_zhi.html)
+* [016《解除B站区域限制》查看进击的巨人第三季](https://www.v2fy.com/p/016_jie_chu_b_zhan_qu_yu_xian_zhi/)
 
-* [015 《XPath Helper》完成Bing每日壁纸的小爬虫](https://zhaoolee.com/ChromeAppHeroes/page/015_xpath_helper.html)
+* [015 《XPath Helper》完成Bing每日壁纸的小爬虫](https://www.v2fy.com/p/015_xpath_helper/)
 
-* [014《超级马里奥游戏》Chrome变身小霸王](https://zhaoolee.com/ChromeAppHeroes/page/014_chao_ji_ma_li_ao_you_xi.html)
+* [014《超级马里奥游戏》Chrome变身小霸王](https://www.v2fy.com/p/014_chao_ji_ma_li_ao_you_xi/)
 
-* [013《Quick QR》用二维码实现云粘贴](https://zhaoolee.com/ChromeAppHeroes/page/013_quick_qr.html)
+* [013《Quick QR》用二维码实现云粘贴](https://www.v2fy.com/p/013_quick_qr/)
 
-* [012《OurStickys》Chrome特色网页便签纸](https://zhaoolee.com/ChromeAppHeroes/page/012_ourstickys.html)
+* [012《OurStickys》Chrome特色网页便签纸](https://www.v2fy.com/p/012_ourstickys/)
 
-* [011 《whatruns》一键分析网站技术栈](https://zhaoolee.com/ChromeAppHeroes/page/011_whatruns.html)
+* [011 《whatruns》一键分析网站技术栈](https://www.v2fy.com/p/011_whatruns/)
 
 * [010《speedtest》网络测速插件speedtest](https://zhaoolee.com/ChromeAppHeroes/page/010_speedtest.html)
 
@@ -513,14 +513,14 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 
 
 
-#### [020《Boxel Rebound》“嗨到中毒”的弹跳小方块\(附自制赛道分享方法\)](https://zhaoolee.com/ChromeAppHeroes/page/020_boxel_rebound.html)
+#### [020《Boxel Rebound》“嗨到中毒”的弹跳小方块\(附自制赛道分享方法\)](https://www.v2fy.com/p/020_boxel_rebound/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/dbc83cc53c26492db8843ff3e35fc75d.gif)
 > Boxel Rebound是一个偏极客的小游戏, 玩法简单, 可以自由创建赛道, 分享赛道, 获取别人的赛道进行二次开发; 无论你是Mac用户,Windows用户,Linux用户, 只要安装了Chrome浏览器, 就可以玩耍Boxel Rebound
 
 
 
-#### [019《MEGA》网盘可以良心到什么程度? 试试MEGA吧!](https://zhaoolee.com/ChromeAppHeroes/page/019_mega.html)
+#### [019《MEGA》网盘可以良心到什么程度? 试试MEGA吧!](https://www.v2fy.com/p/019_mega/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/b5aea0b5e3c54f0a9a050a754a67093d.png)
 
@@ -531,34 +531,34 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 
 
 
-#### [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://zhaoolee.com/ChromeAppHeroes/page/018_enhanced_github.html)
+#### [018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件](https://www.v2fy.com/p/018_enhanced_github/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/769a22f995d74226ba4104aba7e8ab59.png)
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/00541b7bd6954f8ea2a6a1beaebbb79b.png)
 > 我需要Github给我一根冰棍解暑,Github却坚持把装有冰棍的冰柜也送给我（哥们儿真够意思）... 有了Enhanced Github这款插件, 我们可以下载Github优秀项目中最核心的代码文件进行学习, 而不是 下载 整个仓库作为藏品
 
 
-#### [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://zhaoolee.com/ChromeAppHeroes/page/017_xin_lang_wei_bo_tu_chuang.html)
+#### [017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图床来帮忙](https://www.v2fy.com/p/017_xin_lang_wei_bo_tu_chuang/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/48c12b3864f84e988e073209fd7cf8e4.gif)
 > 用Markdown写文章, 如果文章中使用了本地配图, 那本地配图就要和文章一起打包,否则别人是看不到图片的,如果把本地图片放到网络服务器, 然后直接把图片的url粘贴到文章里面, 就可以免除图片打包的步骤
 
 
 
-#### [016《解除B站区域限制》查看进击的巨人第三季](https://zhaoolee.com/ChromeAppHeroes/page/016_jie_chu_b_zhan_qu_yu_xian_zhi.html)
+#### [016《解除B站区域限制》查看进击的巨人第三季](https://www.v2fy.com/p/016_jie_chu_b_zhan_qu_yu_xian_zhi/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/34d50d4d15094ca08e1bbd76c477122a.png)
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/99fd518796894945aa87225a5022c453.png)
 > 解除B站区域限制,B站老司机必备技能
 
 
-#### [015《XPath Helper》完成Bing每日壁纸的小爬虫](https://zhaoolee.com/ChromeAppHeroes/page/015_xpath_helper.html)
+#### [015《XPath Helper》完成Bing每日壁纸的小爬虫](https://www.v2fy.com/p/015_xpath_helper/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/308bec78f4674130b85a5852f0b25a88.png)
 
 > XPath是一个辅助我们写爬虫的小插件, 我们可以用XPath辅助我们完成一个Bing壁纸的小爬虫~
 
-#### [014《超级马里奥游戏》Chrome变身小霸王](https://zhaoolee.com/ChromeAppHeroes/page/014_chao_ji_ma_li_ao_you_xi.html)
+#### [014《超级马里奥游戏》Chrome变身小霸王](https://www.v2fy.com/p/014_chao_ji_ma_li_ao_you_xi/)
 
 > ![超级玛丽.gif](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/008f3bd3c8b8483b9d70be5d5ed4f9ee.gif)
 
@@ -566,20 +566,20 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 
 
 
-#### [013《Quick QR》用二维码实现云粘贴](https://zhaoolee.com/ChromeAppHeroes/page/013_quick_qr.html)
+#### [013《Quick QR》用二维码实现云粘贴](https://www.v2fy.com/p/013_quick_qr/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/b59f299316624e86aa7cdd379a02aac4.png)
 
 > 通过Quick QR, 我们可以不借助任何通讯软件,通过手机扫码,获取PC浏览器上任意一段文字信息\(云粘贴板哦~\)
 
-#### [012《OurStickys》Chrome特色网页便签纸](https://zhaoolee.com/ChromeAppHeroes/page/012_ourstickys.html)
+#### [012《OurStickys》Chrome特色网页便签纸](https://www.v2fy.com/p/012_ourstickys/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/62597d60ffd6443396725c9677951221.gif)
 
 > 向众人介绍喜欢的网页功能时,可以边讲,边向网页打便签,这样既能让人眼前一亮,也让听众容易抓住重点~
 
 
-#### [011 《whatruns》一键分析网站技术栈](https://zhaoolee.com/ChromeAppHeroes/page/011_whatruns.html)
+#### [011 《whatruns》一键分析网站技术栈](https://www.v2fy.com/p/011_whatruns/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/28cc002358c647878b54f9bcaaf67a0a.png)
 
