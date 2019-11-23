@@ -57,29 +57,29 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [048《Words Discoverer》高亮标注单词,提升你的词汇量](https://www.v2fy.com/p/048_words_discoverer/)
 
-- [047《Go to Tab》快速跳转到打开的网页](https://zhaoolee.com/ChromeAppHeroes/page/047_go_to_tab.html)
+- [047《Go to Tab》快速跳转到打开的网页](https://www.v2fy.com/p/047_go_to_tab/)
 
-- [046《WhatFont》字体爱好者优雅查看网页字体](https://zhaoolee.com/ChromeAppHeroes/page/046_whatfont.html)
+- [046《WhatFont》字体爱好者优雅查看网页字体](https://www.v2fy.com/p/046_whatfont/)
 
-- [045《Restlet Client》优秀的Api测试工具](https://zhaoolee.com/ChromeAppHeroes/page/045_restlet_client.html)
+- [045《Restlet Client》优秀的Api测试工具](https://www.v2fy.com/p/045_restlet_client/)
 
-- [044《谷歌访问助手》访问Chrome商店 Gmail 谷歌搜索](https://zhaoolee.com/ChromeAppHeroes/page/044_gu_ge_fang_wen_zhu_shou.html)
+- [044《谷歌访问助手》访问Chrome商店 Gmail 谷歌搜索](https://www.v2fy.com/p/044_gu_ge_fang_wen_zhu_shou/)
 
-- [043《Dream Afar New Tab》探索世界的新方式](https://zhaoolee.com/ChromeAppHeroes/page/043_dream_afar_new_tab.html)
+- [043《Dream Afar New Tab》探索世界的新方式](https://www.v2fy.com/p/043_dream_afar_new_tab/)
 
-- [042 在Edge中安装Chrome扩展程序](https://zhaoolee.com/ChromeAppHeroes/page/042_edge.html)
+- [042 在Edge中安装Chrome扩展程序](https://www.v2fy.com/p/042_edge/)
 
-- [041《Copy All Urls》优雅地保存-开启多个标签页](https://zhaoolee.com/ChromeAppHeroes/page/041_copy_all_urls.html)
+- [041《Copy All Urls》优雅地保存-开启多个标签页](https://www.v2fy.com/p/041_copy_all_urls/)
 
-- [040《GitZip for github》从Github批量下载表情包](https://zhaoolee.com/ChromeAppHeroes/page/040_gitzip_for_github.html)
+- [040《GitZip for github》从Github批量下载表情包](https://www.v2fy.com/p/040_gitzip_for_github/)
 
-- [039《Simplify Gmail》让网页版Gmail更清爽](https://zhaoolee.com/ChromeAppHeroes/page/039_simplify_gmail.html)
+- [039《Simplify Gmail》让网页版Gmail更清爽](hhttps://www.v2fy.com/p/039_simplify_gmail/)
 
-- [038《Alexa Traffic Rank》一键查看网站全球排名](https://zhaoolee.com/ChromeAppHeroes/page/038_alexa_traffic_rank.html)
+- [038《Alexa Traffic Rank》一键查看网站全球排名](https://www.v2fy.com/p/038_alexa_traffic_rank/)
 
-- [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](https://zhaoolee.com/ChromeAppHeroes/page/037_saladict.html)
+- [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](https://www.v2fy.com/p/037_saladict/)
 
-- [036《Screen Shader》把网页调成暖色，你的眼睛会感谢你🙏](https://zhaoolee.com/ChromeAppHeroes/page/036_screen_shader.html)
+- [036《Screen Shader》把网页调成暖色，你的眼睛会感谢你🙏](https://www.v2fy.com/p/036_screen_shader/)
 
 - [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](https://zhaoolee.com/ChromeAppHeroes/page/035_print_friendly_and_pdf.html)
 
@@ -318,14 +318,14 @@ Web Server for Chrome可以帮我们在本地快速开启http服务,让开发和
 
 Words Discoverer(中文译名: 单词发现者),**可以突出显示网页上罕见的英语字典词汇和惯用语。促进英语语言学习并扩大词汇量**,通过自动高亮网页单词, 辅助单词记忆是一个很好的路子, 建议过一段时间,就稍微调高**不突出显示 最常用的英语单词**的数量, 比如从默认的15%调整到16%,  单词发现者与沙拉查词结合使用, 真的是体验极佳~
 
-#### [047《Go to Tab》快速跳转到打开的网页](https://zhaoolee.com/ChromeAppHeroes/page/047_go_to_tab.html)
+#### [047《Go to Tab》快速跳转到打开的网页](https://www.v2fy.com/p/047_go_to_tab/)
 
 ![2019-06-15-18 54 23](https://user-images.githubusercontent.com/15868458/59550928-2a623b00-8fa4-11e9-8525-8e830907463b.gif)
 
 Go to Tab对于工作期间大量打开页面, 又长时间不关机的程序员们, 是非常有帮助的
 
 
-#### [046《WhatFont》字体爱好者优雅查看网页字体](https://zhaoolee.com/ChromeAppHeroes/page/046_whatfont.html)
+#### [046《WhatFont》字体爱好者优雅查看网页字体](https://www.v2fy.com/p/046_whatfont/)
 
 ![font 2019-06-15 16_04_10](https://user-images.githubusercontent.com/15868458/59549312-4529b500-8f8e-11e9-8107-004486a02258.gif)
 
@@ -333,7 +333,7 @@ WhatFont属于功能非常单一的小工具, 让字体爱好者优雅查看网�
  等字体网站,找寻更多可爱的字体~
 
 
-#### [045《Restlet Client》优秀的Api测试工具](https://zhaoolee.com/ChromeAppHeroes/page/045_restlet_client.html)
+#### [045《Restlet Client》优秀的Api测试工具](https://www.v2fy.com/p/045_restlet_client/)
 
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/89ea1e51dab48d5a84f089adf33eb274.gif)
@@ -342,27 +342,27 @@ WhatFont属于功能非常单一的小工具, 让字体爱好者优雅查看网�
 - 近来, Postman开始主推自己的70M左右的客户端安装包, 功能没什么改进, 体积却变得超大,而且Postman的Chrome扩展程序, 对macOS的支持不太好(每次打开, 都会弹窗报一个错)
 - Restlet Client依然只是一个开箱即用的Chrome扩展程序, 非常适合硬盘空间有限的小伙伴使用(软件功能够用就可以了~)
 
-#### [044《谷歌访问助手》访问Chrome商店 Gmail 谷歌搜索](https://zhaoolee.com/ChromeAppHeroes/page/044_gu_ge_fang_wen_zhu_shou.html)
+#### [044《谷歌访问助手》访问Chrome商店 Gmail 谷歌搜索](https://www.v2fy.com/p/044_gu_ge_fang_wen_zhu_shou/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/deff71a536ba4027a01fe3c7a558c277.gif)
 
 《谷歌访问助手》可以让我们访问Chrome商店, 以及谷歌搜索, 谷歌Gmail等服务
 `仅为香港地区用户提，供方便科研,外贸提供帮助,不良用户,将封锁访问IP,后果自负`, 谷歌访问助手需要你设置主页为`https://2018.hao245.com/`才能使用, 有百度全家桶, 360全家桶的流氓内涵~
 
-#### [043《Dream Afar New Tab》探索世界的新方式](https://zhaoolee.com/ChromeAppHeroes/page/043_dream_afar_new_tab.html)
+#### [043《Dream Afar New Tab》探索世界的新方式](https://www.v2fy.com/p/043_dream_afar_new_tab/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e40b7bec41ce4ac892578bc88a03d25c.gif)
 
 《Dream Afar New Tab》的设计非常漂亮, 功能调节也非常简单, 只有两级菜单, 壁纸也非常精美, 对浏览器颜值有要求的小伙伴, 可以试一试~
 
-#### [042 在Edge中安装Chrome扩展程序](https://zhaoolee.com/ChromeAppHeroes/page/042_edge.html)
+#### [042 在Edge中安装Chrome扩展程序](https://www.v2fy.com/p/042_edge/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a131b9833d20424ab93cb258ab8542e8.gif)
 
 Edge可以安装绝大多数Chrome商店中的扩展, 但Chrome中的谷歌开发App程序, 类似[Secure Shell App](https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo), 目前是无法安装的, 新版Edge使用了Chrome的Chromium内核, 可以兼容安装Chrome生态中的各种应用程序,为Edge未来的发展带来了无限可能~
 
 
-#### [041《Copy All Urls》优雅地保存-开启多个标签页](https://zhaoolee.com/ChromeAppHeroes/page/041_copy_all_urls.html)
+#### [041《Copy All Urls》优雅地保存-开启多个标签页](https://www.v2fy.com/p/041_copy_all_urls/)
 
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/eac219ff189a4295bbf88974b045ba5b.gif)
@@ -370,7 +370,7 @@ Edge可以安装绝大多数Chrome商店中的扩展, 但Chrome中的谷歌开�
 Copy All Urls属于小而美地工具，如果你每天都需要查看几个固定的网页, Copy All Urls能帮你省很多时间~
 
 
-#### [040《GitZip for github》从Github批量下载表情包](https://zhaoolee.com/ChromeAppHeroes/page/040_gitzip_for_github.html)
+#### [040《GitZip for github》从Github批量下载表情包](https://www.v2fy.com/p/040_gitzip_for_github/)
 
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/f5b923dc4a21437484e90859342ed366.gif)
@@ -379,7 +379,7 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 > 以前介绍过Github快速下载单个文件的扩展工具[《Enhanced Github》](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html) , 《Enhanced Github》 和 《GitZip for github》 结合到一起, 就可以让我们快速下载, github任意仓库任意文件夹的优质资源了~
 
 
-#### [039《Simplify Gmail》让网页版Gmail更清爽](https://zhaoolee.com/ChromeAppHeroes/page/039_simplify_gmail.html)
+#### [039《Simplify Gmail》让网页版Gmail更清爽](hhttps://www.v2fy.com/p/039_simplify_gmail/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c9b1aa8201c24208b0e0aedfcdbdc992.gif)
 
@@ -388,20 +388,20 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 
 
 
-#### [038《Alexa Traffic Rank》一键查看网站全球排名](https://zhaoolee.com/ChromeAppHeroes/page/038_alexa_traffic_rank.html)
+#### [038《Alexa Traffic Rank》一键查看网站全球排名](https://www.v2fy.com/p/038_alexa_traffic_rank/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/fcefd45a5cc74e4c824f567535f79c5c.webp)
 
 > Alexa给出的网站排名, 是目前公认最具参考价值的排名, 打开一个新站点, 查一下新站点的Alexa排名, 以及与它类似的站点, 让我们很快对新站点的定位, 有一个大致的认知~
 
-#### [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](https://zhaoolee.com/ChromeAppHeroes/page/037_saladict.html)
+#### [037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译](https://www.v2fy.com/p/037_saladict/)
 
 >![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/07322f3c4b13484a8a048194558cec5c.gif)
 
 > 沙拉查词(Saladict)是一款非常优秀的查词扩展, 上文只是提及了它最常用的一些功能, 沙拉查词的后台管理选项非常丰富, 感兴趣的小伙伴可以慢慢探索
 
 
-#### [036《Screen Shader》把屏幕调成暖色，你的眼睛会感谢你🙏](https://zhaoolee.com/ChromeAppHeroes/page/036_screen_shader.html)
+#### [036《Screen Shader》把屏幕调成暖色，你的眼睛会感谢你🙏](https://www.v2fy.com/p/036_screen_shader/)
 
 >![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/3a94a283267047c39114694706de7293.gif)
 
