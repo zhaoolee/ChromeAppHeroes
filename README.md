@@ -1,6 +1,3 @@
-[English](https://zhaoolee.com/ChromeAppHeroes/readme-en.html) | [中文简体](https://zhaoolee.gitbooks.io/chrome/content/)
-
-
 ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/9ac21b8aea054eb48fc404fd429638bf.jpeg)
 
 
@@ -18,6 +15,18 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 相关项目推广: [用Chrome学编程](https://github.com/zhaoolee/ProgrammingWithChrome)
 **《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力! https://github.com/zhaoolee/ProgrammingWithChrome**
+
+----
+
+## 项目新增CN服务器
+
+本项目使用了大量Gif图片, 而且github在国内的访问速度非常不稳定,导致文章页面打开稍慢, 为了解决大陆用户访问项目速度慢的问题, zhaoolee在阿里云买了一台5M的VPS, 已将所有文章链接替换到v2fy.com域名下, 访问速度会非常快, 而且图片支持懒加载, 可以节省下载gif图的流量,入口为[https://www.v2fy.com/ChromeAppHeroes/](https://www.v2fy.com/ChromeAppHeroes/)
+
+
+---
+
+海外用户:[备用入口](https://zhaoolee.com/ChromeAppHeroes/)依然保留
+
 
 ----
 
@@ -132,25 +141,25 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 * [011 《whatruns》一键分析网站技术栈](https://www.v2fy.com/p/011_whatruns/)
 
-* [010《speedtest》网络测速插件speedtest](https://zhaoolee.com/ChromeAppHeroes/page/010_speedtest.html)
+* [010《speedtest》网络测速插件speedtest](https://www.v2fy.com/p/010_speedtest/)
 
-* [009《vimium》Chrome与vim双神器融合](https://zhaoolee.com/ChromeAppHeroes/page/009_vimium.html)
+* [009《vimium》Chrome与vim双神器融合](https://www.v2fy.com/p/009_vimium/)
 
-* [008《Chrome Cleaner Pro》为Chrome加速](https://zhaoolee.com/ChromeAppHeroes/page/008_chrome_cleaner_pro.html)
+* [008《Chrome Cleaner Pro》为Chrome加速](https://www.v2fy.com/p/008_chrome_cleaner_pro/)
 
-* [007《loom》 Chrome翻录网页视频神器](https://zhaoolee.com/ChromeAppHeroes/page/007_loom.html)
+* [007《loom》 Chrome翻录网页视频神器](https://www.v2fy.com/p/007_loom/)
 
-* [006《SimilarSites》 一键查找姊妹网站 SimilarSites](https://zhaoolee.com/ChromeAppHeroes/page/006_similarsites.html)
+* [006《SimilarSites》 一键查找姊妹网站 SimilarSites](https://www.v2fy.com/p/006_similarsites/)
 
-* [005《Video Speed Controller》 刷课（刷剧）神器！给网页视频加个速(最快可达16倍!)](https://zhaoolee.com/ChromeAppHeroes/page/005_video_speed_controller.html)
+* [005《Video Speed Controller》 刷课（刷剧）神器！给网页视频加个速(最快可达16倍!)](https://www.v2fy.com/p/005_video_speed_controller/)
 
-* [004《Tampermonkey》 油猴子! 给浏览器开个挂](https://zhaoolee.com/ChromeAppHeroes/page/004_tampermonkey.html)
+* [004《Tampermonkey》 油猴子! 给浏览器开个挂](https://www.v2fy.com/p/004_tampermonkey/)
 
-* [003《Secure Shell App》 Chrome中开启ssh一种什么体验](https://zhaoolee.com/ChromeAppHeroes/page/003_secure_shell_app.html)
+* [003《Secure Shell App》 Chrome中开启ssh一种什么体验](https://www.v2fy.com/p/003_secure_shell_app/)
 
-* [002《chrono》 让Chrome下载资源更容易](https://zhaoolee.com/ChromeAppHeroes/page/002_chrono.html)
+* [002《chrono》 让Chrome下载资源更容易](https://www.v2fy.com/p/002_chrono/)
 
-* [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.com/ChromeAppHeroes/page/001_markdown_here.html)
+* [001《markdown-here》 Markdown一键转换到"富文本格式"](https://www.v2fy.com/p/001_markdown_here/)
 
 
 ## 开源插件推广(作者自荐)
@@ -586,7 +595,7 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 > 如果你对当前浏览的网站非常感兴趣, 可以通过whatruns了解软件的技术栈, 比如看看这个名为facebook用了什么技术
 
 
-#### [010《speedtest》网络测速插件speedtest](https://zhaoolee.com/ChromeAppHeroes/page/010_speedtest.html)
+#### [010《speedtest》网络测速插件speedtest](https://www.v2fy.com/p/010_speedtest/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/9aa1e5323a6a4cbcb96304b33a5261c8.png)
 
@@ -594,47 +603,47 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 
 
 
-#### [009《vimium》Chrome与vim双神器融合](https://zhaoolee.com/ChromeAppHeroes/page/009_vimium.html)
+#### [009《vimium》Chrome与vim双神器融合](https://www.v2fy.com/p/009_vimium/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/7d6e9fadef3f48409c81a8c76d24e0cc.gif)
 
 > vimium可以让我们只使用键盘就可以浏览网页, 如果你第一次看到有人使用vimium, 它的操作方式绝对能让你感到惊艳~
 
 
-#### [008《Chrome Cleaner Pro》为Chrome加速](https://zhaoolee.com/ChromeAppHeroes/page/008_chrome_cleaner_pro.html)
+#### [008《Chrome Cleaner Pro》为Chrome加速](https://www.v2fy.com/p/008_chrome_cleaner_pro/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/30899ae22f644a9bb62eb8b24d75c884.png)
 
 > Chrome经过最近几年的发展, 强力的扩展越来越多, 离Chrome OS的目标也越来越近, 软件做大了就会有类似Windows的通病, 软件会变慢, 让Chrome变快的最简单方式就是清理垃圾, 而Chrome Cleaner Pro走的是一键清理的路子~
 
 
-#### [007《loom》 Chrome翻录网页视频神器](https://zhaoolee.com/ChromeAppHeroes/page/007_loom.html)
+#### [007《loom》 Chrome翻录网页视频神器](https://www.v2fy.com/p/007_loom/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/4058cf0008074c5f86b8eb1684e7a1a0.png)
 
 > Loom可以一键录制浏览器的单个标签页(盗版翻录视频的神器), 录制完成后自动生成在线网页,进行视频播放, 可以下载刚刚录制的视频, 也可以为刚刚生成的在线视频设置密码(盗版录屏加发布一条龙服务~)
 
-#### [006《SimilarSites》 一键查找姊妹网站 SimilarSites](https://zhaoolee.com/ChromeAppHeroes/page/006_similarsites.html)
+#### [006《SimilarSites》 一键查找姊妹网站 SimilarSites](https://www.v2fy.com/p/006_similarsites/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/26c6c604be1c41e88ebfe79c733173b0.png)
 
 > 当你浏览一个很棒的站点的时候, 或许你会想到, 和它"差不多"的站点有哪些, 尤其是针对一些资源站点, 这个站点没有, 而它同类的站点"往往有"! SimilarSites, 它的作用只有一个, 发现同类站点!
 
 
-#### [005《Video Speed Controller》 刷课（刷剧）神器！给网页视频加个速(最快可达16倍!)](https://zhaoolee.com/ChromeAppHeroes/page/005_video_speed_controller.html)
+#### [005《Video Speed Controller》 刷课（刷剧）神器！给网页视频加个速(最快可达16倍!)](https://www.v2fy.com/p/005_video_speed_controller/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/083c51a1c32a4ad6931646bb005fd5a3.png)
 
 > 刷一些没营养视频的时候, 我们会有倍速播放视频的需求, 而网站的在线播放器一般只提供不高于4倍的播放速度, 而Video Speed Controller可以将视频播放速度提高到16倍速~
 
 
-#### [004《Tampermonkey》 油猴子! 给浏览器开个挂](https://zhaoolee.com/ChromeAppHeroes/page/004_tampermonkey.html)
+#### [004《Tampermonkey》 油猴子! 给浏览器开个挂](hhttps://www.v2fy.com/p/004_tampermonkey/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e87601eb459549b3b8e33994fc3fdfb4.png)
 
 > 油猴子必备成为Chrome的第二应用商店, 有了油猴子, 你可以免费查看VIP视频, 清除各种网页广告, 在豆瓣影评页面显示电影资源的下载地址~
 
-#### [003《Secure Shell App》 Chrome中开启ssh一种什么体验](https://zhaoolee.com/ChromeAppHeroes/page/003_secure_shell_app.html)
+#### [003《Secure Shell App》 Chrome中开启ssh一种什么体验](https://www.v2fy.com/p/003_secure_shell_app/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/87b66b4cbd12426bbab65a3443f1f1ec.png)
 
@@ -642,14 +651,14 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 
 
 
-#### [002 《chrono》 让Chrome下载资源更容易](https://zhaoolee.com/ChromeAppHeroes/page/002_chrono.html)
+#### [002 《chrono》 让Chrome下载资源更容易](https://www.v2fy.com/p/002_chrono/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/b574ee1798984ff49396837b620f51ef.png)
 
 > chrono可以非常方便的嗅探识别网页中的资源, 然后一键下载所有资源(收图喽!)
 
 
-#### [001《markdown-here》 Markdown一键转换到"富文本格式"](https://zhaoolee.com/ChromeAppHeroes/page/001_markdown_here.html)
+#### [001《markdown-here》 Markdown一键转换到"富文本格式"](https://www.v2fy.com/p/001_markdown_here/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/fc5de2eb22184a138c618728cfb40ede.gif)
 
