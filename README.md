@@ -81,17 +81,17 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [036《Screen Shader》把网页调成暖色，你的眼睛会感谢你🙏](https://www.v2fy.com/p/036_screen_shader/)
 
-- [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](https://zhaoolee.com/ChromeAppHeroes/page/035_print_friendly_and_pdf.html)
+- [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](https://www.v2fy.com/p/035_print_friendly_and_pdf/)
 
-- [034《Astro Bot》用新标签页刷编程题](https://zhaoolee.com/ChromeAppHeroes/page/034_astro_bot.html)
+- [034《Astro Bot》用新标签页刷编程题](https://www.v2fy.com/p/034_astro_bot/)
 
-- [033《一叶》在任意网页开启实时弹幕 聊天窗口 留言板](https://zhaoolee.com/ChromeAppHeroes/page/033_yi_ye.html)
+- [033《一叶》在任意网页开启实时弹幕 聊天窗口 留言板](https://www.v2fy.com/p/033_yi_ye/)
 
-- [032《Smallpdf》简单好用的线上PDF工具](https://zhaoolee.com/ChromeAppHeroes/page/032_smallpdf.html)
+- [032《Smallpdf》简单好用的线上PDF工具](https://www.v2fy.com/p/032_smallpdf/)
 
-- [031《OneTab》把多个Tab转换为一个列表](https://zhaoolee.com/ChromeAppHeroes/page/031_onetab.html)
+- [031《OneTab》把多个Tab转换为一个列表](https://www.v2fy.com/p/031_onetab/)
 
-- [030《掘金》相信优质技术内容的力量](https://zhaoolee.com/ChromeAppHeroes/page/030_jue_jin.html)
+- [030《掘金》相信优质技术内容的力量](https://www.v2fy.com/p/030_jue_jin/)
 
 - [029 《SimpRead》为任意网页开启阅读模式](https://zhaoolee.com/ChromeAppHeroes/page/029_simread.html)
 
@@ -408,42 +408,42 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 > 对于长时间看电脑的办公人员, 可以尝试吧屏幕调成暖色, 开始可能会不习惯, 但后面会感觉眼睛会舒服很多, 你的眼睛也会感谢你的~
 
 
-#### [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](https://zhaoolee.com/ChromeAppHeroes/page/035_print_friendly_and_pdf.html)
+#### [035《Print Friendly & PDF》让你拥有最佳的打印阅读体验](https://www.v2fy.com/p/035_print_friendly_and_pdf/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a71d2b280298482ba2408482c1537bf9.gif)
 
 >《Print Friendly & PDF》是一款文件打印chrome插件，会在打印之前删除垃圾广告，导航和无用浮窗从而实现页面优化，让你拥有最佳的打印阅读体验, 如果你经常需要打印网页, 可以通过《Print Friendly & PDF》让你的打印工作变得省时省力~
 
 
-#### [034《Astro Bot》用新标签页刷编程题](https://zhaoolee.com/ChromeAppHeroes/page/034_astro_bot.html)
+#### [034《Astro Bot》用新标签页刷编程题](https://www.v2fy.com/p/034_astro_bot/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/671d39ca714f437fa1d287bfb988724e.gif)
 
 > Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新闻
 
 
-#### [033《一叶》在任意网页开启实时弹幕 聊天窗口 留言板](https://zhaoolee.com/ChromeAppHeroes/page/033_yi_ye.html)
+#### [033《一叶》在任意网页开启实时弹幕 聊天窗口 留言板](https://www.v2fy.com/p/033_yi_ye/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/6a328e8eb9984f5abea5816c681b8e4e.gif)
 
 >一叶是一款很有想法的产品,但目前用户量还是很少, 对此,我个人也有一些想法,如果官方可以效仿pokemongo这类寻宝游戏,在各大网站的主页对应的留言板内,埋下一些有意思的彩蛋,让用户去寻宝,或许会有利于产品的推广~
 
 
-#### [032《Smallpdf》简单好用的线上PDF工具](https://zhaoolee.com/ChromeAppHeroes/page/032_smallpdf.html)
+#### [032《Smallpdf》简单好用的线上PDF工具](https://www.v2fy.com/p/032_smallpdf/)
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/2c00d25291db4750963c60e78344d4cc.gif)
 
 
 > Smallpdf是一个非常好用的PDF工具,可以收藏起来,作为日常办公的工具, Smallpdf可以进行多份pdf在线合并, pdf在线编辑, 如果你是一个经常和PDF打交道的人, 可不要错过它~
 
 
-#### [031《OneTab》把多个Tab转换为一个列表](https://zhaoolee.com/ChromeAppHeroes/page/031_onetab.htmll)
+#### [031《OneTab》把多个Tab转换为一个列表](https://www.v2fy.com/p/031_onetab/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/93781d48870742e08dc68fa17e79169e.png)
 
 
 > 当你发现自己有太多的标签页时,单击OneTab图标,所有标签页会转换成一个列表,当你需要再次访问这些标签页时,点击OneTab图标唤出列表,点击列表恢复标签页
 
-#### [030《掘金》相信优质技术内容的力量](https://zhaoolee.com/ChromeAppHeroes/page/030_jue_jin.html)
+#### [030《掘金》相信优质技术内容的力量](https://www.v2fy.com/p/030_jue_jin/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/fcca47d65f2542808281c17ec379d7d9.gif)
 
