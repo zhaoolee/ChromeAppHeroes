@@ -50,7 +50,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [054《二箱 以图搜图》让你在搜图方面随心所欲（为所欲为）](https://www.v2fy.com/p/054_er_xiang_yi_tu_sou_tu/)
 
-- [053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效](hhttps://www.v2fy.com/p/053_shu_biao_dian_ji_te_xiao/)
+- [053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效](https://www.v2fy.com/p/053_shu_biao_dian_ji_te_xiao/)
 
 - [052《Site Palette》自动提取网站配色](https://www.v2fy.com/p/052_site_palette/)
 
@@ -79,7 +79,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [040《GitZip for github》从Github批量下载表情包](https://www.v2fy.com/p/040_gitzip_for_github/)
 
-- [039《Simplify Gmail》让网页版Gmail更清爽](hhttps://www.v2fy.com/p/039_simplify_gmail/)
+- [039《Simplify Gmail》让网页版Gmail更清爽](https://www.v2fy.com/p/039_simplify_gmail/)
 
 - [038《Alexa Traffic Rank》一键查看网站全球排名](https://www.v2fy.com/p/038_alexa_traffic_rank/)
 
@@ -277,7 +277,7 @@ Keylines的实现原理非常简单(为网页dom元素添加了outline属性), �
 《二箱 以图搜图》是一款简单实用的搜图小工具，如果你是一名设计师, 可以帮你快速查找他人设计作品中所用的素材来源, 提升你的工作效率~
 
 
-#### [053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效](hhttps://www.v2fy.com/p/053_shu_biao_dian_ji_te_xiao/)
+#### [053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效](https://www.v2fy.com/p/053_shu_biao_dian_ji_te_xiao/)
 
 
 ![](https://user-images.githubusercontent.com/15868458/61600040-04921b00-ac61-11e9-8446-533752d71de1.gif)
@@ -385,7 +385,7 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 > 以前介绍过Github快速下载单个文件的扩展工具[《Enhanced Github》](https://zhaoolee.gitbooks.io/chrome/content/018enhanced-github300b-cong-201c-bing-gui-201d-dao-201c-bing-gun-er-201d2c-xia-zai-github-dan-ge-wen-jian.html) , 《Enhanced Github》 和 《GitZip for github》 结合到一起, 就可以让我们快速下载, github任意仓库任意文件夹的优质资源了~
 
 
-#### [039《Simplify Gmail》让网页版Gmail更清爽](hhttps://www.v2fy.com/p/039_simplify_gmail/)
+#### [039《Simplify Gmail》让网页版Gmail更清爽](https://www.v2fy.com/p/039_simplify_gmail/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c9b1aa8201c24208b0e0aedfcdbdc992.gif)
 
@@ -634,7 +634,7 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 > 刷一些没营养视频的时候, 我们会有倍速播放视频的需求, 而网站的在线播放器一般只提供不高于4倍的播放速度, 而Video Speed Controller可以将视频播放速度提高到16倍速~
 
 
-#### [004《Tampermonkey》 油猴子! 给浏览器开个挂](hhttps://www.v2fy.com/p/004_tampermonkey/)
+#### [004《Tampermonkey》 油猴子! 给浏览器开个挂](https://www.v2fy.com/p/004_tampermonkey/)
 
 > ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e87601eb459549b3b8e33994fc3fdfb4.png)
 
