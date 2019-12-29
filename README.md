@@ -10,6 +10,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![谷粒VI设计.png](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/5ecd2856f287477c89c20efb7de11a9b.png)
 
+## 本项目B站宣传视频地址：
+https://www.bilibili.com/video/av81163488
+
+![](https://user-images.githubusercontent.com/15868458/71558263-138cbd00-2a8c-11ea-91c6-0acecaea38c2.png)
+
 **感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo | [谷粒文化(老罗巴扎嘿语录)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)**
 
 
