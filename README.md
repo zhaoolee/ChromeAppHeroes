@@ -23,6 +23,14 @@ https://www.bilibili.com/video/av81163488
 
 ----
 
+## 同步本项目内容的公众号
+
+![](https://user-images.githubusercontent.com/15868458/71708607-94054200-2e2d-11ea-88cf-5b3d61153f38.jpeg)
+
+
+公众号 `jikeweikan` 由项目作者zhaoolee运营, 在2020年会同步更新ChromeAppHeroes (Chrome插件英雄榜) ,  也会放一些zhaoolee自认为有趣的内容, 欢迎关注~
+
+
 ## 项目新增CN服务器
 
 本项目使用了大量Gif图片, 而且github在国内的访问速度非常不稳定,导致文章页面打开稍慢, 为了解决大陆用户访问项目速度慢的问题, zhaoolee在阿里云买了一台5M的VPS, 已将所有文章链接替换到v2fy.com域名下, 访问速度会非常快, 而且图片支持懒加载, 可以节省下载gif图的流量,入口为[https://www.v2fy.com/ChromeAppHeroes/](https://www.v2fy.com/ChromeAppHeroes/)
