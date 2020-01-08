@@ -25,10 +25,10 @@ https://www.bilibili.com/video/av81163488
 
 ## 同步本项目内容的公众号
 
-![](https://user-images.githubusercontent.com/15868458/71708607-94054200-2e2d-11ea-88cf-5b3d61153f38.jpeg)
+![](https://user-images.githubusercontent.com/15868458/71973717-aaa30300-324a-11ea-8677-9260ca2c4b1f.png)
 
 
-公众号 `jikeweikan` 由项目作者zhaoolee运营, 在2020年会同步更新ChromeAppHeroes (Chrome插件英雄榜) ,  也会放一些zhaoolee自认为有趣的内容, 欢迎关注~
+公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新ChromeAppHeroes (Chrome插件英雄榜) ,  也会放一些zhaoolee自认为有趣的内容, 欢迎关注~
 
 
 ## 项目新增CN服务器
