@@ -46,6 +46,7 @@ https://www.bilibili.com/video/av81163488
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [062《彩云小译》一键实现网页中英文对照的翻译工具](https://www.v2fy.com/p/062_caiyun/)
 
 - [061《ImageAssistant》图片助手批量图片下载器](https://www.v2fy.com/p/061-image-assistant/)
 
@@ -226,6 +227,13 @@ https://www.bilibili.com/video/av81163488
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [062《彩云小译》一键实现网页中英文对照的翻译工具](https://www.v2fy.com/p/062_caiyun/)
+
+
+![](https://user-images.githubusercontent.com/15868458/72213783-fc3fdc00-352f-11ea-9bed-426ef19868b8.gif)
+
+彩云小译扩展程序默认的 中英文对照 让人眼前一亮, 而且官网提供了免费的api(每月100万字)
 
 
 #### [061《ImageAssistant》图片助手批量图片下载器](https://www.v2fy.com/p/061-image-assistant/) 
