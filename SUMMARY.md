@@ -1,5 +1,6 @@
 # Summary
 * [编者序](README.md)
+* [062《彩云小译》一键实现网页中英文对照的翻译工具](/page/062_caiyun.md)
 * [061《ImageAssistant》图片助手批量图片下载器](/page/061-image-assistant.md)
 * [060《Tabagotchi》为减缓全球变暖做出贡献](/page/060_tabagotchi.md)
 * [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](/page/059_page_speed_insight_and_check_list.md)
