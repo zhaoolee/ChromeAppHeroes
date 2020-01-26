@@ -1,4 +1,4 @@
-Picviewer CE是一款网页看图工具,与普通的浏览器扩展程序不同, Picviewer CE是Tampermonkey的脚本，通过文末下载地址安装Picviewer CE后，只需将鼠标浮于网页图片上方,即可触发工具菜单
+Picviewer CE+是一款网页看图工具,与普通的浏览器扩展程序不同, Picviewer CE+是Tampermonkey的脚本，通过文末下载地址安装Picviewer CE+后，只需将鼠标浮于网页图片上方,即可触发工具菜单
 
 #### 可以查看图片原始图, 并进行旋转缩放
 ![001](https://user-images.githubusercontent.com/15868458/72723103-d911ce00-3bba-11ea-9541-0be746977dbc.gif)
@@ -40,11 +40,13 @@ Picviewer CE是一款网页看图工具,与普通的浏览器扩展程序不同,
 上图gif原图地址: https://user-images.githubusercontent.com/15868458/73131022-b78f6700-403e-11ea-8cb6-87a87d510632.gif
 
 
-## Picviewer CE下载地址:
+## Picviewer CE+下载地址:
 
 https://greasyfork.org/zh-CN/scripts/24204-picviewer-ce
 
 
 ## 小结
 
-Picviewer CE是一款优秀的看图工具,但如果图片被开发者加了遮罩层,则无法使用Picviewer CE,Picviewer CE拥有丰富的配置项, 但大多用不到,所以本文只选取最常用的功能进行了演示
+Picviewer CE+是一款优秀的看图工具,可以对图片进行获取原图, 缩放,旋转,在线编辑, 批量查看, 批量下载等常见操作
+
+但如果图片被开发者加了遮罩层,则无法使用Picviewer CE+

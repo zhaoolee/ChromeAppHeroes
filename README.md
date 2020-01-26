@@ -25,10 +25,10 @@ https://www.bilibili.com/video/av81163488
 
 ## 同步本项目内容的公众号
 
-![](https://user-images.githubusercontent.com/15868458/71973717-aaa30300-324a-11ea-8677-9260ca2c4b1f.png)
+![0加1](https://user-images.githubusercontent.com/15868458/73131279-2b337300-4043-11ea-94c7-d15a980a4532.gif)
 
 
-公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新ChromeAppHeroes (Chrome插件英雄榜) ,  也会放一些zhaoolee自认为有趣的内容, 欢迎关注~
+公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新ChromeAppHeroes (Chrome插件英雄榜) , 欢迎关注~
 
 
 ## 项目新增CN服务器
@@ -45,6 +45,8 @@ https://www.bilibili.com/video/av81163488
 
 
 ## 目录(点击以下标题, 可以进入文章页~)
+
+- [063《Picviewer CE+》功能丰富的网页看图神器](https://www.v2fy.com/p/picviewer-ce/)
 
 - [062《彩云小译》一键实现网页中英文对照的翻译工具](https://www.v2fy.com/p/062_caiyun/)
 
@@ -227,6 +229,14 @@ https://www.bilibili.com/video/av81163488
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [063《Picviewer CE+》功能丰富的网页看图神器](https://www.v2fy.com/p/picviewer-ce/)
+
+![](https://user-images.githubusercontent.com/15868458/72723103-d911ce00-3bba-11ea-9541-0be746977dbc.gif)
+
+
+Picviewer CE+是一款优秀的看图工具,可以对图片进行获取原图, 缩放,旋转,在线编辑, 批量查看, 批量下载等常见操作
+
 
 #### [062《彩云小译》一键实现网页中英文对照的翻译工具](https://www.v2fy.com/p/062_caiyun/)
 
