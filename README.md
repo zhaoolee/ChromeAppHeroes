@@ -46,7 +46,7 @@ https://www.bilibili.com/video/av81163488
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
-- [063《Picviewer CE+》功能丰富的网页看图神器](https://www.v2fy.com/p/picviewer-ce/)
+- [063《Picviewer CE+》功能丰富的网页看图神器](https://www.v2fy.com/p/063_picviewer-ce/)
 
 - [062《彩云小译》一键实现网页中英文对照的翻译工具](https://www.v2fy.com/p/062_caiyun/)
 
@@ -230,7 +230,7 @@ https://www.bilibili.com/video/av81163488
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
-#### [063《Picviewer CE+》功能丰富的网页看图神器](https://www.v2fy.com/p/picviewer-ce/)
+#### [063《Picviewer CE+》功能丰富的网页看图神器](https://www.v2fy.com/p/063_picviewer-ce/)
 
 ![](https://user-images.githubusercontent.com/15868458/72723103-d911ce00-3bba-11ea-9541-0be746977dbc.gif)
 
