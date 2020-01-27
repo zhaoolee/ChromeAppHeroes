@@ -31,6 +31,10 @@ Site Palette是一款自动提取网站配色的扩展程序,有助于开发者�
 ![](https://user-images.githubusercontent.com/15868458/61169519-523bc300-a591-11e9-94cb-57c685eba86a.gif)
 
 
+## 扩展程序下载地址
+
+https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh
+
 ## 小结:
 
 Site Palette使用简单, 功能实用, 没有广告, 是典型的小而美的扩展程序, 这类扩展程序越多, Chrome的用户体验也就越好~
