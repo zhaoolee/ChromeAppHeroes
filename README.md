@@ -1,15 +1,3 @@
-## 项目动态: 新增离线安装包
-
-
-海外用户: 在项目根目录文件夹[backup](https://github.com/zhaoolee/ChromeAppHeroes/tree/master/backup) 内可以找到ChromeAppHeroes所有离线安装包
-
-
-
-国内用户: 在公众号 `0加1` 后台回复 `ChromeAppHeroes离线安装包` 即可获取
-
----
-
-
 ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/9ac21b8aea054eb48fc404fd429638bf.jpeg)
 
 
