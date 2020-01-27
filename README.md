@@ -1,6 +1,11 @@
 ## 项目动态: 新增离线安装包
 
-在文件夹[backup](https://github.com/zhaoolee/ChromeAppHeroes/tree/master/backup) 内可以找到ChromeAppHeroes所有离线安装包
+
+海外用户: 在项目根目录文件夹[backup](https://github.com/zhaoolee/ChromeAppHeroes/tree/master/backup) 内可以找到ChromeAppHeroes所有离线安装包
+
+
+
+国内用户: 在公众号 `0加1` 后台回复 `ChromeAppHeroes离线安装包` 即可获取
 
 ---
 
@@ -30,7 +35,12 @@ https://www.bilibili.com/video/av81163488
 
 ----
 
-## 同步本项目内容的公众号
+## 如何下载离线安装包
+
+海外用户: 在文件夹[backup](https://github.com/zhaoolee/ChromeAppHeroes/tree/master/backup) 内可以找到ChromeAppHeroes所有离线安装包
+
+
+国内用户: 在公众号 `0加1` 后台回复`ChromeAppHeroes离线安装包` 即可获取
 
 ![0加1](https://user-images.githubusercontent.com/15868458/73131279-2b337300-4043-11ea-94c7-d15a980a4532.gif)
 
@@ -38,14 +48,15 @@ https://www.bilibili.com/video/av81163488
 公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新ChromeAppHeroes (Chrome插件英雄榜) , 欢迎关注~
 
 
+
 ## 项目新增CN服务器
 
 本项目使用了大量Gif图片, 而且github在国内的访问速度非常不稳定,导致文章页面打开稍慢, 为了解决大陆用户访问项目速度慢的问题, zhaoolee在阿里云买了一台5M的VPS, 已将所有文章链接替换到v2fy.com域名下, 访问速度会非常快, 而且图片支持懒加载, 可以节省下载gif图的流量,入口为[https://www.v2fy.com/ChromeAppHeroes/](https://www.v2fy.com/ChromeAppHeroes/)
 
 
-
-
 海外用户:[备用入口](https://zhaoolee.com/ChromeAppHeroes/)依然保留
+
+
 
 
 ----
