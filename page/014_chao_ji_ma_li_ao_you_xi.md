@@ -35,6 +35,11 @@ https://chrome.google.com/webstore/detail/super-mario-game/pefcballkadhkhjialafh
 
 ---
 
+
+插件如果无法正常运行, 可以访问网页版
+
+https://fflashgames.com/game.php?id=22616
+
 ## 写在最后(我需要你的支持)
 - 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 
