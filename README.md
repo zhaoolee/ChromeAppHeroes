@@ -18,8 +18,8 @@ https://www.bilibili.com/video/av81163488
 **感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo | [谷粒文化(老罗巴扎嘿语录)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)**
 
 
-## 相关项目推广: [用Chrome学编程](https://github.com/zhaoolee/ProgrammingWithChrome)
-**《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力! https://github.com/zhaoolee/ProgrammingWithChrome**
+## 兄弟项目推广: [在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook)
+**🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~ [https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)**
 
 ----
 
@@ -43,9 +43,6 @@ https://www.bilibili.com/video/av81163488
 
 
 海外用户:[备用入口](https://zhaoolee.com/ChromeAppHeroes/)依然保留
-
-
-
 
 ----
 
