@@ -51,6 +51,8 @@ https://www.bilibili.com/video/av81163488
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [064《浮图秀》优雅查看B站视频封面](https://www.v2fy.com/064_photoshow/)
+
 - [063《Picviewer CE+》功能丰富的网页看图神器](https://www.v2fy.com/p/063_picviewer-ce/)
 
 - [062《彩云小译》一键实现网页中英文对照的翻译工具](https://www.v2fy.com/p/062_caiyun/)
@@ -234,6 +236,13 @@ https://www.bilibili.com/video/av81163488
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+#### [064《浮图秀》优雅查看B站视频封面](https://www.v2fy.com/064_photoshow/)
+
+
+![](https://v2fy.com/asset/064-photoshow/photoshop-bilibili.gif)
+
 
 #### [063《Picviewer CE+》功能丰富的网页看图神器](https://www.v2fy.com/p/063_picviewer-ce/)
 
