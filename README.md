@@ -30,7 +30,7 @@ https://www.bilibili.com/video/av81163488
 
 国内用户: 在公众号 `0加1` 后台回复`ChromeAppHeroes离线安装包` 即可获取
 
-![0加1](https://v2fy.com/asset/README/73131279-2b337300-4043-11ea-94c7-d15a980a4532.gif)
+![0加1](https://v2fy.com/asset/README/tom.gif)
 
 
 公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新ChromeAppHeroes (Chrome插件英雄榜) , 欢迎关注~
