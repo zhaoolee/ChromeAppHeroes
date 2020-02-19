@@ -42,9 +42,9 @@ https://www.bilibili.com/video/av81163488
 本项目使用了大量Gif图片, 而且github在国内的访问速度非常不稳定,导致文章页面打开稍慢, 为了解决大陆用户访问项目速度慢的问题, zhaoolee在阿里云买了一台5M的VPS, 已将所有文章链接替换到v2fy.com域名下, 访问速度会非常快, 而且图片支持懒加载, 可以节省下载gif图的流量,入口为[https://www.v2fy.com/ChromeAppHeroes/](https://www.v2fy.com/ChromeAppHeroes/)
 
 
-海外用户:[备用入口](https://zhaoolee.com/ChromeAppHeroes/)依然保留
+**海外用户**:[备用入口](https://zhaoolee.com/ChromeAppHeroes/)依然保留
 
-上网工具推广:  如果你想获得稳定高速的VPN体验, zhaoolee推荐一家小众的VPN供应商GLaDOS, 全程vmess加密, 看Youtube,  1080P不卡,注册登录后, 提供iOS端美区APP的下载账号, [点击链接](http://bit.ly/2SFzVcg]) 可以获得一天的高速VPN体验,  [http://bit.ly/2SFzVcg](http://bit.ly/2SFzVcg])
+**上网工具推广**:  如果你想获得稳定高速的VPN体验, zhaoolee推荐一家小众的VPN供应商GLaDOS, 全程vmess加密,看Youtube, 1080P不卡,注册登录后, 提供iOS端美区APP的下载账号, [点击链接](http://bit.ly/2SFzVcg]) 可以获得一天的高速VPN体验,  [http://bit.ly/2SFzVcg](http://bit.ly/2SFzVcg])
 
 ----
 
