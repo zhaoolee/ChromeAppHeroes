@@ -44,8 +44,7 @@ https://www.bilibili.com/video/av81163488
 
 **海外用户**:[备用入口](https://zhaoolee.com/ChromeAppHeroes/)依然保留
 
-**付费VPN科学上网工具推广**: 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(vmess加密)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](http://bit.ly/2SFzVcg]) 可以获得的高速VPN体验,  [http://bit.ly/2SFzVcg](http://bit.ly/2SFzVcg])  GLaDOS更多介绍: https://github.com/glados-network/GLaDOS
-
+**付费VPN科学上网工具推广**: 通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(vmess加密)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](http://bit.ly/2SFzVcg) 可以获得的高速VPN体验,  [http://bit.ly/2SFzVcg](http://bit.ly/2SFzVcg])  GLaDOS更多介绍: https://github.com/glados-network/GLaDOS
 ----
 
 
