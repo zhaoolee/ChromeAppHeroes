@@ -44,10 +44,9 @@ https://www.bilibili.com/video/av81163488
 
 **海外用户**:[备用入口](https://zhaoolee.com/ChromeAppHeroes/)依然保留
 
-**上网工具推广**:  如果你想获得稳定高速的VPN体验, zhaoolee推荐一家小众的VPN供应商GLaDOS, 全程vmess加密,看Youtube, 1080P不卡,注册登录后, 提供iOS端美区APP的下载账号, [点击链接](http://bit.ly/2SFzVcg]) 可以获得一天的高速VPN体验,  [http://bit.ly/2SFzVcg](http://bit.ly/2SFzVcg])
+**VPN上网工具推广**:如果你想获得稳定高速的VPN体验,zhaoolee推荐一家小众的VPN供应商GLaDOS,全程vmess加密,看Youtube1080P不卡,注册登录后, 提供iOS端美区APP的下载账号, [点击链接](http://bit.ly/2SFzVcg]) 可以获得一天的高速VPN体验,  [http://bit.ly/2SFzVcg](http://bit.ly/2SFzVcg])
 
 ----
-
 
 
 
