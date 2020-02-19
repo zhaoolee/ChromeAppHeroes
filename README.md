@@ -45,7 +45,7 @@ https://www.bilibili.com/video/av81163488
 **海外用户**:[备用入口](https://zhaoolee.com/ChromeAppHeroes/)依然保留
 
 
-**付费VPN科学上网工具推广**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess加密)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](http://bit.ly/2SFzVcg) 可以获得的高速VPN体验,  [http://bit.ly/2SFzVcg](http://bit.ly/2SFzVcg])  GLaDOS更多介绍: https://github.com/glados-network/GLaDOS
+**付费VPN科学上网工具推广**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.space/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验,[http://bit.ly/2SFzVcg](http://bit.ly/2SFzVcg]) , GLaDOS更多介绍: https://github.com/glados-network/GLaDOS
 
 
 ----
@@ -54,7 +54,7 @@ https://www.bilibili.com/video/av81163488
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
-- [064《浮图秀》优雅查看B站视频封面](https://www.v2fy.com/064_photoshow/)
+- [064《浮图秀》优雅查看B站视频封面](https://www.v2fy.com/p/064_photoshow/)
 
 - [063《Picviewer CE+》功能丰富的网页看图神器](https://www.v2fy.com/p/063_picviewer-ce/)
 
@@ -241,7 +241,7 @@ https://www.bilibili.com/video/av81163488
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
 
-#### [064《浮图秀》优雅查看B站视频封面](https://www.v2fy.com/064_photoshow/)
+#### [064《浮图秀》优雅查看B站视频封面](https://www.v2fy.com/p/064_photoshow/)
 
 
 ![](https://v2fy.com/asset/064-photoshow/photoshop-bilibili.gif)
