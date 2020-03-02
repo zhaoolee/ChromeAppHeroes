@@ -1,3 +1,6 @@
+---
+title: 049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹
+---
 我想把个人电脑内一些有趣的资源, 分享给同一内网下面的小伙伴
 
 > ![](https://v2fy.com/asset/049_web_server_for_chrome/7b2a5e082a6c39ffbbcaecb1f7e2ae4b.png)

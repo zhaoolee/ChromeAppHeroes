@@ -1,5 +1,8 @@
-[
-smallpdf.com](smallpdf.com)提供了简单好用的线上PDF工具
+---
+title: 032《Smallpdf》简单好用的线上PDF工具
+---
+
+[smallpdf.com](smallpdf.com)提供了简单好用的线上PDF工具
 
 > ![](https://v2fy.com/asset/032_smallpdf/0c04c896221f44c8b0b21cf07ea572a2.png)
 

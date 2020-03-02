@@ -1,3 +1,6 @@
+---
+title: 008《Chrome Cleaner Pro》为Chrome加速
+---
 - Chrome经过最近几年的发展, 强力的扩展越来越多, 离Chrome OS的目标也越来越近
 - 软件做大了就会有类似Windows的通病, 随着使用时间的增长, 软件会变得很慢
 - 按照Windows的理论, 重装系统是万能的! 按照**某数字软件管家**的理论, 一键清理是万能的! 而**Chrome Cleaner Pro**走的是**一键清理**的路子~

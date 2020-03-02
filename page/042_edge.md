@@ -1,3 +1,7 @@
+---
+title: 042 在Edge中安装Chrome扩展程序
+---
+
 - 最终效果图
 > ![](https://v2fy.com/asset/042_edge/301dc549a1104c34b520bbda8e9376dc.png)
 

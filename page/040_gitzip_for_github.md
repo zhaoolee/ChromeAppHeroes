@@ -1,3 +1,6 @@
+---
+title: 040《GitZip for github》从Github批量下载表情包
+---
 最近我创建了一个关于表情包的github仓库,里面收录了国人常用的表情包, 并可以在线预览表情包 [https://zhaoolee.github.io/ChineseBQB/](https://zhaoolee.github.io/ChineseBQB/)
 
 > ![](https://v2fy.com/asset/040_gitzip_for_github/2f7218d909cd4e038c3d1dff5717d9c8.png)

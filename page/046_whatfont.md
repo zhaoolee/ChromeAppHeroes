@@ -1,3 +1,6 @@
+---
+title: 046《WhatFont》字体爱好者优雅查看网页字体
+---
 有些网页的字体非常漂亮, 程序员可以打开开发者工具, 查看font相关的属性
 
 ![image](https://v2fy.com/asset/046_whatfont/59549337-8f129b00-8f8e-11e9-89b8-93e0e83c4805.png)

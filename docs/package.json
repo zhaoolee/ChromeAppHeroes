@@ -7,6 +7,7 @@
     "doc": "docs"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "download": "^7.1.0",
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-3-ba": "^0.9.0",
@@ -21,7 +22,8 @@
     "gitbook-plugin-sharing-plus": "^0.0.2",
     "gitbook-plugin-sitemap-general": "^0.1.1",
     "gitbook-plugin-splitter": "^0.0.8",
-    "gitbook-plugin-tbfed-pagefooter": "^0.0.1"
+    "gitbook-plugin-tbfed-pagefooter": "^0.0.1",
+    "showdown": "^1.9.1"
   },
   "devDependencies": {},
   "scripts": {

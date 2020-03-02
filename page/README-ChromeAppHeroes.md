@@ -71,7 +71,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [056《Search》为Chrome设置搜索引擎关键词](https://www.v2fy.com/p/056_search/)
 
-- [055《Keylines》为网页元素添加随机描边颜色](https://www.v2fy.com/p/055_keylines/) | [备用链接](https://zhaoolee.com/ChromeAppHeroes/page/055_keylines.html)
+- [055《Keylines》为网页元素添加随机描边颜色](https://www.v2fy.com/p/055_keylines/)
 
 - [054《二箱 以图搜图》让你在搜图方面随心所欲（为所欲为）](https://www.v2fy.com/p/054_er_xiang_yi_tu_sou_tu/)
 
@@ -242,6 +242,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 #### [064《浮图秀》优雅查看B站视频封面](https://www.v2fy.com/p/064_photoshow/)
 
+浮图秀(PhotoShow)是一款看大图工具, 只需将鼠标放到图片上方,即可查看到图片的最大尺寸
 
 ![](https://v2fy.com/asset/064-photoshow/photoshop-bilibili.gif)
 

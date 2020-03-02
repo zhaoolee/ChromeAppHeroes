@@ -1,3 +1,6 @@
+---
+title: 039《Simplify Gmail》让网页版Gmail更清爽
+---
 先放一张使用Simplify Gmail后, 清爽的gmail界面~
 
 > ![](https://v2fy.com/asset/039_simplify_gmail/de1ec2f005854671b75feb3f5e484b8d.png)

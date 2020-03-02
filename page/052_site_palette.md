@@ -1,3 +1,6 @@
+---
+title: 052《Site Palette》自动提取网站配色
+---
 Site Palette是一款自动提取网站配色的扩展程序,有助于开发者快速了解网站的"调(四声diao)性"
 
 ## Site Palette对于设计师非常友好

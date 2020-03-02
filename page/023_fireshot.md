@@ -1,3 +1,6 @@
+---
+title: 023《FireShot》一键滚动截屏整个网页
+---
 FireShot 是一款网页截屏工具，最出色的功能是可以截取整个网页
 以 Github 趋势榜页面为例 [https://github.com/trending](https://github.com/trending)：
 > ![](https://v2fy.com/asset/023_fireshot/d24fd009ec184a4a8a0366cbdad862b4.png)

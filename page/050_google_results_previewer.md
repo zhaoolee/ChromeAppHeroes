@@ -1,3 +1,6 @@
+---
+title: 050《Google Results Previewer》无点击查看谷歌搜索结果
+---
 ## Google Results Previewer可以在谷歌搜索结果页面直接预览网页, 也可以通过预览窗口直接打开页面
 
 ![](https://v2fy.com/asset/050_google_results_previewer/9219a092f0f4eb1c6f614c1667b316d1.gif)

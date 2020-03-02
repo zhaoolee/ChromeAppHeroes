@@ -1,3 +1,6 @@
+---
+title: 015 《XPath Helper》完成Bing每日壁纸的小爬虫
+---
 ## 安装XPath Helper
 - https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl
 

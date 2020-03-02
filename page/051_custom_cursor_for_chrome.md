@@ -1,3 +1,6 @@
+---
+title: 051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标
+---
 浏览器的鼠标光标样式, 可以通过css中的`cursor`属性进行定义, 也可以通过Chrome扩展程序《Custom Cursor for Chrome™》进行更换
 
 ## 最终效果如图所示

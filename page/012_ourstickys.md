@@ -1,3 +1,6 @@
+---
+title: 012《OurStickys》Chrome特色网页便签纸
+---
 便签在办公室随处可见,给网页贴便签,你玩过么？
 
 **OurStickys是chrome的一款特色网页便签纸**

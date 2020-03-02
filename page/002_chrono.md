@@ -1,3 +1,6 @@
+---
+title: 002《chrono》 让Chrome下载资源更容易
+---
 众所周知, chrome原生的下载功能并不好用, 以查看下载任务为例, 我们需要点击两次(点击右上角 **三个点** , 点击**下载内容**) 才能查看当前的任务
 
 As we all know, Chrome's native download feature is not easy to use, for example,if we want to view the current download task, we must to click twice(first, click `three dots`; second, click `Download content`)

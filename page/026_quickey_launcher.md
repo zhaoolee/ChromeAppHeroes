@@ -1,3 +1,6 @@
+---
+title: 026《Quickey Launcher》打开网站只需一键
+---
 Quickey Launcher以优雅的方式, 为任意网页绑定一个快捷键, 绑定完成后, 即可通过快捷键,打开网页
 
 > ![](https://v2fy.com/asset/026_quickey_launcher/2e81d510abc4493cb2f69aecb6939fb3.png)

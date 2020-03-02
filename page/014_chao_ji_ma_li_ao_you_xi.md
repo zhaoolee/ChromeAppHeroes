@@ -1,3 +1,6 @@
+---
+title: 014《超级马里奥游戏》Chrome变身小霸王
+---
 超级马里奥(超级玛丽)是任天堂经典游戏, 可以说是红白机时代的扛把子, 现在我们通过Chrome扩展程序玩超级玛丽了
 
 下载地址:https://chrome.google.com/webstore/detail/super-mario-game/pefcballkadhkhjialafhaoeidhnfefl

@@ -1,3 +1,6 @@
+---
+title: 044《谷歌访问助手》访问Chrome商店 Gmail 谷歌搜索
+---
 每当我向小伙伴分享超棒的Chrome插件(扩展程序)的时候, 总会有小伙伴问,从哪里下载Chrome浏览器以及Chrome扩展程序, 这篇文章就为这个问题做一个通用的回答
 
 - 你可以从谷歌中国下载Chrome浏览器, 下载地址: [https://www.google.cn/chrome/](https://www.google.cn/chrome/)

@@ -1,3 +1,6 @@
+---
+title: 027《Text》来自Chrome实验室的跨平台记事本
+---
 > ![](https://v2fy.com/asset/027_text/2bd23b3bf7d54d20b1dcfd987a0afadb.png)
 
 Text与普通的Chrome插件不同, 它是一个App, 安装Text后在Chrome地址栏键入`chrome://apps`即可找到(普通插件的查看方法是, 在地址栏键入`chrome://extensions/`)
