@@ -29,7 +29,7 @@
     "build": "gitbook install && gitbook build ./ ./docs",
     "pdf": "gitbook pdf ./ ./pdf",
     "bpush": "gitbook install && gitbook build ./ ./docs && git add . && git commit -m 'ok' && git push",
-    "push": "gitbook build ./ ./docs && git add . && git commit -m 'ok' && git push"
+    "push": "node push.js && gitbook build ./ ./docs && git add . && git commit -m 'ok' && git push"
   },
   "repository": {
     "type": "git",
