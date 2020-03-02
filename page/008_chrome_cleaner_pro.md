@@ -7,34 +7,34 @@ title: 008《Chrome Cleaner Pro》为Chrome加速
 
 > 让Chrome变快的最简单方式就是清理垃圾, 而Chrome的特色扩展中, 恰好有一款评分很高的插件**Chrome Cleaner Pro**, 顾名思义, 插件的主要作用是为Chrome清理垃圾, 让你的Chrome变得飞快
 
-> ![](https://v2fy.com/asset/008_chrome_cleaner_pro/282f321517e249968f349bda10a4f474.png)
+> ![](https://www.v2fy.com/asset/008_chrome_cleaner_pro/282f321517e249968f349bda10a4f474.png)
 
 - 官网: http://chromecleanerpro.com/
 
 > - 如果无法翻墙, 请查看免翻墙下载插件的方法[免代理下载安装纯净Chrome插件离线包](https://www.jianshu.com/p/02115e262c4f)
 
-> ![](https://v2fy.com/asset/008_chrome_cleaner_pro/bc1b9558c87a423abca709de742826e8.png)
+> ![](https://www.v2fy.com/asset/008_chrome_cleaner_pro/bc1b9558c87a423abca709de742826e8.png)
 
 ## 使用方法:
 - 单击扩展图标:
 
-> ![](https://v2fy.com/asset/008_chrome_cleaner_pro/c39d0727962f4d8cada9975c72c04820.png)
+> ![](https://www.v2fy.com/asset/008_chrome_cleaner_pro/c39d0727962f4d8cada9975c72c04820.png)
 
 - 单击`Clean Now` 清理浏览器
 
-> ![](https://v2fy.com/asset/008_chrome_cleaner_pro/cc1f88ce77b646f2adbf9d62403e56ef.png)
+> ![](https://www.v2fy.com/asset/008_chrome_cleaner_pro/cc1f88ce77b646f2adbf9d62403e56ef.png)
 
 - 确认清理
 
-> ![](https://v2fy.com/asset/008_chrome_cleaner_pro/fccdf819bfa043dfb312a80995c858ee.png)
+> ![](https://www.v2fy.com/asset/008_chrome_cleaner_pro/fccdf819bfa043dfb312a80995c858ee.png)
 
 - 清理完成后, 关闭网页即可
-> ![](https://v2fy.com/asset/008_chrome_cleaner_pro/6645ff81a6164660a5749a7a56ce8b1f.png)
+> ![](https://www.v2fy.com/asset/008_chrome_cleaner_pro/6645ff81a6164660a5749a7a56ce8b1f.png)
 
 ## 为啥不用Chrome原生的工具清理?
 > Chrome Cleaner Pro比原生的更方便使用, 而且选项更为丰富
-> ![](https://v2fy.com/asset/008_chrome_cleaner_pro/0cf16026ce9247c49eebd7877d663559.png)
-> ![](https://v2fy.com/asset/008_chrome_cleaner_pro/c8e36ef5fd1b47e19260eec271a5e608.png)
+> ![](https://www.v2fy.com/asset/008_chrome_cleaner_pro/0cf16026ce9247c49eebd7877d663559.png)
+> ![](https://www.v2fy.com/asset/008_chrome_cleaner_pro/c8e36ef5fd1b47e19260eec271a5e608.png)
 
 ## 小结
 从**Chrome Cleaner Pro**的诞生, 可以感受到Chrome OS已经发展到了一定的程度, 为浏览器做垃圾清理就和**某数字软件管家**为windows做一键清理的思路很像, 区别是, **Chrome Cleaner Pro**不像**某数字软件管家**那样流氓 [手动滑稽]

@@ -10,17 +10,17 @@ title: 017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图
 
 
 **如何获取本地图片的url? 答: 将图片上传到新浪服务器**
-> ![](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/59d165636579464f931cd6691591cbb3.gif)
+> ![](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/59d165636579464f931cd6691591cbb3.gif)
 
 > [https://ws1.sinaimg.cn/large/63dc5cecgy1g0plw2vn80j20qo0hsgpk.jpg](https://ws1.sinaimg.cn/large/63dc5cecgy1g0plw2vn80j20qo0hsgpk.jpg)
 
-> ![image](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/16f74037877043e792f8d85a81618a8c.jpeg)
+> ![image](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/16f74037877043e792f8d85a81618a8c.jpeg)
 
 
 ## 使用方法
 
 - 登录新浪微博
-> ![](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/940c170389944a6f8eeb5f44cb1b24b0.png)
+> ![](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/940c170389944a6f8eeb5f44cb1b24b0.png)
 
 
 - 下载 **新浪微博图床**
@@ -29,34 +29,34 @@ title: 017《新浪微博图床》本地Markdown编写更流畅, 新浪微博图
 
 [https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf](https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf)
 
-> ![](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/b977a40c15b54488ba4e1d60104d1c90.png)
+> ![](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/b977a40c15b54488ba4e1d60104d1c90.png)
 
 - 点击右上角图标扩展栏图标
-> ![](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/dadad4f5c2e64901b5f47306550f172c.png)
+> ![](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/dadad4f5c2e64901b5f47306550f172c.png)
 
-> ![](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/885006a07c5148b0a83503dbc091e5ca.png)
+> ![](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/885006a07c5148b0a83503dbc091e5ca.png)
 
 > 当网络环境较差时, 这个圆点的颜色会不太准(会一直保持灰色), 如果你的微博已经登录了,而且网络正常, 可以尝试上传图片, 不用理会这个圆点的颜色
 
 - 上传图片
-> ![](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/2e9b52b54d6f4429803f62d5b40ef423.gif)
-> ![](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/ed961aac82004b74aac752499e53906c.png)
+> ![](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/2e9b52b54d6f4429803f62d5b40ef423.gif)
+> ![](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/ed961aac82004b74aac752499e53906c.png)
 - [https://ws1.sinaimg.cn/large/63dc5cecgy1g0pn2hksvnj20hs0qomzo.jpg](https://ws1.sinaimg.cn/large/63dc5cecgy1g0pn2hksvnj20hs0qomzo.jpg)
 
-> ![image](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/dd9de153611e419285b17df71ef318b5.jpeg)
+> ![image](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/dd9de153611e419285b17df71ef318b5.jpeg)
 
 - [https://ws1.sinaimg.cn/large/63dc5cecgy1g0pn2hq1fkj20hs0qowhl.jpg](https://ws1.sinaimg.cn/large/63dc5cecgy1g0pn2hq1fkj20hs0qowhl.jpg)
 
-> ![image](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/f3ec67df874243f381b3fdb16816270a.jpeg)
+> ![image](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/f3ec67df874243f381b3fdb16816270a.jpeg)
 
 
 - 支持获取不同尺寸,不同格式的图片
-> ![](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/0f54300804fd40aaace4cc94662adec8.gif)
+> ![](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/0f54300804fd40aaace4cc94662adec8.gif)
 - 点击即可复制图片链接
-> ![](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/08945ce42ca14f18a211332030996dd9.gif)
+> ![](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/08945ce42ca14f18a211332030996dd9.gif)
 
 - 一键获取多张Markdown格式的图片链接(以将Markdown格式图片粘贴到Typora编辑器为例)
-> ![](https://v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/8786fc9ca21742abad577b2efc8ba050.gif)
+> ![](https://www.v2fy.com/asset/017_xin_lang_wei_bo_tu_chuang/8786fc9ca21742abad577b2efc8ba050.gif)
 
 
 

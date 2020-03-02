@@ -6,17 +6,17 @@ Chrome的搜索栏很好用, 但默认只设置了一个搜索引擎, 如果想�
 
 ## 进入设置搜索引擎的界面
 
-![](https://v2fy.com/asset/056_search/62503013-eca3c500-b824-11e9-97d0-b220e8a19838.gif)
+![](https://www.v2fy.com/asset/056_search/62503013-eca3c500-b824-11e9-97d0-b220e8a19838.gif)
 
 
 ## 为百度搜索设置 关键词 `bd`
-![g0002](https://v2fy.com/asset/056_search/62503051-15c45580-b825-11e9-8b8f-b67f37475ccd.gif)
+![g0002](https://www.v2fy.com/asset/056_search/62503051-15c45580-b825-11e9-8b8f-b67f37475ccd.gif)
 - 搜索成功! 在地址栏输入 关键词 `bd` 后, 按空格键, 就可以快速切换到百度搜索了
 
 
 ## 原理
 
-![](https://v2fy.com/asset/056_search/62503208-c599c300-b825-11e9-8f85-a3714d0ac7db.png)
+![](https://www.v2fy.com/asset/056_search/62503208-c599c300-b825-11e9-8f85-a3714d0ac7db.png)
 上面`nihao`最终发出的请求为`https://www.baidu.com/s?ie=UTF-8&wd=nihao`
 
 
@@ -25,10 +25,10 @@ Chrome的搜索栏很好用, 但默认只设置了一个搜索引擎, 如果想�
 
 - 确定搜索模板的url
 
-![](https://v2fy.com/asset/056_search/62503480-f4fcff80-b826-11e9-9e8b-667afd131fa7.png)
+![](https://www.v2fy.com/asset/056_search/62503480-f4fcff80-b826-11e9-9e8b-667afd131fa7.png)
 > Github搜索模板的url应为`https://github.com/search?q=%s`
 
-![](https://v2fy.com/asset/056_search/62503773-3c37c000-b828-11e9-9605-4ecce76830ec.gif)
+![](https://www.v2fy.com/asset/056_search/62503773-3c37c000-b828-11e9-9605-4ecce76830ec.gif)
 ```
 https://github.com/search?q=%s
 chinesebqb

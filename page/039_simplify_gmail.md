@@ -3,10 +3,10 @@ title: 039《Simplify Gmail》让网页版Gmail更清爽
 ---
 先放一张使用Simplify Gmail后, 清爽的gmail界面~
 
-> ![](https://v2fy.com/asset/039_simplify_gmail/de1ec2f005854671b75feb3f5e484b8d.png)
+> ![](https://www.v2fy.com/asset/039_simplify_gmail/de1ec2f005854671b75feb3f5e484b8d.png)
 
 
-> ![](https://v2fy.com/asset/039_simplify_gmail/45ee49beae1b451b80210a17856e97fe.gif)
+> ![](https://www.v2fy.com/asset/039_simplify_gmail/45ee49beae1b451b80210a17856e97fe.gif)
 
 - Simplify Gmail是一款简化 Gmail 界面的扩展程序
 
@@ -17,11 +17,11 @@ title: 039《Simplify Gmail》让网页版Gmail更清爽
 
 ## 如何给Gmail换个主题
 
-> ![](https://v2fy.com/asset/039_simplify_gmail/895fe19ba16f4882b8a9c4fabb756092.gif)
+> ![](https://www.v2fy.com/asset/039_simplify_gmail/895fe19ba16f4882b8a9c4fabb756092.gif)
 
 
 ## 如何获取更多Gmail扩展程序
-> ![](https://v2fy.com/asset/039_simplify_gmail/bfa37cf207f644768697b1710c8fc0e7.gif)
+> ![](https://www.v2fy.com/asset/039_simplify_gmail/bfa37cf207f644768697b1710c8fc0e7.gif)
 
 
 

@@ -18,19 +18,19 @@ title: 003《Secure Shell App》 Chrome中开启ssh一种什么体验
 - Rich language support
 
 
-> ![](https://v2fy.com/asset/003_secure_shell_app/c7d94a6e5fc346489514f20d4a73616f.png)
+> ![](https://www.v2fy.com/asset/003_secure_shell_app/c7d94a6e5fc346489514f20d4a73616f.png)
 
 ## Secure Shell App 登录界面 / Login interface
-> ![](https://v2fy.com/asset/003_secure_shell_app/639a15198f6047638974b9c7470a0770.png)
+> ![](https://www.v2fy.com/asset/003_secure_shell_app/639a15198f6047638974b9c7470a0770.png)
 ## Secure Shell App 操作界面 / Operation panel
-> ![支持高亮](https://v2fy.com/asset/003_secure_shell_app/2bb916abf8234c829f2b1bde03ec4398.png)
+> ![支持高亮](https://www.v2fy.com/asset/003_secure_shell_app/2bb916abf8234c829f2b1bde03ec4398.png)
 
 ## 支持窗口多开 / Multiple windows
-> ![](https://v2fy.com/asset/003_secure_shell_app/070a384456fa4e22815bf5944d7a0b34.png)
+> ![](https://www.v2fy.com/asset/003_secure_shell_app/070a384456fa4e22815bf5944d7a0b34.png)
 
 ## 支持界面自定义 / Panel can by diy
 
-> ![](https://v2fy.com/asset/003_secure_shell_app/ccc82a56ecf544f59b58ce99e71967cd.png)
+> ![](https://www.v2fy.com/asset/003_secure_shell_app/ccc82a56ecf544f59b58ce99e71967cd.png)
 
 
 > Secure Shell App很早就有了, 早期不支持中文输入, 大家都没把它当回事儿, 最近开始支持中文, 而且google在积极维护它, 就说明Secure Shell App还是有折腾一下的价值的, 另外在浏览器中使用ssh还是蛮酷的!!!

@@ -3,38 +3,38 @@ title: 026《Quickey Launcher》打开网站只需一键
 ---
 Quickey Launcher以优雅的方式, 为任意网页绑定一个快捷键, 绑定完成后, 即可通过快捷键,打开网页
 
-> ![](https://v2fy.com/asset/026_quickey_launcher/2e81d510abc4493cb2f69aecb6939fb3.png)
+> ![](https://www.v2fy.com/asset/026_quickey_launcher/2e81d510abc4493cb2f69aecb6939fb3.png)
 
 ## 为特定网址绑定特定字母
 - 我们可以为以下三个不同网址绑定三个不同的字母
 `B` 绑定 `https://bilibili.com`
 `C` 绑定 `https://github.com/zhaoolee/ChromeAppHeroes`
 `T` 绑定 `https://github.com/trending`
-> ![](https://v2fy.com/asset/026_quickey_launcher/ffc17491eec641acadcee326e4954f1c.gif)
+> ![](https://www.v2fy.com/asset/026_quickey_launcher/ffc17491eec641acadcee326e4954f1c.gif)
 
 
 
 ## 用快捷键, 打开页面
 我们可以在键盘界面,按字母键c, 打开并跳转到`https://github.com/zhaoolee/ChromeAppHeroes`, 然后再按组合键`alt+t`,打开并跳转到`https://github.com/trending`
 
-> ![](https://v2fy.com/asset/026_quickey_launcher/bd9d5de1201b4ec596edc9215141dd5c.gif)
+> ![](https://www.v2fy.com/asset/026_quickey_launcher/bd9d5de1201b4ec596edc9215141dd5c.gif)
 
 ## 进行配置
 - 查看当前配置, 以及关闭配置配置页面
-> ![](https://v2fy.com/asset/026_quickey_launcher/aa3aa89cd7624cbba9635c4f83348bde.gif)
+> ![](https://www.v2fy.com/asset/026_quickey_launcher/aa3aa89cd7624cbba9635c4f83348bde.gif)
 - 配置详解
-> ![](https://v2fy.com/asset/026_quickey_launcher/876a00c83f0147529f8972465c9335e1.png)
+> ![](https://www.v2fy.com/asset/026_quickey_launcher/876a00c83f0147529f8972465c9335e1.png)
 - 选择背景主题
-> ![](https://v2fy.com/asset/026_quickey_launcher/d758154f524a413a8673d801a47186d4.png)
+> ![](https://www.v2fy.com/asset/026_quickey_launcher/d758154f524a413a8673d801a47186d4.png)
 - 选择背景图片更换频率
-> ![](https://v2fy.com/asset/026_quickey_launcher/933510281c5c4a799a85c0e151b59ed4.png)
+> ![](https://www.v2fy.com/asset/026_quickey_launcher/933510281c5c4a799a85c0e151b59ed4.png)
 - 其它配置
-> ![](https://v2fy.com/asset/026_quickey_launcher/c759532127ef4a92a332571ea1519efa.png)
+> ![](https://www.v2fy.com/asset/026_quickey_launcher/c759532127ef4a92a332571ea1519efa.png)
 - 与功能无关的一些面板
-> ![](https://v2fy.com/asset/026_quickey_launcher/f32445feeb464c428fd1919f94f5de4b.png)
+> ![](https://www.v2fy.com/asset/026_quickey_launcher/f32445feeb464c428fd1919f94f5de4b.png)
 
 - 一个很好玩的功能: 可以给每个字母绑定一个emoji表情
-> ![](https://v2fy.com/asset/026_quickey_launcher/48198bd67f2e46698de4beea914cbd35.gif)
+> ![](https://www.v2fy.com/asset/026_quickey_launcher/48198bd67f2e46698de4beea914cbd35.gif)
 
 ## 插件下载地址:
 [https://chrome.google.com/webstore/detail/quickey-launcher/nibepjokbndognmmejkdjcflfehkdhce](https://chrome.google.com/webstore/detail/quickey-launcher/nibepjokbndognmmejkdjcflfehkdhce)

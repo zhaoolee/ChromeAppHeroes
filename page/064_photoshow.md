@@ -7,17 +7,17 @@ title: 064《浮图秀》优雅查看B站视频封面
 
 浮图秀(PhotoShow)特别适合看bilibili的视频大图封面, 它可以智能判断图片周围的空余空间, 对大图进行展示
 
-![](https://v2fy.com/asset/064-photoshow/photoshop-bilibili.gif)
+![](https://www.v2fy.com/asset/064-photoshow/photoshop-bilibili.gif)
 
 
 如果网页空间不够, 附图秀会对图片进行局部放大, 你只需移动鼠标, 完整图片的每一个像素都可以尽收眼底
 
-![](https://v2fy.com/asset/064-photoshow/photoshow-bilibili002.gif)
+![](https://www.v2fy.com/asset/064-photoshow/photoshow-bilibili002.gif)
 
 
 如果你对每个图片, 都想用放大镜去看,看到原图的每个像素, 浮图秀(PhotoShow)也能满足你
 
-![](https://v2fy.com/asset/064-photoshow/photoshow-bilibili003.gif)
+![](https://www.v2fy.com/asset/064-photoshow/photoshow-bilibili003.gif)
 这里有一个小BUG, 在全景模式下看B站视频封面时,当鼠标解决封面底部三分之一的区域时,容易失去预览大图的效果
 
 ## 真正的一键收集素材
@@ -25,17 +25,17 @@ title: 064《浮图秀》优雅查看B站视频封面
 如果你想下载图片,只需按一下键盘的 S 即可, 这个S键非常适合新媒体工作者逛微博或B站时随手收集有用的素材
 
 
-![](https://v2fy.com/asset/064-photoshow/photoshop-bilibili004.gif)
+![](https://www.v2fy.com/asset/064-photoshow/photoshop-bilibili004.gif)
 
-![](https://v2fy.com/asset/064-photoshow/005.jpg)
+![](https://www.v2fy.com/asset/064-photoshow/005.jpg)
 
 菜单中可以关闭附图秀图标,让界面更干净, 另外浮图秀(PhotoShow)支持通过快捷键旋转图片
 
-![](https://v2fy.com/asset/064-photoshow/menu.png)
+![](https://www.v2fy.com/asset/064-photoshow/menu.png)
 
 ## 刷微博必备: 使用浮图秀(PhotoShow)在微博看长图
 
-![](https://v2fy.com/asset/064-photoshow/weibo-006.gif)
+![](https://www.v2fy.com/asset/064-photoshow/weibo-006.gif)
 
 ## 已经支持的网站
 

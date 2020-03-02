@@ -9,7 +9,7 @@ title: 062《彩云小译》一键实现网页中英文对照的翻译工具
 
 首页翻译
 
-![](https://v2fy.com/asset/062_caiyun/72213783-fc3fdc00-352f-11ea-9bed-426ef19868b8.gif)
+![](https://www.v2fy.com/asset/062_caiyun/72213783-fc3fdc00-352f-11ea-9bed-426ef19868b8.gif)
 
 
 原图地址: https://user-images.githubusercontent.com/15868458/72213810-5e004600-3530-11ea-9423-8ea6d5ca78d2.gif
@@ -18,7 +18,7 @@ title: 062《彩云小译》一键实现网页中英文对照的翻译工具
 新闻页翻译
 
 
-![](https://v2fy.com/asset/062_caiyun/72214012-5cd11800-3534-11ea-81c4-d32e2cbf1915.gif)
+![](https://www.v2fy.com/asset/062_caiyun/72214012-5cd11800-3534-11ea-81c4-d32e2cbf1915.gif)
 
 
 原图地址: https://user-images.githubusercontent.com/15868458/72214013-5cd11800-3534-11ea-8ba8-5e3e0efda104.gif
@@ -28,9 +28,9 @@ title: 062《彩云小译》一键实现网页中英文对照的翻译工具
 
 如果你不喜欢中英对照模式,也可以设置成: "只显示原文或只显示译文"
 
-![](https://v2fy.com/asset/062_caiyun/72213939-a587d180-3532-11ea-80ef-0d76530d8c67.png)
+![](https://www.v2fy.com/asset/062_caiyun/72213939-a587d180-3532-11ea-80ef-0d76530d8c67.png)
 
-![](https://v2fy.com/asset/062_caiyun/72213934-6fe2e880-3532-11ea-8b21-31c8be7017b0.png)
+![](https://www.v2fy.com/asset/062_caiyun/72213934-6fe2e880-3532-11ea-8b21-31c8be7017b0.png)
 
 
 ---
@@ -42,7 +42,7 @@ title: 062《彩云小译》一键实现网页中英文对照的翻译工具
 以Ted视频字幕翻译为例
 
 
-![](https://v2fy.com/asset/062_caiyun/72214103-4a57de00-3536-11ea-8259-5e32a1f98005.gif)
+![](https://www.v2fy.com/asset/062_caiyun/72214103-4a57de00-3536-11ea-8259-5e32a1f98005.gif)
 
 
 从结果来看, 由于网络延迟的存在, 翻译可能会有延迟, 导致有些字幕无法被实时翻译
@@ -51,7 +51,7 @@ title: 062《彩云小译》一键实现网页中英文对照的翻译工具
 
 ## 划词翻译
 
-![](https://v2fy.com/asset/062_caiyun/72214129-29dc5380-3537-11ea-9857-e5e32ee23ce9.gif)
+![](https://www.v2fy.com/asset/062_caiyun/72214129-29dc5380-3537-11ea-9857-e5e32ee23ce9.gif)
 
 原图地址: https://user-images.githubusercontent.com/15868458/72214128-2943bd00-3537-11ea-8d1e-f9dea6cf7cac.gif
 
@@ -61,7 +61,7 @@ title: 062《彩云小译》一键实现网页中英文对照的翻译工具
 
 > 彩云小译也支持日文翻译为中文,我用 https://www.nicovideo.jp/ 试了一下,发现识别不如Chrome自带Google的全文翻译
 
-![006](https://v2fy.com/asset/062_caiyun/72214333-ba686300-353a-11ea-8275-a218bb4fa669.gif)
+![006](https://www.v2fy.com/asset/062_caiyun/72214333-ba686300-353a-11ea-8275-a218bb4fa669.gif)
 
 
 原图地址: https://user-images.githubusercontent.com/15868458/72214332-ba686300-353a-11ea-9d7b-3ec323d9b3ee.gif
@@ -70,17 +70,17 @@ title: 062《彩云小译》一键实现网页中英文对照的翻译工具
 
 
 
-![image](https://v2fy.com/asset/062_caiyun/72214250-2c3fad00-3539-11ea-8c87-b73bba828fba.png)
+![image](https://www.v2fy.com/asset/062_caiyun/72214250-2c3fad00-3539-11ea-8c87-b73bba828fba.png)
 
 
 google翻译结果:
 
-![image](https://v2fy.com/asset/062_caiyun/72214236-f3073d00-3538-11ea-997c-2c0c6a6e02b5.png)
+![image](https://www.v2fy.com/asset/062_caiyun/72214236-f3073d00-3538-11ea-997c-2c0c6a6e02b5.png)
 
 
 彩云小译翻译结果:
 
-![image](https://v2fy.com/asset/062_caiyun/72214243-0f0ade80-3539-11ea-824d-2e62eea2754a.png)
+![image](https://www.v2fy.com/asset/062_caiyun/72214243-0f0ade80-3539-11ea-824d-2e62eea2754a.png)
 
 
 ## 彩云小译扩展程序下载链接:

@@ -4,10 +4,10 @@ title: 055《Keylines》为网页元素添加随机描边颜色
 Keylines是一款为网页dom元素, 添加随机颜色描边的扩展程序, 可以让前端工程师快速了解网页布局, 提升开发效率(随机颜色描边的想法蛮酷的~)
 
 #### 效果图:
-![](https://v2fy.com/asset/055_keylines/61917696-0a4d7080-af81-11e9-85e9-98274fb663ba.png)
+![](https://www.v2fy.com/asset/055_keylines/61917696-0a4d7080-af81-11e9-85e9-98274fb663ba.png)
 
 #### 使用方法gif:
-> ![](https://v2fy.com/asset/055_keylines/61917657-dbcf9580-af80-11e9-87d3-528609ab85b0.gif)
+> ![](https://www.v2fy.com/asset/055_keylines/61917657-dbcf9580-af80-11e9-87d3-528609ab85b0.gif)
 - Keylines的实现原理是为网页dom元素添加了outline属性
 
 #### keylines扩展程序下载链接:

@@ -9,35 +9,35 @@ Boxel Rebound是一款和Google浏览器**断网小恐龙**类似的弹跳小游
 - 游戏免费，BGM带感，玩法多样
 ## 闯关模式玩法
 - 进入游戏
-> ![](https://v2fy.com/asset/020_boxel_rebound/7f58e9ff05fa438db385f5a7aa311fb8.png)
+> ![](https://www.v2fy.com/asset/020_boxel_rebound/7f58e9ff05fa438db385f5a7aa311fb8.png)
 
 - 到达终点🏁区域后即可完成本局游戏
-> ![](https://v2fy.com/asset/020_boxel_rebound/8de478ef54914769b19a49607259cefd.gif)
+> ![](https://www.v2fy.com/asset/020_boxel_rebound/8de478ef54914769b19a49607259cefd.gif)
 
 - 注意游戏中的方向箭头提示，有助于通关
-> ![](https://v2fy.com/asset/020_boxel_rebound/59ed60632413452991e019d747eb7963.gif)
+> ![](https://www.v2fy.com/asset/020_boxel_rebound/59ed60632413452991e019d747eb7963.gif)
 - 玩家方块撞到特殊道具会改变体积
-> ![](https://v2fy.com/asset/020_boxel_rebound/7337377a15cc448288c8a9f1a9659af8.gif)
+> ![](https://www.v2fy.com/asset/020_boxel_rebound/7337377a15cc448288c8a9f1a9659af8.gif)
 
 - 玩家方块在下落期间，可不借助地面，完成弹跳（轻功？左脚蹬右脚？方块哪里来的左脚和右脚？）
-> ![](https://v2fy.com/asset/020_boxel_rebound/0e97454d61814081a5844607928980eb.gif)
+> ![](https://www.v2fy.com/asset/020_boxel_rebound/0e97454d61814081a5844607928980eb.gif)
 
 ## 自制赛道玩法
 - 先制作一个最简单的赛道
-> ![](https://v2fy.com/asset/020_boxel_rebound/c8ed89ec75a04f1cbc05dd3597154b0f.gif)
+> ![](https://www.v2fy.com/asset/020_boxel_rebound/c8ed89ec75a04f1cbc05dd3597154b0f.gif)
 - 道具说明
-> ![](https://v2fy.com/asset/020_boxel_rebound/d85d17a999604681ab28367cab3e2b89.png)
+> ![](https://www.v2fy.com/asset/020_boxel_rebound/d85d17a999604681ab28367cab3e2b89.png)
 
 
 - 通过道具完善后的的赛道(我自制的)
-> ![](https://v2fy.com/asset/020_boxel_rebound/680ad68a8b0941df865c5883e9dccdca.gif)
+> ![](https://www.v2fy.com/asset/020_boxel_rebound/680ad68a8b0941df865c5883e9dccdca.gif)
 
 ## 分享赛道
-> ![](https://v2fy.com/asset/020_boxel_rebound/189f8811618e4275b689056527b7caa4.gif)
+> ![](https://www.v2fy.com/asset/020_boxel_rebound/189f8811618e4275b689056527b7caa4.gif)
 > - 上图赛道分享号码(可以拿去玩)：#C445EC
 
 ## 获取他人分享的赛道
-> ![](https://v2fy.com/asset/020_boxel_rebound/52db70aef1924462877b14fdafa8d23f.gif)
+> ![](https://www.v2fy.com/asset/020_boxel_rebound/52db70aef1924462877b14fdafa8d23f.gif)
 
 
 

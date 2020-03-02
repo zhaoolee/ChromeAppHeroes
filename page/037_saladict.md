@@ -7,44 +7,44 @@ title: 037《Saladict》谷歌!有道!我全都要! 聚合词典, 并行翻译
 
 ## 划词一次, 多种词典, 并行查询
 
->![](https://v2fy.com/asset/037_saladict/dd035946bc6245e6a6d1e616249dfa72.gif)
+>![](https://www.v2fy.com/asset/037_saladict/dd035946bc6245e6a6d1e616249dfa72.gif)
 
 ## 支持将单词添加到生词本
 - 左键"心形图标"添加到生词本, 右键"心形图标"查看生词本
 
->![](https://v2fy.com/asset/037_saladict/fcb4c2230d6142d1bbaa1cb644a1372c.gif)
+>![](https://www.v2fy.com/asset/037_saladict/fcb4c2230d6142d1bbaa1cb644a1372c.gif)
 
 ## 支持同步生词本到云端
 
-> ![](https://v2fy.com/asset/037_saladict/7d00f8c1f09244fc81229b19dc78fef5.png)
+> ![](https://www.v2fy.com/asset/037_saladict/7d00f8c1f09244fc81229b19dc78fef5.png)
 
 
 ## 记录查词历史
 - 开启查词历史记录
 
->![](https://v2fy.com/asset/037_saladict/6b8bf39babf742dd9b69820d7ccc7239.gif)
+>![](https://www.v2fy.com/asset/037_saladict/6b8bf39babf742dd9b69820d7ccc7239.gif)
 
 - 查看查词历史记录
 
-> ![](https://v2fy.com/asset/037_saladict/30da3ca59c624344ae49d8311acd2e72.gif)
+> ![](https://www.v2fy.com/asset/037_saladict/30da3ca59c624344ae49d8311acd2e72.gif)
 
 
 
 
 ## 支持整句翻译
 
->![](https://v2fy.com/asset/037_saladict/cca1b74cb2534fc389f0df6b53d28f21.gif)
+>![](https://www.v2fy.com/asset/037_saladict/cca1b74cb2534fc389f0df6b53d28f21.gif)
 
 
 ## 支持读取pdf文档
 
 - 开启权限
 
-> ![](https://v2fy.com/asset/037_saladict/08d3b6a81bf74f05932c98f07a385075.gif)
+> ![](https://www.v2fy.com/asset/037_saladict/08d3b6a81bf74f05932c98f07a385075.gif)
 
 - 用沙拉插件打开本地pdf文档,并对文档进行查词
 
-> ![](https://v2fy.com/asset/037_saladict/341022c82b994d80833e618de7b64f48.gif)
+> ![](https://www.v2fy.com/asset/037_saladict/341022c82b994d80833e618de7b64f48.gif)
 
 
 ## 小结:

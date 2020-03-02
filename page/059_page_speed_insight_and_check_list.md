@@ -6,12 +6,12 @@ title: 059《PageSpeed Insight and CheckList》为网页优化提供建议和量
 《PageSpeed Insight and CheckList》的使用方法非常简单:
 
 
-![pag_speed](https://v2fy.com/asset/059_page_speed_insight_and_check_list/63309328-f818e500-c328-11e9-8f1a-68fed13a4015.gif)
+![pag_speed](https://www.v2fy.com/asset/059_page_speed_insight_and_check_list/63309328-f818e500-c328-11e9-8f1a-68fed13a4015.gif)
 
 上图超清gif原图: https://user-images.githubusercontent.com/15868458/63309330-f8b17b80-c328-11e9-92e7-03d8f43796ed.gif)
 
 
-![001](https://v2fy.com/asset/059_page_speed_insight_and_check_list/63309327-f7804e80-c328-11e9-8eab-9055db8a5d2c.png)
+![001](https://www.v2fy.com/asset/059_page_speed_insight_and_check_list/63309327-f7804e80-c328-11e9-8eab-9055db8a5d2c.png)
 
 
 
@@ -20,7 +20,7 @@ title: 059《PageSpeed Insight and CheckList》为网页优化提供建议和量
 
 Google page speed可以给出网页改良的具体建议, 使用方法如下图所示
 
-![google_page_speed_raw](https://v2fy.com/asset/059_page_speed_insight_and_check_list/63309329-f818e500-c328-11e9-9a15-b6de9981fd52.gif)
+![google_page_speed_raw](https://www.v2fy.com/asset/059_page_speed_insight_and_check_list/63309329-f818e500-c328-11e9-9a15-b6de9981fd52.gif)
 
 上图超清gif原图:  https://user-images.githubusercontent.com/15868458/63309331-f8b17b80-c328-11e9-80c3-1188f0d17a86.gif
 

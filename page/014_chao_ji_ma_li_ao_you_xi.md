@@ -6,9 +6,9 @@ title: 014《超级马里奥游戏》Chrome变身小霸王
 下载地址:https://chrome.google.com/webstore/detail/super-mario-game/pefcballkadhkhjialafhaoeidhnfefl
 
 - 下载完成后, 点击超级玛丽的图标,即可愉快玩耍
-> ![超级玛丽](https://v2fy.com/asset/014_chao_ji_ma_li_ao_you_xi/03e695c308324b3a826e651133d9ab8f.png)
+> ![超级玛丽](https://www.v2fy.com/asset/014_chao_ji_ma_li_ao_you_xi/03e695c308324b3a826e651133d9ab8f.png)
 
-> ![](https://v2fy.com/asset/014_chao_ji_ma_li_ao_you_xi/c69cf9a20db14fa4832d4601d153fbae.png)
+> ![](https://www.v2fy.com/asset/014_chao_ji_ma_li_ao_you_xi/c69cf9a20db14fa4832d4601d153fbae.png)
 
 ## 玩法
 - `x` 跳跃
@@ -20,14 +20,14 @@ title: 014《超级马里奥游戏》Chrome变身小霸王
 > 小技巧: 由于游戏本身是一个H5页面, 游戏按键可能由于鼠标点击其它窗口而失效, 遇到按键失效的情况, 用鼠标点击游戏界面, 然后按 `x` 键 即可~
 
 - 以下是我的超级玛丽.gif
-> ![超级玛丽.gif](https://v2fy.com/asset/014_chao_ji_ma_li_ao_you_xi/4b513e8e2ae84e56b9269e5f395893cc.gif)
+> ![超级玛丽.gif](https://www.v2fy.com/asset/014_chao_ji_ma_li_ao_you_xi/4b513e8e2ae84e56b9269e5f395893cc.gif)
 
 - 想玩更多?
-> ![](https://v2fy.com/asset/014_chao_ji_ma_li_ao_you_xi/c7519c6f51704e50b7b9549ebf3394ee.png)
-> ![](https://v2fy.com/asset/014_chao_ji_ma_li_ao_you_xi/1637df24fed346ce993906016a7e2c71.png)
+> ![](https://www.v2fy.com/asset/014_chao_ji_ma_li_ao_you_xi/c7519c6f51704e50b7b9549ebf3394ee.png)
+> ![](https://www.v2fy.com/asset/014_chao_ji_ma_li_ao_you_xi/1637df24fed346ce993906016a7e2c71.png)
 
 - 点击游戏图标后, 就会跳转到游戏安装界面(Chrome扩展), 点击安装即可~
-> ![](https://v2fy.com/asset/014_chao_ji_ma_li_ao_you_xi/d9c3e4c6d5544118bfc1d4b41e03e2fd.png)
+> ![](https://www.v2fy.com/asset/014_chao_ji_ma_li_ao_you_xi/d9c3e4c6d5544118bfc1d4b41e03e2fd.png)
 
 ## 小结
 以前想玩经典红白机游戏, 还需要安装模拟器, 或者到一些小游戏网站, 在一片广告弹窗中玩flash游戏 ,有了这个Chrome扩展, 可以很方便安装和玩耍经典小游戏了~

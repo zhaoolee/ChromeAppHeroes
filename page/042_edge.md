@@ -3,14 +3,14 @@ title: 042 在Edge中安装Chrome扩展程序
 ---
 
 - 最终效果图
-> ![](https://v2fy.com/asset/042_edge/301dc549a1104c34b520bbda8e9376dc.png)
+> ![](https://www.v2fy.com/asset/042_edge/301dc549a1104c34b520bbda8e9376dc.png)
 
 - 打开[https://www.microsoftedgeinsider.com/en-us/download/](https://www.microsoftedgeinsider.com/en-us/download/) ,下载Edge的`CAN`版本 (Logo为金色配色), 并完成安装
-> ![](https://v2fy.com/asset/042_edge/6fa3c284cfb445219c4b55b570a7dd0f.png)
+> ![](https://www.v2fy.com/asset/042_edge/6fa3c284cfb445219c4b55b570a7dd0f.png)
 
 - 打开`允许Edge从其它商店安装扩展程序`的按钮
 
-![](https://v2fy.com/asset/042_edge/701d48b350e844e9bec17e828f80bcec.gif)
+![](https://www.v2fy.com/asset/042_edge/701d48b350e844e9bec17e828f80bcec.gif)
 
 - 从Chrome商店安装扩展程序
 
@@ -18,7 +18,7 @@ title: 042 在Edge中安装Chrome扩展程序
 > - markdown here具体使用方法和安装链接: [https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html](https://zhaoolee.gitbooks.io/chrome/content/001-markdownyi-jian-zhuan-huan-523022-fu-wen-ben-ge-5f0f22.html)
 
 
-> ![](https://v2fy.com/asset/042_edge/b19588eab9a2438c97761f45689ca447.gif)
+> ![](https://www.v2fy.com/asset/042_edge/b19588eab9a2438c97761f45689ca447.gif)
 
 ## 小结
 
@@ -26,7 +26,7 @@ Edge可以安装绝大多数Chrome商店中的扩展, 但Chrome中的谷歌开�
 
 
 
-> ![谷粒-Chrome插件英雄榜](https://v2fy.com/asset/042_edge/1b8e3f49df2b4ab4ac737a1684975cac.jpeg)
+> ![谷粒-Chrome插件英雄榜](https://www.v2fy.com/asset/042_edge/1b8e3f49df2b4ab4ac737a1684975cac.jpeg)
 
 
 ## 写在最后(我需要你的支持)

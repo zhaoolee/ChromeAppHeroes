@@ -3,20 +3,20 @@ title: 040《GitZip for github》从Github批量下载表情包
 ---
 最近我创建了一个关于表情包的github仓库,里面收录了国人常用的表情包, 并可以在线预览表情包 [https://zhaoolee.github.io/ChineseBQB/](https://zhaoolee.github.io/ChineseBQB/)
 
-> ![](https://v2fy.com/asset/040_gitzip_for_github/2f7218d909cd4e038c3d1dff5717d9c8.png)
+> ![](https://www.v2fy.com/asset/040_gitzip_for_github/2f7218d909cd4e038c3d1dff5717d9c8.png)
 
 - 仓库地址: [https://github.com/zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
 
 
-> ![](https://v2fy.com/asset/040_gitzip_for_github/00f5446e98744f7bbae16412f8d882e1.png)
+> ![](https://www.v2fy.com/asset/040_gitzip_for_github/00f5446e98744f7bbae16412f8d882e1.png)
 
 - 后面发现下载单个文件夹的表情包并不方便, 于是找到了Chrome扩展程序[GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)来解决问题
 
-> ![](https://v2fy.com/asset/040_gitzip_for_github/9e16839ccf0c4c348051bc5065092cc5.gif)
+> ![](https://www.v2fy.com/asset/040_gitzip_for_github/9e16839ccf0c4c348051bc5065092cc5.gif)
 
 - 如果遇到无法下载的问题, 可以尝试将自己的github账号授权GitZip for github, 就可以正常下载了
 
-> ![](https://v2fy.com/asset/040_gitzip_for_github/3fe548a32df1460a8f45086762881afb.gif)
+> ![](https://www.v2fy.com/asset/040_gitzip_for_github/3fe548a32df1460a8f45086762881afb.gif)
 
 
 ## 扩展程序GitZip for github下载地址

@@ -12,13 +12,12 @@ let readme_img_dir =
   "/master/README/";
 
 // let md_dir = path.join(__dirname, RepositoriesName+"MD");
-
 // 将README.md从 项目名+md文件夹内拷贝到外面,并将图片替换下载到README文件夹
 async function cp_readme_md() {
   let origin_readme_file_pathname = path.join(
     __dirname,
     "page",
-    "README-" + RepositoriesName + ".md"
+    "readme-" + "chromeappheroes" + ".md"
   );
   let target_readme_file_pathname = path.join(__dirname, "README" + ".md");
   fse.copySync(origin_readme_file_pathname, target_readme_file_pathname, {
@@ -43,8 +42,6 @@ async function download_imgs_by_md(file_name) {
 
   let ignore_img_list = ["img.shields.io", "www.bilibili.com"];
 
-
-
   for (let i = 0; i < md_img_addr_s_length; i++) {
 
     let download_img = true;
@@ -54,8 +51,6 @@ async function download_imgs_by_md(file_name) {
         download_img = false;
       }
     }
-
-
 
     if (download_img) {
       let img_addr = md_img_addr_s[i].match(img_re)[2];

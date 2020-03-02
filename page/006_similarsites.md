@@ -8,18 +8,18 @@ title: 006《SimilarSites》 一键查找姊妹网站 SimilarSites
 
 - 与bilibili类似的网站
 
-> ![](https://v2fy.com/asset/006_similarsites/543fa63ea9b8424b94636852481a7e78.png)
+> ![](https://www.v2fy.com/asset/006_similarsites/543fa63ea9b8424b94636852481a7e78.png)
 > 插件推荐与之类似的网站有, a站, 北美微博广场, 百度贴吧, 人人网(b站的弹幕, 和百度贴吧的盖楼, 联系还是挺强的...)
 - 与淘宝类似的网站
-> ![](https://v2fy.com/asset/006_similarsites/9d7eb4a72e33494cb6410a2d59293a77.png)
+> ![](https://www.v2fy.com/asset/006_similarsites/9d7eb4a72e33494cb6410a2d59293a77.png)
 > 插件推荐的有, 亚马逊中国, 当当网, 京东, 易趣网(中国的亚马逊总有一种外包的感觉...)
 
 - 与简书类似的网站
-> ![](https://v2fy.com/asset/006_similarsites/fe9410ea15664cdb9dd0ee0166c2cc39.png)
+> ![](https://www.v2fy.com/asset/006_similarsites/fe9410ea15664cdb9dd0ee0166c2cc39.png)
 > 插件推荐的有 十五言, 马克飞象, 作业部落等(十五言的口号是: 每个人都在创造, 简书的口号是: "创作你的创作")
 
 - 找软件资源
-> ![](https://v2fy.com/asset/006_similarsites/4182ba1ff84445ba876565102c769011.png)
+> ![](https://www.v2fy.com/asset/006_similarsites/4182ba1ff84445ba876565102c769011.png)
 > 这种找资源的方式还是很有用的...
 
 ## 工作机制:
@@ -29,18 +29,18 @@ title: 006《SimilarSites》 一键查找姊妹网站 SimilarSites
 - 分析同类网站, 了解潜在竞争对手
 - 分析同类网站的流量(插件面板对每个网站的流量, 都有详细标注)
 - 发现网站的隐藏属性(如下图)
-> ![](https://v2fy.com/asset/006_similarsites/8096d41247454ea8b29615db6260a57f.png)
+> ![](https://www.v2fy.com/asset/006_similarsites/8096d41247454ea8b29615db6260a57f.png)
 
 
 - 中文官方网站: https://cn.similarsites.com/
 
 > - 恶作剧:与similarsites类似的站点有哪些呢?
-> ![](https://v2fy.com/asset/006_similarsites/14b08a1888eb4bbe8c659c674d3f91e1.png)
+> ![](https://www.v2fy.com/asset/006_similarsites/14b08a1888eb4bbe8c659c674d3f91e1.png)
 > 打破砂锅问到底的结果就是: 砂锅坏了!
 
 ## 小技巧:
 > 对于已经被封的资源站点,如`bt天堂`, 我们可能要“曲线救国”, 到官网` https://cn.similarsites.com/`查找`bttiantang.com`,还是可以找到相关网站的, 如下图~
-> ![](https://v2fy.com/asset/006_similarsites/5523acd8a418457583672677e33b3348.png)
+> ![](https://www.v2fy.com/asset/006_similarsites/5523acd8a418457583672677e33b3348.png)
 
 ## 插件下载地址:
 https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn

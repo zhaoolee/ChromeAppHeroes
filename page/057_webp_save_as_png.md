@@ -8,7 +8,7 @@ WebP是google推行的新的图片格式, 可以使用更小的空间,保存更�
 我们以 [谷歌艺术和文化](https://artsandculture.google.com/) https://artsandculture.google.com/ 网站内的图片为例做一个示范
 
 
-![save_as_png](https://v2fy.com/asset/057_webp_save_as_png/63221240-ce48ac80-c1c8-11e9-9860-376fedc0845e.gif)
+![save_as_png](https://www.v2fy.com/asset/057_webp_save_as_png/63221240-ce48ac80-c1c8-11e9-9860-376fedc0845e.gif)
 
 - 上图超清gif原图: [https://user-images.githubusercontent.com/15868458/63221239-cdb01600-c1c8-11e9-9fef-7add6b98a213.gif](https://user-images.githubusercontent.com/15868458/63221239-cdb01600-c1c8-11e9-9fef-7add6b98a213.gif)
 
@@ -28,7 +28,7 @@ Chrome扩展`图片另存为JPG/PNG/WebP`并不能自动批量转换大量图片
 
 ## XnConvert使用示例: 使用XnConvert将png格式图片批量转换为WebP格式
 
-![png_to_WebP](https://v2fy.com/asset/057_webp_save_as_png/63221910-9ba3b180-c1d2-11e9-8adc-80e8637c1c4a.gif)
+![png_to_WebP](https://www.v2fy.com/asset/057_webp_save_as_png/63221910-9ba3b180-c1d2-11e9-8adc-80e8637c1c4a.gif)
 
 - 上图超清gif原图: https://user-images.githubusercontent.com/15868458/63221909-9ba3b180-c1d2-11e9-873d-2b1723b34e90.gif
 

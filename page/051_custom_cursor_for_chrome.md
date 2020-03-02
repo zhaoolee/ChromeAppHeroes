@@ -4,35 +4,35 @@ title: 051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标
 浏览器的鼠标光标样式, 可以通过css中的`cursor`属性进行定义, 也可以通过Chrome扩展程序《Custom Cursor for Chrome™》进行更换
 
 ## 最终效果如图所示
-> ![](https://v2fy.com/asset/051_custom_cursor_for_chrome/61166967-d0846f00-a569-11e9-9141-15cef4983098.gif)
+> ![](https://www.v2fy.com/asset/051_custom_cursor_for_chrome/61166967-d0846f00-a569-11e9-9141-15cef4983098.gif)
 
 ---
 以下是具体的操作步骤
 ---
 
 ## 首先需要两张图片
-> ![image](https://v2fy.com/asset/051_custom_cursor_for_chrome/61167003-7e901900-a56a-11e9-8631-57e86791d500.png)
+> ![image](https://www.v2fy.com/asset/051_custom_cursor_for_chrome/61167003-7e901900-a56a-11e9-8631-57e86791d500.png)
 
-> ![chuyin_guangbiao](https://v2fy.com/asset/051_custom_cursor_for_chrome/61167012-98c9f700-a56a-11e9-9d13-bdff338418b0.png)
+> ![chuyin_guangbiao](https://www.v2fy.com/asset/051_custom_cursor_for_chrome/61167012-98c9f700-a56a-11e9-9d13-bdff338418b0.png)
 
-> ![chuyin_zhizhen](https://v2fy.com/asset/051_custom_cursor_for_chrome/61167013-98c9f700-a56a-11e9-983e-1078960d84ad.png)
+> ![chuyin_zhizhen](https://www.v2fy.com/asset/051_custom_cursor_for_chrome/61167013-98c9f700-a56a-11e9-983e-1078960d84ad.png)
 
 
 ## 下载Chrome扩展程序[Custom Cursor for Chrome™](https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale)
 
->  ![image](https://v2fy.com/asset/051_custom_cursor_for_chrome/61167106-04609400-a56c-11e9-8da1-5d4f11a8fef9.png)
+>  ![image](https://www.v2fy.com/asset/051_custom_cursor_for_chrome/61167106-04609400-a56c-11e9-8da1-5d4f11a8fef9.png)
 
 
 
 ## 打开上传面板，上传初音未来的指针和光标素材
 
-> ![](https://v2fy.com/asset/051_custom_cursor_for_chrome/61167095-d4b18c00-a56b-11e9-8351-7b189c7efb8b.png)
+> ![](https://www.v2fy.com/asset/051_custom_cursor_for_chrome/61167095-d4b18c00-a56b-11e9-8351-7b189c7efb8b.png)
 
-> ![](https://v2fy.com/asset/051_custom_cursor_for_chrome/61167207-0e839200-a56e-11e9-845b-9082f8f0815a.gif)
+> ![](https://www.v2fy.com/asset/051_custom_cursor_for_chrome/61167207-0e839200-a56e-11e9-845b-9082f8f0815a.gif)
 
 ## 调整光标大小(这一步可以跳过)
 
-> ![](https://v2fy.com/asset/051_custom_cursor_for_chrome/61167240-9073bb00-a56e-11e9-90ec-73ee9b501157.gif)
+> ![](https://www.v2fy.com/asset/051_custom_cursor_for_chrome/61167240-9073bb00-a56e-11e9-90ec-73ee9b501157.gif)
 
 
 ----
@@ -40,7 +40,7 @@ title: 051《Custom Cursor for Chrome™》为Chrome换上可爱初音光标
 custom本身也提供了大量的光标素材, 供我们随意挑选
 
 
-> ![](https://v2fy.com/asset/051_custom_cursor_for_chrome/61167313-9a49ee00-a56f-11e9-8705-70da1d9e7764.gif)
+> ![](https://www.v2fy.com/asset/051_custom_cursor_for_chrome/61167313-9a49ee00-a56f-11e9-8705-70da1d9e7764.gif)
 
 
 
