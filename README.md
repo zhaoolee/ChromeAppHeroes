@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/9ac21b8aea054eb48fc404fd429638bf.jpeg)
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://v2fy.com/asset/README/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://www.v2fy.com/asset/README/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 # 谷粒-Chrome插件英雄榜
 
@@ -199,7 +199,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
-## 咦?(微信打赏)
+## 如果本项目对你有帮助,请作者喝杯咖啡吧~(微信打赏)
 
 ![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/c4fdea49e11241e392d6bcaa33855897.png)
 

@@ -199,7 +199,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
-## 咦?(微信打赏)
+## 如果本项目对你有帮助,请作者喝杯咖啡吧~(微信打赏)
 
 ![](https://www.v2fy.com/asset/README/c4fdea49e11241e392d6bcaa33855897.png)
 
