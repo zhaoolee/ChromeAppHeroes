@@ -1,6 +1,5 @@
 ![](https://v2fy.com/asset/README/9ac21b8aea054eb48fc404fd429638bf.jpeg)
 
-
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://v2fy.com/asset/README/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
 # 谷粒-Chrome插件英雄榜
@@ -11,9 +10,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ![谷粒VI设计.png](https://v2fy.com/asset/README/5ecd2856f287477c89c20efb7de11a9b.png)
 
 ## 本项目B站宣传视频地址：
-https://www.bilibili.com/video/av81163488
-
-[![](https://v2fy.com/asset/README/71558263-138cbd00-2a8c-11ea-91c6-0acecaea38c2.png)](https://www.bilibili.com/video/av81163488)
+[视频地址: https://www.bilibili.com/video/av81163488](https://www.bilibili.com/video/av81163488)
+![](https://v2fy.com/asset/README/71558263-138cbd00-2a8c-11ea-91c6-0acecaea38c2.png)
+[https://www.bilibili.com/video/av81163488](https://www.bilibili.com/video/av81163488)
 
 **感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo | [谷粒文化(老罗巴扎嘿语录)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)**
 
