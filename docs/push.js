@@ -10,14 +10,36 @@ let readme_img_dir =
   "https://raw.githubusercontent.com/zhaoolee/" +
   RepositoriesName +
   "/master/README/";
+// md所在的文件夹
+let zhaoolee_md_dir = "page";
+
+// readme文件名
+let readme_file_name = "readme-chromeappheroes.md";
+
+// 可以跳过的图片地址关键词
+let ignore_img_list = ["img.shields.io", "www.bilibili.com"];
+
+
+
+
 
 // let md_dir = path.join(__dirname, RepositoriesName+"MD");
 // 将README.md从 项目名+md文件夹内拷贝到外面,并将图片替换下载到README文件夹
 async function cp_readme_md() {
+
+  // 在当前目录生成README文件夹
+  // 创建backup文件夹
+  if (!fs.existsSync(path.join(__dirname, "README"))) {
+    fs.mkdirSync(path.join(__dirname, "README"));
+  }
+
+
+
   let origin_readme_file_pathname = path.join(
     __dirname,
-    "page",
-    "readme-" + "chromeappheroes" + ".md"
+    zhaoolee_md_dir,
+    readme_file_name
+    
   );
   let target_readme_file_pathname = path.join(__dirname, "README" + ".md");
   fse.copySync(origin_readme_file_pathname, target_readme_file_pathname, {
@@ -40,8 +62,6 @@ async function download_imgs_by_md(file_name) {
   let md_img_addr_s_length = md_img_addr_s.length;
   let img_re = /^!\[(.*)\]\((.*)\)/;
 
-  let ignore_img_list = ["img.shields.io", "www.bilibili.com"];
-
   for (let i = 0; i < md_img_addr_s_length; i++) {
 
     let download_img = true;
@@ -57,14 +77,7 @@ async function download_imgs_by_md(file_name) {
       // 定义文件名
       let img_addr_list = img_addr.split("/");
       img_name = img_addr_list[img_addr_list.length - 1];
-      console.log(
-        "===img_addr===>>",
-        img_addr,
-        "dir_name==>>",
-        dir_name,
-        "img_name==>>",
-        img_name
-      );
+      console.log("正在下载>>>", img_addr);
       fs.writeFileSync(
         path.join(__dirname, dir_name, img_name),
         await download(img_addr)
@@ -81,8 +94,20 @@ async function change_img_url(file_name) {
   let md_img_addr_s = file_content.match(img_addr_re);
   let md_img_addr_s_length = md_img_addr_s.length;
   let img_re = /^!\[(.*)\]\((.*)\)/;
+
+
+
   for (let i = 0; i < md_img_addr_s_length; i++) {
-    if (md_img_addr_s[i].indexOf("img.shields.io") === -1) {
+
+    let download_img = true;
+
+    for(let t =0 ; t<ignore_img_list.length; t++){
+      if (md_img_addr_s[i].indexOf(ignore_img_list[t]) !==-1) {
+        download_img = false;
+      }
+    }
+
+    if (download_img) {
       let img_addr = md_img_addr_s[i].match(img_re)[2];
       // 定义文件名
       let img_addr_list = img_addr.split("/");
@@ -90,15 +115,20 @@ async function change_img_url(file_name) {
       let new_img_addr = readme_img_dir + img_name;
       file_content = file_content.replace(img_addr, new_img_addr);
       fs.writeFileSync(path.join(__dirname, file_name), file_content);
+
     }
   }
-  console.log("===>>", file_content);
+
+
+
+
+
 }
 
 
 async function md_to_wordpress(){
   const run_build = spawn("node", ["md_to_wordpress.js"], {
-    cwd: path.join(__dirname, "page")
+    cwd: path.join(__dirname, zhaoolee_md_dir)
   });
 
   run_build.stdout.on("data", async data => {
@@ -106,7 +136,7 @@ async function md_to_wordpress(){
   });
 
   run_build.stderr.on("data", async data => {
-    console.log("data::", data);
+    console.log("data::", String(data));
 
   });
 
@@ -122,7 +152,6 @@ async function md_to_wordpress(){
 
 async function main() {
   await cp_readme_md();
-
   await md_to_wordpress();
 }
 

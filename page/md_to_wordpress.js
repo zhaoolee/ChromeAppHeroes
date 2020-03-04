@@ -3,18 +3,29 @@ const fs = require("fs");
 const path = require("path");
 const fse = require("fs-extra");
 const showdown  = require('showdown');
+
+
+
+// 打标签
+let category_list = ["ChromeAppHeroes", "Chrome插件英雄榜"];
+
+
+
+
 // 1. 获取并存储wordpress授权码
-const {user_name_password} = require('./up.js');
 
 async function get_wordpress_token() {
   let wordpress_token = "";
-
   let up = {
     username: "",
     password: ""
   }
 
-  up = user_name_password(); 
+  up = ((require('./up.js')).user_name_password)(); 
+
+  console.log("up==>>", up);
+
+  
 
   wordpress_token = await axios({
     method: "post",
@@ -26,7 +37,6 @@ async function get_wordpress_token() {
       resolve(token);
     });
   });
-
   return wordpress_token;
 }
 
@@ -71,6 +81,10 @@ async function get_md_filename_id_dic() {
   }
 
   let full_md_filename_content_length = full_md_filename_content.length;
+  console.log(
+    "full_md_filename_content.length::",
+    full_md_filename_content_length
+  );
 
   for (let n = 0; n < full_md_filename_content_length; n++) {
     let filename_list = full_md_filename_content[n]["link"].split("/");
@@ -86,6 +100,12 @@ async function get_md_filename_id_dic() {
     md_filename_id_dic[filename] = full_md_filename_content[n]["id"];
   }
 
+  console.log(
+    "id_dic===>>",
+    md_filename_id_dic,
+    "===>>num==>>",
+    Object.keys(md_filename_id_dic).length
+  );
 
   return md_filename_id_dic;
 }
@@ -115,6 +135,7 @@ async function get_all_md_file_pathname() {
       }
     }
   });
+  console.log("all_md_files===>>>", all_md_files);
 
   all_md_file_pathname = all_md_files;
 
@@ -151,7 +172,7 @@ async function get_md_file_name_title_content(md_file_pathname) {
 
 // 4. 将.md文件的内容上传到wordpress
 
-async function sync_md_content_to_wordpress(wordpress_token, md_filename_id_dic, all_md_file_pathname_i, md_file_name_title_content) {
+async function sync_md_content_to_wordpress(wordpress_token, md_filename_id_dic, all_md_file_pathname_i, md_file_name_title_content, category_id_list) {
 
   // 查询文章是否存在
 
@@ -159,14 +180,15 @@ async function sync_md_content_to_wordpress(wordpress_token, md_filename_id_dic,
   let id = post_get_id(md_filename_id_dic, md_file_name_title_content);
 
 
+  console.log(id);
 
-  console.log("====wordpres文章id::", id);
+  
 
 
 if(id === ""){
 
   // 如果不存在则创建文章
-  await create_new_post(wordpress_token, md_file_name_title_content);
+  await create_new_post(wordpress_token, md_file_name_title_content, category_id_list);
 
   
 }
@@ -179,7 +201,7 @@ if(id === ""){
 
   if(id !== ""){
     md_file_name_title_content["id"]  = id;
-    await update_post(wordpress_token, md_file_name_title_content);
+    await update_post(wordpress_token, md_file_name_title_content, category_id_list);
   }
 
 
@@ -187,7 +209,7 @@ if(id === ""){
 
 // 更新文章
 
-async function update_post(wordpress_token, md_file_name_title_content){
+async function update_post(wordpress_token, md_file_name_title_content, category_id_list){
   let title = md_file_name_title_content["title"];
   let content = md_file_name_title_content["content"];
   let id = md_file_name_title_content["id"];
@@ -202,15 +224,18 @@ async function update_post(wordpress_token, md_file_name_title_content){
     id: id,
     title: title,
     content: html_content,
+    categories: category_id_list,
     // is not specified
     status: 'publish'
   };
 
+  console.log("更新信息", data);
   let res = await axios({
     method: 'post',
     url: 'https://www.v2fy.com/wp-json/wp/v2/posts/'+id,
     headers: {
-      'Authorization': 'Bearer '+wordpress_token
+      'Authorization': 'Bearer '+wordpress_token,
+      'content-type': 'application/json'
     },
     data:data
   }).then((res)=>{
@@ -219,6 +244,7 @@ async function update_post(wordpress_token, md_file_name_title_content){
     })
   })
 
+  console.log("完成更新===>>", res);
 
 
 } 
@@ -227,12 +253,15 @@ async function update_post(wordpress_token, md_file_name_title_content){
 // 创建文章
 
 
-async function create_new_post(wordpress_token, md_file_name_title_content){
+async function create_new_post(wordpress_token, md_file_name_title_content, category_id_list){
 
   let first_title = md_file_name_title_content["md_file_name"].replace(".md", "")
 
   let title = first_title;
   let content = md_file_name_title_content["content"];
+  
+
+  
   let res = await axios({
     method: 'post',
     url: 'https://www.v2fy.com/wp-json/wp/v2/posts',
@@ -243,9 +272,11 @@ async function create_new_post(wordpress_token, md_file_name_title_content){
         // "title" and "content" are the only required properties
         title: title,
         content: content,
+        categories: category_id_list, 
         // is not specified
         status: 'publish'
     }
+   
   }).then((res)=>{
 
     return new Promise((resolve, reject)=>{
@@ -254,6 +285,7 @@ async function create_new_post(wordpress_token, md_file_name_title_content){
   })
 
 
+  console.log("res===>>",res);
 
   let id = res["data"]["id"];
 
@@ -269,6 +301,8 @@ async function create_new_post(wordpress_token, md_file_name_title_content){
 
 function post_get_id(md_filename_id_dic, md_file_name_title_content){
 
+  console.log("md_filename_id_dic===", md_filename_id_dic)
+  console.log("md_file_name_title_content===", md_file_name_title_content);
 
 
   
@@ -282,6 +316,7 @@ function post_get_id(md_filename_id_dic, md_file_name_title_content){
   }
 
 
+  console.log(":id:", id);
 
 
   return id;
@@ -324,23 +359,166 @@ async function get_top_info(md_file_pathname, key){
     let tmp_line_info = all_content_line[i].trim();
     let value = "";
     if(tmp_line_info.indexOf(key) === 0){
-
       // console.log("tmp_line_info++++>>", tmp_line_info);
-
       tmp_line_info = tmp_line_info.replace(key, "");
       tmp_line_info = tmp_line_info.replace(":", "");
       tmp_line_info = tmp_line_info.trim();
       value = tmp_line_info;
+      return value;
+    }else{
       return value;
     }
   }
 }
 
 
+async function create_category_and_return_id (wordpress_token,name){
+
+  console.log("===>>>name", name);
+
+  let id = "";
+
+  try{
+
+  
+  id = await axios({
+    method:"post",
+    url: "https://www.v2fy.com/wp-json/wp/v2/categories",
+    headers: {
+      'Authorization': 'Bearer '+wordpress_token
+    },
+    data:{
+      "name": name,
+      "slug": name,
+      "parent": 0
+    }
+
+  }).then((res)=>{
+    // console.log("res_data--->>",res.data);
+    return new Promise((resolve, reject) => {
+      resolve(res.data.id);
+    })
+  })
+
+  
+
+
+ }catch(e){
+   console.log("eee===>>", e);
+ }
+
+
+  return id;
+
+
+
+}
+
+async function  get_categories_data (wordpress_token){
+
+  let categories_data = {};
+
+  console.log("token==>>",wordpress_token);
+
+  // 获取分类列表 https://example.com/wp-json/wp/v2/categories
+  let next = true;
+  let page = 0;
+  
+  while(next === true){
+
+    
+
+    page = page + 1;
+
+    console.log("page===", page);
+
+    await axios({
+      method: 'get',
+      url: 'https://www.v2fy.com/wp-json/wp/v2/categories',
+      headers: {
+        'Authorization': 'Bearer '+wordpress_token
+      },
+      data:{
+        page: page
+      }
+    }).then((res)=>{
+      return new Promise((resolve, reject)=>{
+        let data = res.data;
+        resolve(data);
+      })
+    }).then((res)=>{
+      return new Promise((resolve, reject) => {
+        let res_length = res.length;
+       
+
+        if(res_length < 10){
+          next  = false;
+        }
+
+        for(let i = 0; i<res_length; i++){
+          categories_data[res[i]["name"]] = res[i]["id"];
+        }
+
+        console.log("===>>", categories_data)
+
+        resolve(categories_data);
+      })
+  
+    })
+
+  }
+
+  console.log(categories_data);
+
+
+  return categories_data;
+
+
+
+}
+
+
+
+async function get_category_id(wordpress_token, category_str_list){
+
+  let categories_data = await get_categories_data(wordpress_token);
+  console.log("==category_str_list==>>>",category_str_list)
+  let result_id_list= [];
+
+
+  let category_str_list_length = category_str_list.length;
+
+  for(let m = 0; m<category_str_list_length; m++){
+
+    let tmp_id = categories_data[category_str_list[m]];
+
+    if(tmp_id){
+      result_id_list.push(tmp_id)
+
+    }else{
+
+      let new_id = await create_category_and_return_id(wordpress_token, category_str_list[m]);
+      result_id_list.push(new_id)
+    }
+
+  }
+
+  return result_id_list;
+
+
+ }
+  
+  
+
+
+
+
 async function main() {
   // 获取token
   let wordpress_token = await get_wordpress_token();
 
+  // 分类id列表
+  let category_id_list = await get_category_id(wordpress_token, category_list);
 
   // 获取md名与id的字典
   let md_filename_id_dic = await get_md_filename_id_dic()
@@ -354,17 +532,10 @@ async function main() {
     // 获取md文件信息
     let md_file_name_title_content = await get_md_file_name_title_content(all_md_file_pathname[i]);
 
-
-
     // 将文件信息注入wordpress
-    await sync_md_content_to_wordpress(wordpress_token, md_filename_id_dic, all_md_file_pathname[i], md_file_name_title_content);
+    await sync_md_content_to_wordpress(wordpress_token, md_filename_id_dic, all_md_file_pathname[i], md_file_name_title_content, category_id_list);
 
   }
-
-
-  
-
-
 
 
 }
