@@ -1,5 +1,7 @@
 # Summary
 * [编者序](README.md)
+* [065 《HTML5视频截图器》精确截取每一帧视频,让蔡徐坤动起来](/page/065_html5_jietu.md)
+* [064《浮图秀》优雅查看B站视频封](/page/064_photoshow.md)
 * [063《Picviewer CE+》功能丰富的网页看图神器](/page/063_picviewer_ce.md)
 * [062《彩云小译》一键实现网页中英文对照的翻译工具](/page/062_caiyun.md)
 * [061《ImageAssistant》图片助手批量图片下载器](/page/061-image-assistant.md)
