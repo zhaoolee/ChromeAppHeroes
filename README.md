@@ -53,6 +53,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [065 《HTML5视频截图器》精确截取每一帧视频,让蔡徐坤动起来](https://www.v2fy.com/p/065_html5_jietu/)
+
 - [064《浮图秀》优雅查看B站视频封面](https://www.v2fy.com/p/064_photoshow/)
 
 - [063《Picviewer CE+》功能丰富的网页看图神器](https://www.v2fy.com/p/063_picviewer-ce/)
@@ -239,6 +241,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+#### [065 《HTML5视频截图器》精确截取每一帧视频,让蔡徐坤动起来](https://www.v2fy.com/p/065_html5_jietu/)
+
+
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/you-game-008.gif)
+
+
+随着html5标准的日益推广, 支持html5播放器的视频网站也越来越多,能正确使用《HTML5视频截图器》,当你想要视频截图时,无需卡点点暂停按钮, 也可以精确截取每一帧的超清视频内容
 
 #### [064《浮图秀》优雅查看B站视频封面](https://www.v2fy.com/p/064_photoshow/)
 
