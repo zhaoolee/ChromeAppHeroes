@@ -1,5 +1,6 @@
 # Summary
 * [编者序](README.md)
+* [066 《PowerfulPixivDownloader》福利工具! Pixiv图片批量下载器](/page/066_powerful_pixiv_downloader.md)
 * [065 《HTML5视频截图器》精确截取每一帧视频,让蔡徐坤动起来](/page/065_html5_jietu.md)
 * [064《浮图秀》优雅查看B站视频封](/page/064_photoshow.md)
 * [063《Picviewer CE+》功能丰富的网页看图神器](/page/063_picviewer_ce.md)

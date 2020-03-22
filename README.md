@@ -53,6 +53,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [066 《PowerfulPixivDownloader》福利工具! Pixiv图片批量下载器](https://www.v2fy.com/p/066_powerful_pixiv_downloader/)
+
 - [065 《HTML5视频截图器》精确截取每一帧视频,让蔡徐坤动起来](https://www.v2fy.com/p/065_html5_jietu/)
 
 - [064《浮图秀》优雅查看B站视频封面](https://www.v2fy.com/p/064_photoshow/)
@@ -240,6 +242,16 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+####  [066 《PowerfulPixivDownloader》福利工具! Pixiv图片批量下载器](https://www.v2fy.com/p/066_powerful_pixiv_downloader/)
+
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/download.gif)
+
+
+PowerfulPixivDownloader是一个经典的定向爬虫小程序，对于Pixiv的爱好者简直是神器, 对新媒体工作者而言, 也是屯集图片的利器, 点一下按钮,几百张超清插画到手! 
+
+
 
 #### [065 《HTML5视频截图器》精确截取每一帧视频,让蔡徐坤动起来](https://www.v2fy.com/p/065_html5_jietu/)
 

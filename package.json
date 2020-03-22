@@ -9,6 +9,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "download": "^7.1.0",
+    "gitbook": "^2.6.9",
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-3-ba": "^0.9.0",
     "gitbook-plugin-ad": "0.0.4",
@@ -31,7 +32,7 @@
     "build": "gitbook install && gitbook build ./ ./docs",
     "pdf": "gitbook pdf ./ ./pdf",
     "bpush": "gitbook install && gitbook build ./ ./docs && git add . && git commit -m 'ok' && git push",
-    "push": "node push.js && gitbook build ./ ./docs && git add . && git commit -m 'ok' && git push"
+    "push": "node push.js  && git add . && git commit -m 'ok' && git push"
   },
   "repository": {
     "type": "git",
