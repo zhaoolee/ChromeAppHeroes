@@ -37,6 +37,6 @@ https://chrome.google.com/webstore/detail/bilibili%E5%93%94%E5%93%A9%E5%93%94%E5
 
 ![](https://www.v2fy.com/asset/067_bilibili_downloder/0006.png)
 
-##　小结
+## 小结
 
 《bilibili哔哩哔哩B站下载助手》是真正小而美的扩展程序，安装扩展程序后，点击页面底部按钮，打开折叠面板，然后只需点击下载按钮，即可完成完整整个视频下载，而且插件承诺永久免费，真的是良心软件!
