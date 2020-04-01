@@ -20,11 +20,22 @@ Bilibili有很优质的番剧，电影，纪录片，以及Up主们上传的精�
 下载后的视频格式为flv,如果你想通过Adobe Premiere ，对视频进行二次剪辑创作，可以通过格式工厂转换为mp4, 转换过程中，几乎没有任何画质损失
 
 
+## 如果你的下载过程不顺利
+
+![](https://www.v2fy.com/asset/067_bilibili_downloder/0004.png)
+
+在线手动合并工具：https://csser.top/bilibili/merge.html
+
+![](https://www.v2fy.com/asset/067_bilibili_downloder/0005.png)
+
+
 ## 《PowerfulPixivDownloader》下载地址:
 
 https://chrome.google.com/webstore/detail/bilibili%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/bfcbfobhcjbkilcbehlnlchiinokiijp
 
 官网离线包发布地址：https://csser.top/
+
+![](https://www.v2fy.com/asset/067_bilibili_downloder/0006.png)
 
 ##　小结
 
