@@ -53,6 +53,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [067 《bilibili哔哩哔哩B站下载助手》下载在B站可以观看的视频](https://www.v2fy.com/p/067_bilibili_downloader/)
+
 - [066 《PowerfulPixivDownloader》福利工具! Pixiv图片批量下载器](https://www.v2fy.com/p/066_powerful_pixiv_downloader/)
 
 - [065 《HTML5视频截图器》精确截取每一帧视频,让蔡徐坤动起来](https://www.v2fy.com/p/065_html5_jietu/)
@@ -243,6 +245,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+#### [067 《bilibili哔哩哔哩B站下载助手》下载在B站可以观看的视频](https://www.v2fy.com/p/067_bilibili_downloader/)
+
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/0001.gif)
+
+《bilibili哔哩哔哩B站下载助手》是真正小而美的扩展程序，安装扩展程序后，点击页面底部按钮，打开折叠面板，然后只需点击下载按钮，即可完成完整整个视频下载，而且插件承诺永久免费，真的是良心软件!
 
 ####  [066 《PowerfulPixivDownloader》福利工具! Pixiv图片批量下载器](https://www.v2fy.com/p/066_powerful_pixiv_downloader/)
 
