@@ -15,5 +15,4 @@ _book
 *.mobi
 *.pdf
 .DS_Store
-/.DS_Store
 up.js
