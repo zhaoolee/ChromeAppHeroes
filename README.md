@@ -241,6 +241,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 | 1.00 | Cloud 9 | 2019年4月5日 |
 | 0.20 | (未留姓名) | 2019年7月25日 |
 
+
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/jetbrains-variant-2.png)
+
+[感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
