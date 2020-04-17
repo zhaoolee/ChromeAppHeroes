@@ -20,6 +20,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ## 兄弟项目推广: [在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook)
 **🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~ [https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)**
 
+## 创意网站项目推广: [超赞网站宝典](https://github.com/zhaoolee/SuperWeb)
+
+**超赞网站宝典，是一本互联网旅游攻略，收录有创意/有矿藏的网站，编写有价值的推荐文, 展示网站内优质矿藏的位置，以及采矿车的操作技巧 [https://github.com/zhaoolee/SuperWeb](https://github.com/zhaoolee/SuperWeb)**
+
 ----
 
 ## 如何下载离线安装包
