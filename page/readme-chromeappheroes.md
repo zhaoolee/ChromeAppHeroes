@@ -201,7 +201,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![造福人类.png](https://www.v2fy.com/asset/README/60c92f0de3d44bb7a612d08e2e1f3d18.png)
 
+## Chrome扩展程序相关网站推荐
 
+
+[chajian5: 收藏好用的Chrome插件，不推荐评分低的还有多年不更新的插件。支持百度网盘和360云盘转存或下载，方便快捷。](https://www.chajian5.com/)
 
 
 
