@@ -53,6 +53,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [068《pakku 哔哩哔哩弹幕过滤器》提升你的哔哩哔哩弹幕体验](https://www.v2fy.com/p/068_pakku/)
+
 - [067 《bilibili哔哩哔哩B站下载助手》下载在B站可以观看的视频](https://www.v2fy.com/p/067_bilibili_downloader/)
 
 - [066 《PowerfulPixivDownloader》福利工具! Pixiv图片批量下载器](https://www.v2fy.com/p/066_powerful_pixiv_downloader/)
@@ -251,6 +253,16 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+#### [068《pakku 哔哩哔哩弹幕过滤器》提升你的哔哩哔哩弹幕体验](https://www.v2fy.com/p/068_pakku/)
+
+
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/pakku006.gif)
+
+Pakku是一个弹幕功能增强类的扩展工具，可以让我们欣赏弹幕的同时，又不被复读机刷屏
+Pakku借助弹幕频谱图实现了「高能进度条」的功能，以后刷一些视频的时候，可以放心的拖动进度条，跳过弹幕较少的区域，实现快速刷视频
+
 
 #### [067 《bilibili哔哩哔哩B站下载助手》下载在B站可以观看的视频](https://www.v2fy.com/p/067_bilibili_downloader/)
 
