@@ -53,6 +53,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [069《ublock origin》免除优酷，腾讯，爱奇艺，YouTube视频广告](https://www.v2fy.com/p/069_ublock_origin/)
+
 - [068《pakku 哔哩哔哩弹幕过滤器》提升你的哔哩哔哩弹幕体验](https://www.v2fy.com/p/068_pakku/)
 
 - [067 《bilibili哔哩哔哩B站下载助手》下载在B站可以观看的视频](https://www.v2fy.com/p/067_bilibili_downloader/)
@@ -253,6 +255,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ---
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [069《ublock origin》免除优酷，腾讯，爱奇艺，YouTube视频广告](https://www.v2fy.com/p/069_ublock_origin/)
+
+
+![](https://www.v2fy.com/asset/069_ublock_origin/001.gif)
+
+ublock_origin可以将60秒倒计时直接加速过滤掉，可以愉快的刷火影了
+
 
 
 #### [068《pakku 哔哩哔哩弹幕过滤器》提升你的哔哩哔哩弹幕体验](https://www.v2fy.com/p/068_pakku/)
