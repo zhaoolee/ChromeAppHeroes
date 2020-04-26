@@ -800,6 +800,8 @@ I need your support, I hope you can add a star 🌟 to this project.
 ![2.png](https://www.v2fy.com/asset/README/dc9ab48d958843c98f2a4c9336cff748.png)
 
 
-## 项目相关阅读
+## 相关资源链接
+
+[扩展程序离线下载](https://chrome-extension-downloader.com/)
 
 [Chrome扩展资源站点推荐](https://zhaoolee.com/ChromeAppHeroes/chrome_extended_resources_site.html)
