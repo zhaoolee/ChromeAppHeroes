@@ -1,5 +1,7 @@
 # Summary
 * [编者序](README.md)
+* [069《ublock origin》免除优酷，腾讯，爱奇艺，YouTube视频广告](/page/069_ublock_origin/)
+* [068《pakku 哔哩哔哩弹幕过滤器》提升你的哔哩哔哩弹幕体验](/page/068_pakku.md/)
 * [067 《Bilibili哔哩哔哩B站下载助手》下载在B站可以观看的视频](/page/067_bilibili_downloader.md)
 * [066 《PowerfulPixivDownloader》福利工具! Pixiv图片批量下载器](/page/066_powerful_pixiv_downloader.md)
 * [065 《HTML5视频截图器》精确截取每一帧视频,让蔡徐坤动起来](/page/065_html5_jietu.md)
