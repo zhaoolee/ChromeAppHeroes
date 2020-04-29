@@ -29,10 +29,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 国内用户: 在公众号 `0加1` 后台回复`ChromeAppHeroes离线安装包` 即可获取
 
-![0加1](https://www.v2fy.com/asset/README/tom.gif)
+![0加1](https://www.v2fy.com/asset/qr/jikemiji.png)
 
 
-公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新ChromeAppHeroes (Chrome插件英雄榜) , 欢迎关注~
+公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) , 欢迎关注~
 
 
 
