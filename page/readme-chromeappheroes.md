@@ -22,6 +22,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ----
 
+
 ## 如何下载离线安装包
 
 海外用户: 在文件夹[backup](https://github.com/zhaoolee/ChromeAppHeroes/tree/master/backup) 内可以找到ChromeAppHeroes所有离线安装包
