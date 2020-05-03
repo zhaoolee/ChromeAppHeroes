@@ -55,6 +55,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [070《网盘助手》网盘万能钥匙,自定义提取码,获取文件下载直链](https://www.v2fy.com/p/070_pan_zhushou/)
+
 - [069《ublock origin》免除优酷，腾讯，爱奇艺，YouTube视频广告](https://www.v2fy.com/p/069_ublock_origin/)
 
 - [068《pakku 哔哩哔哩弹幕过滤器》提升你的哔哩哔哩弹幕体验](https://www.v2fy.com/p/068_pakku/)
@@ -386,6 +388,15 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [070《网盘助手》网盘万能钥匙,自定义提取码,获取文件下载直链](https://www.v2fy.com/p/070_pan_zhushou/)
+
+
+![](https://www.v2fy.com/asset/070-pan/001.gif)
+
+不启用网盘助手的浏览器窗口, 需要手动输入提取码
+
+启用网盘助手的浏览器窗口, 提取码会自动填充
 
 #### [069《ublock origin》免除优酷，腾讯，爱奇艺，YouTube视频广告](https://www.v2fy.com/p/069_ublock_origin/)
 
