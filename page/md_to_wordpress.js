@@ -218,7 +218,7 @@ async function update_post(
   let id = md_file_name_title_content["id"];
 
 
-  let converter = new showdown.Converter({tables: true}),
+  let converter = new showdown.Converter({tables: true, omitExtraWLInCodeBlocks: true}),
     html_content = converter.makeHtml(content);
 
   let data = {
