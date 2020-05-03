@@ -393,6 +393,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![](https://www.v2fy.com/asset/070-pan/070-pan001.gif)
 
+
+
 不启用网盘助手的浏览器窗口, 需要手动输入提取码
 
 启用网盘助手的浏览器窗口, 提取码会自动填充
