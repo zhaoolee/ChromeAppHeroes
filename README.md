@@ -30,8 +30,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 国内用户: 在公众号 `0加1` 后台回复`ChromeAppHeroes离线安装包` 即可获取
 
-![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/jikemiji.png)
+## 内容同步更新到公众号「0加1」
 
+![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/jikemiji.png)
 
 公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) , 欢迎关注~
 
@@ -206,54 +207,174 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/60c92f0de3d44bb7a612d08e2e1f3d18.png)
 
-## Chrome扩展程序相关网站推荐
-
-
-[chajian5: 收藏好用的Chrome插件，不推荐评分低的还有多年不更新的插件。支持百度网盘和360云盘转存或下载，方便快捷。](https://www.chajian5.com/)
 
 
 
-## 如果本项目对你有帮助,请作者喝杯咖啡吧~(微信打赏)
+## 赞助打赏
 
-![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/c4fdea49e11241e392d6bcaa33855897.png)
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/3qr.png)
 
-| 赞赏金额 | 赞赏者(微信名) | 赞赏时间|
+
+
+| 赞赏金额 | 赞赏者 | 赞赏时间 |
 | --- | --- | --- |
-| 20.00 | (未留姓名) | 2019年8月2日 |
-| 20.00 | (未留姓名) | 2019年7月11日 |
-| 12.34 | 张明辉 | 2019年8月20日 |
-| 10.00 | 六小登登 | 2019年9月5日 |
-| 10.00 | 云淡风晴 | 2019年7月24日 |
-| 10.00 | 金三古月 | 2019年6月2日 |
-| 10.00 | Azuno | 2019年6月1日 |
-| 10.00 | 邦妥 | 2019年5月22日 |
-| 5.00 | enjoy life | 2019年9月20日 |
-| 5.00 | L__hoo原 | 2019年9月20日 |
-| 5.00 | 梦想旅程(公众号:苏生不惑) | 2019年9月14日 |
-| 5.00 | 1111 | 2019年7月27日 |
-| 5.00 | 那都不重要 | 2019年5月19日 |
-| 5.00 | Lismg | 2019年6月5日 |
-| 5.00 | small胖 | 2019年7月9日 |
-| 2.00 | 良辰美 | 2019年7月20日 |
-| 2.00 | @Coolstar | 2019年7月6日 |
-| 1.00 | (未留姓名) | 2019年9月26日 |
-| 1.00 | 夏天的小虫子 | 2019年9月23日 |
-| 1.00 | (未留姓名) | 2019年7月26日 |
-| 1.00 | 17 | 2019年7月12日 |
-| 1.00 | (未留姓名) | 2019年6月13日 |
-| 1.00 | Walter Wu | 2019年6月1日 |
-| 1.00 | Joseph | 2019年4月24日 |
-| 1.00 | (未留姓名) | 2019年4月12日 |
-| 1.00 | 于云鹏Edward | 2019年4月12日 |
-| 1.00 | 黄金星 | 2019年4月11日 |
-| 1.00 | Cloud 9 | 2019年4月5日 |
-| 0.20 | (未留姓名) | 2019年7月25日 |
+| 1.00 | 萧磊 | 2020-01-02 |
+| 1.00 | 锦饭 | 2019-12-15 |
+| 1.00 | 王世文 | 2019-11-22 |
+| 10.00 | 贺乾明 | 2019-11-20 |
+| 20.00 | 张明辉 | 2019-11-16 |
+| 20.00 | Sakura0428 | 2019-11-02 |
+| 1.00 | (未留姓名) | 2019-09-26 |
+| 1.00 | 夏天的小虫子 | 2019-09-23 |
+| 20.00 | enjoy lift | 2019-09-20 |
+| 5.00 | L__hoo原 | 2019-09-20 |
+| 5.00 | 半岛铁盒 | 2019-09-14 |
+| 10.00 | 六小登登 | 2019-09-05 |
+| 12.34 | 张明辉 | 2019-08-20 |
+| 20.00 | (未留姓名) | 2019-08-02 |
+| 20.00 | (未留姓名) | 2019-07-11 |
 
+<details>
+<summary>展开查看</summary>
+<pre><code>
+<table>
+<thead>
+</thead>
+<tbody>
+
+<tr>
+<td>12.34</td>
+<td>张明辉</td>
+<td>2019年8月20日</td>
+</tr>
+<tr>
+<td>10.00</td>
+<td>六小登登</td>
+<td>2019年9月5日</td>
+</tr>
+<tr>
+<td>10.00</td>
+<td>云淡风晴</td>
+<td>2019年7月24日</td>
+</tr>
+<tr>
+<td>10.00</td>
+<td>金三古月</td>
+<td>2019年6月2日</td>
+</tr>
+<tr>
+<td>10.00</td>
+<td>Azuno</td>
+<td>2019年6月1日</td>
+</tr>
+<tr>
+<td>10.00</td>
+<td>邦妥</td>
+<td>2019年5月22日</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>enjoy life</td>
+<td>2019年9月20日</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>L__hoo原</td>
+<td>2019年9月20日</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>梦想旅程(公众号:苏生不惑)</td>
+<td>2019年9月14日</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>1111</td>
+<td>2019年7月27日</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>那都不重要</td>
+<td>2019年5月19日</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>Lismg</td>
+<td>2019年6月5日</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>small胖</td>
+<td>2019年7月9日</td>
+</tr>
+<tr>
+<td>2.00</td>
+<td>良辰美</td>
+<td>2019年7月20日</td>
+</tr>
+<tr>
+<td>2.00</td>
+<td>@Coolstar</td>
+<td>2019年7月6日</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>(未留姓名)</td>
+<td>2019年9月26日</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>夏天的小虫子</td>
+<td>2019年9月23日</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>(未留姓名)</td>
+<td>2019年7月26日</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>17</td>
+<td>2019年7月12日</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>(未留姓名)</td>
+<td>2019年6月13日</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>Walter Wu</td>
+<td>2019年6月1日</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>Joseph</td>
+<td>2019年4月24日</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>(未留姓名)</td>
+<td>2019年4月12日</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>于云鹏Edward</td>
+<td>2019年4月12日</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>黄金星</td>
+<td>2019年4月11日</td>
+</tr>
+</tbody>
+</table>
+</code></pre>
+</details>
 
 ![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/jetbrains-variant-2.png)
 
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
----
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
@@ -793,8 +914,20 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 ---
 
 
-** emm... [从官方商店下载Chrome插件的方法](https://zhaoolee.com/ChromeAppHeroes/download_the_chrome_extension_from_the_store.html)**
+**[从官方商店下载Chrome插件的方法](https://zhaoolee.com/ChromeAppHeroes/download_the_chrome_extension_from_the_store.html)**
 
+
+## 相关资源链接
+
+[扩展程序离线下载](https://chrome-extension-downloader.com/)
+
+[Chrome扩展资源站点推荐](https://zhaoolee.com/ChromeAppHeroes/chrome_extended_resources_site.html)
+
+
+## Chrome扩展程序相关网站推荐
+
+
+[chajian5: 收藏好用的Chrome插件，不推荐评分低的还有多年不更新的插件。支持百度网盘和360云盘转存或下载，方便快捷。](https://www.chajian5.com/)
 
 **Chrome插件英雄榜** Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 我需要你的支持, 希望你能为本项目填加一个 🌟星.
@@ -809,8 +942,3 @@ I need your support, I hope you can add a star 🌟 to this project.
 ![2.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/dc9ab48d958843c98f2a4c9336cff748.png)
 
 
-## 相关资源链接
-
-[扩展程序离线下载](https://chrome-extension-downloader.com/)
-
-[Chrome扩展资源站点推荐](https://zhaoolee.com/ChromeAppHeroes/chrome_extended_resources_site.html)
