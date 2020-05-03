@@ -241,7 +241,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 <details>
 <summary>点击展开历史捐赠</summary>
-<pre><code>
+<pre>
+<code>
 <table>
 <thead>
 </thead>
@@ -378,7 +379,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 </tr>
 </tbody>
 </table>
-</code></pre>
+</code>
+</pre>
 </details>
 
 ![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/jetbrains-variant-2.png)
