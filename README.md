@@ -30,12 +30,6 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 国内用户: 在公众号 `0加1` 后台回复`ChromeAppHeroes离线安装包` 即可获取
 
-## 内容同步更新到公众号「0加1」
-
-![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/jikemiji.png)
-
-公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) , 欢迎关注~
-
 
 
 ## 项目新增CN服务器
@@ -210,12 +204,17 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/60c92f0de3d44bb7a612d08e2e1f3d18.png)
 
 
+## 内容同步更新到公众号「0加1」
+
+![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/jikemiji.png)
+
+公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) , 欢迎关注~
+
 
 
 ## 赞助打赏
 
 ![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/3qr.png)
-
 
 
 | 赞赏金额 | 赞赏者 | 赞赏时间 |
