@@ -393,7 +393,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 #### [070《网盘助手》网盘万能钥匙,自定义提取码,获取文件下载直链](https://www.v2fy.com/p/070_pan_zhushou/)
 
 
-![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/001.gif)
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/070-pan001.gif)
+
+
 
 不启用网盘助手的浏览器窗口, 需要手动输入提取码
 
