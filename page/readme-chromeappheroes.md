@@ -382,6 +382,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 </pre>
 </details>
 
+
+
 ![](https://www.v2fy.com/asset/jetbrain/jetbrains-variant-2.png)
 
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
