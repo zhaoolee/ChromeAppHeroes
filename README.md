@@ -211,7 +211,6 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) , 欢迎关注~
 
 
-
 ## 赞助打赏
 
 ![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/3qr.png)
