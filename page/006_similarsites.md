@@ -43,9 +43,9 @@ title: 006《SimilarSites》 一键查找姊妹网站 SimilarSites
 > ![](https://www.v2fy.com/asset/006_similarsites/5523acd8a418457583672677e33b3348.png)
 
 ## 插件下载地址:
-https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn
 
----
+[https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn](https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn)
+
 
 ## 写在最后(我需要你的支持)
 - 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)

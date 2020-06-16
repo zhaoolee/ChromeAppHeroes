@@ -59,7 +59,9 @@ title: 019《MEGA》网盘可以良心到什么程度? 试试MEGA吧!
 
 
 ## 插件下载地址
-https://chrome.google.com/webstore/detail/mega/bigefpfhnfcobdlfbedofhhaibnlghod
+
+
+[https://chrome.google.com/webstore/detail/mega/bigefpfhnfcobdlfbedofhhaibnlghod](https://chrome.google.com/webstore/detail/mega/bigefpfhnfcobdlfbedofhhaibnlghod)
 
 ---
 

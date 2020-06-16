@@ -68,10 +68,8 @@ https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdem
 ## 对其它浏览器的支持 / Support for other browsers
 
 | FireFox | Safari | Opera |
-| - | - | - |
-| NoSupport | NoSupport | NoSupport | 
-
----
+| --- | --- | --- |
+| NoSupport | NoSupport | NoSupport |
 
 ## 写在最后(我需要你的支持) / At the end (I need your support)
 

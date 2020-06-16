@@ -25,9 +25,9 @@ title: 007《loom》 Chrome翻录网页视频神器
 - loom相对于国内的抖音等短视频平台,门槛要更高一些, 当然, 也可以录制出很专业的教学视频, 分享有价值的资源
 
 ## 插件下载地址:
-https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb
+[https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb)
 
----
+
 
 ## 写在最后(我需要你的支持)
 - 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)

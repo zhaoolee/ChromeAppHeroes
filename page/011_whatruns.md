@@ -30,20 +30,23 @@ title: 011 《whatruns》一键分析网站技术栈
 
 
 ## 小结:
+
+
 分析别人的网站, 能让我们更快的了解前端技术的变化,对于分析网站这种工作, 能用程序做, 就不要手动来, 毕竟程序又不会累
 
 
 ---
 
 ## 插件下载地址:
-https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip
+
+[https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
 
 ## 对其它浏览器的支持
 
 | FireFox |
-| - |
+| --- |
 | [支持](https://www.whatruns.com/downloads/) | 
----
+
 
 ## 写在最后(我需要你的支持)
 - 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)

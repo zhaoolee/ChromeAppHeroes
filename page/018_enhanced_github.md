@@ -32,7 +32,7 @@ title: 018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单
 
 ## 插件下载地址
 
-https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd/related
+[https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd/related](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd/related)
 
 ## 开源地址
 

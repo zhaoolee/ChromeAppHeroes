@@ -46,7 +46,7 @@ https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnf
 ## 对其它浏览器的支持 / Support for other browsers
 
 | FireFox | Safari | Opera |
-| - | - | - |
+| --- | --- | --- |
 | NoSupport | NoSupport | NoSupport | 
 
 

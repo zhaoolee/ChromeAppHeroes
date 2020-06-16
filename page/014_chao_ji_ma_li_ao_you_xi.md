@@ -33,7 +33,8 @@ title: 014《超级马里奥游戏》Chrome变身小霸王
 以前想玩经典红白机游戏, 还需要安装模拟器, 或者到一些小游戏网站, 在一片广告弹窗中玩flash游戏 ,有了这个Chrome扩展, 可以很方便安装和玩耍经典小游戏了~
 
 ## 插件下载地址
-https://chrome.google.com/webstore/detail/super-mario-game/pefcballkadhkhjialafhaoeidhnfefl
+
+[https://chrome.google.com/webstore/detail/super-mario-game/pefcballkadhkhjialafhaoeidhnfefl](https://chrome.google.com/webstore/detail/super-mario-game/pefcballkadhkhjialafhaoeidhnfefl)
 
 
 ---

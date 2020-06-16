@@ -30,12 +30,13 @@ title: 010《speedtest》网络测速插件speedtest
 - 我最近发现，我的 mac 里一直没有安装测试网速的软件，我的工作也没有受到任何的影响，记得360全家桶刚流行起来的时候，动不动就引导你去测个速，现在想想也真是够蛋疼的，把一个低频的需求，强行安利给用户， 骗走用户流量的同时，也骗走了用户的时间，好像这种做法和当前风头正盛的主打“小视频” app 们有点像呢~
 
 ## 插件下载地址
-https://chrome.google.com/webstore/detail/speedtest-by-ookla/pgjjikdiikihdfpoppgaidccahalehjh
+
+[https://chrome.google.com/webstore/detail/speedtest-by-ookla/pgjjikdiikihdfpoppgaidccahalehjh](https://chrome.google.com/webstore/detail/speedtest-by-ookla/pgjjikdiikihdfpoppgaidccahalehjh)
 
 ## 其它平台支持
 
 | iOS | Android | Mac | Windows | Apple Tv |
-| - | - | - | - | - |
+| --- | --- | --- | --- | --- |
 | [支持](https://www.speedtest.net/apps/ios) | [Google Play](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest&hl=en)/[Amazon](https://www.amazon.com/Ookla-Speedtest-net-Mobile-Speed-Test/dp/B00F9F1G4U) | [支持](https://itunes.apple.com/us/app/speedtest-by-ookla/id1153157709?mt=12) | [支持](https://www.microsoft.com/zh-cn/p/speedtest-by-ookla/9nblggh4z1jc) | [支持](https://www.speedtest.net/apps/appletv) |
 ---
 

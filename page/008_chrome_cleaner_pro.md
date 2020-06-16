@@ -16,6 +16,8 @@ title: 008《Chrome Cleaner Pro》为Chrome加速
 > ![](https://www.v2fy.com/asset/008_chrome_cleaner_pro/bc1b9558c87a423abca709de742826e8.png)
 
 ## 使用方法:
+
+
 - 单击扩展图标:
 
 > ![](https://www.v2fy.com/asset/008_chrome_cleaner_pro/c39d0727962f4d8cada9975c72c04820.png)
@@ -42,7 +44,7 @@ title: 008《Chrome Cleaner Pro》为Chrome加速
 
 ## 插件下载地址
 
-https://chrome.google.com/webstore/detail/chrome-cleaner-pro/ccjleegmemocfpghkhpjmiccjcacackp
+[https://chrome.google.com/webstore/detail/chrome-cleaner-pro/ccjleegmemocfpghkhpjmiccjcacackp](https://chrome.google.com/webstore/detail/chrome-cleaner-pro/ccjleegmemocfpghkhpjmiccjcacackp)
 
 
 ---

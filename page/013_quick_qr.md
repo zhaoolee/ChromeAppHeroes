@@ -48,7 +48,7 @@ title: 013《Quick QR》用二维码实现云粘贴
 
 [https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp)
 
----
+
 
 ## 写在最后\(我需要你的支持\)
 

@@ -55,7 +55,8 @@ title: 012《OurStickys》Chrome特色网页便签纸
 - OurStickys是一款不错的标签应用, 特色功能很棒, 非特色的功能都不同程度的进行了重新设计, 不给用户太多的选择, 如果支持国内的站点授权登录, 或许可以吸引更多的国内用户.
 
 ## 插件下载地址:
-https://chrome.google.com/webstore/detail/ourstickys-sticky-notes-o/oficbemndigeiiennldcdfcklocpkggd
+
+[https://chrome.google.com/webstore/detail/ourstickys-sticky-notes-o/oficbemndigeiiennldcdfcklocpkggd](https://chrome.google.com/webstore/detail/ourstickys-sticky-notes-o/oficbemndigeiiennldcdfcklocpkggd)
 
 ---
 

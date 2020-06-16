@@ -42,49 +42,31 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.space/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验,[http://bit.ly/2SFzVcg](http://bit.ly/2SFzVcg]) 
 
-
 ----
 
 
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [071《Color Tab》色彩猎人优质配色提升你的审美](https://www.v2fy.com/p/071_color_tab/)
 - [070《网盘助手》网盘万能钥匙,自定义提取码,获取文件下载直链](https://www.v2fy.com/p/070_pan_zhushou/)
-
 - [069《ublock origin》免除优酷，腾讯，爱奇艺，YouTube视频广告](https://www.v2fy.com/p/069_ublock_origin/)
-
 - [068《pakku 哔哩哔哩弹幕过滤器》提升你的哔哩哔哩弹幕体验](https://www.v2fy.com/p/068_pakku/)
-
 - [067 《bilibili哔哩哔哩B站下载助手》下载在B站可以观看的视频](https://www.v2fy.com/p/067_bilibili_downloader/)
-
 - [066 《PowerfulPixivDownloader》福利工具! Pixiv图片批量下载器](https://www.v2fy.com/p/066_powerful_pixiv_downloader/)
-
 - [065 《HTML5视频截图器》精确截取每一帧视频,让蔡徐坤动起来](https://www.v2fy.com/p/065_html5_jietu/)
-
 - [064《浮图秀》优雅查看B站视频封面](https://www.v2fy.com/p/064_photoshow/)
-
 - [063《Picviewer CE+》功能丰富的网页看图神器](https://www.v2fy.com/p/063_picviewer-ce/)
-
 - [062《彩云小译》一键实现网页中英文对照的翻译工具](https://www.v2fy.com/p/062_caiyun/)
-
 - [061《ImageAssistant》图片助手批量图片下载器](https://www.v2fy.com/p/061-image-assistant/)
-
 - [060《Tabagotchi》为减缓全球变暖做出贡献](https://www.v2fy.com/p/060_tabagotchi/)
-
 - [059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标](https://www.v2fy.com/p/059_page_speed_insight_and_check_list/)
-
 - [058《IP-Address》快速查看当前设备IP](https://www.v2fy.com/p/058_ip_address/) 
-
 - [057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式](https://www.v2fy.com/p/057_webp_save_as_png/)
-
 - [056《Search》为Chrome设置搜索引擎关键词](https://www.v2fy.com/p/056_search/)
-
 - [055《Keylines》为网页元素添加随机描边颜色](https://www.v2fy.com/p/055_keylines/)
-
 - [054《二箱 以图搜图》让你在搜图方面随心所欲（为所欲为）](https://www.v2fy.com/p/054_er_xiang_yi_tu_sou_tu/)
-
 - [053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效](https://www.v2fy.com/p/053_shu_biao_dian_ji_te_xiao/)
-
 - [052《Site Palette》自动提取网站配色](https://www.v2fy.com/p/052_site_palette/)
 
 
@@ -389,6 +371,20 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+
+
+
+
+#### [071《Color Tab》色彩猎人优质配色提升你的审美](https://www.v2fy.com/p/071_color_tab/)
+
+![nice](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/nice.gif)
+
+
+
+Color Tab在众多标签页扩展程序中独辟蹊径, 用优质的配色方案, 潜移默化提升用户的审美, 并通过扩展程序为网站引流, 让优质的配色理念深入人心, 算的上一款小众且优雅的应用
+
+
+
 #### [070《网盘助手》网盘万能钥匙,自定义提取码,获取文件下载直链](https://www.v2fy.com/p/070_pan_zhushou/)
 
 
@@ -644,7 +640,7 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 
 #### [038《Alexa Traffic Rank》一键查看网站全球排名](https://www.v2fy.com/p/038_alexa_traffic_rank/)
 
-> ![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/fcefd45a5cc74e4c824f567535f79c5c.webp)
+> ![](https://www.v2fy.com/asset/README/fcefd45a5cc74e4c824f567535f79c5c.webp)
 
 > Alexa给出的网站排名, 是目前公认最具参考价值的排名, 打开一个新站点, 查一下新站点的Alexa排名, 以及与它类似的站点, 让我们很快对新站点的定位, 有一个大致的认知~
 
@@ -908,7 +904,6 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 > ![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/fc5de2eb22184a138c618728cfb40ede.gif)
 
 > 有了markdown-here这个插件, 可以在网页版 QQ邮箱, Gmail, 新浪头条文章, 里面使用mardown格式进行书写,然后一键转换为富文本
-
 
 ---
 

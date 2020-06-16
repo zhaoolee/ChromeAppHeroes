@@ -33,9 +33,8 @@ title: 005《Video Speed Controller》 刷课（刷剧）神器！给网页视�
 
 ## 插件下载地址:
 
-https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-ntp-icon
+[https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-ntp-icon](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-ntp-icon)
 
----
 
 ## 写在最后(我需要你的支持)
 - 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
