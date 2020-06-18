@@ -48,6 +48,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [072《OneNote Web Clipper》微软免费跨平台笔记OneNote扩展程序](https://www.v2fy.com/p/072_one_note_web_clipper/)
 - [071《Color Tab》色彩猎人优质配色提升你的审美](https://www.v2fy.com/p/071_color_tab/)
 - [070《网盘助手》网盘万能钥匙,自定义提取码,获取文件下载直链](https://www.v2fy.com/p/070_pan_zhushou/)
 - [069《ublock origin》免除优酷，腾讯，爱奇艺，YouTube视频广告](https://www.v2fy.com/p/069_ublock_origin/)
@@ -373,7 +374,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
+#### [072《OneNote Web Clipper》微软免费跨平台笔记OneNote扩展程序](https://www.v2fy.com/p/072_one_note_web_clipper/)
 
+![on002](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/readme-chromeappheroes.assets/on002.gif)
 
 #### [071《Color Tab》色彩猎人优质配色提升你的审美](https://www.v2fy.com/p/071_color_tab/)
 
