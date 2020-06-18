@@ -376,7 +376,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 #### [072《OneNote Web Clipper》微软免费跨平台笔记OneNote扩展程序](https://www.v2fy.com/p/072_one_note_web_clipper/)
 
-![on002](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/on002.gif)
+![on003](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/on003.gif)
+
+OneNote Web Clipper是OneNote配套的扩展工具，以多种方式从网页采集素材，并自动保存到OneNote任意笔记本
+
+
+
+
 
 #### [071《Color Tab》色彩猎人优质配色提升你的审美](https://www.v2fy.com/p/071_color_tab/)
 
