@@ -48,7 +48,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
-- [073《Chrome Better History》如何让Chrome历史记录更好用?](https://www.v2fy.com/p/073_chrome_better_history/)
+- [073《Chrome Better History》如何让Chrome查找历史记录更方便?](https://www.v2fy.com/p/073_chrome_better_history/)
 
 - [072《OneNote Web Clipper》微软免费跨平台笔记OneNote扩展程序](https://www.v2fy.com/p/072_one_note_web_clipper/)
 - [071《Color Tab》色彩猎人优质配色提升你的审美](https://www.v2fy.com/p/071_color_tab/)
@@ -376,7 +376,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
-####  [073《Chrome Better History》如何让Chrome历史记录更好用?](https://www.v2fy.com/p/073_chrome_better_history/)
+####  [073《Chrome Better History》如何让Chrome查找历史记录更方便?](https://www.v2fy.com/p/073_chrome_better_history/)
 
 
 
