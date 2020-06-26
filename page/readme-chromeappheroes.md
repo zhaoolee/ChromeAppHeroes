@@ -48,6 +48,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [073《Chrome Better History》如何让Chrome历史记录更好用?](https://www.v2fy.com/p/073_chrome_better_history/)
+
 - [072《OneNote Web Clipper》微软免费跨平台笔记OneNote扩展程序](https://www.v2fy.com/p/072_one_note_web_clipper/)
 - [071《Color Tab》色彩猎人优质配色提升你的审美](https://www.v2fy.com/p/071_color_tab/)
 - [070《网盘助手》网盘万能钥匙,自定义提取码,获取文件下载直链](https://www.v2fy.com/p/070_pan_zhushou/)
@@ -371,6 +373,20 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+
+####  [073《Chrome Better History》如何让Chrome历史记录更好用?](https://www.v2fy.com/p/073_chrome_better_history/)
+
+
+
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/readme-chromeappheroes.assets/c001-20200626173618792.gif)
+
+
+
+
+
+Chrome Better History用日历的方式给历史记录加了索引, 实现一键直达任意日期的历史记录, 功能实用, 查找效率极大提升
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 073《Chrome Better History》让Chrome历史记录更好用
+title: 073《Chrome Better History》如何让Chrome历史记录更好用?
 ---
 
 Chrome查询**历史记录**功能非常简洁, 支持输入关键词查找网页,  但Chrome为了节省空间, 只存储了历史网页的标题(title), 并没有存储全文, 所以即使用户输入网页内部的关键词, 也查不到对应的内容
@@ -22,7 +22,7 @@ Chrome查询**历史记录**功能非常简洁, 支持输入关键词查找网�
 
 
 
-Chrome Better History用日历的方式给历史记录加了索引, 实现一键直达任意日期的历史记录, 功能实用, 搜索效率极大提升
+Chrome Better History用日历的方式给历史记录加了索引, 实现一键直达任意日期的历史记录, 功能实用, 查找效率极大提升
 
 
 
