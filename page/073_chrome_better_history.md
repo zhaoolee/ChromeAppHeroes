@@ -40,7 +40,9 @@ https://chrome.google.com/webstore/detail/chrome-better-history/aadbaagbanfijdnf
 
 
 
-用日历的形式为历史记录加索引, 比Chrome官方纯粹时间轴滚动, 更有效率, 但查历史记录并非可靠的找素材方式, 如果在看网页的同时, 一键保存网页内容到OneNote笔记本, 未来查找材料效率要更高, 毕竟保存时已经做了内容筛选, 而OneNote还支持图片文字识别,如果你对OneNote的Chrome插件感兴趣,欢迎查看[《OneNote Web Clipper》微软免费跨平台笔记OneNote扩展程序](https://www.v2fy.com/p/072_one_note_web_clipper/)
+用日历的形式为历史记录加索引, 比Chrome官方提供的时间轴滚动, 更有效率, 对于普通用户也已经够用了
+
+如果你是一个新媒体工作者, 历史记录并非可靠的查找素材方式(清理电脑, 历史记录就没了), 这里推荐一款微软出品的免费工具, [《OneNote Web Clipper》微软免费跨平台笔记OneNote扩展程序](https://www.v2fy.com/p/072_one_note_web_clipper/) ,可以一键保存网页内容到OneNote笔记本, 内容不会丢失, OneNote还支持图片文字识别, 未来查找材料效率要更高 
 
 
 
