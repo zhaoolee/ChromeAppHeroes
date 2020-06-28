@@ -48,7 +48,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
-- [074《破解右键锁》如何自由复制百度文档网页?](https://www.v2fy.com/p/074-enable-right-click/)
+- [074《破解右键锁》如何自由复制百度文库网页内容?](https://www.v2fy.com/p/074-enable-right-click/)
 
 - [073《Chrome Better History》如何让Chrome查找历史记录更方便?](https://www.v2fy.com/p/073_chrome_better_history/)
 
@@ -378,7 +378,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
-#### [074《破解右键锁》如何自由复制百度文档网页?](https://www.v2fy.com/p/074-enable-right-click/)
+#### [074《破解右键锁》如何自由复制百度文库网页内容?](https://www.v2fy.com/p/074-enable-right-click/)
 
 ![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/readme-chromeappheroes.assets/yj.gif)
 
