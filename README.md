@@ -48,6 +48,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [074《破解右键锁》如何自由复制百度文档网页?](https://www.v2fy.com/p/074-enable-right-click/)
+
 - [073《Chrome Better History》如何让Chrome查找历史记录更方便?](https://www.v2fy.com/p/073_chrome_better_history/)
 
 - [072《OneNote Web Clipper》微软免费跨平台笔记OneNote扩展程序](https://www.v2fy.com/p/072_one_note_web_clipper/)
@@ -375,6 +377,16 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
 
+
+#### [074《破解右键锁》如何自由复制百度文档网页?](https://www.v2fy.com/p/074-enable-right-click/)
+
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/yj.gif)
+
+
+
+网页禁止右键复制的功能, 根本防不住开发者, 打开开发者工具, 一切内容尽收眼底
+
+而破解右键锁这款工具, 可以让普通吃瓜群众,也能轻易破解右键锁
 
 ####  [073《Chrome Better History》如何让Chrome查找历史记录更方便?](https://www.v2fy.com/p/073_chrome_better_history/)
 
