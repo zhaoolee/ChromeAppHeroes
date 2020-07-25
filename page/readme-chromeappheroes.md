@@ -48,6 +48,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [075《Link to Text Fragment》这款谷歌发布的分享工具，让3万新媒体人直呼绝活儿…](https://www.v2fy.com/p/075-link-to-text-fragment/)
+
 - [074《破解右键锁》如何自由复制百度文库网页内容?](https://www.v2fy.com/p/074-enable-right-click/)
 
 - [073《Chrome Better History》如何让Chrome查找历史记录更方便?](https://www.v2fy.com/p/073_chrome_better_history/)
@@ -376,6 +378,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+#### [075《Link to Text Fragment》这款谷歌发布的分享工具，让3万新媒体人直呼绝活儿…](https://www.v2fy.com/p/075-link-to-text-fragment/)
+
+
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/075-link-to-text-fragment.assets/strip.gif)
+
+Link to Text Fragment是一个让人眼前一亮的插件，它使用简单，效果明显，以链接的方式存储引用的文字，低版本浏览器也能顺利打开网页，对于写技术文的作者而言，堪称完美的引用方式。
 
 
 #### [074《破解右键锁》如何自由复制百度文库网页内容?](https://www.v2fy.com/p/074-enable-right-click/)
