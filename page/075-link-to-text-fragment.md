@@ -4,6 +4,18 @@ title: 075《Link to Text Fragment》 截图已经Out了！这款谷歌发布的
 
 
 
+[如果无法访问谷歌商店](https://www.v2fy.com/p/readme-chromeappheroes/#cn:~:text=%E4%BB%98%E8%B4%B9VPN%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90)
+
+**付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.work/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验,[https://bit.ly/2V0TXib](https://bit.ly/2V0TXib)   (这个VPN有几天试用期,如果只是临时访问谷歌商店,足够用了)
+
+
+
+---
+
+
+
+
+
 我们经常在网页看到一些有趣的内容，分享的形式往往是截图，但截图的的内容，不能直接拷贝为文字，而且截图不能找到出处，对新媒体工作者来说，极其不方便
 
 在Chrome 80版本以后，开始支持一种新的锚点语法，在网址后加`#__next:~:text=`再加`内容`, 即可将内容高亮显示在网页上，而让每个人记住以上语法，显然不现实，于是Google官方出了一款名为`Link to Text Fragment`的扩展程序，让分享高亮内容变得简单
