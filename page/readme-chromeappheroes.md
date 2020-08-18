@@ -48,7 +48,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
-- [076《Listen1》Chrome听付费歌曲工具！免费听周杰伦的歌，网易云音乐,QQ音乐,虾米音乐,酷狗,酷我,哔哩哔哩,咪咕,一个扩展全搞定]()
+- [076《Listen1》Chrome听付费歌曲工具！免费听周杰伦的歌，网易云音乐,QQ音乐,虾米音乐,酷狗,酷我,哔哩哔哩,咪咕,一个扩展全搞定](https://www.v2fy.com/p/076-listen1/)
 
 - [075《Link to Text Fragment》这款谷歌发布的分享工具，让3万新媒体人直呼绝活儿…](https://www.v2fy.com/p/075-link-to-text-fragment/)
 
@@ -379,6 +379,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [076《Listen1》Chrome听付费歌曲工具！免费听周杰伦的歌，网易云音乐,QQ音乐,虾米音乐,酷狗,酷我,哔哩哔哩,咪咕,一个扩展全搞定](https://www.v2fy.com/p/076-listen1/)
+
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/076-listen1.assets/076-listen1-mo.gif)
+
+有没有一款可以畅听国内音乐平台所有付费音乐的Chrome扩展？ 答案是有的！
 
 #### [075《Link to Text Fragment》这款谷歌发布的分享工具，让3万新媒体人直呼绝活儿…](https://www.v2fy.com/p/075-link-to-text-fragment/)
 
