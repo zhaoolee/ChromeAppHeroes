@@ -48,7 +48,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
-- [077《Sourcegraph》阮一峰大佬推荐的github单个仓库精确关键词搜索工具](https://www.v2fy.com/p/077-sourcegraph/)
+- [077《Sourcegraph》阮一峰大佬推荐的github仓库关键词搜索工具](https://www.v2fy.com/p/077-sourcegraph/)
 
 - [076《Listen1》Chrome听付费歌曲工具！免费听周杰伦的歌，网易云音乐,QQ音乐,虾米音乐,酷狗,酷我,哔哩哔哩,咪咕,一个扩展全搞定](https://www.v2fy.com/p/076-listen1/)
 
@@ -382,10 +382,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
-####  [077《Sourcegraph》阮一峰大佬推荐的github单个仓库精确关键词搜索工具](https://www.v2fy.com/p/077-sourcegraph/)
+####  [077《Sourcegraph》阮一峰大佬推荐的github仓库关键词搜索工具](https://www.v2fy.com/p/077-sourcegraph/)
 
-
-![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/Sourcegraph001.gif)
+![077-sourcegraph](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/077-sourcegraph.gif)
 
 
 #### [076《Listen1》Chrome听付费歌曲工具！免费听周杰伦的歌，网易云音乐,QQ音乐,虾米音乐,酷狗,酷我,哔哩哔哩,咪咕,一个扩展全搞定](https://www.v2fy.com/p/076-listen1/)
