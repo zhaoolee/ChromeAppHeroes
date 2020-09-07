@@ -1,5 +1,5 @@
 ---
-title: 077《Sourcegraph》阮一峰大佬推荐的github仓库内部搜索工具
+title: 077《Sourcegraph》阮一峰大佬推荐的github仓库关键词搜索工具
 ---
 
 Github是本星球最大的程序员社区, 里面不仅有代码, 还有大量的优质文章.
@@ -16,11 +16,17 @@ Github以**仓库**为单位对**开源项目**进行管理, 但github没有提�
 
 
 
-![Sourcegraph001](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/Sourcegraph001.gif)
+![077-sourcegraph](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/077-sourcegraph.gif)
+
+
 
 搜索结果非常精确,我投稿三次, 收录信息所在文件所在行, 都展现到搜索结果页面上
 
-![image-20200907104327664](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907104327664.png)
+
+
+![image-20200907141221722](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907141221722.png)
+
+
 
 
 科技爱好者周刊开源地址: [https://github.com/ruanyf/weekly](https://github.com/ruanyf/weekly)
@@ -33,7 +39,7 @@ Github以**仓库**为单位对**开源项目**进行管理, 但github没有提�
 
 
 
-![image-20200907104439251](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907104439251.png)
+![image-20200907141243771](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907141243771.png)
 
 
 
@@ -41,13 +47,17 @@ Github以**仓库**为单位对**开源项目**进行管理, 但github没有提�
 
 
 
-## 其实也可以不下载扩展工具,直接网页搜索
-
-![image-20200907105430173](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907105430173.png)
+## 如果不想下载扩展工具,也可以直接网页搜索
 
 
 
-如果你不想安装Sourcegraph扩展工具,只需进入 sourcegraph.com 模仿上图的格式,填入搜索信息,即可搜索github特定仓库的信息
+![077-sourcegraph-002](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/077-sourcegraph-002.gif)
+
+
+
+
+
+如果你不想安装Sourcegraph扩展工具,只需进入 [https://sourcegraph.com/search](https://sourcegraph.com/search 按照上图输入仓库名, 然后填入关键词即可
 
 
 
@@ -63,7 +73,7 @@ Github以**仓库**为单位对**开源项目**进行管理, 但github没有提�
 
 
 
-Sourcegraph是一款好用的仓库搜索工具, 有了它,  我们无需下载仓库到本地, 即可精确定位找到我们所需的信息,  极大提升github的浏览体验
+Sourcegraph是一款好用的仓库搜索工具, 有了它,  我们无需下载仓库到本地, 即可精确定位找到我们所需的信息,  极大提升github的浏览体验~
 
 
 
