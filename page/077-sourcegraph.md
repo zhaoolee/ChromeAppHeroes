@@ -6,7 +6,7 @@ Github是本星球最大的程序员社区, 里面不仅有代码, 还有大量�
 
 Github以**仓库**为单位对**开源项目**进行管理, 但github没有提供对单个仓库进行关键词在线搜索的功能.
 
-阮一峰大佬推荐了一款名为Sourcegraph的工具,对单个仓库的关键词进行搜索
+阮一峰大佬在其开源项目《科技爱好者周刊》推荐了一款名为Sourcegraph的工具,对单个仓库的关键词进行搜索
 
 ![image-20200907103902120](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907103902120.png)
 
@@ -38,6 +38,16 @@ Github以**仓库**为单位对**开源项目**进行管理, 但github没有提�
 
 
 搜索结果页面: [https://sourcegraph.com/search?q=repo:%5Egithub%5C.com/ruanyf/weekly%24+zhaoolee&patternType=literal](https://sourcegraph.com/search?q=repo:%5Egithub%5C.com/ruanyf/weekly%24+zhaoolee&patternType=literal)
+
+
+
+## 其实也可以不下载扩展工具,直接网页搜索
+
+![image-20200907105430173](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907105430173.png)
+
+
+
+如果你不想安装Sourcegraph扩展工具,只需进入 sourcegraph.com 模仿上图的格式,填入搜索信息,即可搜索github特定仓库的信息
 
 
 
