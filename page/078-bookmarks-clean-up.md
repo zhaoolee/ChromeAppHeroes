@@ -84,12 +84,6 @@ title: 078《Bookmarks clean up》高效清理重复和损坏的书签
 
 
 
-## 感谢投稿
-
-感谢网友GNR的投稿
-
-![image-20200910112314169](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/image-20200910112314169.png)
-
 
 
 
