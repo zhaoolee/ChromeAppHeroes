@@ -26,12 +26,11 @@ title: 079《Search the current site(站内搜索)》超实用的站内搜索工
 
 
 
-
 ## 站内搜索语法 | site:www.yinwang.org 中国人
 
 
 
-Search the current site 使用了搜索引擎规定的语法， 比如在**www.yinwang.org**搜索**中国人**的语法为**site:www.yinwang.org 中国人**
+Search the current site 使用了搜索引擎规定的语法， 比如在**www.yinwang.org**搜索**中国人**的语法为`site:www.yinwang.org 中国人`
 
 
 
