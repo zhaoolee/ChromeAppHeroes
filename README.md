@@ -386,7 +386,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
-#### - [079《Search the current site(站内搜索)》超实用的站内搜索工具](https://www.v2fy.com/p/079-search-the-current-site/)
+#### [079《Search the current site(站内搜索)》超实用的站内搜索工具](https://www.v2fy.com/p/079-search-the-current-site/)
 
 
 ![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/079SearchTheCurrentSite.gif)
