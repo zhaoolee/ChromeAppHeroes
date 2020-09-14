@@ -7,7 +7,7 @@ title: 079《Search the current site(站内搜索)》超实用的站内搜索工
 
 
 
-![image-20200914100350661](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/079-search-the-current-site.assets/image-20200914100350661.png)
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/079-search-the-current-site.assets/image-20200914100350661.png)
 
 
 
@@ -19,7 +19,7 @@ title: 079《Search the current site(站内搜索)》超实用的站内搜索工
 
 比如在 [当我在扯淡](https://www.yinwang.org/) 搜索 **中国人**
 
-![079SearchTheCurrentSite](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/079-search-the-current-site.assets/079SearchTheCurrentSite.gif)
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/079-search-the-current-site.assets/079SearchTheCurrentSite.gif)
 
 
 
@@ -39,7 +39,7 @@ Search the current site 使用了搜索引擎规定的语法， 比如在**www.y
 
 
 
-# Search the current site扩展工具下载地址
+## Search the current site扩展工具下载地址
 
 
 
@@ -65,4 +65,5 @@ Search the current site 使用了搜索引擎规定的语法， 比如在**www.y
 
 - **Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
 
-  ![img](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/072_one_note_web_clipper.assets/jikemiji.png)
+
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/072_one_note_web_clipper.assets/jikemiji.png)

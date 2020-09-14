@@ -48,6 +48,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [079《Search the current site(站内搜索)》超实用的站内搜索工具](https://www.v2fy.com/p/079-search-the-current-site/)
+
 - [078《Bookmarks clean up》高效清理重复和损坏的书签](https://www.v2fy.com/p/078-bookmarks-clean-up/)
 
 - [077《Sourcegraph》阮一峰大佬推荐的github仓库关键词搜索工具](https://www.v2fy.com/p/077-sourcegraph/)
@@ -383,6 +385,16 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### - [079《Search the current site(站内搜索)》超实用的站内搜索工具](https://www.v2fy.com/p/079-search-the-current-site/)
+
+
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/079SearchTheCurrentSite.gif)
+
+
+
+专业的事要专业的工具来做，搜索引擎的核心功能就是对网页内容进行索引，即使网站有百万网页， 通过搜索引擎语法进行关键词的查找，出结果只需要一瞬间。
+
 
 ####  [078《Bookmarks clean up》高效清理重复和损坏的书签](https://www.v2fy.com/p/078-bookmarks-clean-up/)
 
