@@ -46,8 +46,6 @@ https://sourl.cn/egDNiG
 
 
 
-
-
 ## 短链接服务的一些坑和解决方法
 
 短链接服务并非十全十美，一些管制比较严的论坛(比如v2ex),会直接删除带有小码短链接的帖子，好在小码短链接提供了自定义域名的功能，比如我有一个名为v2fy.com的域名，我可以新建一个名为 i.v2fy.com 的子域名，通过登录小码的后台配置 [https://xiaomark.com/dashboard/](https://xiaomark.com/dashboard/ )  ，直接替换小码短链接 sourl.cn 的部分，这样就可以避开v2ex删帖的机制。 示例：[http://i.v2fy.com/wuLJjJ](http://i.v2fy.com/wuLJjJ) 
