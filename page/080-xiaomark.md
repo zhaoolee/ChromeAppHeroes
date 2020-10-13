@@ -14,18 +14,20 @@ title: 080《小码短链接》免费为相同url生成多个永久短链接
 
 ## 短链接如何做统计
 
+短链接还有一个好处，就是可以做统计，比如目标网址
+
+[https://www.v2fy.com/p/readme-onlinetoolsbook/](https://www.v2fy.com/p/readme-onlinetoolsbook/) （46个字符）
+
+我可以通过第三方服务生成的短链接 
+
+[https://sourl.cn/tqxud4](https://sourl.cn/tqxud4)  (23个字符)
+
+获得访问次数，进而获得目标网址的访问次数。
 
 
-短链接还有一个好处，就是可以做统计，比如
-
-目标网址 [https://www.v2fy.com/p/readme-onlinetoolsbook/](https://www.v2fy.com/p/readme-onlinetoolsbook/) （46个字符）
-
-我可以通过第三方服务生成的短链接 [https://sourl.cn/tqxud4](https://sourl.cn/tqxud4)  (23个字符)获得访问次数，进而获得目标网址的访问次数
 
 
-
-
-## 扩展使用方法：利用短链接计算不同平台的访客数
+## 具体使用方法：利用短链接计算不同平台的访客数
 
 1. 为相同网址生成不同的短链接
 
