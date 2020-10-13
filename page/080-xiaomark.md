@@ -58,6 +58,14 @@ https://sourl.cn/egDNiG
 
 
 
+# 《小码短链接》扩展工具下载地址
+
+
+
+[https://chrome.google.com/webstore/detail/%E5%B0%8F%E7%A0%81%E7%9F%AD%E9%93%BE%E6%8E%A5/phgnljhcfaiimdbmpbphhfoplhleaghn](https://chrome.google.com/webstore/detail/%E5%B0%8F%E7%A0%81%E7%9F%AD%E9%93%BE%E6%8E%A5/phgnljhcfaiimdbmpbphhfoplhleaghn)
+
+
+
 ## 小结
 
 小码短链接这款免费扩展，可以一键生成各种网址的多个短链接，并且还同步提供了短链接二维码，对于新媒体工作者而言，是测量内容在各渠道阅读量（转化率）的好工具！
