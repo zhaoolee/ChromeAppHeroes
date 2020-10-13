@@ -48,6 +48,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [080《小码短链接》免费为相同url生成多个永久短链接](https://www.v2fy.com/p/080-xiaomark/)
+
 - [079《Search the current site(站内搜索)》超实用的站内搜索工具](https://www.v2fy.com/p/079-search-the-current-site/)
 
 - [078《Bookmarks clean up》高效清理重复和损坏的书签](https://www.v2fy.com/p/078-bookmarks-clean-up/)
@@ -385,6 +387,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [080《小码短链接》免费为相同url生成多个永久短链接](https://www.v2fy.com/p/080-xiaomark/)
+
+
+![20201013-xiaomark001](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/080-xiaomark.assets/20201013-xiaomark001.gif)
+
+小码短链接这款免费扩展，可以一键生成各种网址的多个短链接，并且还同步提供了短链接二维码，对于新媒体工作者而言，是测量内容在各渠道阅读量（转化率）的好工具！
+
 
 #### [079《Search the current site(站内搜索)》超实用的站内搜索工具](https://www.v2fy.com/p/079-search-the-current-site/)
 
