@@ -48,6 +48,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [081《GitHub加速》提高中国开发者访问GitHub的速度](https://www.v2fy.com/p/081-fast-github-2020-10-20/)
+
 - [080《小码短链接》免费为相同url生成多个永久短链接](https://www.v2fy.com/p/080-xiaomark/)
 
 - [079《Search the current site(站内搜索)》超实用的站内搜索工具](https://www.v2fy.com/p/079-search-the-current-site/)
@@ -387,6 +389,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [081《GitHub加速》提高中国开发者访问GitHub的速度](https://www.v2fy.com/p/081-fast-github-2020-10-20/)
+
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/20201020-fast-github.gif)
 
 #### [080《小码短链接》免费为相同url生成多个永久短链接](https://www.v2fy.com/p/080-xiaomark/)
 
