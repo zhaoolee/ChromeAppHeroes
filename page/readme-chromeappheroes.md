@@ -48,6 +48,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [082《iGG谷歌访问助手》如何从Chrome商店下载扩展工具？](https://www.v2fy.com/p/082-iguge-2020-11-02/)
+
 - [081《GitHub加速》提高中国开发者访问GitHub的速度](https://www.v2fy.com/p/081-fast-github-2020-10-20/)
 
 - [080《小码短链接》免费为相同url生成多个永久短链接](https://www.v2fy.com/p/080-xiaomark/)
@@ -389,6 +391,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [082《iGG谷歌访问助手》如何从Chrome商店下载扩展工具？](https://www.v2fy.com/p/082-iguge-2020-11-02/)
+
+
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/082-iguge-2020-11-02.assets/20201102-igg.gif)
+
+
+《iGG谷歌访问助手》可以让你的Chrome浏览器使用谷歌搜索，Gmail，访问Chrome扩展商店
 
 #### [081《GitHub加速》提高中国开发者访问GitHub的速度](https://www.v2fy.com/p/081-fast-github-2020-10-20/)
 
