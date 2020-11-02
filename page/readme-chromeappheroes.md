@@ -48,6 +48,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [083《APK Downloader for Google Play Store》从谷歌商店获取apk安装包](https://www.v2fy.com/p/083-apk-downloader-for-google-2020-11-02/)
+
 - [082《iGG谷歌访问助手》如何从Chrome商店下载扩展工具？](https://www.v2fy.com/p/082-iguge-2020-11-02/)
 
 - [081《GitHub加速》提高中国开发者访问GitHub的速度](https://www.v2fy.com/p/081-fast-github-2020-10-20/)
@@ -391,6 +393,15 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [083《APK Downloader for Google Play Store》从谷歌商店获取apk安装包](https://www.v2fy.com/p/083-apk-downloader-for-google-2020-11-02/)
+
+
+
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/083-apk-downloader-for-google-2020-11-02.assets/image-20201102180053593.png)
+
+Google Play里面有很多有趣的APK安装包，APK早期的版本都比较经典，广告少，功能强大，如果你想珍藏这些APK特定版本的安装包，不妨使用《APK Downloader for Google Play Store》将珍藏版APK留到本地硬盘
+
 
 #### [082《iGG谷歌访问助手》如何从Chrome商店下载扩展工具？](https://www.v2fy.com/p/082-iguge-2020-11-02/)
 
