@@ -22,13 +22,10 @@ title: 083《APK Downloader for Google Play Store》从谷歌商店获取apk安�
 [https://zhaooolee.cowtransfer.com/s/284bcc93e8d24f](https://zhaooolee.cowtransfer.com/s/284bcc93e8d24f)
 
 
-## 如果你需要更多版本的apk，可以自行选择平台
-
+## 如果你需要更多平台版本的apk，可以自行选择
 
 
 ![image-20201102174345708](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/083-apk-downloader-for-google-2020-11-02.assets/image-20201102174345708.png)
-
-
 
 
 ## 《APK Downloader for Google Play Store》下载地址
@@ -37,6 +34,12 @@ title: 083《APK Downloader for Google Play Store》从谷歌商店获取apk安�
 
 [https://chrome.google.com/webstore/detail/apk-downloader-for-google/idkigghdjmipnppaeahkpcoaiphjdccm](https://chrome.google.com/webstore/detail/apk-downloader-for-google/idkigghdjmipnppaeahkpcoaiphjdccm)
 
+
+## 自由的apk
+
+iOS比较劝退专业用户的是「只能从App Store下载App」, 加上App锁区的限制，好玩的App可能根本无法下载...
+
+而安卓的apk就比较自由，你可以从Google Play直接获取安装包，既保证了安全性，又能分享给朋友，安卓阵营真是充满了自由的气息～
 
 
 ## 小结
