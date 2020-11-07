@@ -48,6 +48,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [084《Web for TikTok》用Chrome刷海外版抖音TikTok，下载Tiktok短视频](https://www.v2fy.com/p/084-tiktok-2020-11-07/)
+
 - [083《APK Downloader for Google Play Store》从谷歌商店获取apk安装包](https://www.v2fy.com/p/083-apk-downloader-for-google-2020-11-02/)
 
 - [082《iGG谷歌访问助手》如何从Chrome商店下载扩展工具？](https://www.v2fy.com/p/082-iguge-2020-11-02/)
@@ -393,6 +395,17 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+#### [084《Web for TikTok》用Chrome刷海外版抖音TikTok，下载Tiktok短视频](https://www.v2fy.com/p/084-tiktok-2020-11-07/)
+
+
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/084-tiktok-2020-11-07.assets/download2.gif)
+
+
+
+
+TikTok是目前最受年轻人喜欢的app之一，通过Chrome实现了PC+移动端的全覆盖，的确是一款好产品!
 
 #### [083《APK Downloader for Google Play Store》从谷歌商店获取apk安装包](https://www.v2fy.com/p/083-apk-downloader-for-google-2020-11-02/)
 
