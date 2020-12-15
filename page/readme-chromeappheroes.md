@@ -399,6 +399,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
 
+#### [085《nonstop》无感跳转到知乎，微博，简书，qq 邮箱等无法直接跳转的外链](https://www.v2fy.com/p-085-nonstop-2020-12-15)
+
+![chromeappheroes-nonstop](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/085-nonstop-2020-12-15.assets/2020-12-15-nonstop-new-09-27.gif)
+
+
+nonstop 用不到30行代码解决了用户跳转确认的问题, 是极其优秀的小工具.
+
 #### [084《Web for TikTok》用Chrome刷海外版抖音TikTok，下载Tiktok短视频](https://www.v2fy.com/p/084-tiktok-2020-11-07/)
 
 
