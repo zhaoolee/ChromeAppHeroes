@@ -42,9 +42,36 @@ title: 006《SimilarSites》 一键查找姊妹网站 SimilarSites
 > 对于已经被封的资源站点,如`bt天堂`, 我们可能要“曲线救国”, 到官网` https://cn.similarsites.com/`查找`bttiantang.com`,还是可以找到相关网站的, 如下图~
 > ![](https://www.v2fy.com/asset/006_similarsites/5523acd8a418457583672677e33b3348.png)
 
-## 插件下载地址:
 
-[https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn](https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn)
+
+## 《SimilarSites》 下载链接
+
+<table>
+<tbody>
+<tr>
+<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
+</tr>
+<tr>
+<td>
+<div style="text-align: center;">
+<a  href="https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn">下载链接 / Download link</a>
+</div>
+</td>
+<td>
+<div style="text-align: center;">暂无</div>
+</td>
+<td>
+<div style="text-align: center;">暂无</div>
+</td>
+<td>
+<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/006-similar-sites.zip">下载链接 / Download link</a></div>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 ## 写在最后(我需要你的支持)

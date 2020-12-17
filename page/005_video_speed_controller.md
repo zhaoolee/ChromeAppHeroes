@@ -31,10 +31,6 @@ title: 005《Video Speed Controller》 刷课（刷剧）神器！给网页视�
 
 留个彩蛋, 大家猜猜本文第二张图片中的眼睛是谁的?
 
-## 插件下载地址:
-
-[https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-ntp-icon](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-ntp-icon)
-
 
 
 ## 《Video Speed Controller》 下载链接
@@ -54,23 +50,17 @@ title: 005《Video Speed Controller》 刷课（刷剧）神器！给网页视�
 </div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-CN">下载链接 / Download link</a></div>
+<div style="text-align: center;">暂无</div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/">下载链接 / Download link</a></div>
+<div style="text-align: center;">暂无</div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/004-tampermonkey.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/005-video-speed-controller.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>
 </table>
-
-
-
-
-
-
 
 
 ## 写在最后(我需要你的支持)
