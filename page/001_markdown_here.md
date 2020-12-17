@@ -35,15 +35,34 @@ Article Editor of Sina Weibo, only rich text is supported(like gmail), In order 
 > With markdown-here, even if we have to face of rich text editors, we can also write markdown happily ~
 > 与本篇博客关联的B站1080p视频（求硬币，求弹幕...）：https://www.bilibili.com/video/av24396914/
 
-## Chrome扩展`markdown-here` 下载链接 / Chrome extension `markdown-here` download link 
+## markdown-here 下载链接
 
-[https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
 
-## 对其它浏览器的支持 / Support for other browsers
+<table>
+<tbody>
+<tr>
+<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
+</tr>
+<tr>
+<td>
+<div style="text-align: center;">
+<a  href="https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa">下载链接 / Download link</a>
+</div>
+</td>
+<td>
+<div style="text-align: center;">暂无</div>
+</td>
+<td>
+<div style="text-align: center;"><a  href="https://addons.mozilla.org/zh-CN/firefox/addon/markdown-here/">下载链接 / Download link</a></div>
+</td>
+</tr>
+</tbody>
+</table>
 
-| <div><div>FireFox</div><br/><div><img src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div> | Safari | Opera |
-| --- | --- | --- |
-| [下载链接 / Download link](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/) | [下载链接 / Download link](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz) | [下载链接 / Download link](https://addons.opera.com/en/extensions/details/markdown-here/) |
+
+
 
 ## 写在最后(我需要你的支持) / At the end (I need your support)
 
@@ -56,12 +75,3 @@ Article Editor of Sina Weibo, only rich text is supported(like gmail), In order 
 
 - ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human, If you like this project, I hope you can add a star 🌟 to this project.
 
-
-
-
-
-![chromeappheroes-firefox-icon](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png)
-
-![chromeappheroes-chrome-icon](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png)
-
-![chromeappheroes-edge-icon](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png)
