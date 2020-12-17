@@ -59,7 +59,7 @@ Article Editor of Sina Weibo, only rich text is supported(like gmail), In order 
 <div style="text-align: center;"><a  href="https://addons.mozilla.org/zh-CN/firefox/addon/markdown-here/">下载链接 / Download link</a></div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://addons.mozilla.org/zh-CN/firefox/addon/markdown-here/">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/001-markdown-here.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>
@@ -80,5 +80,3 @@ Article Editor of Sina Weibo, only rich text is supported(like gmail), In order 
 - ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human, If you like this project, I hope you can add a star 🌟 to this project.
 
 
-
-![chromeappheroes-github-download](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png)
