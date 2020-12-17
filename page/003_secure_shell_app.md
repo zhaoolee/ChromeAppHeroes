@@ -38,19 +38,37 @@ title: 003《Secure Shell App》 Chrome中开启ssh一种什么体验
 > The Secure Shell App has been around for a long time. It didn't support Chinese input in the early days. Everyone didn't take it seriously. Recently, it started to support Chinese, and google is actively maintaining it. It shows that the Secure Shell App still has the value of tossing it. Also using ssh in the browser is pretty cool!!!
 
 
-## Chrome扩展`Secure Shell App` 下载链接 / Chrome extension `Secure Shell App` download link
-
-https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo
 
 
-## 对其它浏览器的支持 / Support for other browsers
 
-| FireFox | Safari | Opera |
-| --- | --- | --- |
-| NoSupport | NoSupport | NoSupport | 
+## 《Secure Shell App》 下载链接
 
-
----
+<table>
+<tbody>
+<tr>
+<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
+</tr>
+<tr>
+<td>
+<div style="text-align: center;">
+<a  href="https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo">下载链接 / Download link</a>
+</div>
+</td>
+<td>
+<div style="text-align: center;">暂无</div>
+</td>
+<td>
+<div style="text-align: center;">暂无</div>
+</td>
+<td>
+<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/003-secure-shell-app.zip">下载链接 / Download link</a></div>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 ## 写在最后(我需要你的支持) / At the end (I need your support)

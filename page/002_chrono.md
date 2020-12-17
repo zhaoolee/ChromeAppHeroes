@@ -48,6 +48,39 @@ As we all know, Chrome's native download feature is not easy to use, for example
 
 
 
+
+## 《chrono》 下载链接
+
+
+<table>
+<tbody>
+<tr>
+<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
+</tr>
+<tr>
+<td>
+<div style="text-align: center;">
+<a  href="https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn">下载链接 / Download link（已废弃）</a>
+</div>
+</td>
+<td>
+<div style="text-align: center;">暂无</div>
+</td>
+<td>
+<div style="text-align: center;">暂无</div>
+</td>
+<td>
+<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/002-chrono.zip">下载链接 / Download link</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
 ## 小结:
 - chrono是一个很好用的工具, 按照资源的大小来进行筛选, 的确是很巧妙的功能!
 - Chrono is a very useful tool. Filtering according to the size of the resource is indeed a clever function!
@@ -57,19 +90,7 @@ As we all know, Chrome's native download feature is not easy to use, for example
 - chrono can not only download pictures, any download link, but also can completely replace chrome native download(you can try this link [wikileaks](https://file.wikileaks.org/file/))
 
 
-## Chrome扩展`chrono` 下载链接 / Chrome extension `chrono` download link
 
-https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn
-
-> 历史版本下载地址 / Historic version : https://crx.dam.io/ext/mciiogijehkdemklbdcbfkefimifhecn.html 
-
-
-
-## 对其它浏览器的支持 / Support for other browsers
-
-| FireFox | Safari | Opera |
-| --- | --- | --- |
-| NoSupport | NoSupport | NoSupport |
 
 ## 写在最后(我需要你的支持) / At the end (I need your support)
 

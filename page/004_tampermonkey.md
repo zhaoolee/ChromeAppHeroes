@@ -69,8 +69,43 @@ title: 004《Tampermonkey》 油猴子! 给浏览器开个挂
 
 
 
+
+## 《Secure Shell App》 下载链接
+
+<table>
+<tbody>
+<tr>
+<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
+</tr>
+<tr>
+<td>
+<div style="text-align: center;">
+<a  href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">下载链接 / Download link</a>
+</div>
+</td>
+<td>
+<div style="text-align: center;">暂无</div>
+</td>
+<td>
+<div style="text-align: center;">暂无</div>
+</td>
+<td>
+<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/003-secure-shell-app.zip">下载链接 / Download link</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
 ## 插件下载地址:
-https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
 
 ## 对其它浏览器的支持
 
