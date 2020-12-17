@@ -70,7 +70,7 @@ title: 004《Tampermonkey》 油猴子! 给浏览器开个挂
 
 ## 《Tampermonkey》 下载链接
 
-<table>
+<table style="table-layout: fixed;">
 <tbody>
 <tr>
 <td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>

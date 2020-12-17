@@ -5,9 +5,11 @@ title: 003《Secure Shell App》 Chrome中开启ssh一种什么体验
 - For people who have their own servers, connection vps by ssh is a very common operation.
 - Linux用户一般通过命令搞定, Windows用户需要下载额外的软件(新版本的Windows10 PowerShell也开始支持ssh了)
 - Linux users generally get through the command, Windows users need to download additional software(The new version of Windows 10 PowerShell also supports ssh.)
+
 - 而对于Chrome用户, 我们可以使用ssh扩展程序 **Secure Shell App**
 - For Chrome users, we can use the ssh by the **Secure Shell App**
 ## 优势/Advantage
+
 - 插件免费, 安装方便
 - Free and easy to install
 - 软件轻量, 体积不足3M 
@@ -18,19 +20,19 @@ title: 003《Secure Shell App》 Chrome中开启ssh一种什么体验
 - Rich language support
 
 
-> ![](https://www.v2fy.com/asset/003_secure_shell_app/c7d94a6e5fc346489514f20d4a73616f.png)
+![](https://www.v2fy.com/asset/003_secure_shell_app/c7d94a6e5fc346489514f20d4a73616f.png)
 
 ## Secure Shell App 登录界面 / Login interface
-> ![](https://www.v2fy.com/asset/003_secure_shell_app/639a15198f6047638974b9c7470a0770.png)
+![](https://www.v2fy.com/asset/003_secure_shell_app/639a15198f6047638974b9c7470a0770.png)
 ## Secure Shell App 操作界面 / Operation panel
-> ![支持高亮](https://www.v2fy.com/asset/003_secure_shell_app/2bb916abf8234c829f2b1bde03ec4398.png)
+![支持高亮](https://www.v2fy.com/asset/003_secure_shell_app/2bb916abf8234c829f2b1bde03ec4398.png)
 
 ## 支持窗口多开 / Multiple windows
-> ![](https://www.v2fy.com/asset/003_secure_shell_app/070a384456fa4e22815bf5944d7a0b34.png)
+![](https://www.v2fy.com/asset/003_secure_shell_app/070a384456fa4e22815bf5944d7a0b34.png)
 
 ## 支持界面自定义 / Panel can by diy
 
-> ![](https://www.v2fy.com/asset/003_secure_shell_app/ccc82a56ecf544f59b58ce99e71967cd.png)
+![](https://www.v2fy.com/asset/003_secure_shell_app/ccc82a56ecf544f59b58ce99e71967cd.png)
 
 
 > Secure Shell App很早就有了, 早期不支持中文输入, 大家都没把它当回事儿, 最近开始支持中文, 而且google在积极维护它, 就说明Secure Shell App还是有折腾一下的价值的, 另外在浏览器中使用ssh还是蛮酷的!!!
@@ -43,7 +45,7 @@ title: 003《Secure Shell App》 Chrome中开启ssh一种什么体验
 
 ## 《Secure Shell App》 下载链接
 
-<table>
+<table style="table-layout: fixed;">
 <tbody>
 <tr>
 <td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>

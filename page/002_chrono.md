@@ -27,6 +27,7 @@ As we all know, Chrome's native download feature is not easy to use, for example
 > ![](https://www.v2fy.com/asset/002_chrono/205a8b85047648fe9ff2ded77829748b.png)
 
 > - 如果你的页面为懒加载(网页根据用户鼠标的滚动, 动态加载图片), 嗅探器会根据页面加载图片数量的变化, 自动添加新图片到嗅探列表
+
 > - If your website page is lazy loaded (the webpage dynamically loads the image according to the user's mouse scrolling), the chromo will automatically add a new image to the sniffing list.
 
 
@@ -36,12 +37,12 @@ As we all know, Chrome's native download feature is not easy to use, for example
 - 批量勾选需要下载的图片, 开始下载
 - Batch check the images you want to download, now , start downloading!
 
-> ![](https://www.v2fy.com/asset/002_chrono/0f66d37422c044f1ae9aefb61f3a3753.png)
+![](https://www.v2fy.com/asset/002_chrono/0f66d37422c044f1ae9aefb61f3a3753.png)
 
 > 可以批量勾选图片, 也可单独勾选图片, 如果你懂正则, 还可以添加正则表达式来过滤图片(正则一般是留给程序员玩的...)
 - 批量下载成功的图片
 - Batch download successful images
-> ![](https://www.v2fy.com/asset/002_chrono/dc89d5f5bc834980af5943dbd871ea1e.png)
+![](https://www.v2fy.com/asset/002_chrono/dc89d5f5bc834980af5943dbd871ea1e.png)
 
 > 建议适当提高过滤图片尺寸的标准, 获得尺寸更大, 质量更高的图片(以上展示的图片筛选条件为大于200kb)
 > It is recommended to increase the standard for filtering image size to obtain larger and higher quality images (the above picture screening conditions are greater than 200kb)
@@ -52,7 +53,7 @@ As we all know, Chrome's native download feature is not easy to use, for example
 ## 《chrono》 下载链接
 
 
-<table>
+<table style="table-layout: fixed;">
 <tbody>
 <tr>
 <td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>

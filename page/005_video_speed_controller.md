@@ -4,9 +4,9 @@ title: 005《Video Speed Controller》 刷课（刷剧）神器！给网页视�
 刷一些没营养视频的时候, 我们会有倍速播放视频的需求, 而网站的在线播放器一般只提供不高于4倍的播放速度, 最近发现了一个很好用的, 可以将视频播放速度提高到16倍开源浏览器插件Video Speed Controller,分享给大家, github开源地址: https://github.com/igrigorik/videospeed
 
 
-> ![](https://www.v2fy.com/asset/005_video_speed_controller/f010d690b78b48d3bab5e59f45e11993.png)
+![](https://www.v2fy.com/asset/005_video_speed_controller/f010d690b78b48d3bab5e59f45e11993.png)
 
-> ![](https://www.v2fy.com/asset/005_video_speed_controller/d880aad7585b4dbebda9ec5d46a3b9a0.png)
+![](https://www.v2fy.com/asset/005_video_speed_controller/d880aad7585b4dbebda9ec5d46a3b9a0.png)
 
 ## 快捷键清单
 - 显示/隐藏浮框`V`
@@ -35,7 +35,7 @@ title: 005《Video Speed Controller》 刷课（刷剧）神器！给网页视�
 
 ## 《Video Speed Controller》 下载链接
 
-<table>
+<table style="table-layout: fixed;">
 <tbody>
 <tr>
 <td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>

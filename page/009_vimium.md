@@ -8,7 +8,8 @@ vimium是chrome浏览器的一款插件, 可以用键盘代替鼠标的操作, �
 - vimium能提升我们的浏览速度, 鼠标比键盘简单, 键盘比鼠标快!
 - vim的封号为"编辑器之神", 学会了vimium也就掌握vim的核心用法, 一举两得!
 - vimium的用法真的很酷, 如果喜欢表演的话, 这是一个很好的工具!
-- 
+
+
 ## [vimium下载地址](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
 
 ![](https://www.v2fy.com/asset/009_vimium/80cfd343db1142e692ff47bbb583daa6.png)
@@ -18,12 +19,14 @@ vimium是chrome浏览器的一款插件, 可以用键盘代替鼠标的操作, �
 - 我们换一种思路, 只用GIF动图展示vimium的一些功能,然后附上对应的快捷键, 如果你感觉很合胃口, 再决定是否学习vimium
 
 #### 敲击三个字符, 打开任何链接 `f` + `页面浮动字符`
-> ![](https://www.v2fy.com/asset/009_vimium/c08a6e6029a34c8da661be3a0c13a9d6.gif)
+![](https://www.v2fy.com/asset/009_vimium/c08a6e6029a34c8da661be3a0c13a9d6.gif)
 
 #### 在新标签打开`F`+`页面浮动字符` ,切到左标签`J` & 切到右标签`K`
-> ![](https://www.v2fy.com/asset/009_vimium/15c2929c0ad84b2eabd4c97e920b918a.gif)
+
+![](https://www.v2fy.com/asset/009_vimium/15c2929c0ad84b2eabd4c97e920b918a.gif)
 #### 快速向下滚动`d` & 快速向上滚动`u`, 滚动到页面顶部`gg` & 滚动到页面底部`G`
-> ![](https://www.v2fy.com/asset/009_vimium/3e869c74cf6c4fd0b8724eede30bd85f.gif)
+
+![](https://www.v2fy.com/asset/009_vimium/3e869c74cf6c4fd0b8724eede30bd85f.gif)
 
 #### 神技! 快速搜索 (相当于浏览器顶部搜索框), 并在新标签打开 `O`
 
@@ -65,7 +68,7 @@ zh: https://www.zhihu.com/search?type=content&q=%s Zhihu
 
 ## 《loom》 下载链接
 
-<table>
+<table style="table-layout: fixed;">
 <tbody>
 <tr>
 <td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>

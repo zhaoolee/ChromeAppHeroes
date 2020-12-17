@@ -14,17 +14,17 @@ title: 007《loom》 Chrome翻录网页视频神器
 - loom可以一键录制浏览器的单个标签页(盗版翻录视频的神器), 录制完成后自动生成在线网页,进行视频播放, 可以下载刚刚录制的视频, 也可以为刚刚生成的在线视频设置密码(盗版录屏加发布一条龙服务)
 ![](https://www.v2fy.com/asset/007_loom/165a3b6aa69844cab4c7b487ff561724.png)
 
-> 在线视频地址: https://www.useloom.com/share/7f6adc8b86384a1684c8a2110d2593b7
-> 密码: 1234
+在线视频地址: https://www.useloom.com/share/7f6adc8b86384a1684c8a2110d2593b7
+密码: 1234
 
 - 将视频下载到本地
-> ![](https://www.v2fy.com/asset/007_loom/861a8e8057b7495784a16b92021bc868.png)
+![](https://www.v2fy.com/asset/007_loom/861a8e8057b7495784a16b92021bc868.png)
 
 
 
 ## 《loom》 下载链接
 
-<table>
+<table style="table-layout: fixed;">
 <tbody>
 <tr>
 <td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>

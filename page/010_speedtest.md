@@ -22,7 +22,6 @@ title: 010《speedtest》网络测速插件speedtest
 
 
 
-
 ## 插件不止能测速
 
 插件`Speedtest by Ookla`不止是测速，还可以获取打开当前网页的速度（这个功能是默认开启的）
@@ -38,7 +37,7 @@ title: 010《speedtest》网络测速插件speedtest
 
 ## 《speedtest》下载链接
 
-<table>
+<table style="table-layout: fixed;">
 <tbody>
 <tr>
 <td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
