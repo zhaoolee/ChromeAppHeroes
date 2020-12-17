@@ -32,11 +32,3 @@ title: 076《Listen1》Chrome听付费歌曲工具！免费听周杰伦的歌，
 ## 小结
 
 Listen1是一款开源扩展工具，通过Chrome可以跨Linux, MacOS, Windows平台使用，功能就是**畅听全平台的付费歌曲**
-
-## 写在最后(我需要你的支持)
-
-- 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-
-- **Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
-
-  ![img](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/072_one_note_web_clipper.assets/jikemiji.png)

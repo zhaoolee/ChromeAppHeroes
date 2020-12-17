@@ -43,13 +43,3 @@ https://chrome.google.com/webstore/detail/chrome-better-history/aadbaagbanfijdnf
 如果你是一个新媒体工作者, 历史记录并非可靠的素材查找方式(清理电脑, 历史记录就丢了), 这里推荐一款微软出品的免费工具, [《OneNote Web Clipper》微软免费跨平台笔记OneNote扩展程序](https://www.v2fy.com/p/072_one_note_web_clipper/) ,可以一键保存网页内容到OneNote笔记本, 内容不会丢失, OneNote还支持多语言图片文字识别, 未来查找效率更高 
 
 
-
-
-
-## 写在最后(我需要你的支持)
-
-- 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-
-- **Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
-
-  ![img](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/072_one_note_web_clipper.assets/jikemiji.png)

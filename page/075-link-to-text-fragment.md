@@ -53,11 +53,3 @@ https://www.jianshu.com/p/fd6908396176#__next:~:text=%E7%9F%A5%E4%B9%8E%E7%9B%90
 ## 小结
 
 Link to Text Fragment是一个让人眼前一亮的插件，它使用简单，效果明显，以链接的方式存储引用的文字，低版本浏览器也能顺利打开网页，对于写技术文的作者而言，堪称完美的引用方式。
-
-## 写在最后(我需要你的支持)
-
-- 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-
-- **Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
-
-  ![img](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/072_one_note_web_clipper.assets/jikemiji.png)

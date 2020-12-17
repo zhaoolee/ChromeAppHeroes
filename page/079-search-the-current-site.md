@@ -57,12 +57,3 @@ Search the current site 使用了搜索引擎规定的语法， 比如在**www.y
 
 
 
-
-## 写在最后(我需要你的支持)
-
-- 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-
-- **Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
-
-
-![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/072_one_note_web_clipper.assets/jikemiji.png)
