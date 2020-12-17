@@ -41,7 +41,7 @@ Article Editor of Sina Weibo, only rich text is supported(like gmail), In order 
 
 ## 对其它浏览器的支持 / Support for other browsers
 
-| FireFox | Safari | Opera |
+| <div><div>FireFox</div><br/><div><img src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div> | Safari | Opera |
 | --- | --- | --- |
 | [下载链接 / Download link](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/) | [下载链接 / Download link](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz) | [下载链接 / Download link](https://addons.opera.com/en/extensions/details/markdown-here/) |
 
