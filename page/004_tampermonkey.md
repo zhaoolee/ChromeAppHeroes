@@ -68,9 +68,7 @@ title: 004《Tampermonkey》 油猴子! 给浏览器开个挂
 
 
 
-
-
-## 《Secure Shell App》 下载链接
+## 《Tampermonkey》 下载链接
 
 <table>
 <tbody>
@@ -87,35 +85,21 @@ title: 004《Tampermonkey》 油猴子! 给浏览器开个挂
 </div>
 </td>
 <td>
-<div style="text-align: center;">暂无</div>
+<div style="text-align: center;"><a  href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-CN">下载链接 / Download link</a></div>
 </td>
 <td>
-<div style="text-align: center;">暂无</div>
+<div style="text-align: center;"><a  href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/">下载链接 / Download link</a></div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/003-secure-shell-app.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/004-tampermonkey.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>
 </table>
 
 
-
-
-
-
-## 插件下载地址:
-
-
-## 对其它浏览器的支持
-
-| FireFox | Safari | Edge | Opera Next | Dolhpin Browser | UC Browser |
-| --- | --- | --- | --- | --- | --- |
-| [支持](https://www.tampermonkey.net/?ext=dhdg&browser=firefox) | [支持](https://www.tampermonkey.net/?ext=dhdg&browser=safari) | [支持](https://www.tampermonkey.net/?ext=dhdg&browser=edge) | [支持](https://www.tampermonkey.net/?ext=dhdg&browser=opera) | [支持](https://www.tampermonkey.net/?ext=dhdg&browser=dolphin) | [支持](https://www.tampermonkey.net/?ext=dhdg&browser=ucweb) |
-
----
-
 ## 写在最后(我需要你的支持)
+
 - 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 
 - **Chrome插件英雄榜**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个项目, 希望你能为本项目添加一颗 🌟星.

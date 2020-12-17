@@ -36,6 +36,43 @@ title: 005《Video Speed Controller》 刷课（刷剧）神器！给网页视�
 [https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-ntp-icon](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-ntp-icon)
 
 
+
+## 《Video Speed Controller》 下载链接
+
+<table>
+<tbody>
+<tr>
+<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
+</tr>
+<tr>
+<td>
+<div style="text-align: center;">
+<a  href="https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?utm_source=chrome-ntp-icon">下载链接 / Download link</a>
+</div>
+</td>
+<td>
+<div style="text-align: center;"><a  href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-CN">下载链接 / Download link</a></div>
+</td>
+<td>
+<div style="text-align: center;"><a  href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/">下载链接 / Download link</a></div>
+</td>
+<td>
+<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/004-tampermonkey.zip">下载链接 / Download link</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
 ## 写在最后(我需要你的支持)
 - 本文属于**Chrome插件英雄榜** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 
