@@ -7,12 +7,12 @@ Article Editor of Sina Weibo, only rich text is supported(like gmail), In order 
 
 ## markdown-here效果演示  / Use the demo of markdown-here
 
-> ![](https://www.v2fy.com/asset/001_markdown_here/1a22124d447946ab8277a45414a0cc37.gif)
+![](https://www.v2fy.com/asset/001_markdown_here/1a22124d447946ab8277a45414a0cc37.gif)
 
 
 ## [markdown-here Github开源地址](https://github.com/adam-p/markdown-here) / [markdown-here Github open source link](https://github.com/adam-p/markdown-here)
 
-> ![](https://www.v2fy.com/asset/001_markdown_here/b5dad00f00214715809cdca2ba24b9cc.png)
+![](https://www.v2fy.com/asset/001_markdown_here/b5dad00f00214715809cdca2ba24b9cc.png)
 
 ## markdown-here支持个性化定制样式 / markdown-here support for personalized styles 
 
@@ -58,3 +58,10 @@ Article Editor of Sina Weibo, only rich text is supported(like gmail), In order 
 
 
 
+
+
+![chromeappheroes-firefox-icon](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png)
+
+![chromeappheroes-chrome-icon](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png)
+
+![chromeappheroes-edge-icon](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png)
