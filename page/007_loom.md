@@ -6,13 +6,13 @@ title: 007《loom》 Chrome翻录网页视频神器
 作者当年也是找资源的一把好手, 按照常理来讲, 在线付费教育视频盗版资源要等两个星期才能看到, 后来发现, 盗版资源的更新速度越来越快, 甚至可以基本同步更新, 为了满足好奇心, 我特地探索了一些录屏的软件, 其中最令人感到惊艳的是一款chrome插件loom
 
 - loom本身是chrome的一款插件, 支持Google账户授权登录
-> ![](https://www.v2fy.com/asset/007_loom/23c35697144145e099ddf64b79c675fa.png)
+![](https://www.v2fy.com/asset/007_loom/23c35697144145e099ddf64b79c675fa.png)
 
 - loom支持录制chrome之外的其他应用程序, 也对计算机进行全屏录制
-> ![](https://www.v2fy.com/asset/007_loom/d27fb7f0c9f74a69be4c566901c627e7.png)
+![](https://www.v2fy.com/asset/007_loom/d27fb7f0c9f74a69be4c566901c627e7.png)
 
 - loom可以一键录制浏览器的单个标签页(盗版翻录视频的神器), 录制完成后自动生成在线网页,进行视频播放, 可以下载刚刚录制的视频, 也可以为刚刚生成的在线视频设置密码(盗版录屏加发布一条龙服务)
-> ![](https://www.v2fy.com/asset/007_loom/165a3b6aa69844cab4c7b487ff561724.png)
+![](https://www.v2fy.com/asset/007_loom/165a3b6aa69844cab4c7b487ff561724.png)
 
 > 在线视频地址: https://www.useloom.com/share/7f6adc8b86384a1684c8a2110d2593b7
 > 密码: 1234
@@ -50,6 +50,7 @@ title: 007《loom》 Chrome翻录网页视频神器
 </tr>
 </tbody>
 </table>
+
 
 
 
