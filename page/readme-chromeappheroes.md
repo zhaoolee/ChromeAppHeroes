@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [086《CSDN开发助手》CSDN官方合法免广告工具,内含大量实用开发工具](https://www.v2fy.com/p/086-csdn-2020-12-18/)
+
 - [085《nonstop》无感跳转到知乎，微博，简书，qq 邮箱等无法直接跳转的外链](https://www.v2fy.com/p/085-nonstop-2020-12-15)
 
 - [084《Web for TikTok》用Chrome刷海外版抖音TikTok，下载Tiktok短视频](https://www.v2fy.com/p/084-tiktok-2020-11-07/)
@@ -393,6 +395,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [086《CSDN开发助手》CSDN官方合法免广告工具,内含大量实用开发工具](https://www.v2fy.com/p/086-csdn-2020-12-18/)
+
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/086-csdn-2020-12-18.assets/086-csdn-2020-12-18-002-calc.gif)
+
+《CSDN开发助手》是一款依托开发者社区开发的小工具，运营得当，会有极好的发展前景，有人说《CSDN开发助手》就是一个缝合怪，但如果《CSDN开发助手》愿意把 tampermonkey 的功能也能缝合进来，真的会成为一款老少皆宜，前途无量的小工具。
 
 
 #### [085《nonstop》无感跳转到知乎，微博，简书，qq 邮箱等无法直接跳转的外链](https://www.v2fy.com/p/085-nonstop-2020-12-15)
