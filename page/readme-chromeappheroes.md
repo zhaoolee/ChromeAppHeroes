@@ -9,16 +9,19 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![谷粒VI设计.png](https://www.v2fy.com/asset/README/5ecd2856f287477c89c20efb7de11a9b.png)
 
-## 本项目B站宣传视频地址：
+## 本项目B站宣传视频地址
+
 [视频地址: https://www.bilibili.com/video/av81163488](https://www.bilibili.com/video/av81163488)
+
+
 ![](https://www.v2fy.com/asset/README/71558263-138cbd00-2a8c-11ea-91c6-0acecaea38c2.png)
 [https://www.bilibili.com/video/av81163488](https://www.bilibili.com/video/av81163488)
 
 **感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo | [谷粒文化(老罗巴扎嘿语录)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)**
 
 
-## 兄弟项目推广: [在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook)
-**🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~ [https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)**
+## [Github兄弟项目推广: OnlineToolsBook在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook)
+[🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~ https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
 
 ----
 
@@ -30,19 +33,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 国内用户: 在公众号 `0加1` 后台回复`ChromeAppHeroes离线安装包` 即可获取
 
-
-
 ## 项目新增CN服务器
 
 本项目使用了大量Gif图片, 而且github在国内的访问速度非常不稳定,导致文章页面打开稍慢, 为了解决大陆用户访问项目速度慢的问题, zhaoolee在阿里云买了一台5M的VPS, 已将所有文章链接替换到v2fy.com域名下, 访问速度会非常快, 而且图片支持懒加载, 可以节省下载gif图的流量,入口为[https://www.v2fy.com/ChromeAppHeroes/](https://www.v2fy.com/ChromeAppHeroes/)
 
 
-**海外用户**:[备用入口](https://zhaoolee.com/ChromeAppHeroes/)依然保留
-
-
 **付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.rocks/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验 [http://i.v2fy.com/vpn](http://i.v2fy.com/vpn)
-
-----
 
 
 
@@ -215,9 +211,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 内容同步更新到公众号「0加1」
 
-![0加1](https://www.v2fy.com/asset/qr/jikemiji.png)
+![公众号0加1](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/public.assets/0add1.png)
 
-公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) , 欢迎关注~
+公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
 
 
 ## 赞助打赏
