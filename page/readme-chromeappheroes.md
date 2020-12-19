@@ -44,6 +44,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [088《知乎网页助手》让网页版知乎更好用](https://www.v2fy.com/p/088-zhihu-2020-12-19/)
+
+- [087《豆瓣资源下载大师》1秒搞定豆瓣电影|音乐|图书下载](https://www.v2fy.com/p/087-douban-2020-12-19/)
+
 - [086《CSDN开发助手》CSDN官方合法免广告工具,内含大量实用开发工具](https://www.v2fy.com/p/086-csdn-2020-12-18/)
 
 - [085《nonstop》无感跳转到知乎，微博，简书，qq 邮箱等无法直接跳转的外链](https://www.v2fy.com/p/085-nonstop-2020-12-15)
@@ -395,6 +399,20 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+####  [088《知乎网页助手》让网页版知乎更好用](https://www.v2fy.com/p/088-zhihu-2020-12-19/)
+
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/088-zhihu-2020-12-19.assets/088-zhihu-003.gif)
+
+《知乎网页助手》让知乎体验更顺滑，工具本身解决的用户痛点，是知乎官方可以做，但为了平台利益，而不会去做的。
+
+#### [087《豆瓣资源下载大师》1秒搞定豆瓣电影|音乐|图书下载](https://www.v2fy.com/p/087-douban-2020-12-19/)
+
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/087-douban-2020-12-19.assets/087-douban-001.gif)
+
+《豆瓣资源下载大师》是一款好用的搜索聚合工具，让用户以作品的豆瓣评论详情页为入口，直达各种资源网站的作品下载页，极大减轻了找资源的工作量！
+
 
 #### [086《CSDN开发助手》CSDN官方合法免广告工具,内含大量实用开发工具](https://www.v2fy.com/p/086-csdn-2020-12-18/)
 
