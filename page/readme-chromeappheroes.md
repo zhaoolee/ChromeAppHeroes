@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [089《本地YouTube下载器》实现被Google禁止的功能](https://www.v2fy.com/p/089-youtube-2020-12-20/)
+
 - [088《知乎网页助手》让网页版知乎更好用](https://www.v2fy.com/p/088-zhihu-2020-12-19/)
 
 - [087《豆瓣资源下载大师》1秒搞定豆瓣电影|音乐|图书下载](https://www.v2fy.com/p/087-douban-2020-12-19/)
@@ -400,8 +402,17 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+#### [089《本地YouTube下载器》实现被Google禁止的功能](https://www.v2fy.com/p/089-youtube-2020-12-20/)
 
-####  [088《知乎网页助手》让网页版知乎更好用](https://www.v2fy.com/p/088-zhihu-2020-12-19/)
+
+![089-youtube-001](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/089-youtube-2020-12-20.assets/089-youtube-001.gif)
+
+
+《本地YouTube下载器》作者自己也承认youtube-dl要比《本地YouTube下载器》更好用一些，但《本地YouTube下载器》是一个脚本，无需安装Python开发环境，可以在浏览器直接使用，对普通用户极其友好，所以懒得折腾的非专业用户，还是建议使用《本地YouTube下载器》。
+
+
+
+#### [088《知乎网页助手》让网页版知乎更好用](https://www.v2fy.com/p/088-zhihu-2020-12-19/)
 
 ![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/088-zhihu-2020-12-19.assets/088-zhihu-003.gif)
 
