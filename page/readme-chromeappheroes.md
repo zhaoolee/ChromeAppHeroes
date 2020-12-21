@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [090《拒绝二维码登录》让淘宝、京东、阿里云等网站默认使用账号密码登录](https://www.v2fy.com/p/090-no-qr-login-2020-12-21/)
+
 - [089《本地YouTube下载器》实现被Google禁止的功能](https://www.v2fy.com/p/089-youtube-2020-12-20/)
 
 - [088《知乎网页助手》让网页版知乎更好用](https://www.v2fy.com/p/088-zhihu-2020-12-19/)
@@ -401,6 +403,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+####  [090《拒绝二维码登录》让淘宝、京东、阿里云等网站默认使用账号密码登录](https://www.v2fy.com/p/090-no-qr-login-2020-12-21/)
+
+![拒绝二维码登录](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/090-no-qr-login-2020-12-21.assets/090-noqr-001.gif)
+
+二维码登录最初的设计是为了安全，现在是为了提升用户日活跃量，登录PC版新浪微博，即使你输入了正确的账户密码，也要打开新浪微博App再扫一遍码，真是恶心人的设计。
 
 #### [089《本地YouTube下载器》实现被Google禁止的功能](https://www.v2fy.com/p/089-youtube-2020-12-20/)
 
