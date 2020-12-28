@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [091《FasterChrome》鼠标悬停预加载链接让你的Chrome起飞](https://www.v2fy.com/p/091-faster-chrome-2020-12-28/)
+
 - [090《拒绝二维码登录》让淘宝、京东、阿里云等网站默认使用账号密码登录](https://www.v2fy.com/p/090-no-qr-login-2020-12-21/)
 
 - [089《本地YouTube下载器》实现被Google禁止的功能](https://www.v2fy.com/p/089-youtube-2020-12-20/)
@@ -403,6 +405,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [091《FasterChrome》鼠标悬停预加载链接让你的Chrome起飞](https://www.v2fy.com/p/091-faster-chrome-2020-12-28/)
+
+![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/091-faster-chrome-2020-12-28.assets/091-pwc.gif)
+
+人类从指向超链接到点击，平均需要300ms的反应时间，而FasterChrome让时间缩短为65mm，每个页面相当于提前抢跑了235ms，对于使用了CDN的网站，235ms可以下载100KB～300KB左右的资源文件，当人类点击下鼠标的时候，页面的html已经基本下载完成了，轻松实现了页面秒开的效果。
 
 ####  [090《拒绝二维码登录》让淘宝、京东、阿里云等网站默认使用账号密码登录](https://www.v2fy.com/p/090-no-qr-login-2020-12-21/)
 

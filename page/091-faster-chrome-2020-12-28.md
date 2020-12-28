@@ -10,8 +10,6 @@ title: 091《FasterChrome》鼠标悬停预加载链接让你的Chrome起飞
 
 从源码可知，鼠标悬停65毫秒，会自动加载下一页网页
 
-
-
 ## 基于instant-page的FasterChrome
 
 打开Chrome开发者工具，可以看到鼠标悬浮到超链接时，插件会发起预加载的请求
@@ -26,13 +24,11 @@ title: 091《FasterChrome》鼠标悬停预加载链接让你的Chrome起飞
 
 
 
-## 如果你是一名开发者,可以引入以下代码，让网站提升至少%1的性能
+## 如果你是一名开发者,可以引入以下代码，让网站提升至少1%的性能
 
-```
+```javascript
 <script src="https://instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
 ```
-
-
 
 
 
@@ -66,15 +62,11 @@ title: 091《FasterChrome》鼠标悬停预加载链接让你的Chrome起飞
 </table>
 
 
-
-
-
-
 ## 小结
 
 FasterChrome的实现方法，与各类玄学黑科技有本质的区别，通过预先缓存，让页面打开的速度有肉眼可见的提升。
 
-
+人类从指向超链接到点击，平均需要300ms的反应时间，而FasterChrome让时间缩短为65mm，每个页面相当于提前抢跑了235ms，对于使用了CDN的网站，235ms可以下载100KB～300KB左右的资源文件，当人类点击下鼠标的时候，页面的html已经基本下载完成了，轻松实现了页面秒开的效果。
 
 
 
