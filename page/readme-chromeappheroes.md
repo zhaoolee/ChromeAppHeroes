@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [092《Copyfish 🐟 Free OCR Software》自动截图识别网页中的文字](https://www.v2fy.com/p/092-copyfish-ocr-2021-02-08/)
+
 - [091《FasterChrome》鼠标悬停预加载链接让你的Chrome起飞](https://www.v2fy.com/p/091-faster-chrome-2020-12-28/)
 
 - [090《拒绝二维码登录》让淘宝、京东、阿里云等网站默认使用账号密码登录](https://www.v2fy.com/p/090-no-qr-login-2020-12-21/)
@@ -405,6 +407,15 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [092《Copyfish 🐟 Free OCR Software》自动截图识别网页中的文字](https://www.v2fy.com/p/092-copyfish-ocr-2021-02-08/)
+
+
+
+![](https://cdn.fangyuanxiaozhan.com/assets/1612750011482denx8SJp.gif)
+
+
+CopyFishOCR是一个识别率很高的工具，可以选择识别多种语言，支持Chrome，Edge，FireFox等主流浏览器，如果你是一个经常找文档资源的人，一定不要错过它～
 
 #### [091《FasterChrome》鼠标悬停预加载链接让你的Chrome起飞](https://www.v2fy.com/p/091-faster-chrome-2020-12-28/)
 
