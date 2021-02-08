@@ -1,0 +1,29 @@
+{
+   "background": {
+      "scripts": [ "scripts/jquery.min.js", "scripts/genlib.js", "scripts/chromereload.js", "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/icon-19.png",
+         "38": "images/icon-38.png"
+      },
+      "default_title": "__MSG_appName__"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "19": "images/icon-19.png",
+      "38": "images/icon-38.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi0HbNToHIsaFwQDEe/kC9hMNpwjY4iiocSAG0tRHqvm2dTenLPhVwLObwLdBrJTz1lo3Ih1Q/lWfN3ppJdc47aXWpqOR8fanL3qDMGCRcFAzo6E1rS7iomJi0Fjbjfn+T1R6ch/APyvHeMFAHQGEsR+kzxp/ewLzv9HS6pC7AjAQM/gF5CJQQUITfcPHkGL3OHq7V7Vbq0a64WCZnagYVRoYRJdS2PxJqohKpGFOxl4GNOxGSd64o4vDlnqQ6qEgFSJVVOyAw/H275mCb6oISf3hLSu6RhHZ/x6efcrJJSE9Ysxw62STDzZyKha3qA0J88+REzwE8LnpcH2W1ZJ0JwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_page": "options.html",
+   "permissions": [ "contextMenus", "activeTab", "storage", "notifications", "nativeMessaging" ],
+   "short_name": "__MSG_appShortName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.0.7",
+   "web_accessible_resources": [ "dialog.html", "config/config.json", "images/gear.png", "images/outside.png", "images/close.png", "images/translate.png", "images/deepl.jpg" ]
+}

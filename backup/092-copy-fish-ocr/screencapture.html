@@ -1,0 +1,119 @@
+﻿<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="styles/reset.css" />
+  <link rel="stylesheet" href="styles/material.min.css" />
+  <link href="styles/cs.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <!--tabs library-->
+  <link href="styles/style-default.min.css" rel="stylesheet">
+  <link href="styles/screencapture.css" rel="stylesheet">
+  <link rel="stylesheet" href="styles/desktop.screencapture.css">
+
+
+  <title>Tab View</title>
+</head>
+
+<body>
+
+
+
+  <div class="tabs-container">
+    <div data-tabs class="data-tab-block">
+      <div data-active>Copyfish</div>
+      <div>Overlay</div>
+      <div class="ocr-text-capture-tab">Text</div>
+      <div class="translate-text-tab ocrext-grid-translated">Translation (PRO+)</div>
+    </div>
+    <div class="settings-icon-container">
+      <img src="./images/gear-active.png" alt="settings" class="settings-icon ocrext-settings-link">
+    </div>
+  </div>
+
+
+  <div data-panes id="screen-capture-overlay-tab"
+    style="border-bottom:0px !important;width: 80%;box-sizing: border-box;overflow:auto;height: 100%;">
+    <div id="copyfish-tab" class="tab-screenshot" style="height:100%">
+      <div id="copyfish-tab-image-container" >
+        <canvas id="ocrext-canOrig" class="ocrext-element" width="480" height="320" style="display: none;"></canvas>
+        <canvas id="ocrext-can" class="ocrext-element" width=480 height=320></canvas>
+        <div class="ocrext-element ocrext-textoverlay-container">
+        </div>
+      </div>
+      <p class="ocrext-element ocrext-status"></p>
+      <div class="copyfish-tab-text">
+        <div class="copyfish-tab-text-lng">
+          <h5 class="ocrext-element ocrext-label ocrext-message">OCR Result<br><span></span></h5>
+        </div>
+        <textarea name="capture-text" class="ocrext-element ocrext-ocr-message ocrext-result" cols="30"
+          rows="10">N/A</textarea>
+      </div>
+      <div class="copyfish-tab-text copyfish-text-translate ocrext-grid-translated">
+        <div class="copyfish-tab-text-lng">
+          <h5 class="ocrext-element ocrext-label ocrext-translated">Translated<span></span></h5>
+        </div>
+        <div class="ocrext-element ocrext-cell ocrext-cell-large">
+          <p class="ocrext-element ocrext-ocr-translated ocrext-result">N/A</p>
+        </div>
+      </div>
+    </div>
+    <div id="ocrext-element" class="tab-screenshot">
+      <div class="ocrext-element ocrext-canvas-container overlay-tab">
+        <img id="copyfish-tab-image" src="" />
+        <div class="ocrext-element ocrext-textoverlay-container ocrext-container-only">
+          <a class="ocrext-close-link" title="Close"></a>
+        </div>
+      </div>
+    </div>
+    <div class="text-capture-tab translate-text-tab tab-screenshot translated-textarea-tab ">
+      <div><h5 class="ocrext-element ocrext-label ocrext-message">OCR Result<span></span>:</h5></div>
+      <div class="translated-textarea">
+      <textarea name="capture-text" class="ocrext-element ocrext-ocr-message ocrext-result" >N/A</textarea>
+      </div>
+    </div>
+    <div class="translate-text-tab tab-screenshot translated-textarea-tab">
+      <div class="ocrext-element ocrext-cell ocrext-cell-small">
+        <h5 class="ocrext-element ocrext-label ocrext-translated">Translated<span></span>:</h5>
+      </div>
+      <div class="ocrext-element ocrext-cell ocrext-cell-large translated-textarea">
+        <p class="ocrext-element ocrext-ocr-translated ocrext-result">N/A</p>
+      </div>
+    </div>
+  </div>
+  <div class="ocrext-element ocrext-footer mdl-grid button-screencapture">
+    <!-- <div class="ocrext-element mdl-cell mdl-cell--2-col ocrext-quickselect-btn-container">
+      </div> -->
+    <!-- <div class="ocrext-element mdl-cell mdl-cell--1-col">
+      </div> -->
+    <div class="ocrext-element mdl-cell mdl-cell--12-col ocrext-btn-container align-flex-center">
+      <button
+        class="ocrext-element ocrext-ocr-sendocr ocrext-btn mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
+        title="Redo OCR">Redo OCR</button>
+      <button
+        class="ocrext-element ocrext-ocr-desktop-recapture ocrext-btn mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
+        title="Recapture">Recapture</button>
+      <button
+        class="ocrext-element ocrext-ocr-retranslate ocrext-btn mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
+        title="Re-Translate">Re-Translate</button>
+      <button
+        class="ocrext-element ocrext-ocr-copy ocrext-btn mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
+        title="Copy to clipboard">Copy to clipboard</button>
+      <div id="deepl_translate_button" class="translate-button"><img src="./images/deepl.jpg" alt="open translate">
+      </div>
+      <div id="popup_translate_button"><img src="./images/translate.png" alt="open translate"></div>
+
+    </div>
+  </div>
+  </div>
+
+  <script src="scripts/jquery.min.js"></script>
+  <script src="scripts/overlay.js"></script>
+  <script src="scripts/cs.js"></script>
+  <script src="scripts/material.min.js"></script>
+  <script src="scripts/tabbis.es6.min.js"></script>
+  <script src="scripts/screencapture.js"></script>
+</body>
+
+</html>

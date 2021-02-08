@@ -1,0 +1,57 @@
+<div class="ocrext-element ocrext-wrapper">
+  <header class="ocrext-element ocrext-header">
+	<span class="ocrext-element ocrext-title mdl-layout-title">
+    <span>Copyfish</span>
+    <a class="ocrext-closeToolbar-link icon-action-white icon-action-white-ic_close_white_24dp" title="Close"></a>
+    <a class="ocrext-settings-link icon-action-white icon-action-white-ic_settings_white_24dp" title="Settings"></a>
+    <a class="ocrext-open-tab-link icon-action-white icon-action-white-ic_settings_white_24dp" title="Open in tab"></a>
+  </span>
+  </header>
+  <div class="ocrext-element ocrext-content ocrext-clearfix">
+    <div class="ocrext-element ocrext-canvas-container">
+      <canvas id="ocrext-canOrig" class="ocrext-element" width="480" height="320" style="display: none;"></canvas>
+      <canvas id="ocrext-can" class="ocrext-element" width=480 height=320></canvas>
+      <div class="ocrext-element ocrext-textoverlay-container">
+        <a class="ocrext-close-link" title="Close"></a>
+      </div>
+    </div>
+    <div class="ocrext-element ocrext-ocr-output">
+      <div class="ocrext-element ocrext-spinner-wrapper">
+        <div class="ocrext-element mdl-spinner mdl-js-spinner ocrext-spinner"></div>
+      </div>
+      <p class="ocrext-element ocrext-status"></p>
+      <div class="ocrext-element ocrext-grid ocrext-grid-message ocrext-clearfix">
+        <div class="ocrext-element ocrext-cell ocrext-cell-small">
+          <h5 class="ocrext-element ocrext-label ocrext-message">OCR Result<span></span></h5>
+        </div>
+        <div class="ocrext-element ocrext-cell ocrext-cell-large">
+          <textarea class="ocrext-element ocrext-ocr-message ocrext-result">N/A</textarea>
+        </div>
+      </div>
+      <div class="ocrext-element ocrext-grid ocrext-grid-translated ocrext-clearfix">
+        <div class="ocrext-element ocrext-cell ocrext-cell-small">
+          <h5 class="ocrext-element ocrext-label ocrext-translated">Translated<span></span></h5>
+        </div>
+        <div class="ocrext-element ocrext-cell ocrext-cell-large">
+          <p class="ocrext-element ocrext-ocr-translated ocrext-result">N/A</p>
+        </div>
+      </div>
+
+    </div>
+    <div class="ocrext-element ocrext-footer mdl-grid">
+      <div class="ocrext-element mdl-cell mdl-cell--3-col ocrext-quickselect-btn-container">
+      </div>
+      <!-- <div class="ocrext-element mdl-cell mdl-cell--1-col">
+      </div> -->
+      <div class="ocrext-element mdl-cell mdl-cell--9-col ocrext-btn-container">
+        <button class="ocrext-element ocrext-ocr-sendocr ocrext-btn mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" title="Redo OCR">Redo OCR</button>
+        <button class="ocrext-element ocrext-ocr-recapture ocrext-btn mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" title="Recapture">Recapture</button>
+        <button class="ocrext-element ocrext-ocr-retranslate ocrext-btn mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" title="Re-Translate">Re-Translate</button>
+        <button class="ocrext-element ocrext-ocr-copy ocrext-btn mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" title="Copy to clipboard">Copy to clipboard</button>
+        <div class="translate-button" id="deepl_translate_button"><img src="" alt="open translate"></div>
+        <div  id="popup_translate_button"><img src="" alt="open translate"></div>
+      </div>
+    </div>
+
+  </div>
+</div>

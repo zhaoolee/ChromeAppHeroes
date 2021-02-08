@@ -1,0 +1,68 @@
+{
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "Copy, paste and translate text from any image, video or PDF."
+   },
+   "appName": {
+      "message": "Copyfish 🐟 Free OCR Software"
+   },
+   "appShortName": {
+      "message": "Copyfish 🐟"
+   },
+   "captureError": {
+      "description": "If page load is not yet done, throw an error",
+      "message": "Unable to capture screen, please try again when is loaded. \nDo you want to capture the desktop instead?"
+   },
+   "captureFailure": {
+      "description": "Could not capture media stream",
+      "message": "Media capture failed"
+   },
+   "ocrDimensionError": {
+      "description": "Invalid dimensions for OCR",
+      "message": "The parameter is incorrect.Image size is not supported. Each image dimension must be between 40 and 2600 pixels."
+   },
+   "ocrProgressStatus": {
+      "description": "OCR conversion in progress",
+      "message": "OCR conversion in progress ..."
+   },
+   "ocrProgressStatusStillWorking": {
+      "description": "Still working hard",
+      "message": "Still working hard ..."
+   },
+   "ocrSuccessStatus": {
+      "description": "OCR was successful",
+      "message": "OCR successful"
+   },
+   "overlayTab": {
+      "description": "Title of the overlay page",
+      "message": "Copyfish Result Overlay"
+   },
+   "permWarning": {
+      "description": "Error message when user denies permission",
+      "message": "Please grant permission to use this feature"
+   },
+   "screenCapture": {
+      "description": "Title of the screen capture page",
+      "message": "Screen Capture"
+   },
+   "screenCaptureNotify": {
+      "description": "Click on the extension icon to begin selection",
+      "message": "Click on the extension icon to begin selection."
+   },
+   "screenCaptureWaitMessage": {
+      "description": "Waiting for screen capture . . .",
+      "message": "Waiting for screen selection . . ."
+   },
+   "translationProgressStatus": {
+      "description": "Translation in progress",
+      "message": "Translation in progress ..."
+   },
+   "translationSuccessStatus": {
+      "description": "Translation was successful",
+      "message": "Translation successful"
+   },
+   "userMediaUnsupported": {
+      "description": "getUserMedia is unsupported",
+      "message": "Your browser does not support desktop capture"
+   }
+}

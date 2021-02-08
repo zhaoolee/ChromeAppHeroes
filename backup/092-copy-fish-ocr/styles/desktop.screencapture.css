@@ -1,0 +1,46 @@
+.ocrext-textoverlay-container.visible{
+    margin: 0 !important;
+}
+
+/* #tabpanel-0-1 .ocrext-textoverlay-container{
+    top: 92px !important;
+} */
+
+.ocrext-element.ocrext-status{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+}
+
+.ocrext-progress {
+    color: #03a9f4;
+    height: 16px;
+    opacity: 1 !important;
+}
+
+.ocrext-success {
+    color: #8bc34a;
+    height: 16px;
+    opacity: 1 !important;
+}
+
+.ocrext-error {
+    color: #d9534f;
+    height: 16px;
+    opacity: 1 !important;
+}
+
+.ocrext-footer{
+    padding-top: 0 !important;
+}
+
+.copyfish-tab-text-lng h5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.copyfish-text-translate{
+    display: none;
+}
