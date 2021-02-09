@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [093《Search to Play the Song》在浏览器中随时听我想听的歌~(周杰伦的也行)](https://www.v2fy.com/p/093-sps-2021-02-09/)
+
 - [092《Copyfish 🐟 Free OCR Software》自动截图识别网页中的文字](https://www.v2fy.com/p/092-copyfish-ocr-2021-02-08/)
 
 - [091《FasterChrome》鼠标悬停预加载链接让你的Chrome起飞](https://www.v2fy.com/p/091-faster-chrome-2020-12-28/)
@@ -407,6 +409,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+#### [093《Search to Play the Song》在浏览器中随时听我想听的歌~(周杰伦的也行)](https://www.v2fy.com/p/093-sps-2021-02-09/)
+
+![Chrome插件英雄榜-Search to Play the Song](https://cdn.fangyuanxiaozhan.com/assets/1612861683772xmXR7sYk.gif)
+
+《Search to Play the Song》 把浏览器变成了最方便的听歌软件，无论你是Mac，还是Windows， Linux都能通过安装这款工具，获得良好的听歌体验～
 
 #### [092《Copyfish 🐟 Free OCR Software》自动截图识别网页中的文字](https://www.v2fy.com/p/092-copyfish-ocr-2021-02-08/)
 
