@@ -1,0 +1,60 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "logo.png",
+      "default_popup": "popup.html",
+      "default_title": "SPS"
+   },
+   "commands": {
+      "base": {
+         "description": "Stop/Start Music",
+         "suggested_key": {
+            "default": "Alt+Shift+Z",
+            "mac": "Alt+Shift+Z"
+         }
+      },
+      "mv": {
+         "description": "MV Youtube",
+         "suggested_key": {
+            "default": "Alt+Shift+V",
+            "mac": "Alt+Shift+V"
+         }
+      },
+      "next": {
+         "description": "Next",
+         "suggested_key": {
+            "default": "Alt+Shift+X",
+            "mac": "Alt+Shift+X"
+         }
+      },
+      "page": {
+         "description": "Song Web Page",
+         "suggested_key": {
+            "default": "Alt+Shift+W",
+            "mac": "Alt+Shift+W"
+         }
+      }
+   },
+   "content_security_policy": "script-src 'self' https://c.y.qq.com https://i.y.qq.com https://y.qq.com/ https://base.music.qq.com https://www.youtube.com https://s.ytimg.com; object-src 'self'",
+   "description": "歌曲搜索试听 & 在线广播",
+   "differential_fingerprint": "1.de55c1ba50fe87cffb944133b90ccd50c0e06a482c836c034fa5414999067fe2",
+   "icons": {
+      "128": "logo.png",
+      "16": "logo.png",
+      "48": "logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArp6wfvw0jCG3bqW6p9r5Vl/g7gmUn8tNTIgq3cL2neXp9nHu1ISJ1W5L6+jxO8qnApOLtjsiqGxZ35Qi15ISvbBBx/mcMcjz+2GyfqBFjQKN+Ox4J1BKaYKwBlDwJdDfl2UH88PN336Pi8RQziC+AZxXC7vzLPKw30O+YW4BfTLbd+cvaZNjCRFtaxAWE/LladIfbXU1G0yPDVFJOARKh7iAlffixTVjTWGCS9JtCfzk0e8MKMwCSYYH7hwR++8rSD4jzsO+IvL9tqu6staD6N3mMWnTqnC6LsIPMxiTEWMxk10S2u/9StL0M5sAmNbSPy7kp9TRZNs1Ll41GmhGTwIDAQAB",
+   "manifest_version": 2,
+   "name": "Search to Play the Song",
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "options.html"
+   },
+   "permissions": [ "storage", "cookies", "*://music.163.com/*", "*://*.xiami.com/*", "*://*.qq.com/*", "http://45.248.86.38/sps/", "*://itunes.apple.com/*", "http://*/", "https://*/", "webRequest", "webRequestBlocking", "notifications" ],
+   "short_name": "SPS",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.1"
+}
