@@ -20,7 +20,7 @@ title: 094《SmoothScroll》让网页滚动如奶油般顺滑的奇妙小工具
 
 
 
-## 《Search to Play the Song》 下载链接
+## 《SmoothScroll》 下载链接
 
 <table style="table-layout: fixed;">
 <tbody>
