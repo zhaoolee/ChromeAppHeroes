@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>SmoothScroll Options</title>
+<meta charset=utf-8 />
+<style type="text/css">
+
+body {
+    background:#fdfdfd;
+    font-size: 13.4px;
+    font-family: Verdana, sans-serif;
+    color: #333333;
+    margin: 0;
+    zoom:1.35;
+
+}
+
+a       { text-decoration: none;  color: #333333; border-bottom:1px dotted #ccc; }
+a:hover { text-decoration: none;  color: #0CF; border-bottom:1px solid #0CF; }
+hr      { margin:0; }
+h1      { text-shadow: transparent 0 0 1px; }
+h2      { font-size: 16px; color: #00CCFF; margin:20px 0 15px 0; }
+li      { padding: 2px 0; }
+
+#page {
+    /*border: 3px solid #28AEA8;*/ 
+    background: #fff;
+    margin:0 auto 10px;
+    width: 800px; 
+    text-align: left; 
+    padding: 30px;
+    -webkit-border-radius: 20px; 
+
+    /*-webkit-box-shadow: #BBB 0px 0px 20px;*/
+    -webkit-box-shadow: #ddd -2px 2px 10px;
+}
+
+#title {
+    margin: 0 auto 30px;
+    font-size: 40px;
+    background-image:url(../img/128n.png);
+    width: 400px;
+    padding-left: 140px;
+    background-repeat: no-repeat;
+    background-position: 0% 50%;
+    text-align: left;
+    font-weight: bold;
+    text-shadow: transparent 0 0 1px; /*anit-alias*/
+}
+
+#title a { color: #30BCFF /*#3c78d7*/; border:0; }
+#title a:hover { color:#0CF; }
+
+input[type=text] { 
+    color: #010101;
+    background-color: transparent;
+    padding: 3px;
+    outline: none;
+    text-align: center;
+    border: 1px solid #bbb;
+    width: 38px;
+    margin-right:10px; 
+    -webkit-border-radius: 4px;
+    -webkit-box-shadow: #CCC 0px 0px 2px;  
+}
+
+textarea {
+  padding:10px;
+  width: 770px;
+  border: 1px solid #DDD;
+  -webkit-border-radius: 8px;
+  color: #777;
+}
+
+textarea:focus { color:#222; }
+
+
+#save {
+    font-size:16px; 
+    cursor:pointer; 
+    width:160px;
+    margin:0 auto;
+    display:block;
+}
+
+button { 
+    font-weight:bold; 
+    border:1px solid #ccc; 
+    background:#f6f6f6; 
+    color:#777;
+    text-shadow:1px 1px 0 white;
+    padding:5px 10px; 
+    border-radius:5px;
+    background-image:-webkit-gradient(linear,left top,left bottom,from(white),to(#EFEFEF)); 
+    -webkit-transition: all 0.15s ease-out;
+}
+
+button:hover {  
+    color:#555; 
+    box-shadow:0 0 3px #999;
+}
+
+button:active { 
+    background: #DDD; 
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#CCC),to(white)); 
+}
+
+
+/*.default_value { display:none; }*/
+
+.note { 
+    font-size: 80%;
+    color: #666; 
+    padding-left: 10px; 
+    cursor:help; 
+}
+
+label[title], .help  { cursor:help;  }
+.setting-name { width: 150px; }
+
+.dialog { 
+    text-align:center;
+    display:none;
+    opacity: 0;
+    -webkit-transition: opacity 1s ease-in-out;
+    background-color: #111;
+    color: #fff;
+    position: fixed;
+    padding: 30px;
+    bottom: 0; 
+    left: 50%; 
+    margin-left:-260px;
+    width:460px;
+    border-radius: 8px 8px 0 0;
+}
+
+.dialog-header {
+    color: #999;
+    font: bold 20px 'arial black', arial;
+}
+
+.dialog a { 
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+    border:0;
+}
+
+#footer {
+  margin-top: 40px;
+  border-top: 20px solid #f6f6f6;
+}
+
+#footer li { 
+  margin:5px 0;
+}
+
+#test  { width:800px; margin:0 auto; }
+#test div { margin:20px 0; }
+
+#version-container { 
+    color: #222; 
+    font-size: 22px;
+    font-weight: normal; 
+    margin-top: 5px; font-style:italic;
+    width:300px;                     
+    height:10px;
+    background:#ececec; 
+    text-align:center;
+}
+
+#version  { 
+    background:#fdfcfc; 
+    color:#999;
+    padding:0 8px;
+    position:relative;
+    top:-8px; 
+}
+
+#thanks {
+  text-align: center;
+  margin: 30px 0 0;
+}
+
+#app-promo {
+  background: #f1f1f1;
+  padding:20px 0;
+  text-align: center;
+}
+
+#app-promo a {
+  color: #0CF;
+  font-weight: bold;
+}
+
+#page-wrapper { position:relative; padding-top:30px; }
+
+.contacts a { color: #00CCFF; font-weight: bold; }
+
+.linuxOnly {
+  display: none;
+}
+html.linux .linuxOnly {
+  display: inline-block;
+}
+
+html:not(.mac) .opt-mac, 
+html:not(.win) .opt-win { display:none }
+html.mac #app-promo, 
+html.win #app-promo { display:block !important }
+
+
+</style>
+<script src="../src/sscr.js"></script>
+<script src="../src/middlemouse.js"></script>
+
+</head>
+<body>
+
+<div id="app-promo" style="display:none">
+   <b>Important:</b> This Chrome extension has limitations. For the best experience try the 
+   <span class="opt-mac"><a href="https://www.smoothscroll.net/mac/?extension-opt">SmoothScroll for Mac app</a></span>
+   <span class="opt-win"><a href="https://www.smoothscroll.net/win/?extension-opt">SmoothScroll for Windows app</a></span>
+</div>
+
+
+
+<div id="page-wrapper">
+
+<div id="title">
+  <a class="link-ext" href="https://chrome.google.com/webstore/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj" target="_blank">SmoothScroll</a> 
+  <div id="version-container"><span id="version"></span></div>
+</div>
+
+
+<!-- Fork me on GitHub -->
+<a href="https://github.com/gblazex/smoothscroll"><img style="position: absolute; top: 0; left: 0; border: 0;" src="../img/forkme.png" alt="Fork me on GitHub"></a>
+
+<div id="page">
+
+<div id="news" style="margin-bottom:15px">
+   <b>News:</b> Home button now works again. Cheers guys ✌️</a>
+</div>
+
+
+<h2 style="margin-top:0;">Scroll Settings</h2>
+
+<!-- -->
+<div id="profiles">
+&nbsp;&nbsp;<i class="help "title="Don't forget to hit 'Save' if you want to use them!">Load profile:</i>
+<button id="custom">Custom</button>
+<button id="default">Default</button>
+<button id="iphone">iPhone</button>
+<button id="opera">Opera</button>
+<button id="ie9">IE</button>
+</div>
+
+<br />
+
+<table border="0" cellpadding="0" cellspacing="2" style="font-size: 12px; margin-left: 6px">
+ <tr>
+  <td class="setting-name"><label for="stepSize" title="higher means more scrolling for each mouse event">Step size [px]</label></td>
+  <td><input id="stepSize" type="text" size="1" maxlength="3"> </td>
+  <td class="default_value"><span style="color: #00CCFF; font-size: 12px;"> <i>Default value: 100</i></span></td>
+  <td class="note" title="higher means more scrolling for each mouse event">(<b>how</b> much)</td>
+ </tr>
+ <tr>
+  <td class="setting-name"><label for="animationTime" title="higher number stretches animation">Animation time [ms]</label></td>
+  <td><input id="animationTime" type="text" size="1" maxlength="3"> </td>
+  <td class="default_value"><span style="color: #00CCFF; font-size: 12px;"> <i>Default value: 400</i></span></td>
+  <td class="note" title="higher number stretches animation">(<b>how</b> quick)</td>
+ </tr>
+ <tr>
+  <td class="setting-name"><label for="accelerationMax" title="how much scrolling can accelerate">Acceleration scale</label></td>
+  <td><input id="accelerationMax" type="text" size="1" maxlength="3"></td>
+  <td class="default_value"><span style="color: #00CCFF; font-size: 12px;"> <i>Default value: 3</i></span></td>
+  <td class="note" title="how much scrolling can accelerate">(<b>how </b>swift)</td>
+</tr>
+ <tr>
+  <td class="setting-name"><label for="accelerationDelta" title="lower means acceleration kicks in more frequently">Acceleration delta [ms]</label></td>
+  <td><input id="accelerationDelta" type="text" size="1" maxlength="2"></td>
+  <td class="default_value"><span style="color: #00CCFF; font-size: 12px;"> <i>Default value: 50</i></span></td>
+  <td class="note" title="lower means acceleration kicks in more frequently">(<b>time</b> between scroll events)</td>
+</tr>
+ <tr>
+  <td class="setting-name"><label for="pulseScale" title="it affects how long the decceleration part is">Pulse Scale</label></td>
+  <td><input id="pulseScale" type="text" size="1" maxlength="2"></td>
+  <td class="default_value"><span style="color: #00CCFF; font-size: 12px;"> <i>Default value: 4</i></span></td>
+  <td class="note" title="it affects how long the decceleration part is">(<b>ratio </b>of "tail" to "acceleration")</td>
+</tr>
+ <tr>
+  <td style="width:180px;"><label for="arrowScroll" title="higher means more scrolling for each arrow key press">Arrow key step size [px]</label></td>
+  <td><input id="arrowScroll" type="text" size="1" maxlength="3"> </td>
+  <td class="default_value" ><span style="color: #00CCFF; font-size: 12px;"> <i>Default value: 50</i></span></td>
+ </tr>
+</table>
+<br>
+
+<h2>Features</h2>
+
+<input type="checkbox" id="keyboardSupport"><label for="keyboardSupport">Enable <b>keyboard support</b></label><br><br>
+
+<input type="checkbox" id="touchpadSupport"><label for="touchpadSupport">Enable <b>touchpad support</b></label><br><br>
+
+<input type="checkbox" id="pulseAlgorithm"><label for="pulseAlgorithm" title="adds easing to the animations">Enable <b>pulse algorithm</b></label><br><br>
+
+<input type="checkbox" id="middleMouse"><label for="middleMouse" title="scroll smooth with the middle mouse button">Enable <b>middle mouse</b> scrolling</label><br><br>
+
+<input type="checkbox" id="fixedBackground"><label for="fixedBackground" title="disabling it improves performance on sites like twitter.com">Enable <b>fixed backgrounds</b></label><br><br>
+
+<input type="checkbox" id="reverseDirection" class="linuxOnly"><label for="reverseDirection" title="reverses scroll direction" class="linuxOnly">Enable <b>reversed scroll direction</b></label>
+
+
+
+<table border="0" cellpadding="0" cellspacing="2" style="font-size: 12px; ">
+
+ <!--
+ <tr>
+  <td style="width:200px;"><label for="pgscroll">PgUp/PgDown step size [px]</label></td>
+  <td><input id="pgscroll" type="text" size="1" maxlength="4"> </td>
+  <td><span style="color: #00CCFF; font-size: 12px;"> <i>Default value: 800</i></span></td>
+ </tr>
+ -->
+</table>
+
+<br>
+
+<h2><label for="excluded">Excluded pages</label></h2>
+<textarea id="excluded" cols="70" rows="5"></textarea> 
+
+<br><br>
+
+<button id="save">Save Settings</button>
+
+<div id="thanks">If you <strong><i>love</i></strong> this extension please consider 
+      <a class="link-review" href="https://chrome.google.com/webstore/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj/reviews" style="color:#00CCFF;font-weight:bold" target="_blank">writing a great review</a>
+</div>
+
+<!--
+<div style="text-align:center; height: 30px;margin:20px 0 5px;">
+  <div id="saving"  style="color: #00CCFF; font-size: 12px; font-weight: bold;">&nbsp;</div>
+  <div id="message" style="color: #00CCFF; font-size: 11px; font-style:italic;"></div>
+</div>
+-->
+
+<div id="footer">
+
+<div>
+  <h2>Links</h2>
+  <ul>
+   <li><a href="https://github.com/gblazex/smoothscroll/"
+          target="_blank">Bug Report, Known Issues, Source Code...</a></li>
+   <li><a class="link-ext" href="https://chrome.google.com/webstore/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj" 
+          target="_blank"> Extension Homepage</a></li>
+  </ul>
+</div>
+
+<div>
+  <h2>People</h2>
+
+   <div style="line-height: 2">
+    <div class="contacts">
+       <b>Balázs Galambosi</b>: 
+       <a href="mailto:blaze@blazex.me">email</a> 
+       <span style="display:none">|
+         <a href="https://twitter.com/gblazex" target="_blank">twitter</a> | 
+         <a href="https://instagram.com/gblazex" target="_blank">instagram</a>
+       </span>
+     </div>
+     <div style="opacity:.6;">(Thanks to Michael Herf for his <a href="http://stereopsis.com/stopping/">pulse algorithm</a>)</div>
+   </div>
+  
+</div>
+
+</div>
+
+</div> <!-- /#page -->
+
+</div> <!-- /#page-wrapper -->
+
+
+
+<style>
+#insta {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    line-height: 1.42857143;
+    color: #333333;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #CCCCCC;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background: #FFFFFF;
+
+    width: 300px;
+    text-align: center;
+    padding: 15px 15px 0 15px;
+    box-sizing: border-box;
+
+    margin: 10px auto 0;
+}
+
+.img-circle {
+  border-radius: 50%;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #125688;
+    border-color: #0f4871;
+
+    /*
+    background: #3897f0;
+    border-color: #3897f0;
+    */
+}
+
+.btn-twitter {
+  background: #1b95e0;
+  border-color: #1b95e0;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background-color: #0c7abf; 
+  border-color: #0c7abf;
+  color: #fff;
+}
+
+
+
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 4px 10px;
+    font-size: 10px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+    
+
+ .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+}
+
+.fa-lg {
+    font-size: 1.33333333em;
+    line-height: .75em;
+    vertical-align: -15%;
+}
+
+.fa-instagram:before {
+    content: "\f16d";
+}
+#insta p {
+    margin: 0 0 10px;
+}
+#insta h3 {
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+.btn > svg {
+  width: 14px;
+  line-height: .75em;
+  vertical-align: middle;
+  margin-right:3px;
+}
+
+#who h2 {
+  color: #444;
+  font-weight: 500;
+}
+</style>
+
+<div id="who" style="margin: 0 auto; text-align: center;">
+  <h2>Hit me up on social 🤙</h2>
+  <div id="insta">
+  <a href="/v/user/gblazex" target="_top"><img src="https://pbs.twimg.com/profile_images/862592191969079298/8SK2YdOn_400x400.jpg" class="img-circle" style="border: 1px solid #dbdbdb;" width="32%" alt="Blaze"></a>
+  <h3 class="text-center">Blaze</h3>
+  <p class="text-center">Home New Tab &amp; SmoothScroll</p>
+  <p>
+    <a class="btn btn-primary" href="https://www.instagram.com/gblazex/" rel="external" target="_blank">
+<svg aria-hidden="true" data-prefix="fab" data-icon="instagram" class="svg-inline--fa fa-instagram fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg> Insta Follow</a> 
+    
+    <a class="btn btn-primary btn-twitter" href="https://twitter.com/gblazex/" rel="external" target="_blank"><svg aria-hidden="true" data-prefix="fab" data-icon="twitter" class="svg-inline--fa fa-twitter fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg> Twitta Follow</a>
+  </p>
+  </div>
+
+  </div> 
+
+<br><br><br><br><br><br>
+
+<div class="dialog">
+  <div class="dialog-header">Settings saved</div>
+  <div class="dialog-content">You can now test the new scroll settings!</div>
+</div>
+
+<div id="test">
+
+<h1>Test your settings!</h1>
+
+<div>
+<h2>By scrolling on this long page.</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non orci ipsum, eu laoreet nisl. Suspendisse ut dictum neque. Pellentesque nulla ipsum, posuere ut mattis vel, dapibus fringilla arcu. Donec fermentum purus in risus convallis semper. Nullam tempor urna eu libero vulputate vitae pulvinar enim accumsan. Donec vitae leo a enim faucibus consectetur. Nullam lectus justo, eleifend quis condimentum ut, pharetra et risus. Ut luctus molestie nibh sit amet vestibulum. Vestibulum tempor luctus scelerisque. Duis posuere elementum mollis. Cras sit amet varius massa. Nulla condimentum feugiat aliquam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean id ante et diam lacinia convallis vel eu magna.</p>
+
+<p>In congue, risus sed commodo molestie, tortor sem dictum neque, in viverra sapien arcu vulputate velit. Pellentesque nec dignissim neque. Proin non felis quis lectus fermentum lobortis ut nec purus. Nam quam turpis, sodales in pellentesque vel, tempor gravida lacus. Pellentesque euismod aliquet pulvinar. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed tempus velit in lacus tristique facilisis. Mauris commodo, nunc et tempor pharetra, lectus dui posuere odio, eu auctor lorem augue non neque. Aenean auctor velit ac erat lobortis iaculis. Nullam in nibh et sem porttitor malesuada non non urna. Nulla lacus est, aliquet vel egestas a, accumsan a ante. Sed semper molestie dictum. Morbi at quam non enim porttitor varius. Vivamus ut metus et enim egestas ornare malesuada at augue.</p>
+
+<p>Morbi laoreet velit sit amet metus tincidunt hendrerit. Aliquam augue ante, venenatis a rutrum sit amet, tristique non urna. Suspendisse et euismod nunc. Donec tempus luctus convallis. Proin blandit justo in nulla volutpat imperdiet. Integer dapibus lectus vitae libero hendrerit commodo. Praesent felis metus, pretium id tempus sed, porttitor ut justo. Praesent dapibus massa a erat congue malesuada. Fusce at erat in augue lobortis ultrices. Fusce vitae nunc sed arcu viverra convallis. Etiam nec magna turpis, id iaculis dui. Etiam at interdum est. Ut quis eros justo, vel consequat dolor. Proin pulvinar tristique congue. Mauris consectetur aliquam ipsum lobortis tempor. In non ligula orci, a commodo turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer non tempus lectus. Praesent tristique ante a purus lobortis viverra.</p>
+
+<p>Curabitur eget leo velit, ac sagittis arcu. Mauris pulvinar orci et libero ultricies non iaculis velit gravida. Nulla facilisi. Pellentesque vel tellus nisl, et eleifend turpis. Vestibulum accumsan tincidunt tellus ac posuere. Nunc et orci metus. Cras quis lacus at tortor semper sollicitudin. Sed mi velit, semper et eleifend eget, faucibus mattis velit. Quisque interdum, risus et vulputate cursus, mauris elit fermentum nunc, in imperdiet ipsum odio sed magna. Vivamus porttitor ornare lacus in congue. Morbi et justo nulla, non tincidunt eros. Nulla scelerisque, tortor eget pulvinar volutpat, ante justo dapibus arcu, eu lacinia quam ante ut libero. Integer porta libero eu est scelerisque malesuada. Sed risus diam, pellentesque eu euismod sit amet, rhoncus quis velit. Aliquam et vehicula odio. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque nec magna nec odio venenatis sollicitudin non id massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut in eleifend mauris.</p>
+
+<p>Sed ac scelerisque nisl. Vivamus ac diam et nibh pulvinar gravida vitae a magna. Fusce ipsum ligula, suscipit sit amet ullamcorper a, fringilla sed neque. Curabitur ipsum dolor, consectetur condimentum luctus nec, molestie eu nulla. Curabitur eros nunc, varius at vestibulum sed, tincidunt aliquam risus. Aenean ultricies iaculis augue. Sed tempor scelerisque velit, et dignissim erat hendrerit gravida. Mauris consectetur porta lacus vel posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut diam diam, tempus mattis interdum nec, tincidunt in ante. Pellentesque lacus ipsum, eleifend non imperdiet id, dapibus vel metus. Proin egestas sagittis urna facilisis congue. Fusce nec dapibus nibh.</p>
+<div>
+</div>
+
+<script src="options.js"></script>
+
+</body>
+</html>

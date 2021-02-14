@@ -1,0 +1,27 @@
+A Google Chrome extension for smooth scrolling with the mouse wheel and keyboard buttons.
+
+Also available as a Mac and Windows app
+ https://www.smoothscroll.net/mac/
+ https://www.smoothscroll.net/win/
+
+Embedding it into your website
+  https://github.com/gblazex/smoothscroll-for-websites
+
+Chrome extension
+  https://chrome.google.com/webstore/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj
+
+Opera extension
+  https://addons.opera.com/extensions/details/smoothscroll-3/
+
+Features
+- Picasa-like smooth scrolling
+- Mouse wheel, middle mouse and keyboard support
+- Arrow keys, PgUp/PgDown, Spacebar, Home/End
+- Customizable step sizes, frames per second and more...
+- Works with embedded content (PDF, flash)
+- Full touchpad support
+- Excluded pages list
+
+People involved
+ - Balazs Galambosi (maintainer)
+ - Michael Herf     (pulse algorithm)

@@ -1,0 +1,32 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "pages/background.js", "promo/mac_promo_bg.js", "promo/win_promo_bg.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_globs": [ "*.pdf*" ],
+      "js": [ "src/sscr.js", "src/middlemouse.js" ],
+      "matches": [ "http://*/*", "https://*/*", "ftp://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "promo/mac_promo.js" ],
+      "matches": [ "*://www.smoothscroll.net/*", "*://www.smoothscroll.net.s3-website-us-east-1.amazonaws.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Scroll smoothly on all websites with your mouse and keyboard.",
+   "icons": {
+      "128": "img/128n.png",
+      "16": "img/16n.png",
+      "32": "img/32n.png",
+      "48": "img/48n.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD1YCUodXSIZuDNa4PJGDCzSWnJAsPymJLQNj+fbxNHbE8BJ4x062dCB0rg0ovXXjNjGJW5FUX+aIEdhh1oNpouWkfu0GP6D6VXCrArXS1hKa7mV8jrBSuMLQo/aU3X7iieqkDzeSFRwUaAEp54C62J22sJ06EHI1QMLuCJ6C9lVQIDAQAB",
+   "manifest_version": 2,
+   "name": "SmoothScroll",
+   "options_page": "pages/options.html",
+   "permissions": [ "storage", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6.32",
+   "web_accessible_resources": [ "img/cursor.png" ]
+}
