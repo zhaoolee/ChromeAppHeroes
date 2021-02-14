@@ -44,7 +44,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
-- [094《SmoothScroll》让网页滚动如奶油般顺滑的奇妙小工具浏览器](https://www.v2fy.com/p/094-smoothscroll-2021-02-14/)
+- [094《SmoothScroll》让网页滚动如奶油般顺滑的奇妙小工具](https://www.v2fy.com/p/094-smoothscroll-2021-02-14/)
 
 - [093《Search to Play the Song》在浏览器中随时听我想听的歌~(周杰伦的也行)](https://www.v2fy.com/p/093-sps-2021-02-09/)
 
@@ -412,7 +412,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
-####  [094《SmoothScroll》让网页滚动如奶油般顺滑的奇妙小工具浏览器](https://www.v2fy.com/p/094-smoothscroll-2021-02-14/)
+####  [094《SmoothScroll》让网页滚动如奶油般顺滑的奇妙小工具](https://www.v2fy.com/p/094-smoothscroll-2021-02-14/)
 
 ![SmoothScroll](https://cdn.fangyuanxiaozhan.com/assets/161327488617355A7NShQ.gif)
 
