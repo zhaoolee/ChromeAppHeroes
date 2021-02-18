@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [095《JsonFormatter》轻量化Json开源格式化工具查看一言api接口字段数据结构](https://www.v2fy.com/p/095-json-formatter-2021-02-18/)
+
 - [094《SmoothScroll》让网页滚动如奶油般顺滑的奇妙小工具](https://www.v2fy.com/p/094-smoothscroll-2021-02-14/)
 
 - [093《Search to Play the Song》在浏览器中随时听我想听的歌~(周杰伦的也行)](https://www.v2fy.com/p/093-sps-2021-02-09/)
@@ -411,6 +413,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+#### [095《JsonFormatter》轻量化Json开源格式化工具查看一言api接口字段数据结构](https://www.v2fy.com/p/095-json-formatter-2021-02-18/)
+
+![启用JsonFormatter](https://cdn.fangyuanxiaozhan.com/assets/1613616381100e0Zf185w.gif)
+
 
 ####  [094《SmoothScroll》让网页滚动如奶油般顺滑的奇妙小工具](https://www.v2fy.com/p/094-smoothscroll-2021-02-14/)
 

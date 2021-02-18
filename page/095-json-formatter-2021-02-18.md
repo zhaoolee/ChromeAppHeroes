@@ -1,5 +1,5 @@
 ---
-title: 095《JsonFormatter》轻量化Json格式化工具查看一言api接口字段数据结构
+title: 095《JsonFormatter》轻量化Json开源格式化工具查看一言api接口字段数据结构
 ---
 
 JsonFormatter可以让开发者在浏览器查看接口的的层级信息，方便开发。
@@ -31,7 +31,7 @@ JsonFormatter的使用非常简单，安装即可自动生效，处理的效果�
 
 数据结构顿时一目了然
 
-![2021-02-18 10.45.27](https://cdn.fangyuanxiaozhan.com/assets/1613616381100e0Zf185w.gif)
+![启用json-formatter](https://cdn.fangyuanxiaozhan.com/assets/1613616381100e0Zf185w.gif)
 
 ## 如何使用Json返回的数据
 
