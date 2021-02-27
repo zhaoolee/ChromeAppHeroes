@@ -44,6 +44,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+
+
+- [096《Feedbro》在Chrome中订阅RSS信息流](https://www.v2fy.com/p/096-feedbro-2021-02-27/)
+
 - [095《JsonFormatter》轻量化Json开源格式化工具查看一言api接口字段数据结构](https://www.v2fy.com/p/095-json-formatter-2021-02-18/)
 
 - [094《SmoothScroll》让网页滚动如奶油般顺滑的奇妙小工具](https://www.v2fy.com/p/094-smoothscroll-2021-02-14/)
@@ -414,6 +418,16 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+
+
+
+
+
+#### [096《Feedbro》在Chrome中订阅RSS信息流](https://www.v2fy.com/p/096-feedbro-2021-02-27/)
+
+![Chrome插件英雄榜-在Feedbro中添加RSS订阅](https://cdn.fangyuanxiaozhan.com/assets/1614402875585y8xGtc50.gif)
+
+在信息爆炸的今天，每个人获取的信息很多，但由于推荐算法的滥用, 大多数信息是同质化的；偏听则暗，兼听则明，我们可以通过订阅多站点的RSS, 让自己接受的信息不偏颇，听百家之言，行稳妥之事。
 
 #### [095《JsonFormatter》轻量化Json开源格式化工具查看一言api接口字段数据结构](https://www.v2fy.com/p/095-json-formatter-2021-02-18/)
 
