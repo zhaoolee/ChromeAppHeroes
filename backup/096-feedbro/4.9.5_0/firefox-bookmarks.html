@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title data-i18n="bookmarks_header">Import Firefox Bookmark Feed Subscriptions</title>
+	
+	<script src="scripts-core/jquery-3.2.1.min.js" type="text/javascript"></script>
+	<script src="scripts-core/alertify.js" type="text/javascript"></script>
+	<script src="scripts-core/feedbro.min.js"></script>
+	<script src="scripts-core/locale-en_US.js"></script>
+	<script src="scripts-core/init-bookmarks.js"></script>
+	
+	<link rel="stylesheet" href="styles/alertify.core.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/alertify.feedbro.css" type="text/css"/>
+  
+	<style type="text/css">
+  * { 
+	box-sizing: border-box;
+  } 
+  
+  body {
+	background-color: #fff;
+	color: #000;
+	font-size: 0.8em;
+  }
+  
+  body, button, input {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  
+  button {
+	font-size: 14px;
+  }
+  
+  input[type='file'] {
+	font-size: 14px;
+  }
+  
+  div.folder,
+  div.feed,
+  div.livebookmark  {
+	margin-left: 20px;
+	white-space: nowrap;
+  }
+  
+  img.folder,
+  img.livebookmark,
+  img.feed {
+	margin-right: 4px;
+	margin-bottom: 6px;
+	vertical-align: middle;
+	margin-left: 2px;
+	width: 16px;
+  }
+  
+  li {
+	font-size: 14px;
+	padding: 5px;
+  }
+  
+  a {
+	text-decoration: none;
+  }
+  
+  span.title {
+	white-space: nowrap;
+	overflow: hidden;
+  }
+	</style>
+	
+	<style type="text/css">
+body {
+	min-height: 100vh;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+}
+
+div#core {
+	overflow-y: auto;
+	flex: 5;
+	padding: 20px;
+}
+
+div#left {
+	flex: 1;
+	background-color: #eeeeee;
+	min-width: 160px;
+	border-right: 1px solid #cccccc;
+	background-image: url(../images/reader128.png);
+	background-repeat: no-repeat;
+	background-position: 50% 40%;
+}
+
+div#right {
+	flex: 1;
+	background-color: #eeeeee;
+	border-left: 1px solid #cccccc;
+}
+
+div#logo {
+	margin-top: 150px;
+	padding: 0px;
+	font-size: 1.3em;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h3 {
+	padding-bottom: 2px;
+	border-bottom: 1px solid #cccccc;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+	</style>
+  
+</head>
+<body>
+<div id="left" data-i18n="options_goback" title="Click to go back to Reader view" style="cursor: pointer"></div>
+<div id="core">
+
+<h3 data-i18n="bookmarks_header">Import Firefox Bookmarks</h3>
+
+<ol>
+  <li data-i18n="bookmarks_savebookmarksguide">Save your Firefox bookmarks as HTML:<br>In Firefox: Menu | Library | Bookmarks | Show all bookmarks, choose <b>Import and Backup</b> menu and then <b>Export Bookmarks to HTML...</b></li>
+  <li><span data-i18n="bookmarks_salectfile">Select the Firefox bookmarks HTML file you just saved:</span> <input type="file" id="bookmarkfile"></li>
+  <li data-i18n="bookmarks_selectbookmarks">Select the <b>feed</b> bookmarks (that point to valid RSS/ATOM/RDF URLs) you want to import/save using the checkboxes below</li>
+  <li><button data-i18n="bookmarks_import" id="import">Import to Feedbro</button> <span data-i18n="bookmarks_or">or</span> <button data-i18n="bookmarks_saveopml" id="download">Save as OPML file</button></li>
+</ol>
+<br>
+<div id="results"></div>  
+
+</div>
+<div id="right" data-i18n="options_goback" title="Click to go back to Reader view" style="cursor: pointer"></div>
+   
+</body>
+</html>

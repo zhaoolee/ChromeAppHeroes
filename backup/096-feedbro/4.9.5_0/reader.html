@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Feedbro</title>
+	<base target="_blank" rel="noopener"/>
+	
+	<link rel="shortcut icon" type="image/png" href="images/reader16.png"/>
+
+	<link rel="stylesheet" href="styles/reader.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/layout.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/jqtree.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/buttons.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/alertify.core.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/alertify.feedbro.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/custom.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/tagselect.css" type="text/css"/>
+	
+	<link rel="stylesheet" href="styles/theme-light.css" type="text/css" id="theme"/>
+	
+	<script src="scripts-core/jquery-3.2.1.min.js"></script>
+	<script src="scripts-core/date.format.js"></script>
+	<script src="scripts-core/alertify.js"></script>
+	<script src="scripts-core/tree.jquery.js"></script>
+	<script src="scripts-core/intersection-observer.js"></script>
+	<script src="scripts-core/feedbro.min.js"></script>
+	<script src="scripts-core/locale-en_US.js"></script>
+	<script src="scripts-core/init-reader.js"></script>
+	
+	
+	<style id="settings"></style>
+	
+	<script type="text/x-mathjax-config">	
+	MathJax.Hub.Config({
+		extensions: ["tex2jax.js"],
+		jax: ["input/TeX", "output/HTML-CSS"],
+		tex2jax: {
+		  inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+		  displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+		  processEscapes: true
+		},
+		"HTML-CSS": { availableFonts: ["TeX"] }
+	});
+	</script>  
+	
+</head>
+
+<body>
+<div id="toolbar" class="noPrint">
+	<div id="toolbar-left" class="noPrint">	
+		<center style="padding-top: 2px;">
+			<div class="imagebutton" id="togglepanel"><img class="imagebutton-img" src="images/togglepanel.png" data-i18n="toolbar_hidetree" title="Hide/show feed tree - Shortcut 'w'"></div>
+			<div class="imagebutton" id="reloadall"><img class="imagebutton-img" src="images/reload.png" data-i18n="toolbar_refresh" title="Refresh all feeds by polling the feed sources (XML) - Note that you don't have to do this. Feedbro scans feeds automatically in the background all the time based on the intervals you have defined."></div>
+			<div class="imagebutton" id="supportfeedbro"><img class="imagebutton-img" src="images/heart.png" data-i18n="toolbar_support" title="Please Support Feedbro Development"></div>
+			<div class="imagebutton" id="findfeed"><img class="imagebutton-img" src="images/icon-plus.png" data-i18n="toolbar_findfeed" title="Find a new feed"></div>
+			<div class="imagebutton" id="addfeed"><img class="imagebutton-img" src="images/add-feed.png" data-i18n="toolbar_addfeed" title="Add a new feed"></div>
+			<div class="imagebutton" id="addfolder"><img class="imagebutton-img" src="images/add-folder.png" data-i18n="toolbar_addfolder" title="Add a new folder"></div>
+			<div class="imagebutton" id="markread"><img class="imagebutton-img" src="images/markread.png" data-i18n="toolbar_markread" title="Mark all feed entries in currently selected feed or folder as read - Shortcut 'Shift + a'"></div>
+		</center>
+	</div>
+	<div id="toolbar-right" class="noPrint">
+
+		<select tabindex="-1" id="itemsortorder" data-i18n="sortorder" title="Defines the order for showing feed items">
+		<option value="1" data-i18n="sortorder_newest" title="Shows the items in descending order by publish date">Sort by newest</option>
+		<option value="2" data-i18n="sortorder_oldest" title="Shows the items in ascending order by publish date">Sort by oldest</option>
+		<option value="3" data-i18n="sortorder_points" title="Shows the items with the most points first. When points are equal, the newer item is shown first. Create a Rule under Rules menu to assign points to articles.">Sort by points</option>
+		</select>
+		
+		<select tabindex="-1" id="itemage" data-i18n="itemage" title="Feed items older than this will not be loaded">
+		<option data-i18n="itemage_1h" value="3600000">Article max age 1 hour</option>
+		<option data-i18n="itemage_2h" value="7200000">Article max age 2 hours</option>
+		<option data-i18n="itemage_4h" value="14400000">Article max age 4 hours</option>
+		<option data-i18n="itemage_8h" value="28800000">Article max age 8 hours</option>
+		<option data-i18n="itemage_24h" value="86400000">Article max age 24 hours</option>
+		<option data-i18n="itemage_48h" value="172800000">Article max age 48 hours</option>
+		<option data-i18n="itemage_3d" value="259200000">Article max age 3 days</option>
+		<option data-i18n="itemage_1w" value="604800000">Article max age 1 week</option>
+		<option data-i18n="itemage_2w" value="1209600000">Article max age 2 weeks</option>
+		<option data-i18n="itemage_1m" value="2419200000" selected="selected">Article max age 1 month</option>
+		<option data-i18n="itemage_2m" value="4838400000">Article max age 2 months</option>
+		<option data-i18n="itemage_6m" value="14515200000">Article max age 6 months</option>
+		<option data-i18n="itemage_1y" value="31536000000">Article max age 1 year</option>
+		<option data-i18n="itemage_unlimited" value="-1">Article max age unlimited</option>
+		</select>
+
+		<input tabindex="-1" type="checkbox" id="onlyunread" style="display: none">
+		<div class="imagebutton" id="unreadtoggle"><img class="imagebutton-img" data-i18n="toolbar_unread" title="Show only unread articles (when highlighted) - Shortcut 'u'" src="images/unread-icon.png"></div>
+		<span class="tbdiv">|</span>
+		<div class="imagebutton mode" id="normalview"><img class="imagebutton-img" data-i18n="toolbar_viewmode1" title="View mode 1: List of full articles - Shortcut '1'" src="images/viewmode-1-icon.png"></div>
+		<div class="imagebutton mode" id="headlineview"><img class="imagebutton-img" data-i18n="toolbar_viewmode2" title="View mode 2: List of article headlines (click to open) - Shortcut '2'" src="images/viewmode-2-icon.png"></div>
+		<div class="imagebutton mode" id="3cola"><img class="imagebutton-img" data-i18n="toolbar_viewmode3" title="View mode 3: List of article titles + selected article (like Opera RSS reader) - Shortcut '3'" src="images/viewmode-3-icon.png"></div>
+		<div class="imagebutton mode" id="newsview"><img class="imagebutton-img" data-i18n="toolbar_viewmode4" title="View mode 4: Newspaper mode: title + summary + picture (click to open) - Shortcut '4'" src="images/viewmode-4-icon.png"></div>
+		<div class="imagebutton mode" id="newslinemode"><img class="imagebutton-img" data-i18n="toolbar_viewmode5" title="View mode 5: Magazine mode: title + picture + summary (click to open) - Shortcut '5'" src="images/viewmode-5-icon.png"></div>
+		<div class="imagebutton mode" id="3colaiframe"><img class="imagebutton-img" data-i18n="toolbar_viewmode6" title="View mode 6: List of article titles + selected article embedded in iframe from the original site (note! some sites prevent embedding!) - Shortcut '6'" src="images/viewmode-6-icon.png"></div>		
+		<span class="tbdiv">|</span>
+		<div class="imagebutton" id="openfbhelp" data-i18n="toolbar_help" title="Feedbro Help page"><img class="imagebutton-img" width="16" src="images/help.png"></div>
+		<div class="imagebutton" id="gotosettings" data-i18n="toolbar_options" title="Open Feedbro Options/Settings page"><img class="imagebutton-img" width="16" src="images/settings.png"></div>
+		<span class="tbdiv">|</span>
+		<div class="imagebutton" id="reload" data-i18n="toolbar_reload" title="Reload currently selected feed or folder from the local database (not feed source) - Shortcut 'r'"><img class="imagebutton-img" width="16" src="images/reload-icon2.png"></div>
+		<div class="imagebutton" id="prevItem" data-i18n="toolbar_prev" title="Previous item - Shortcut 'k' or 'p'"><img class="imagebutton-img" width="16" src="images/arrowup2.png"></div>
+		<div class="imagebutton" id="nextItem" data-i18n="toolbar_next" title="Next item - Shortcut 'j' or 'n'"><img class="imagebutton-img" width="16" src="images/arrowdown2.png"></div>
+	</div>		
+</div>
+<div id="core">
+	<div id="leftpane" class="noPrint">
+
+		<div id="mainfunctions">
+			<div id="allitems" class="mainfunction" style="margin-top: 10px;"><img class="mainfunction-img" src="images/allitems.png" style="vertical-align: middle"/> <span data-i18n="mainmenu_allitems">All Items</span></div>
+			<div id="starreditems" class="mainfunction"><img class="mainfunction-img" src="images/star-grey.png" style="vertical-align: middle"/> <span data-i18n="mainmenu_starreditems">Starred Items</span></div>
+			<div id="rulenav" class="mainfunction"><img class="mainfunction-img" src="images/rule-icon.png" style="vertical-align: middle"/> <span data-i18n="mainmenu_rules">Rules</span></div>
+			<div id="tagnav" class="mainfunction"><img class="mainfunction-img" src="images/tagicon.png" style="vertical-align: middle"/> <span data-i18n="mainmenu_tags">Tags</span></div>
+			<div id="stats" class="mainfunction"><img class="mainfunction-img" src="images/statistics.png" style="vertical-align: middle"/> <span data-i18n="mainmenu_statistics">Feed Statistics</span></div>
+		</div>
+		<div id="navigator"></div>
+	</div>	
+	<div id="dragbar1" class="noPrint"></div>
+	<div id="titles" class="noPrint"></div>
+	<div id="dragbar2" class="noPrint"></div>
+	<div id="feed" tabindex="1"><br><br><br><br><br><br><br><br><br><br>
+		<center>
+		<a href="#" class="link-readall" title="Click to open 'All Items' view (You can also set it as default in Settings)"><img src="images/reader128.png"></a>
+		<h1 id="fbreadermaintitle" style="font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 1.8em;text-rendering: optimizeLegibility;">Feedbro Reader</h1>
+		<div class="maindescription" 
+			 data-i18n="frontpage_description"	
+			 title="Open the page you want to follow, click Feedbro icon and choose 'Find Feeds in Current Tab'">Read news &amp; blogs or any other RSS/Atom/RDF source.</div>
+		<br><br><br>
+		
+		<table class="main-iconset">
+		<tr align="center" valign="top">
+		<td class="main-iconset-td">
+		<div class="main-icon">
+			<a href="#" class="link-addfolder"><img src="images/add-folder-32.png"></a>
+		</div>
+		</td>
+		<td class="main-iconset-td">
+		<div class="main-icon">
+			<a href="#" class="link-addfeed"><img src="images/add-feed-32.png" data-i18n="frontpage_link_addfeed_icon" 
+				title="Faster way: open the feed/web page, click the Feedbro icon and select 'Find Feeds in Current Tab'"></a>
+		</div>
+		</td>
+		<td class="main-iconset-td">
+		<div class="main-icon">
+			<a href="#" class="link-import"><img src="images/opml-icon-32.png"></a>
+		</div>
+		</td>
+		<td class="main-iconset-td">
+		<div class="main-icon">
+			<a href="#" class="link-settings"><img src="images/settings-32.png"></a>
+		</div>
+		</td>
+		<td class="main-iconset-td">
+		<div class="main-icon">
+			<a href="#" class="link-help"><img src="images/help-icon.png" width="32"></a>
+		</div>
+		</td>
+		</tr>
+		<tr align="center" valign="top">
+		<td class="main-iconset-td">
+		<a href="#" data-i18n="frontpage_link_addfolder" class="link-addfolder">Add a<br>new folder</a>
+		</td>	
+		<td class="main-iconset-td">
+		<a href="#" data-i18n="frontpage_link_addfeed" class="link-addfeed" title="Faster way: open the feed/web page, click Feedbro icon and select 'Find Feeds in Current Tab'">Add a<br> new feed</a>
+		</td>	
+		<td class="main-iconset-td">
+		<a href="#" data-i18n="frontpage_link_import" class="link-import">Import feed<br>
+		subscriptions<br>
+		as OPML</a>
+		</td>	
+		<td class="main-iconset-td">
+		<a href="#" data-i18n="frontpage_link_settings" class="link-settings">Settings</a>
+		</td>	
+		<td class="main-iconset-td">
+		<a href="#" data-i18n="frontpage_link_help" class="link-help">Help</a>
+		</td>	
+		</tr>
+		
+		</table>
+		
+		<br><br>
+		<br>
+		<div class="main-bottomlinks">
+		<a class="main-bottomlink" data-i18n="bottomlink_feedback" id="feedbro-feedback" href="https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa">Feedback</a> - 
+		<a class="main-bottomlink" data-i18n="bottomlink_bugreports" href="mailto:feedbro.reader@gmail.com">Bug Reports</a> - 
+		<a class="main-bottomlink" data-i18n="bottomlink_knownissues" href="KNOWNISSUES.txt">Known Issues</a> - 
+		<a class="main-bottomlink" data-i18n="bottomlink_changelog" href="CHANGELOG.txt">Change Log</a> - 
+		<a class="main-bottomlink" data-i18n="bottomlink_credits" href="CREDITS.txt">Credits</a>
+		</div>
+		</center>
+	</div>
+</div>
+<div id="footer"></div>
+		
+<div id="feeddialog">
+<div id="feedtitle"><center>Feed Properties</center></div>
+<div id="feeddialogcontent">
+<center>
+<table id="feeddialogTable">
+<tbody>
+  <tr>
+    <td data-i18n="addfeed_url">Feed URL</td>
+	<td><input id="feed-url" type="text" size="40" spellcheck="false"> <button id="feed-get"  data-i18n="addfeed_load" class="uibutton">Load</button>
+	<span id="feed-alternatives"></span>
+	</td>
+  </tr>
+  <tr>
+    <td data-i18n="addfeed_title">Title</td>
+	<td><input id="feed-title" type="text" size="40" dir="auto" spellcheck="false"></td>
+  </tr>
+  <tr>
+    <td data-i18n="addfeed_latestentry">Latest entry posted</td>
+	<td><span id="feed-lastposted"></span></td>
+  </tr>
+  <tr>
+    <td data-i18n="addfeed_status">Status</td>
+	<td><span id="feed-status"></span></td>
+  </tr>
+  
+  <tr>
+    <td data-i18n="addfeed_maxitems">Maximum entries to save</td>
+	<td><select id="feed-maxitems" data-i18n="addfeed_maxitems_select" title="Maximum number of entries (articles) that are saved from a single feed. Oldest entries are automatically removed.">
+	<option data-i18n="addfeed_maxitems_default" value="default">default</option>
+	<option>1</option>
+	<option>5</option>
+	<option>10</option>
+	<option>15</option>
+	<option>20</option>
+	<option>30</option>
+	<option>40</option>
+	<option>50</option>
+	<option>100</option>
+	<option>200</option>
+	<option>300</option>
+	<option>400</option>
+	<option>500</option>
+	<option>1000</option>
+	<option>2000</option>
+	</select></td>
+  </tr>
+  <tr>
+    <td data-i18n="addfeed_entrycontent">Feed entry content</td>
+    <td>
+		<select id="entrycontent" data-i18n="addfeed_entrycontent_select" title="Define how to process the feed entry content">
+			<option data-i18n="addfeed_entrycontent_select_asis" value="1">As is - defined by the feed</option>
+			<option data-i18n="addfeed_entrycontent_select_fulltextimage" value="2" title="This is a slow and imprecise way to parse the full article content. Like Readability. Each feed article causes a separate HTTP GET request. It does not work with all sites. Main image is taken from og:image meta data.">Get full article body with article main image</option>
+			<option data-i18n="addfeed_entrycontent_select_fulltext" value="3" title="This is a slow and imprecise way to parse the full article content. Like Readability. Each feed article causes a separate HTTP GET request. It does not work with all sites.">Get full article body</option>
+		</select>
+	</td>
+  </tr>
+  <tr>
+    <td data-i18n="addfeed_scaninterval">Scan interval</td>
+	<td><select id="feed-scandelay" data-i18n="addfeed_scaninterval_select" title="Number of minutes to wait until the next scan for unread items takes place">
+	<option data-i18n="addfeed_scaninterval_default" value="default">default</option>
+	<option>1</option>
+	<option>2</option>
+	<option>3</option>
+	<option>4</option>
+	<option>5</option>
+	<option>10</option>
+	<option>15</option>
+	<option>30</option>
+	<option>45</option>
+	<option>60</option>
+	<option>90</option>
+	<option title="2 hours">120</option>
+	<option title="3 hours">180</option>
+	<option title="4 hours">240</option>
+	<option title="6 hours">480</option>
+	<option title="24 hours">1440</option>
+	<option title="One week">10080</option>
+	<option title="One month">43200</option>
+	<option title="One year">525600</option>
+	</select> <span data-i18n="addfeed_scaninterval_minutes">minutes</span>
+	</td>
+  </tr>
+  <tr>
+    <td data-i18n="addfeed_folder">Folder</td>
+	<td><select id="feed-folder"></select></td>
+  </tr>
+  <tr>
+	<td data-i18n="addfeed_proxy">Feed Proxy</td>
+		<td><select id="feed-proxy">
+		<option data-i18n="addfeed_proxy_none" value="0" title="No proxy - load the feed directly from the source URL">None</option>
+		<option data-i18n="addfeed_proxy_feedly" value="1" title="Use the Feedly API to load the feed. The benefit of this is that Feedly stores the complete feed history so you won't miss any items even when your computer is turned off. Note however that Feedly can have significant delays in updating the feed.">Feedly</option>
+		</select>
+	</td>
+  </tr>  
+  <tr class="authentication">
+    <td data-i18n="addfeed_username">Username</td>
+	<td><input id="feed-username" data-i18n="addfeed_username_input" type="text" size="20" dir="auto" spellcheck="false" title="Username for authentication - only needed if the feed is protected with HTTP Basic authentication"></td>
+  </tr>
+  <tr class="authentication">
+    <td data-i18n="addfeed_password">Password</td>
+	<td><input id="feed-password" data-i18n="addfeed_password_input" type="password" size="20" dir="auto" title="Password for authentication - only needed if the feed is protected with HTTP Basic authentication"></td>
+  </tr>
+</tbody>
+</table>  	
+</center>
+
+</div>
+	<nav class="alertify-buttons">
+		<button type="button" class="alertify-button alertify-button-cancel" id="feed-cancel" data-i18n="addfeed_cancel">Cancel</button>
+		<button type="button" class="alertify-button alertify-button-cancel" id="feed-preview" data-i18n="addfeed_preview">Preview</button>
+		<button type="button" class="alertify-button alertify-button-ok" id="feed-save" data-i18n="addfeed_save">Save</button>
+	</nav>
+
+</div>
+<div id="feedbro-sharebox">
+  <div class="opt twitter"><img class="shareopt-favicon" src="images/ext/twitter-favicon.ico">Twitter</div>
+  <div class="opt facebook"><img class="shareopt-favicon" src="images/ext/facebook-favicon.ico">Facebook</div>
+  <div class="opt vk"><img class="shareopt-favicon" src="images/ext/vk-favicon.png">VK</div>
+  <div class="opt linkedin"><img class="shareopt-favicon" src="images/ext/linkedin-favicon.ico">LinkedIn</div>
+  <div class="opt digg"><img class="shareopt-favicon" src="images/ext/digg-favicon.ico">Digg</div>
+  <div class="opt stumbleupon"><img class="shareopt-favicon" src="images/ext/stumbleupon-favicon.ico">StumbleUpon</div>
+  <div class="opt reddit"><img class="shareopt-favicon" src="images/ext/reddit-favicon.ico">Reddit</div>
+  <div class="opt tumblr"><img class="shareopt-favicon" src="images/ext/tumblr-favicon.ico">Tumblr</div>
+  <div class="opt instapaper"><img class="shareopt-favicon" src="images/ext/instapaper-favicon.ico">Instapaper</div>
+  <div class="opt yammer"><img class="shareopt-favicon" src="images/ext/yammer-favicon.ico">Yammer</div>
+  <div class="opt pocket" title="Shortcut: 'l'"><img class="shareopt-favicon" src="images/ext/pocket-favicon.ico">Pocket</div>
+  <div class="opt evernote"><img class="shareopt-favicon" src="images/ext/evernote-favicon.ico">Evernote</div>
+  <div class="opt flipboard"><img class="shareopt-favicon" src="images/ext/flipboard-favicon.png">Flipboard</div>
+  <div class="opt hootsuite"><img class="shareopt-favicon" src="images/ext/hootsuite-favicon.ico">Hootsuite</div>
+  <div class="opt buffer"><img class="shareopt-favicon" src="images/ext/buffer-favicon.ico">Buffer</div>
+  <div class="opt gmail"><img class="shareopt-favicon" src="images/ext/gmail-favicon.ico">Gmail</div>
+  <div class="opt email" title="Shortcut: 'e'"><img class="shareopt-favicon" src="images/email.png">Email</div>
+  <div class="opt gtranslate" title="Shortcut: 'g'"><img class="shareopt-favicon" src="images/ext/gtranslate-favicon.ico">Google Translate</div>
+</div>
+
+
+<div id="ruleform">
+<table id="ruletable">
+<tr>
+   <td data-i18n="ruleform_name">Rule name</td>
+   <td><input type="text" id="name" dir="auto" spellcheck="false"><input type="hidden" id="ruleid"></td>
+</tr>
+<tr>
+   <td data-i18n="ruleform_enabled" width="100px">Enabled</td>
+   <td><input type="checkbox" data-i18n="ruleform_enabled_input" id="enabled" checked="true" title="If not checked, this rule is inactive"></td>
+</tr>
+<tr>
+   <td data-i18n="ruleform_fallthrough" width="100px">Fallthrough</td>
+   <td><input type="checkbox" id="fallthrough" data-i18n="ruleform_fallthrough_input" title="If checked, other rules will be evaluated as well even if this rule matches (= slower performance). If not checked and this rule matches, no other rules will be evaluated (= better performance)"></td>
+</tr>
+<tr>
+   <td data-i18n="ruleform_when">When</td>
+   <td>
+	 <select id="trigger">
+		<option data-i18n="ruleform_trigger_new" value="1">New article arrives</option>
+		<option data-i18n="ruleform_trigger_view" value="2">Article is viewed</option>
+	 </select>
+	 <div data-i18n="ruleform_trigger_in" style="display: inline-block;">in</div>
+     <select id="contexttype">
+ 	   <option data-i18n="ruleform_trigger_any" value="1">any feed</option>
+	   <option data-i18n="ruleform_trigger_folder" value="2">folder</option>
+	   <option data-i18n="ruleform_trigger_feed" value="3">feed</option>
+     </select>
+   </td>
+</tr>
+<tr valign="top">
+   <td></td>
+   <td>
+   <select id="contextvalue" multiple="true" size="6">
+	   <option value="1">Folder</option>
+   </select>
+   </td>
+</tr>
+<tr>
+   <td colspan="2"><div class="divider"></div></td>
+</tr>
+<tr>
+   <td data-i18n="ruleform_match">Match</td>
+   <td>
+   <select id="match">
+	   <option data-i18n="ruleform_match_all" value="1">All conditions</option>
+	   <option data-i18n="ruleform_match_any" value="2">Any condition</option>
+	   <option data-i18n="ruleform_match_none" value="3">None of the conditions</option>
+   </select>
+   </td>
+</tr>
+<tr id="condtemplate" class="condition" style="display: none;">
+   <td><span data-i18n="ruleform_condition_name">Condition</span> <a href="#" class="cond-remove" data-i18n="ruleform_condition_remove" title="Remove condition">&nbsp;</a></td>
+   <td>
+   <select class="cond-target">
+	   <option data-i18n="ruleform_condition_content" value="1">Content</option>
+	   <option data-i18n="ruleform_condition_author" value="2">Author</option>
+	   <option data-i18n="ruleform_condition_title" value="3">Title</option>
+	   <option data-i18n="ruleform_condition_url" value="4">Article URL</option>
+   </select>
+   <select class="cond-mode">
+	   <option data-i18n="ruleform_condition_contains" value="2">contains text</option>
+	   <option data-i18n="ruleform_condition_doesnotcontain" value="3">doesn't contain text</option>
+	   <option data-i18n="ruleform_condition_containswords" value="8" title="Separate words with a comma without spaces - example: foo,bar,xyz">contains all words</option>
+	   <option data-i18n="ruleform_condition_doesnotcontainwords" value="9" title="Separate words with a comma without spaces - example: foo,bar,xyz">doesn't contain words</option>
+	   <option data-i18n="ruleform_condition_containsanywords" value="10" title="Separate words with a comma without spaces - example: foo,bar,xyz">contains any of the words</option>
+	   <option data-i18n="ruleform_condition_containsanywordsthatstartwith" value="11" title="Separate prefixes with a comma without spaces - example: foo,bar,xyz">contains any words that start with</option>
+	   <option data-i18n="ruleform_condition_matchesregexp" value="1">matches regexp</option>
+	   <option data-i18n="ruleform_condition_is" value="4">is</option>
+	   <option data-i18n="ruleform_condition_isnot" value="5">is not</option>
+	   <option data-i18n="ruleform_condition_begins" value="6">begins with text</option>
+	   <option data-i18n="ruleform_condition_ends" value="7">ends with text</option>
+	</select>
+    <input class="cond-value" size="30" type="text" dir="auto">
+	<span data-i18n="ruleform_condition_using">using</span>
+    <select class="cond-casemode">
+	   <option data-i18n="ruleform_condition_ignorecase" value="2" selected="selected" title="Ignore lowercase and uppercase differences in matching (less efficient)">case-insensitive</option>
+	   <option data-i18n="ruleform_condition_casesensitive" value="1" title="Match lowercase and uppercase letters (more efficient)">case-sensitive</option>
+    </select>
+	<span data-i18n="ruleform_condition_matching">matching</span>
+   </td>
+</tr>
+<tr>
+   <td></td> 
+   <td><a class="uibutton" id="addcondition" data-i18n="ruleform_condition_add" style="margin: 1px 0px 0px 0px">Add Condition</a></td>
+</tr>
+
+<tr>
+   <td colspan="2"><div class="divider"></div></td>
+</tr>
+
+<tr id="actiontemplate" class="action" style="display: none;">
+   <td><span data-i18n="ruleform_action_name">Action</span> <a href="#" data-i18n="ruleform_action_remove" class="action-remove" title="Remove action">&nbsp;</a></td>
+   <td>
+     <select class="action-type">
+		<option data-i18n="ruleform_action_notification" value="1">Desktop notification</option>
+		<option data-i18n="ruleform_action_hide" value="2">Hide article</option>
+		<option data-i18n="ruleform_action_delete" value="3">Delete article</option>
+		<option data-i18n="ruleform_action_favorite" value="4">Mark as favorite (star)</option>
+		<option data-i18n="ruleform_action_markread" value="5">Mark as read</option>
+		<option data-i18n="ruleform_action_playsound" value="6">Play sound</option>
+		<option data-i18n="ruleform_action_playsoundurl" value="13">Play sound URL</option>
+		<option data-i18n="ruleform_action_highlightborder" value="7">Highlight article border</option>
+		<option data-i18n="ruleform_action_highlighttext" value="8">Highlight text in article with regexp</option>
+		<option data-i18n="ruleform_action_addtag" value="9">Add a tag</option>
+		<option data-i18n="ruleform_action_ifttt" value="11" title="Enter the full URL to your custom IFTTT Maker channel POST URL as a parameter.">IFTTT Maker Channel HTTP POST URL</option>
+		<option data-i18n="ruleform_action_discord" value="15" title="Send article title and link to Discord channel">Discord HTTP POST URL</option>
+		<option data-i18n="ruleform_action_slack" value="16" title="Send article title and link to Slack channel">Slack HTTP POST URL</option>
+		<option data-i18n="ruleform_action_points" value="12" title="Add or Substract points from matching feed item. Total points are considered when using 'Sort by points' sorting.">Add points</option>
+	 </select> <input class="action-value" type="text" size="60" dir="auto" spellcheck="false">	
+	 <select class="action-sound">
+		<option>bell.wav</option>
+		<option>chime.wav</option>
+		<option>bicyclebell.wav</option>
+		<option>didado.wav</option>
+		<option>didong.wav</option>
+		<option>waterdrop.wav</option>
+	 </select>
+	 <input class="action-color" type="color">
+   </td>
+</tr>
+<tr>
+   <td></td> 
+   <td><a class="uibutton" id="addaction" data-i18n="ruleform_action_add" style="margin: 1px 0px 0px 0px">Add Action</a></td>
+</tr>
+</table>   
+
+<nav class="alertify-buttons">
+	<a title="Delete the rule permanently" data-i18n="ruleform_delete" class="alertify-button alertify-button-cancel" id="delete" accesskey="l">Delete</a>
+	<a title="Close this window and exit without saving" data-i18n="ruleform_cancel" class="alertify-button alertify-button-cancel" id="cancel">Cancel</a>
+	<a title="Save these settings as a rule" data-i18n="ruleform_save" class="alertify-button alertify-button-ok" id="save" accesskey="s">Save</a>
+</nav>
+
+</div>
+
+<div id="rulesimulationform" style="display: none; position: absolute;">
+<table id="rulesimulationtable">
+<tbody>
+<tr>
+   <td data-i18n="eventform_event">Event</td>
+   <td>
+	 <select id="simulationtrigger" style="width: 100%">
+		<option data-i18n="eventform_trigger_arrives" value="1">New article arrives in feed</option>
+		<option data-i18n="eventform_trigger_viewed" value="2">Article is viewed in feed</option>
+	 </select>
+   </td>
+</tr>
+<tr valign="top">
+   <td></td>
+   <td>
+   <select id="simulationcontextvalue">
+   </select>
+   </td>
+</tr>
+<tr>
+   <td colspan="2"><div class="divider"></div></td>
+</tr>
+<tr>
+   <td data-i18n="eventform_article_title" style="width: 150px">Article Title</td>
+   <td>
+   <input style="width: 100%" id="simulationTitle" type="text">
+   </td>
+</tr>
+<tr>
+   <td data-i18n="eventform_article_url">Article URL</td>
+   <td>
+   <input style="width: 100%" id="simulationURL" type="text">
+   </td>
+</tr>
+<tr>
+   <td data-i18n="eventform_article_author">Article Author</td>
+   <td>
+   <input style="width: 100%" id="simulationAuthor" type="text">
+   </td>
+</tr>
+<tr>
+   <td data-i18n="eventform_article_content">Article Content</td>
+   <td>
+   <textarea style="width: 100%; height: 5em;" id="simulationContent"></textarea>
+   </td>
+</tr>
+
+<tr>
+   <td colspan="2"><div class="divider"></div></td>
+</tr>
+
+<tr>
+   <td data-i18n="eventform_matchedrules">Matched Rules</td>
+   <td>
+   <textarea style="width: 100%; height: 5em;" id="simulationResult" readonly="true"></textarea>
+   </td>
+</tr>
+
+</tbody>
+</table>   
+
+<nav class="alertify-buttons">
+	<a data-i18n="eventform_close" title="Close this window" class="alertify-button alertify-button-cancel" id="simulateClose">Close</a>
+	<a data-i18n="eventform_test" title="Test which rules would trigger for the defined inputs" class="alertify-button alertify-button-ok" id="simulateRun" accesskey="s">Test Rules</a>
+</nav>
+
+</div>
+
+<div class="feedfinder">
+<div class="feedFinderControls">
+	<img src="images/icon-close.png" width="32" data-i18n="feedfinder_close" title="Close Panel" class="closeFeedFinder">
+	<input class="feedFinderQ feedFinderControl" type="text" size="50" data-i18n="feedfinder_searchfield" placeholder="Search by string, website or hashtag" spellcheck="false">
+	<input type="button" class="feedFinderSearch feedFinderControl" data-i18n="feedfinder_search" value="Search">
+	<select class="lang feedFinderControl" data-i18n="feedfinder_lang" title="Choose preferred feed language">
+		<option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="am">Amharic</option><option value="ar">Arabic</option><option value="hy">Armenian</option><option value="az">Azerbaijani</option><option value="eu">Basque</option><option value="be">Belarusian</option><option value="bn">Bengali</option><option value="bs">Bosnian</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinese</option><option value="co">Corsican</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="nl">Dutch</option><option value="en" selected="selected">English</option><option value="eo">Esperanto</option><option value="et">Estonian</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="fy">Frisian</option><option value="gl">Galician</option><option value="ka">Georgian</option><option value="de">German</option><option value="el">Greek</option><option value="gu">Gujarati</option><option value="ht">Haitian Creole</option><option value="ha">Hausa</option><option value="haw">Hawaiian</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="ig">Igbo</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="jw">Javanese</option><option value="kn">Kannada</option><option value="kk">Kazakh</option><option value="km">Khmer</option><option value="ko">Korean</option><option value="ku">Kurdish (Kurmanji)</option><option value="ky">Kyrgyz</option><option value="lo">Lao</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="lt">Lithuanian</option><option value="lb">Luxembourgish</option><option value="mk">Macedonian</option><option value="mg">Malagasy</option><option value="ms">Malay</option><option value="ml">Malayalam</option><option value="mt">Maltese</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mn">Mongolian</option><option value="my">Myanmar (Burmese)</option><option value="ne">Nepali</option><option value="no">Norwegian</option><option value="ps">Pashto</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="pa">Punjabi</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sm">Samoan</option><option value="gd">Scots Gaelic</option><option value="sr">Serbian</option><option value="st">Sesotho</option><option value="sn">Shona</option><option value="sd">Sindhi</option><option value="si">Sinhala</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="so">Somali</option><option value="es">Spanish</option><option value="su">Sundanese</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="tg">Tajik</option><option value="ta">Tamil</option><option value="te">Telugu</option><option value="th">Thai</option><option value="tr">Turkish</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="uz">Uzbek</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="xh">Xhosa</option><option value="yi">Yiddish</option><option value="yo">Yoruba</option><option value="zu">Zulu</option>
+	</select>
+	<select class="daysSinceLastUpdate feedFinderControl" data-i18n="feedfinder_maxage" title="Maximum age of the latest post">
+		<option data-i18n="feedfinder_maxage_all" value="-1">All</option>
+		<option data-i18n="feedfinder_maxage_24h" value="1">Last Updated 24h ago</option>
+		<option data-i18n="feedfinder_maxage_3d" value="3">Last Updated 3d ago</option>
+		<option data-i18n="feedfinder_maxage_7d" value="7">Last Updated 7d ago</option>
+		<option data-i18n="feedfinder_maxage_14d" value="14">Last Updated 14d ago</option>
+		<option data-i18n="feedfinder_maxage_30d" value="30">Last Updated 30d ago</option>
+		<option data-i18n="feedfinder_maxage_45d" value="45">Last Updated 45d ago</option>
+		<option data-i18n="feedfinder_maxage_60d" value="60" selected="selected">Last Updated 60d ago</option>
+		<option data-i18n="feedfinder_maxage_90d" value="90">Last Updated 90d ago</option>
+		<option data-i18n="feedfinder_maxage_180d" value="180">Last Updated 180d ago</option>
+		<option data-i18n="feedfinder_maxage_365d" value="365">Last Updated 365d ago</option>
+	</select>
+</div>
+<div id="feedFinderResults"></div>
+</div>
+
+</body>
+</html>

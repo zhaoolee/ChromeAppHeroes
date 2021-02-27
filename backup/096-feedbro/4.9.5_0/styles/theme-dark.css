@@ -1,0 +1,506 @@
+body {
+	background-color: black;
+}
+
+div#core {
+	scrollbar-color: #333 #222;
+}
+
+/**
+ * Custom scrollbars
+ */
+::-webkit-scrollbar-track {
+    background-color: #222;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #333;
+	border: 3px solid #222;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background-color: #ffffff;
+}
+
+/**
+ * Custom scrollbar arrows
+ */
+::-webkit-scrollbar-button:start,
+::-webkit-scrollbar-button:end {
+  display: none
+}
+ 
+::-webkit-scrollbar-button:start:decrement,
+::-webkit-scrollbar-button:end:increment {
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 3px 3px;
+  background-color: #222;
+}
+ 
+ 
+::-webkit-scrollbar-button:vertical:decrement {
+  background-image: url(/images/scrollbar-arrow-up.png);
+  background-size: 9px;
+}
+
+::-webkit-scrollbar-button:vertical:increment {
+  background-image: url(/images/scrollbar-arrow-down.png);
+  background-size: 9px;
+} 
+
+
+
+div#toolbar {
+	border-color: #333;
+	background-color: #222;
+}
+
+div#dragbar1,
+div#dragbar2 {
+	border-color: #222222;
+}
+
+
+div.enclosure span.enclosure-name {
+	color: #888888;
+}
+
+div.enclosure span.enclosure-type {
+	color: #222222;
+}
+
+span.enclosure-viewlink {
+	color: #ddd;
+}
+
+a.link-addfolder, a.link-addfeed, a.link-import, a.link-settings, a.link-help {
+	color: #888888;
+}
+
+div#mainfunctions {
+	color: #aaaaaa;
+}
+
+/**
+ * Article titles view in Opera mode
+ */
+
+div#titles {
+	background-color: #000;
+}
+
+div#titles > div.item {
+	border-color: #555555;
+}
+
+div.item > div.item-title {
+	color: #aaa;
+}
+
+div.item > div.item-author {
+	color: #777;
+}
+
+div.item.unread > div.item-title {
+	color: #00aaaa;
+}
+
+div#titles > div.activetitle {
+	background-color: #000044;
+}
+
+div#titles > div.activetitle div.item-title {
+	color: white;
+}
+
+div#titles > div.datedivider {
+	border-color: #555555;
+	color: #bbb;
+	border-bottom: 1px solid #222;
+    background-color: #111;	
+}
+
+/**
+ * Toolbar settings
+ */
+
+div#toolbar select
+{
+	background-color: #222;
+	color: #aaaaaa;
+	border-color: #444;
+}
+
+div.imagebutton {
+	background-color: #222;
+	border-color: #444;
+}
+
+span.tbdiv {
+	color: #111111;
+}
+
+div.entry {
+	border-color: #111;
+	background-color: #111;
+}
+
+/**
+ * Feed tree settings
+ */
+ 
+div#leftpane {
+	background-color: #111;
+} 
+ 
+div#mainfunctions div.menu-selected {
+	color: white;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#000033), to(#000055));
+	text-shadow: none;
+}
+
+li.jqtree-selected div.node-text {
+	color: white !important;
+}
+
+ul.jqtree-tree .jqtree-toggler {
+	color: #555;
+}
+
+div.node-unread {
+	color: #888;
+	border-color: #333333;
+}
+
+div.node-text {
+	color: #777;
+}
+
+div.node-unreadtext {
+	color: #999 !important;
+}
+
+ul.jqtree-tree .jqtree-toggler:hover {
+    color: #eee;
+}
+
+.main-bottomlink {
+	color: #77aaaa;
+}
+
+.main-bottomlink:hover {
+	color: #aadddd;
+}
+
+
+ul.jqtree-tree li.jqtree-selected > div.jqtree-element {
+	background: -webkit-gradient(linear, left top, left bottom, from(#000033), to(#000055));
+}	
+
+/** 
+ * Main view settings
+ */
+
+div#feed {
+	background-color: #000;
+	color: #aaa;
+}
+
+div.entry div.fromline {
+	color: #777;
+}
+
+div.entry div.entry-date {
+	color: #666;
+}
+
+.entry-link {
+	color: #aaa;
+}
+
+.entry-nptitle-a {
+	color: #aaa;
+}
+
+.entry-author {
+    color: #888;
+}
+
+div.entry.unread .entry-link {
+	color: #00aaaa;
+}
+
+div.entry.unread > div.entry-newspaper-section > div.entry-nptitle > .entry-nptitle-a  {
+	color: #00aaaa;
+}
+
+.entry-source-link {
+	color: #778899;
+}
+
+table.tagtable div.taglink,
+a.rulelink,
+a.feedlink {
+	color: #77aaaa;
+}
+
+.entry-blockquote a {
+	color: #77aaaa;
+}
+
+div.tag {
+	background-color: #222;
+    border-color: #444;
+}
+
+.entry-bloglink-a {
+	color: #666;
+}
+
+div#footer {
+	background-color: #222222;
+}
+
+div.entry-title > span.feedbro-points {
+	color: #888;
+}
+
+img.articletrashicon {
+	 filter: brightness(130%);
+}
+
+.previewheader {
+	color: #111;
+}
+
+div#feed > div.previewheader {
+    background-color: lavender;
+}
+
+.previewheader-error {
+	border: 1px solid #000;
+	color: #111;
+}
+
+/**
+ * Style applied to text fragments which match the rule "highlight" (word highlighting)
+ */
+span.highlight-text { 
+	text-decoration: none;
+	color: #eeeeee; 
+}
+
+div.active-mode {
+	border: 0px solid #dddddd !important;
+	background-color: #777 !important;
+}
+
+table.feedtable {
+	background-color: #111 !important;
+}
+
+tr.feedtablerow:hover {
+	background-color: #000044 !important;
+}
+
+table.feedtable > thead > tr > th {
+    border-bottom: 1px solid #444;
+}
+
+div#feeddialogcontent {
+	background-color: #222;
+	color: #bbb;
+}
+
+div#feeddialog {
+	border: 1px solid #444;
+}
+
+div#feeddialog select, 
+div#feeddialog input[type="text"], 
+div#feeddialog input[type="password"] {
+    border: 1px solid #444;
+    background-color: #333;
+    color: #ddd;
+}
+
+
+/**
+ * Rule form customization
+ */
+
+div#ruleform,
+div#rulesimulationform {
+	background-color: #222;
+	color: #bbb;
+	border: 1px solid #333;
+	/* border-radius: 0 0 6px 6px; */ 
+}
+ 
+div#ruleform select#contextvalue {
+    background-color: #333;
+}	
+
+div#ruleform input {
+    border: 1px solid #444;
+    background-color: #333;
+    color: #ddd;
+}
+
+div#ruleform select {
+	border: 1px solid #444;
+    background-color: #333;
+    color: #ddd;
+}
+
+div#ruleform select.action-sound {
+    background-color: #444;
+}
+
+/* simulation */
+
+div#rulesimulationform select#simulationcontextvalue {
+    background-color: #444;
+}	
+
+div#rulesimulationform input,
+div#rulesimulationform textarea {
+    border: 1px solid #444;
+    background-color: #333;
+    color: #ddd;
+}
+
+div#rulesimulationform select {
+	border: 1px solid #444;
+    background-color: #333;
+    color: #ddd;
+}
+
+
+div#feedbro-sharebox {
+    color: #eee;
+    background-color: #222;
+    border: 2px solid #333;
+}
+
+div#feedbro-sharebox > div.opt:hover {
+    background-color: #444;
+    color: #eee;
+}
+
+div.info-message {
+    background-color: #333;
+    color: #eee;
+}
+
+/**
+ * Options page settings
+ */
+ 
+body.optionsPage > div#left,
+body.optionsPage > div#right {
+	background-color: #111;
+}
+
+body.optionsPage > div#core {
+	background-color: #222;
+	color: #ddd;
+}
+
+body.optionsPage select,
+body.optionsPage input {
+	border: 1px solid #444;
+	background-color: #333;
+    color: #ddd;
+}
+
+/**
+ * Feed Finder
+ */
+ 
+.feedfinder {
+	background-color: #111;
+}
+
+.feedTitleLink {
+	color: #77aaaa;
+}
+
+.feedDescription {
+	color: #aaa;
+}
+
+.feedUpdated {
+	color: #999;
+}
+
+.closeFeedFinder {
+	filter: invert(60%);
+}
+
+.rowCount {
+	color: #777;
+}
+
+.feedAction-added {
+	color: #aaa;
+}
+
+.feedFinderInfo {
+	color: #aaa;
+}
+
+select.feedFinderControl,
+input.feedFinderControl {
+	border: 1px solid #444;
+    background-color: #333;
+    color: #ddd;	
+}
+
+.yammer-shared-update {
+	border-color: #444;	
+}
+
+.alertify-button-cancel, .alertify-button-cancel:hover, .alertify-button-cancel:focus, .alertify-button-cancel:active {
+    /* border: 1px solid #BBB; */
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25) !important;
+}
+
+.alertify-buttons {
+    background: #222;
+    border-top: 1px solid #333;
+    box-shadow: none;
+	border-radius: 0;
+}
+
+.alertify-inner {
+    text-align: left;
+    background-color: #333;
+    color: #eee;
+    border: 1px solid #444;
+}
+
+input#alertify-text {
+	border: 1px solid #666;
+    background-color: #444;
+    color: #ddd;
+}
+
+.linkedin-article-subtitle {
+    color: #888;
+}
+
+.autocomplete {
+	background-color: #222;
+	border: 1px solid #333;
+}
+
+.autocomplete-option {
+	color: #ddd;
+	background-color: #222;
+}
+
+.linkedin-shared-post {
+    border: 1px solid #333;
+}

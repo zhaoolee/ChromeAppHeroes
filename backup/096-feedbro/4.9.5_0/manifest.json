@@ -1,0 +1,27 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "images/reader48.png",
+      "default_popup": "mainmenu.html",
+      "default_title": "Feedbro"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/; object-src 'self'",
+   "default_locale": "en",
+   "description": "Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source.",
+   "homepage_url": "https://nodetics.com/feedbro",
+   "icons": {
+      "128": "images/reader128.png",
+      "16": "images/reader16.png",
+      "48": "images/reader48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCNHti12Kyugy7rFYWiQKVRB9chI9OZApSYBeSlD2aRmt0gmr59LjP7wmhE0SV+bKpdLaC5Qw+upL0l8978rcq1I4MjzFH/v5nk9GZaXuYSCG/JN1dNW3FqfTNMyy4TKv5wAOoi1VIsP93tOfquE96OuCjJhMCGLKZibeFRY+dFGwIDAQAB",
+   "manifest_version": 2,
+   "name": "Feedbro",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "http://*/", "https://*/", "storage", "unlimitedStorage", "notifications", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.9.5"
+}

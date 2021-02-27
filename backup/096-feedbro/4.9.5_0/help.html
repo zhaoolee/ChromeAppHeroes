@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+	<title>Feedbro - Help</title>
+	<style type="text/css">
+body {
+	padding: 0px 0px 0px 0px; 
+	margin: 0;
+	font-size: 0.80em;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+h2 {
+    padding: 5px;
+	padding-left: 20px;
+	width: 100%;
+}
+
+h3 {
+	background-color: #f6f6f6;
+    padding: 5px;
+	padding-left: 20px;
+	width: 100%;
+	border-bottom: 1px solid #eee;
+}
+
+.content {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.shortcuts {
+	margin-left: 20px;
+}
+
+.shortcuts td {
+	padding-right: 20px;
+}
+
+dl {
+	margin-left: 20px;
+}
+
+dt {
+	font-weight: 700;
+}
+
+dd {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 20px;
+}
+
+.highlight {
+	color: blue;
+}
+	</style>
+	
+</head>
+<body>
+<h2>Feedbro - Help</h2>
+
+<h3>Keyboard Shortcuts</h3>
+<p class="content">
+<table class="shortcuts">
+<tr><td>j/k or shift-rightarrow/leftarrow</td><td>item down/up</td><td>selects the next/previous item in the list</td></tr>
+<tr><td>space/shift-space</td><td>page down/up</td><td>moves the page down/up</td></tr>
+<tr><td>n/p</td><td>scan down/up</td><td>in list view, selects the next item without opening it</td></tr>
+<tr><td>shift-n/p or shift-down/up</td><td>navigation down/up</td><td>selects the next/previous subscription or folder in the navigation</td></tr>
+<tr><td>shift-x</td><td>navigation expand/collapse</td><td>expands or collapses a folder selected in the navigation</td></tr>
+<tr><td>o</td><td>open/close item</td><td>in list view, expands or collapses the selected item</td></tr>
+<tr><td>enter</td><td>open/close item</td><td>in list view, expands or collapses the selected item</td></tr>
+<tr><td>shift-o or shift-enter</td><td>navigation open subscription</td><td>opens the subscription or folder currently selected in the navigation</td></tr>
+<tr><td>m</td><td>mark as read/unread</td><td>switches the read status of the selected item</td></tr>
+<tr><td>shift-a</td><td>mark all as read</td><td>marks all items in the current view as read</td></tr>
+<tr><td>d or delete-key</td><td>delete item</td><td>marks active item as deleted</td></tr>
+<tr><td>shift-d</td><td>delete loaded articles</td><td>deletes all articles in currently loaded view</td></tr>
+<tr><td>s</td><td>toggle star</td><td>stars or un-stars the selected item</td></tr>
+<tr><td>u</td><td>toggle show only unread</td><td>selects or deselects 'show only unread' setting</td></tr>
+<tr><td>v</td><td>view original</td><td>opens the original source for this article in a new window</td></tr>
+<tr><td>r</td><td>refresh</td><td>reloads currently selected feed/folder view from the local database</td></tr>
+<tr><td>1</td><td>expanded view</td><td>displays the subscription as expanded items</td></tr>
+<tr><td>2</td><td>list view</td><td>displays the subscription as a list of headlines</td></tr>
+<tr><td>3</td><td>titles view</td><td>left: feed navigator, center: list of feed titles, right: selected article</td></tr>
+<tr><td>4</td><td>news view</td><td>left: feed navigator, right: several articles with title, summary and image</td></tr>
+<tr><td>5</td><td>magazine view</td><td>left: feed navigator, right: several articles with title, summary and main image</td></tr>
+<tr><td>k</td><td>previous item</td><td>in titles view selects the previous item on the list</td></tr>
+<tr><td>j</td><td>next item</td><td>in titles view selects the next item on the list</td></tr>
+<tr><td>w</td><td>hide/show feed tree</td><td>hides or shows the left navigator with the feed tree</td></tr>
+<tr><td>e</td><td>send article link via email</td><td>opens your email client for sending the active article link</td></tr>
+<tr><td>l</td><td>save to Pocket</td><td>saves the currently active article to Pocket without popups</td></tr>
+<tr><td>t</td><td>add a tag</td><td>activates the "add tag" input field of the active article</td></tr>
+<tr><td>alt-[n]</td><td>add a predefined tag</td><td>adds a predefined tag to the active article (defined in Options)</td></tr>
+<tr><td>ctrl +</td><td>make UI text larger</td><td>increases font size in the entire UI a bit</td></tr>
+<tr><td>ctrl -</td><td>make UI text smaller</td><td>decreases font size in the entire UI a bit</td></tr>
+</table>
+</p>
+
+
+<h3>Service Plugins</h3>
+<p class="content">
+Feedbro provides built-in support for several popular services like YouTube Channels, YouTube Search, Instagram, Facebook, Twitter, VK.com, 
+Yammer, Vimeo, Bitchute, SlideShare, Reddit, Pinterest, Rumble, Telegram, LinkedIn Groups, LinkedIn Home Feed and LinkedIn Job Search.
+<br><br>
+Just navigate to a page in such a service, click Feedbro WebExtension icon and then choose "Find Feeds in Current Tab" to see if the page is supported.
+</p>
+
+<h3>Create Rules to Filter and Manage Articles</h3>
+<p class="content">
+Under "Rules" menu you can define custom Rules that are trigged either when a new article arrives or when an article is viewed.
+Rule can e.g. highlight the article border, add a tag, highlight specific words, display a desktop notification, play a sound,
+trigger IFTTT action, hide or delete the article.
+</p>
+
+<h3>Sort Articles by Points</h3>
+<p class="content">
+In Feedbro you can sort articles by date (newest first, oldest first) or by points (most points first, if articles have equal points, newest first). This can
+be adjusted using the select box in the Feedbro toolbar.
+<br><br>
+To assign points to articles, you need to create a Rule (or several) under Rules menu. Define conditions based on which points should be added and then add 
+action "Add Points" with number as parameter (e.g. 1). The power of this feature is that it allows you to raise or "bubble up" important articles or feeds.
+For example if you are following 100 YouTube channels with Feedbro, some of them might be more important than others. By creating rules that give more points
+to certain channel feeds than others, you can get them listed in priority order.
+</p>
+
+<h3>Convert Partial Articles in Feeds to Full-Text Articles</h3>
+<p class="content">
+Feedbro has built-in engine for transforming partial text feed articles to full-text articles. This feature is not automatically on for all feeds and
+must be enabled per feed. To do that, right-click the feed in the feed tree and select Properties. Then use "Feed Entry Content" for adjusting
+full text extraction settings. Click "Preview" button to check that you get desired results and then press "Save".
+<br><br>
+Note that obviously full-text option should not be used if the feed already provides full articles. Also the full-text conversion doesn't
+work for all feeds and sites but it works pretty well for majority of sites.
+</p>
+
+<h3>Useful 3rd Party Services</h3>
+<p class="content">
+<dl>
+
+<dt><a href="https://www.kill-the-newsletter.com/" target="_blank">kill-the-newsletter.com</a></dt>
+<dd>kill-the-newsletter.com lets you convert emails coming from a specific email distribution list to a feed that you can subscribe to with Feedbro.</dd>
+
+<dt><a href="https://www.google.com/alerts" target="_blank">google.com/alerts</a></dt>
+<dd>Google Alerts will help you to monitor almost the entire web for content that matches your search criteria and provides a feed that you can subscribe to with Feedbro.</dd>
+
+<dt><a href="https://ifttt.com" target="_blank">IFTTT.com</a></dt>
+<dd>IFTTT (If This Then That) service will let you trigger different kind of actions (like sending an email or SMS) when your Feedbro rule matches. Choose IFTTT in the
+Feedbro rule as an action and use a proper IFTTT <a target="_blank" href="https://ifttt.com/maker">Maker channel</a> channel URL (e.g. https://maker.ifttt.com/trigger/MYEVENT/with/key/AC11cggLDrvAWSZubQk7pn) as a parameter (replace MYEVENT with the name of your event and the key with your key-string provided by IFTTT).</dd>
+
+<dt><a href="https://mailnesia.com/" target="_blank">mailnesia.com</a></dt>
+<dd>Mailnesia provides a free zero-setup disposable email address with RSS feed support.</dd>
+
+</dl>
+</p>
+
+<h3>Setup IFTTT Email Notification Action</h3>
+<p class="content">
+
+<ol>
+	<li>Open <a target="_blank" href="https://ifttt.com" rel="noopener noreferrer">ifttt.com</a> and login</li>
+	<li>Create a New Applet at <a target="_blank" href="https://ifttt.com/create" rel="noopener noreferrer">https://ifttt.com/create</a> </li>
+	<li>Click "+this"</li>
+	<li>Search for "WebHooks"</li>
+	<li>Click "Receive a web request" at "Choose a trigger" screen</li>
+	<li>Enter <b>Feedbro</b> when asked for Event Name</li>
+	<li>Click "+that"</li>
+	<li>Choose the action you want (e.g. Email)</li>
+	<li>Click "Send me an email" at "Choose action" screen</li>
+	<li>Modify the email template if needed and click "Save". Value1 = Feed Entry Link, Value2 = Feed Entry Title, Value3 = Feed Entry Author</li>
+	<li>Open <a target="_blank" href="https://ifttt.com/services/maker_webhooks/settings" rel="noopener noreferrer">https://ifttt.com/services/maker_webhooks/settings</a> and open the URL mentioned on the page.</li> 
+	<li>From the new page you can copy the actual Maker channel URL of form: https://maker.ifttt.com/trigger/<b>Feedbro</b>/with/key/a1BYTM78EZcjzB1zjpQi8X</li>
+	<li>Create or Edit a Rule in Feedbro</li>
+	<li>Add a new "IFTTT Maker Channel POST URL" action and enter the Maker channel URL as a parameter to the text field</li>
+	<li>Save the Rule</li>
+</ol>
+
+</p>
+
+<h3>Setup Discord channel Rule action</h3>
+
+<p class="content">
+When creating a Rule, choose action "Discord HTTP POST URL". 
+<br><br>
+With this action you can send the article title and its link to a <a rel="noopener noreferrer" target="_blank" href="https://discordapp.com/">Discord</a> channel that
+you can also monitor with your mobile phone in real time. The argument is the Webhook URL that you can get from Discord UI when you click the small "cog" icon on the right side
+of the channel name (with "Edit Channel" tooltip), click "Webhooks" and then "Create Webhook" button. Name the Webhook e.g. "Feedbro" and then copy the Webhook URL and save
+the Webhook. Then paste the URL to Feedbro rule action parameter field.
+<br><br>
+The URL looks something like this:<br>
+https://discordapp.com/api/webhooks/123496711234906261/1234iIIimYkjIvG2gSvgyJkE7wX_YEdvWjJVggWwMMiR6Qr14viwDvy3XxII9raLQFsD
+
+</p>
+
+<h3>Setup Slack channel Rule action</h3>
+
+<p class="content">
+When creating a Rule, choose action "Slack HTTP POST URL". 
+<br><br>
+With this action you can send the article title and its link directly to a <a rel="noopener noreferrer" target="_blank" href="https://slack.com/">Slack</a> channel. 
+The argument is the Webhook URL that you can get from <a rel="noopener noreferrer" target="_blank" href="https://api.slack.com/messaging/webhooks">Slack UI</a> when adding a Webhook app.
+<br><br>
+The URL looks something like this:<br>
+https://hooks.slack.com/services/1234YVBJ69H/1234XC28CGM/123YqU28765XZnTtCQ22KVB
+</p>
+
+
+<h3>Misc Tips and Tricks</h3>
+<p class="content">
+<ul>
+  <li>Feeds and Folders in the navigation tree can be arranged by drag &amp; drop.</li>
+  <li>Right-click any feed or folder to rename, delete or mark feed items as read. Feed properties can be also changed.</li>
+  <li>You can easily remove 'dead' feeds in "Feed Statistics" view.</li>
+  <li>Click 'Show only unread articles' icon to view fresh articles that you haven't seen before.</li>
+  <li>Select proper value for 'Article max age' to show only fresh enough articles.</li>
+  <li>Select 'list view' (shortcut '2') to just view a list of feed entry titles - useful for quick skimming.</li>
+  <li>Click article top or bottom in list view to expand/close the article.</li>
+  <li>Define rules to filter/highlight/hide/delete etc. feed articles automatically!</li>
+  <li>Drag &amp; drop Feedbro URL to the bookmarks bar and enable starting in 'All Items' view in Options to enable one-click access to latest articles.</li>
+  <li>If you are using Linux, install Roboto font to get a nice looking UI (sudo apt-get install fonts-roboto)</li>
+  <li>To get a clean reading view, hide the navigator (shortcut 'w') and use full screen mode (F11)</li>
+</ul>
+</p>
+
+<h3>Frequently Asked Questions</h3>
+<p class="content">
+<dl>
+
+<dt>Help! Firefox <span class="highlight">doesn't load</span> any articles!</dt>
+<dd>Your Firefox profile is most likely corrupted. When this happens, IndexedDB API stops working which breaks Feedbro. You can test your IndexedDB API functionality with
+<a href="https://firefox-storage-test.glitch.me/" target="_blank">this tool</a>. If IndexedDB is indeed broken, open <b>about:support</b>
+and click "Refresh Firefox". WARNING! This will remove all your add-ons and their settings so backup your data first!
+</dd>
+
+<dt>Help! I have some other <span class="highlight">technical problem</span>!</dt>
+<dd>Please check <a href="KNOWNISSUES.txt">this list</a> for known issues. If you can't find an answer there, please contact us at <a href="mailto:feedbro.reader@gmail.com">feedbro.reader@gmail.com</a>
+</dd>
+
+<dt>How can I view <span class="highlight">just the unread</span> articles?</dt>
+<dd>Enable "Show only unread" mode by either clicking the star+letter icon in the toolbar or press 'u' and then reload the view (click the feed in the tree or press 'r').</dd>
+
+<dt>How can I view an <span class="highlight">article within Feedbro</span> when using view mode 2, 4 or 5?</dt>
+<dd>Don't click the article title. Instead, click elsewhere in the article area to expand the content within Feedbro.</dd>
+
+<dt>How can I get a <span class="highlight">desktop notification</span> of new articles?</dt>
+<dd>To get a desktop notification when a new article arrives, you need to create a new Rule under Rules menu. Select "Desktop notification" as the action.</dd>
+
+<dt>How can I get an <span class="highlight">email notification</span> of new articles?</dt>
+<dd>First create a webhook with <a href="https://ifttt.com/maker_webhooks" target="_blank">IFTTT.com Maker channel</a> so that you get an URL that can be used to trigger email sending. Then create a Rule in Feedbro that has IFTTT Maker channel action
+and that URL as the parameter.</dd>
+
+<dt>How can I save <span class="highlight">more than 100 articles</span> per feed?</dt>
+<dd>Right-click the feed in the feed tree and select Properties. You can then adjust the "Maximum articles to save" to even 2000. Then click "Save". Note that initially
+most XML feeds provide only the latest 10-20 articles. So you can't typically get all articles from the past when you add the feed. Only the latest ones.</dd>
+
+<dt>How can I get <span class="highlight">Reddit</span> feeds to work?</dt>
+<dd>
+You must disable tracker protection for Reddit since Firefox blocks all XMLHttpRequests to Reddit by default.<br>
+First open <a href="https://reddit.com" target="_blank" rel="noopener noreferrer">reddit.com</a> and then click the small shield icon on the left side of the URL bar. Then
+use the slider to disable "Enhanced Tracking Protection is ON for this site". See <a href="https://imgur.com/a/xTHkolz" target="_blank" rel="noopener noreferrer">this image</a>.
+<br><br>
+If that doesn't work, open about:preferences#privacy and choose "Custom" under "Enhanced Tracking Protection" and pick "Only in Private Windows" for the 
+"Tracking content" selection box.
+</dd>
+
+<dt>How can I get <span class="highlight">shorter update interval</span> for my feed?</dt>
+<dd>Right-click the feed in the feed tree, select Properties and then adjust the "Scan Interval" setting. It can be as low as 1 minute.</dd>
+
+<dt>How can I <span class="highlight">import my bookmarks</span> from Firefox or Chrome?</dt>
+<dd>Open Options page and use "Import Firefox Bookmarks (as OPML)" button.</dd>
+
+<dt>How can I <span class="highlight">preview</span> a feed?</dt>
+<dd>Click the Feedbro extension icon and choose "Find Feeds in Current Tab". Then click the blue eye icon to preview the selected feed.</dd>
+
+<dt>How can I get <span class="highlight">full articles</span> for a feed instead of partial articles?</dt>
+<dd>Right-click the feed in the feed tree, select Properties and then use "Feed Entry Content" setting. Select either "Full article body" or
+"Full article body with article main image" and click "Preview" to check that you get articles properly. Then click "Save". Note that
+this will only affect the new articles that will be loaded after you have chosen this setting. In other words already loaded articles are not
+affected.</dd>
+
+<dt>How can I <span class="highlight">reload all feeds manually</span>?</dt>
+<dd>To reload all feeds you have manually, click the blue reload icon in the top left-hand corner in the Feedbro toolbar. To reload
+all feeds under a specific folder, right-click the folder and select "Update Feeds in Folder"</dd>
+
+<dt>How can I <span class="highlight">sort articles by author</span>?</dt>
+<dd>This is not directly possible. However, it is likely that you want to follow/sort articles by just certain selected people and not everyone.
+You can create a Rule under Rules menu which assigns a certain tag if the author of the article is one of the persons you want to follow.
+If you want, you can create a new tag per author.</dd>
+
+<dt>How can I <span class="highlight">get notified of any new articles on the Internet that match my search</span>?</dt>
+<dd>You can use <a href="https://www.google.com/alerts" target="_blank">Google Alerts</a> to create a custom search that generates an RSS feed. Then subscribe to that in Feedbro.</dd>
+
+<dt>How can I <span class="highlight">delete a feed</span>?</dt>
+<dd>Right-click the feed in the feed tree and select "Delete".</dd>
+
+<dt>How can I <span class="highlight">create subfolders</span>?</dt>
+<dd>To keep things simple, Feedbro does not support subfolders.</dd>
+
+<dt>Where can I find <span class="highlight">sound effects for Rules</span>?</dt>
+<dd>There are several sites that host free sound effects on the Internet. One of them is <a href="https://freesound.org" target="_blank" rel="noopener noreferrer">freesound.org</a>.
+You can get the sound clip URL if you open Development Console and Network view and filter by media before you click play on the site.
+</dd>
+
+<dt>Does Feedbro have a <span class="highlight">search function</span>?</dt>
+<dd>Currently Feedbro does not support full-text search. The reason is that HTML5 IndexedDB engine does not support it natively and while
+it would be possible to implement full-text search as a layer, it would have significant impact on performance. It's also quite challenging to
+write language stemmers for different languages. 
+<br><br>
+However, you can use Rules to assign tags to articles. Tags can be then accessed via the Tags 
+menu and by clicking a Tag you can instantly find articles with that Tag.
+</dd>
+
+<dt>How can I <span class="highlight">translate Feedbro UI to another language</span>?</dt>
+<dd>Currently Feedbro supports English and Finnish out-of-the-box. You can choose the language in Options. You can also download the locale template
+and create a new translation (remember to edit the meta data as well). Then upload the translated file to e.g. github and import the translated locale to Feedbro.
+This way you can translate Feedbro to any language you want (except the Help file). And when people put locale files online and share the links, it benefits everyone. If you want to
+have your translated locale file included in Feedbro, please contact us at feedbro.reader@gmail.com
+<br><br>
+If you host the locale on github, please update the meta-data in the JSON to include your data in "locale_author_email" and "locale_author_name" and ensure that
+"locale_source_url" points to the actual JSON file (URL starts with https://raw.githubusercontent.com/). You also need to provide the "raw" URL when importing the locale.
+</dd>
+
+<dt>How can I <span class="highlight">download YouTube subscriptions as OPML</span>?</dt>
+<dd>
+Use this link to download your subscriptions (login to YouTube first):
+<a target="_blank" href="https://www.youtube.com/subscription_manager?action_takeout=1" rel="noopener noreferrer">https://www.youtube.com/subscription_manager?action_takeout=1</a>
+<br>
+You can export your YouTube subscriptions on <a href="https://takeout.google.com/u/1/takeout/custom/youtube" rel="noopener noreferrer">this page</a> as JSON.
+</dd>
+
+<dt>Why don't you use <span class="highlight">chrome.storage.sync / Firefox sync</span> for synchronizing feed subscription and feed entry data?</dt>
+<dd>Unfortunately <a href="https://developer.chrome.com/extensions/storage#property-sync" target="_blank" rel="noopener noreferrer">chrome.storage.sync API</a> that Firefox also uses has very strict limitations regarding the amount of data you can store. It also throttles
+the number of API requests per hour. That API does not provide enough space even for storing the feed subscription data and certainly cannot be used for handling
+feed entry data.
+</dd>
+
+<dt>Why do select boxes and input fields look <span class="highlight">ugly</span> on Chrome 83+?</dt>
+<dd>Chrome updated the default rending of form elements and it's ugly. You can disable it here: chrome://flags/#form-controls-refresh</dd>
+
+<dt>Why isn't <span class="highlight">Twitter integration</span> working?</dt>
+<dd>Twitter integration requires that you allow twitter.com domain to set cookies. Please ensure that you are not blocking that.</dd>
+
+<dt>Why isn't <span class="highlight">LinkedIn integration</span> working?</dt>
+<dd>LinkedIn integration requires that you allow www.linkedin.com domain to set cookies. Please ensure that you are not blocking that.</dd>
+
+</dl>
+
+</p>
+
+<h3>Known Issues</h3>
+<p class="content">
+Please check <a href="KNOWNISSUES.txt">this list</a> for known issues. If you can't find an answer there, please contact us at <a href="mailto:feedbro.reader@gmail.com">feedbro.reader@gmail.com</a>
+</p>
+
+<h3>Support Feedbro Development</h3>
+<p class="content">
+We love our users. We want to provide the best possible product for you. More users means that we have more interest to develop Feedbro further. 
+If you like Feedbro, please consider donating (red heart icon in the top left-hand corner) or help us gain more users.
+<br><br>
+If you want to help, there are many ways to do this:
+</p>
+<ul>
+    <li>Write a positive review about Feedbro on <a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa">Chrome Web Store</a></li>
+    <li>Write a positive review about Feedbro on <a target="_blank" rel="noopener noreferrer" href="https://addons.mozilla.org/firefox/addon/feedbroreader/">Mozilla Add-on Store</a></li>
+	<li>Like Feedbro on <a target="_blank" rel="noopener noreferrer" href="https://alternativeto.net/software/feedbro/">alternative.to</a></li>
+	<li>Like Feedbro on <a target="_blank" rel="noopener noreferrer" href="https://www.slant.co/topics/446/viewpoints/31/~best-news-readers~feedbro">slant.co</a></li>
+	<li>Like Feedbro on <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/feedbro.reader">facebook.com</a></li>
+	<li>Follow Feedbro on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/feedbro">twitter.com</a></li>
+	<li>Post an article about Feedbro e.g. on Twitter, Facebook, Reddit, forum, your site or blog.</li>
+	<li>Tell your friends and co-workers about Feedbro.</li>
+	<li>Send us feature + enhancement ideas and bug reports (if you find bugs) at <a href="mailto:feedbro.reader@gmail.com">feedbro.reader@gmail.com</a></li>
+</ul>
+<p class="content">
+Thanks a lot for your support in advance!
+</p>
+
+<h3>Feedback and Bug Reports</h3>
+<p class="content">
+Please send feedback and bug reports to <a href="mailto:feedbro.reader@gmail.com">feedbro.reader@gmail.com</a>
+</p>
+
+<h3>Change Log</h3>
+<p class="content">
+Feedbro change history is listed in <a href="CHANGELOG.txt">Change Log</a>.
+</p>
+
+</body>
+</html>

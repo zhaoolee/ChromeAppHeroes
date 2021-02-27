@@ -1,0 +1,60 @@
+﻿div#ruleform select, 
+div#rulesimulationform select, 
+div#toolbar select, 
+div#results select, 
+div#feeddialog select, 
+table.settings select {
+    -webkit-appearance: none;
+    -webkit-padding-end: 25px;
+    -webkit-padding-start: 3px;
+    -moz-appearance: none;
+    -moz-padding-end: 25px;
+    /* -moz-padding-start: 3px; */ /* does not work correctly - see Bugzilla 1582545 */
+    background-image: url(../images/caret.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	border: 1px solid transparent;
+    border-bottom: 1px solid rgba(12, 12, 12, 0.1);
+    border-radius: 1px;
+}
+
+div#feeddialog input[type="text"], 
+div#feeddialog input[type="password"] {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+div#toolbar select {
+    border: none;
+    font-size: 12px;
+    height: inherit;
+	vertical-align: middle;
+}
+
+div#ruleform input, 
+div#ruleform select, 
+div#ruleform button, 
+div#ruleform table {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+div#rulesimulationform input, 
+div#rulesimulationform select, 
+div#rulesimulationform button, 
+div#rulesimulationform table {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+div#rulesimulationform input, 
+div#rulesimulationform textarea {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+div#titles > div.datedivider {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-image: none;
+}

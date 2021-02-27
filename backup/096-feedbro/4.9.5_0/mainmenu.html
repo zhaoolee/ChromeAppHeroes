@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+	<title>Feedbro - Menu</title>
+
+	<link rel="stylesheet" href="styles/buttons.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/mainmenu.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/alertify.core.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/alertify.bootstrap.css" type="text/css"/>
+	
+	<script src="scripts-core/jquery-3.2.1.min.js"></script>
+
+	<script src="scripts-core/alertify.js"></script>
+	<script src="scripts-core/feedbro.min.js"></script>
+	<script src="scripts-core/locale-en_US.js"></script>
+	<script src="scripts-core/init-mainmenu.js"></script>	
+</head>
+<body>
+
+<div id="menuitems">
+<div id="reader" data-i18n="mainmenu_openreader" class="menuitem">Open Feed Reader</div>
+<div id="findfeeds" data-i18n="mainmenu_findfeeds" class="menuitem">Find Feeds in Current Tab</div>
+<div id="options" data-i18n="mainmenu_options" class="menuitem">Options</div>
+<div id="explorer" data-i18n="mainmenu_openexplorer" class="menuitem" title="Browse unread articles in feeds">Open Explorer</div>
+</div>
+<div id="results" class="results"></div>
+<div class="divider" id="articlelistdivider"></div>
+<div id="articlelist"></div>
+<div id="popuplist"></div>
+
+</body>
+</html>

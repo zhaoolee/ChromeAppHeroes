@@ -1,0 +1,136 @@
+KNOWN ISSUES
+============
+
+Firefox
+-------
+
+F1. If you have media.autoplay.enabled set to false in about:config in Firefox, sounds do not work at all. 
+    See Bugzilla bug 1395171.
+
+F2. Feedbro cannot be accessed/the reader UI doesn't work if you are in a Private Browsing window. This is because 
+    chrome.extension.getBackgroundPage() returns null. 
+    Thus you can only use Feedbro in normal windows (changing this would require major refactoring). 
+    See Bugzilla bug 1329304.
+
+F3. If you have "Never remember history" setting on, IndexedDB does not work at all (not even in the extension background page!). 
+    Feedbro uses IndexedDB to store feed articles and thus this setting breaks all functionality. 
+    See Bugzilla bug 781982.
+
+F4. If you have "Accept cookies from websites" disabled, IndexedDB does not work. As a workaround you can enter the Feedbro extension 
+    URI starting like moz-extension://a9c2ad37-e940-4892-8dce-cd73c6cbbc0c to your Cookie Exceptions. Note that the hex string in the URI 
+    just mentioned may be different on your machine. Open the Feedbro Reader view and use copy+paste to get the correct URI for adding as 
+    an Exception. 
+    See Bugzilla bug 1406675.
+
+F5. Firefox does not allow styling of scrollbars with CSS (like Chrome does). This makes scrollbars look quite ugly especially in the dark 
+    theme mode.
+    Update: You must set about:config option "layout.css.scrollbar-colors.enabled" to true to enable this feature.
+    See Bugzilla bug 77790.
+	
+F6. There is no API for adding Feedbro as a ContentHandler so that Feedbro would appear in the dropdown list when you open a feed in a 
+    browser tab and see the "Subscribe to this feed using". If you want to have Feedbro in that menu, you have to add the handler manually. 
+    Alternatively you can click the Feedbro extension icon and select "Find Feeds in Current Tab".
+   
+    To add the content handler, open a new tab with URI about:config
+	
+    Type in browser.contentHandlers and you should see a list of preferences. Check what is the number of the last 
+    browser.contentHandler.<number> setting and use the next number to enter settings for Feedbro like this (we assume that 4 is the next 
+    free number):
+	
+    NOTE! You must copy+paste the URL from Feedbro Reader view and modify it so that after the reader.html you have ?preview=%s
+
+    Preference Name 	Type 	Value
+    browser.contentHandlers.types.4.title 	String 	Feedbro
+    browser.contentHandlers.types.4.type 	String 	application/vnd.mozilla.maybe.feed
+    browser.contentHandlers.types.4.uri 	String 	moz-extension://a9c2ad37-e940-4892-8dce-cd73c6cbbc0c/reader.html?preview=%s
+	
+    We are hoping to see an API that lets the extension do this on behalf of the user. 
+    See Bugzilla bug 1356397.
+
+F7. You should be able to right-click feeds and folders in the feed tree. If right-click does not bring up Feedbro context menu but
+    instead it brings up just the Firefox default context menu, open a new tab and put as address about:config. Then search with
+    string "contextmenu". The value of key dom.event.contextmenu.enabled should be true. Also if there is
+    services.sync.prefs.sync.dom.event.contextmenu.enabled set it to true as well. That should make the right-click context menu work.
+	
+F8. Mozilla Add-on store does not allow manifest.json setting content_security_policy to point to cloudflare CDN in order to load MathJax. 
+    As a result MathJax is not available on Feedbro Firefox - only on Chrome.
+	
+F9. In hopefully quite rare conditions the Firefox IndexedDB in your profile can get completely corrupted. This causes Feedbro to
+    announce that the "Background process failed to initialize". This is because IndexedDB cannot be opened. One fix is to recreate your
+    Firefox profile. Some users have also reported that this should also work: open about:support in a new tab. Then click "Open Folder"
+    button to open the profile folder in the file system. Then delete/rename the "storage" folder and restart Firefox.
+    One way to cause this problem is to first install e.g. Firefox 56, then upgrade to 57 beta using the same profile folder and then
+    downgrade back to 56. This corrupts the IndexedDB completely in the profile data and prevents all extensions and websites from
+    using IndexedDB. Addition: a "less violent" way is to open about:support and click the "Refresh Firefox" button which should fix
+    the issue as well.
+    See Bugzilla bug 944918.
+	
+    You can test IndexedDB functionality at: https://firefox-storage-test.glitch.me/
+
+F10. As a technical "nice to know" issue, window.localStorage cannot be used even in the WebExtension background page because Firefox
+     completely deletes window.localStorage of the background page when user decides to clean history or uses Private Browsing mode.
+     Since Feedbro nowadays uses chrome.storage.local, Feedbro is unaffected by this Firefox bug.
+     See Bugzilla bug 1313401.
+	
+F11. Do not set Feedbro reader view as one of the homepages that Firefox opens automatically upon startup. If you do this, apparently 
+     the background page hasn't loaded properly yet and you will get "Background process failed to initialize" error. Actually in this
+     case the background process doesn't fail to initialize, it just isn't ready yet when the UI is requesting data from it.
+     Anyway, don't put Feedbro as one of the starting pages.
+	 
+F12. At least on Firefox 56 running on Ubuntu 16.04 export functions (OPML, Rules) don't work. This is due to a bug in Firefox.
+     This has been fixed by creating a workaround that doesn't directly save the file (e.g. OPML file) but opens the OPML contents in
+     a popup window that the user can then save (right-click and select Save As). Note that you need to allow popups for the extension
+     for this to work. NOTE! uBlock Origin or similar WebExtensions can block popups! Disable popup blocking in such extensions also.
+     
+	 Note! If it still doesn't work (e.g. on Waterfox 56), open about:config and set property "browser.tabs.remote.autostart" to false.
+     Then restart your browser. After that the OPML export should work. After you have done the export, open about:config again and set
+     "browser.tabs.remote.autostart" to true and restart the browser.
+	 
+     See Bugzilla bug 1413460.
+	 
+F13. Firefox WebExtension bookmarks API does not work properly with Live Bookmarks. When reading a Live Bookmark via the API
+     the type is "folder" and the url cannot be accessed. Thus it is currently impossible to read or use Live Bookmarks or to
+     import them to Feedbro using an API.
+     See Bugzilla bug 1418257.
+	 
+F14. If you have Firefox setting "Tracking Protection" set as "Always", some RSS feeds (such as Reddit) don't work since Firefox
+     blocks loading of those URLs. You can change the setting to "Only in private windows" to get around this or if you just want
+     to allow Reddit, do this:
+     Open reddit.com in a normal browser tab and click the shield icon in the location bar. Then press the toggle so it changes to 
+     "Enhanced Tracking Protection is OFF for this site". This creates a permanent exception for the site and feed loading should work
+     after that.
+
+F15. Firefox 66+ on Linux and MacOS has a regression bug that messes up feed tree right-click menu. 
+     Workaround: open about:config and set "ui.context_menus.after_mouseup" to true.
+	 
+F16. On Firefox you need to have about:config setting "dom.IntersectionObserver.enabled" set to true. Otherwise Feed Reader UI won't work.
+
+F17. Yammer doesn't work if you have first party isolation (privacy.firstparty.isolate = true in about:config) enabled. This is because
+     Feedbro cannot use the session cookie that is available for the normal Yammer tabs.
+  
+Chrome
+------
+
+No issues at the moment.
+
+All platforms
+-------------
+
+A1. Feedbro saves changes "lazily" on the disk. In practice this means that when you mark an article read or it is automatically
+    marked as read, there is a small delay before the change is actually written to disk. Before that it is in in-memory data structure.
+    Now, if you e.g. open Feedbro, mark all as read and then immediately close the browser, the extension background page does not have
+    enough time to save the changes. This can show up e.g. so that the articles you previously marked as read appear as unread.
+    So the thing is to wait a bit before closing the browser after you have made changes that need to be persisted to the disk.
+
+A2. Some feeds do not have proper date stamps in the feed XML for articles. In such cases Feedbro uses the feed article URL to
+    check whether there's already an article with that URL in the in-memory lookup table (Feedbro DB). If yes, that article is
+    is considered to be "old" (existing). If it does not exist, the article is treated as a new article. Now the problem arises if
+    the Feedbro user uses "delete article" functionality for such feeds. As soon as the deleted article is removed from the
+    Feedbro DB and a new feed scan occurs (HTTP request from the feed source URL), the deleted articles appear to be new.
+    There's really no other way around this than this rule: don't delete articles for feeds that don't provide a proper date stamp
+    for articles.
+	
+A3. Some feeds have articles that have a date stamp in the future. Feedbro ignores such articles on purpose.
+
+A4. If "lazy loading" (automatically loading new articles, especially in view mode 3 and 6) doesn't seem to work, please ensure
+    that your browser zoom level in Feedbro reading window is 100%. You can press e.g. CTRL+0 to quickly do this.

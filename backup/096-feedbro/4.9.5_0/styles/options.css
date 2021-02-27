@@ -1,0 +1,87 @@
+body { 
+	min-height: 100vh;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+div#core {
+	overflow-y: auto;
+	flex: 5;
+	padding: 20px;
+}
+
+div#left {
+	flex: 1;
+	background-color: #eeeeee;
+	min-width: 160px;
+	/* border-right: 1px solid #cccccc; */
+	background-image: url(../images/reader128.png);
+	background-repeat: no-repeat;
+	background-position: 50% 40%;
+}
+
+div#right {
+	flex: 1;
+	background-color: #eeeeee;
+	/* border-left: 1px solid #cccccc; */
+}
+
+div#logo {
+	margin-top: 150px;
+	padding: 0px;
+	font-size: 1.3em;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+div#feedbuttons {
+	padding-top: 10px;
+	margin-left: 2px;
+}
+
+h3 {
+	padding-bottom: 2px;
+	border-bottom: 1px solid #cccccc;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+input[type="checkbox"] {
+	vertical-align: middle;
+}
+
+span.note {
+	font-size: 0.9em;
+    color: #999;
+    padding-left: 10px;
+}
+
+input.quicktag {
+	padding: 3px;
+	margin-right: 5px;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a.custom-button {
+	width: 235px;
+	text-align: center;
+	border: 1px solid #bbb !important;
+	font-size: 1em !important;
+}
+
+div#license {
+	margin-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+form.licenseform {
+	display: inline-block;
+}
+
+form.licenseform select {
+	height: 28px;
+    margin-left: 10px;
+}

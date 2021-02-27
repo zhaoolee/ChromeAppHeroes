@@ -1,0 +1,528 @@
+body {
+	background-color: black;
+}
+
+div#core {
+	scrollbar-color: #573E2D #3D291B;
+}
+
+/**
+ * Custom scrollbars
+ */
+::-webkit-scrollbar-track {
+    background-color: #3c2b20;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: #483528;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background-color: #ffffff;
+}
+
+/**
+ * Custom scrollbar arrows
+ */
+::-webkit-scrollbar-button:start,
+::-webkit-scrollbar-button:end {
+  display: none
+}
+ 
+::-webkit-scrollbar-button:start:decrement,
+::-webkit-scrollbar-button:end:increment {
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 3px 3px;
+  background-color: #3c2b20;
+}
+ 
+ 
+::-webkit-scrollbar-button:vertical:decrement {
+  background-image: url(/images/scrollbar-arrow-up.png);
+  background-size: 9px;
+}
+
+::-webkit-scrollbar-button:vertical:increment {
+  background-image: url(/images/scrollbar-arrow-down.png);
+  background-size: 9px;
+} 
+
+
+
+div#toolbar {
+	border-color: #333;
+	background-color: #222;
+}
+
+div#dragbar1,
+div#dragbar2 {
+	border-color: #422f23;
+}
+
+
+div.enclosure span.enclosure-name {
+	color: #666;
+}
+
+div.enclosure span.enclosure-type {
+	color: #222222;
+}
+
+span.enclosure-viewlink {
+	color: #666;
+}
+
+a.link-addfolder, a.link-addfeed, a.link-import, a.link-settings, a.link-help {
+	color: #ddd;
+}
+
+div#mainfunctions {
+	color: #ccc;
+}
+
+/**
+ * Article titles view in Opera mode
+ */
+
+div#titles {
+	background-color: #D0C297;
+}
+
+div#titles > div.item {
+	border-color: #555555;
+}
+
+div.item > div.item-title {
+	color: #333;
+}
+
+div.item > div.item-author {
+	color: #111;
+}
+
+div.item > div.item-date {
+	color: #222;
+}
+
+div.item.unread > div.item-title {
+	color: #000;
+}
+
+div#titles > div.activetitle {
+	background-color: #dcd0ac;
+}
+
+div#titles div.item.unread.activetitle div.item-title {
+	font-weight: bold;
+}
+
+div#titles div.activetitle div.item-title {
+	color: #111;
+}
+
+div#titles div.activetitle div.item-author {
+	color: #111;
+}
+
+div#titles div.activetitle div.item-date {
+	color: #111;
+}
+
+div#titles div.datedivider {
+	background-color: #b3a67f;
+    border-bottom: 1px solid #a99c75;
+    color: #000;
+}
+
+/**
+ * Toolbar settings
+ */
+
+div#toolbar select
+{
+	background-color: #222;
+	color: #aaaaaa;
+	border-color: #444;
+}
+
+div.imagebutton {
+	background-color: #222;
+	border-color: #444;
+}
+
+span.tbdiv {
+	color: #111111;
+}
+
+div.entry {
+	border-color: #dcd0ac;
+    background-color: #dcd0ac;
+}
+
+/**
+ * Feed tree settings
+ */
+ 
+div#leftpane {
+	background-color: #3D291B;
+} 
+ 
+div#mainfunctions div.menu-selected {
+	color: white;
+	background-color: #000044;
+	text-shadow: none;
+}
+
+li.jqtree-selected div.node-text {
+	color: white !important;
+}
+
+ul.jqtree-tree .jqtree-toggler {
+	color: #563c2a;
+}
+
+div.node-unread {
+	color: #888;
+	border-color: #333;
+}
+
+div.node-text {
+	color: #777;
+}
+
+div.node-unreadtext {
+	color: #bbb !important;
+}
+
+ul.jqtree-tree .jqtree-toggler:hover {
+    color: #eee;
+}
+
+.main-bottomlinks {
+	color: #3c2b20;
+}
+
+.main-bottomlink {
+	color: #999;
+}
+
+.main-bottomlink:hover {
+	color: #ddd;
+}
+
+
+ul.jqtree-tree li.jqtree-selected > div.jqtree-element {
+	background-color: #000044;
+}	
+
+/** 
+ * Main view settings
+ */
+
+div#feed {
+	background-color: #3c2b20;
+	color: #000;
+}
+
+div.entry div.fromline {
+	color: #111;
+}
+
+div.entry div.entry-date {
+	color: #555;
+}
+
+.entry-link {
+	color: #333;
+}
+
+.entry-nptitle-a {
+	color: #333;
+}
+
+div.entry.unread .entry-link {
+	color: darkblue;
+}
+
+div.entry.unread > div.entry-newspaper-section > div.entry-nptitle > .entry-nptitle-a {
+	color: darkblue;
+}
+
+table.tagtable div.taglink,
+a.rulelink,
+a.feedlink {
+	color: #000;
+}
+
+.entry-blockquote a {
+	color: darkBlue;
+}
+
+/*
+div#feed blockquote a:hover {
+	text-decoration: underline;
+}
+*/
+
+div.tag {
+	background-color: #fff;
+	border-color: #b3a67f;
+}
+
+a.twitter-hashtag > strong,
+a.twitter-hashtag > b,
+a.twitter-hashtag > s {
+	color: darkBlue;
+}
+
+.entry-bloglink-a {
+	color: #000;
+}
+
+div#footer {
+	background-color: #222222;
+}
+
+div.entry-title > span.feedbro-points {
+	color: #888;
+}
+
+img.articletrashicon {
+	 filter: brightness(-20%);
+}
+
+/**
+ * Style applied to text fragments which match the rule "highlight" (word highlighting)
+ */
+span.highlight-text { 
+	text-decoration: none;
+	color: #eeeeee; 
+}
+
+div.active-mode {
+	border: 0px solid #dddddd !important;
+	background-color: #777 !important;
+}
+
+table.feedtable {
+	background-color: #ECDCAC !important;
+}
+
+tr.feedtablerow:hover {
+	background-color: #000044 !important;
+	color: #eee !important;
+}
+
+tr.feedtablerow:hover a.feedlink {
+	color: #eee !important;
+}
+
+tr.feedtablerow:hover a.rulelink {
+	color: #eee !important;
+}
+
+tr.feedtablerow:hover div.taglink {
+	color: #eee !important;
+}
+
+table.feedtable > thead > tr > th {
+    border-bottom: 1px solid #d4c390;
+	background-color: #e2d6b2;
+}
+
+div#feeddialogcontent {
+	background-color: #222;
+	color: #bbb;
+}
+
+div#feeddialog {
+	border: 1px solid #444;
+}
+
+div#feeddialog select, 
+div#feeddialog input[type="text"], 
+div#feeddialog input[type="password"] {
+    border: 1px solid #444;
+    background-color: #333;
+    color: #ddd;
+}
+
+
+/**
+ * Rule form customization
+ */
+
+div#ruleform,
+div#rulesimulationform {
+	background-color: #222;
+	color: #bbb;
+	border: 1px solid #333;
+}
+
+table#rulesimulationtable div.divider {
+    border-bottom: 1px solid #444343;
+}
+
+table#ruletable div.divider {
+    border-bottom: 1px solid #444343;
+}
+ 
+div#ruleform select#contextvalue {
+    background-color: #333;
+}	
+
+div#ruleform input {
+    border: 1px solid #444;
+    background-color: #333;
+    color: #ddd;
+}
+
+div#ruleform select {
+	border: 1px solid #444;
+    background-color: #333;
+    color: #ddd;
+}
+
+div#ruleform select.action-sound {
+    background-color: #333;
+}
+
+/* simulation */
+
+div#rulesimulationform select#simulationcontextvalue {
+    background-color: #333;
+}	
+
+div#rulesimulationform input,
+div#rulesimulationform textarea {
+    border: 1px solid #444;
+    background-color: #333;
+    color: #ddd;
+}
+
+div#rulesimulationform select {
+	border: 1px solid #444;
+    background-color: #333;
+    color: #ddd;
+}
+
+div#feedbro-sharebox {
+    color: #eee;
+    background-color: #222;
+    border: 2px solid #333;
+}
+
+div#feedbro-sharebox > div.opt:hover {
+    background-color: #333;
+    color: #eee;
+}
+
+div#feed > center > div.maindescription {
+	color: #eee;
+}
+
+div#feed > center > h1#fbreadermaintitle {
+	color: #eee;
+}
+
+div.info-message {
+    color: #ddd;
+}
+
+.previewheader {
+	color: #111;
+}
+
+.previewheader-error {
+	border: 1px solid #000;
+	color: #111;
+}
+
+/**
+ * Options page settings
+ */
+ 
+body.optionsPage > div#left,
+body.optionsPage > div#right {
+	background-color: rgb(61, 41, 27);
+}
+
+body.optionsPage > div#core {
+	background-color: rgb(87, 62, 45);
+	color: #ddd;
+}
+
+body.optionsPage select,
+body.optionsPage input {
+	background-color: rgb(61, 41, 27);
+    color: #ddd;
+	border: 1px solid #333;
+}
+
+/**
+ * Feed Finder
+ */
+ 
+.feedfinder {
+	background-color: #111;
+}
+
+.feedTitleLink {
+	color: #77aaaa;
+}
+
+.feedDescription {
+	color: #aaa;
+}
+
+.feedUpdated {
+	color: #999;
+}
+
+.closeFeedFinder {
+	filter: invert(60%);
+}
+
+.rowCount {
+	color: #777;
+}
+
+.feedAction-added {
+	color: #aaa;
+}
+
+.feedFinderInfo {
+	color: #aaa;
+}
+
+select.feedFinderControl,
+input.feedFinderControl {
+	border: 1px solid #444;
+    background-color: #333;
+    color: #ddd;	
+}
+
+.alertify-buttons {
+    background: #222;
+    border-top: 1px solid #333;
+    box-shadow: none;
+	border-radius: 0;
+}
+
+.alertify-inner {
+    text-align: left;
+    background-color: #333;
+    color: #eee;
+    border: 1px solid #444;
+}
+
+input#alertify-text {
+	border: 1px solid #444;
+    background-color: #444;
+    color: #ddd;
+}
+
+.linkedin-actor-title {
+    color: #333;
+}

@@ -1,0 +1,1593 @@
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+body {
+	font-size: 0.8em;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+img {
+	max-width: 100%; /* scale huge images to fit reading area */
+	outline: 0;
+	height: auto;
+	border: 0;
+}
+
+code {
+	white-space: pre;
+}
+
+.rtl-layout {
+	direction: rtl;
+	font-family: Tahoma, sans-serif;
+}
+
+/*
+div.entry-newspaper.linemode {
+	display: block !important;
+	min-width: 0px !important;
+	max-width: 2000px !important;
+}
+*/
+
+div.entry-npmainimage.linemode {
+	width: 150px !important;
+	height: 100px !important;
+	float: left !important;
+	overflow: hidden;
+}
+
+div.entry-npsummary.linemode {
+	margin-left: 175px !important;
+	margin-top: 10px !important;
+	font-size: 1em;
+}
+
+/**
+ * Newspaper view custom settings
+ */
+
+.entry-newspaper {
+	max-width: 31% !important;
+	min-width: 31% !important;
+	display: inline-block !important;
+	padding: 15px;
+	margin: 0px 5px 2px 0px;
+	margin-right: 10px !important;
+	vertical-align: top;
+	font-family: inherit;
+	font-weight: inherit;
+	cursor: pointer;
+}
+
+div.entry.linemode {
+    display: block !important;
+    width: 900px; /* can be overridden with custom settings */
+    min-width: unset !important;
+    max-width: unset !important;
+    margin-left: auto;
+    margin-right: auto !important;
+}
+
+div.entry.active.entry-newspaper.linemode {
+    margin-right: auto !important;
+}
+
+.entry-newspaper > .entry-body > .itemlinks {
+	display: none !important;
+}
+
+.entry-newspaper > .entry-title {
+	display: none !important;
+}
+
+.entry-newspaper > .entry-header {
+	display: none !important;
+}
+
+.entry-newspaper > .entry-body {
+	display: none !important;
+}
+
+.entry-npsummary > a {
+	text-decoration: none;
+}
+
+.entry-npsummary > a:hover {
+	text-decoration: underline;
+}
+
+div.entry-sourceline {
+	display: flex;
+}
+
+div.entry-source {
+	font-size: 0.9em;
+	display: inline-block;
+	flex: 1;
+}
+
+.entry-source-link {
+	color: #777;
+	text-decoration: none;
+}
+
+.entry-source-link:hover {
+	text-decoration: underline;
+}
+
+div.timeago {
+	font-size: 0.9em;
+	display: inline-block;
+	color: #777;
+	padding-right: 2px;
+}
+  
+div.entry-nptitle {
+	font-weight: 700;
+	margin-bottom: 5px;
+	font-size: 1.3em;
+	margin-right: 1px;
+}
+
+.entry.linemode > .entry-newspaper-section > .entry-nptitle {
+	white-space: nowrap;
+	overflow-x: hidden;
+	text-overflow: ellipsis;
+}  
+
+div.entry.active.entry-newspaper div.entry-nptitle {
+	margin-right: 0px;
+}
+
+div.entry-npmainimage {
+	margin-top: 10px;
+	margin-right: 1px;
+}  
+
+.entry-npmainimage-img {
+	max-width: 100%;
+	outline: 0;
+	height: auto;
+	border: 0;
+}
+
+div.entry-npsummary {
+	margin-top: 5px;
+	font-size: 0.9em;
+	margin-right: 1px;
+	overflow-x: hidden;
+} 
+
+div.entry.active.entry-newspaper  div.entry-npsummary {
+	margin-right: 0px;
+}
+ 
+/**
+ * Custom select box for unified look and feel across operating systems
+ */
+div#ruleform select,
+div#rulesimulationform select,
+div#toolbar select,
+div#results select,
+div#feeddialog select,
+table.settings select {
+	-webkit-appearance: none;
+	-webkit-padding-end: 25px;
+	-webkit-padding-start: 3px;
+	-moz-appearance: none;
+	-moz-padding-end: 25px;
+	/* -moz-padding-start: 3px; */
+	background-image: url('../images/caret.png');
+	background-position: right center;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	/* vertical-align: middle; */
+	border: 1px solid transparent;
+	border-bottom: 1px solid #dddddd;
+	background-color: #ffffff;
+	border-radius: 0px;
+	/* height: 1.9em; */ /* used to be fixed 23px */
+	padding-top: 2px;
+    padding-bottom: 2px;	
+}
+
+div.feedFinderControls select {
+	-webkit-appearance: none;
+	-webkit-padding-end: 25px;
+	-webkit-padding-start: 3px;
+	-moz-appearance: none;
+	-moz-padding-end: 25px;
+	-moz-padding-start: 3px;
+	background-image: url('../images/caret.png');
+	background-position: right center;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	/* height: 1.9em; */ /* used to be 24px */
+	border-radius: 0px;
+}
+
+div#ruleform select[multiple='true'],
+div#rulesimulationform select[multiple='true']
+{
+	background-image: none;
+}
+
+/**
+ * Style applied to text fragments which match the rule "highlight" (word highlighting)
+ */
+span.highlight-text { 
+	text-decoration: underline; 
+	color: red; 
+}
+
+/**
+ * Main page add links
+ */
+
+.main-iconset-td {
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 115px;
+}
+ 
+a.link-addfolder,
+a.link-addfeed,
+a.link-import,
+a.link-readall,
+a.link-settings,
+a.link-help {
+	text-decoration: none;
+	color: black;
+} 
+
+a.link-addfolder:hover,
+a.link-addfeed:hover,
+a.link-import:hover,
+a.link-readall:hover,
+a.link-settings:hover {
+	text-decoration: underline;
+} 
+
+.main-bottomlinks {
+	margin-bottom: 15px;
+	font-size: 0.9em;
+}
+
+.main-bottomlink {
+	color: #333333;
+	text-decoration: none;
+}
+
+.main-bottomlink:hover{
+	color: #333333;
+	text-decoration: underline;
+}
+
+/**
+ * Top of the screen toolbar settings
+ */
+div#toolbar select {
+	border: 0px solid #eeeeff;
+	font-size: 12px;
+	color: #666;
+	border-radius: 0px;
+}
+
+@media print 
+{
+	.noPrint { 
+		display: none; 
+	}
+	div#feed { 
+		width: 95%; 
+		margin: 10px; 
+		outline: none !important;
+		background-color: #fff !important;
+	}
+	body {
+		display: initial !important;
+	}
+	div#core {
+		display: initial !important;
+	}
+	div.entry {
+		border-left: none !important;
+		border-right: none !important;
+		background-color: #fff !important;
+	}
+	td.entry-title-topcorner {
+		display: none !important;
+	}
+}
+
+@media screen
+{
+	div#feed { margin-left: 280px; margin-top: 33px; outline: none !important; }
+}
+
+
+div.menu-selected {
+	background-color: #BEE2F3;
+}
+
+input[type="text"], input[type="password"] {
+	border: 1px solid transparent;
+	border-bottom: 1px solid rgba(12, 12, 12, 0.1);
+}
+
+div#ruleform input[type="text"]:focus,
+div#rulesimulationform input[type="text"]:focus,
+div#feeddialog input[type="text"]:focus,
+div#feeddialog input[type="password"]:focus,
+div#ruleform select:focus,
+div#rulesimulationform select:focus,
+div#feeddialog select:focus,
+.feedFinderControl:focus,
+div#ruleform option:focus,
+div#rulesimulationform option:focus,
+div#feeddialog option:focus,
+select.feedFinderControl option:focus
+{
+    border: 1px solid #4D90FE;
+    outline: none;
+}
+
+input[type="checkbox"] {
+	vertical-align: middle;
+	margin-bottom: 5px;
+}
+
+/**
+ * Twitter feed CSS settings
+ */
+
+.twitter-card-title {
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.twitter-retweet-header {
+    font-size: 0.8em;
+    margin-left: 34px;
+    margin-bottom: 5px;
+    padding-left: 25px;
+    background-image: url("../images/icon-retweet.png");
+    background-repeat: no-repeat;
+    background-position-x: 0px;
+    filter: opacity(0.7);
+}
+
+.twitter-card {
+    padding: 10px;
+	max-width: 600px;
+    margin: auto;
+}
+
+p.tweet-text {
+    margin-left: 58px;
+	white-space: pre-wrap;
+}
+
+.twitter-hashtag {
+    text-decoration: none;
+}
+
+.twitter-tweet-link {
+    text-decoration: none;
+}
+
+.twitter-card-url {
+    text-decoration: none;
+	color: inherit !important;
+}
+
+.twitter-username {
+	text-decoration: none;
+}
+
+div.twitter-media-photo {
+	text-align: center;
+}
+
+a.twitter-quote-link {
+    text-decoration: none;
+    color: inherit !important;
+}
+
+img.twitter-media-photo {
+	max-width: 600px;
+}
+
+.twitter-fullname {
+	font-weight: 700;
+	margin-right: 6px;
+}
+
+.twitter-hashtag:hover, .twitter-atreply:hover, .twitter-tweet-link:hover {
+	text-decoration: underline;
+}
+
+.twitter-quoted-tweet {
+    padding: 20px;
+    margin-top: 10px;
+	margin-left: 40px;
+}
+
+.twitter-authorimage-quoted {
+    vertical-align: middle;
+    width: 24px;
+    border-radius: 50%;
+}
+
+.twitter-author-name-quoted {
+    margin-left: 10px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.twitter-quoted-content {
+    margin-top: 10px;
+	white-space: pre-wrap;
+	margin-bottom: 10px;
+}
+
+.twitter-authorimage {
+	float: left; 
+	margin-right: 10px; 
+	vertical-align: text-top;
+	border-radius: 50%;
+}
+
+.twitter-embedded-image {
+	margin-top: 10px;
+	margin-left: 95px;
+	max-width: 500px;
+}
+
+.twitter-hashflag {
+    height: 1.25em;
+    width: 1.25em;
+    padding: 0 .05em 0 .1em;
+    vertical-align: -0.2em;
+}
+
+img.Emoji {
+	width: 16px;
+}
+
+/**
+ * Dialog box for adding a new feed / editing existing feed properties
+ */
+div#feeddialog {
+	border: 1px solid #8E8E8E; 
+	padding: 0px; 
+	margin: 10px;
+	display: none;
+	background-color: white; 
+	position: fixed; 
+	z-index: 1000;
+	box-shadow: 0 3px 7px rgba(0,0,0,.3);
+}
+
+div#feeddialog div#feeddialogcontent {
+	padding: 20px;
+}
+
+div#feeddialog div#feedtitle {
+	background-color: #F5F5F5; 
+	padding: 5px; 
+	display: none;
+}
+
+div#feeddialog span#feed-status {
+	padding-left: 4px;
+}
+
+div#feeddialog span#feed-lastposted {
+	padding-left: 4px;
+}
+
+#feeddialogTable {
+	border: 0 !important;
+}
+
+#feeddialogTable > tbody > tr {
+	height: 26px;
+	border: 0 !important;
+}
+
+#feeddialogTable > tbody > tr > td {
+	font-size: 13px;
+	padding: 2px 10px 2px 14px !important; /* to avoid settings coming from feeds to override this */
+	border: 0 !important;
+}
+
+
+div#feeddialog input[type="text"], 
+div#feeddialog input[type="password"] {
+	border: 1px solid transparent;
+	border-bottom: 1px solid #dddddd;
+	padding: 2px 3px 2px 3px;
+	background-color: #ffffff;
+	/* height: 23px; */
+	font-size: 13px;
+}
+
+button#feed-get {
+	margin-top: -4px;
+}
+
+/**
+ * Image buttons in the top left-hand screen (add feed, add folder, mark as read)
+ */
+img.imgbutton {
+	padding: 4px 10px 4px 10px; 
+	border: 1px solid #eeeeee;
+	cursor: pointer;
+}
+
+/**
+ * divider span tag in toolbar between buttons and controls
+ */
+span.tbdiv {
+	width: 12px;
+	display: inline-block;
+	text-align: center;
+	color: #eeeeee;
+	vertical-align: middle;
+}
+
+/**
+ * feed entry (article) container
+ */
+div.entry {
+	border: 2px solid #fff;
+	padding: 10px 20px 10px 20px;
+	margin-bottom: 1px;
+	margin-right: 2px;
+	overflow: hidden;
+	outline: none;
+	background-color: #ffffff;
+}
+
+div.entry.compact-headline {
+	padding: 5px 20px 5px 20px;
+}
+
+/**
+ * Blog entry settings in div#feed
+ */
+
+div.entry-header {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+}
+
+div.entry-title {
+	font-size: 1.3em;
+}
+
+div.entry.unread .entry-link {
+	color: #1a0dab;
+}
+
+div.entry.unread > div.entry-newspaper-section > div.entry-nptitle > .entry-nptitle-a {
+	color: #1a0dab;
+}
+
+.entry-nptitle-a {
+	color: #555;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+.entry-nptitle-a:hover {
+	text-decoration: underline;
+}
+
+.entry-link {
+	color: #555;
+	font-weight: 700;
+	text-decoration: none;
+	-webkit-font-smoothing: antialiased;
+}
+
+.entry-link:hover { 
+	text-decoration: underline;
+}
+
+.entry-bloglink-a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.entry-bloglink-a:hover {
+	text-decoration: underline;
+}
+
+div.fromline {
+	flex: 1;
+	font-size: 0.9em;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	margin-left: 1px;
+}
+
+div.entry-date {
+	font-size: 0.9em;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	margin: 0px 15px 0px 15px;
+	color: #555;
+}
+
+div.entry-number {
+	white-space: nowrap;
+	font-size: 0.9em;
+	color: #555;
+}
+
+div.makeinline {
+	display: inline-block;
+}
+
+/**
+ * Datestamp of the feed entry article
+ */
+div.entry span.entry-date {
+	float: right;
+	font-size: 0.9em;
+}
+
+/**
+ * title of the feed entry article
+ */
+
+.entry-bloglink {
+	text-decoration: none;
+	color: #000000;
+}
+
+.entry-bloglink:hover {
+	text-decoration: underline;
+}
+
+div.entry.active.entry-newspaper {
+	margin-right: 10px !important;
+}
+
+span.star {
+	display: inline-block;
+	width: 20px;
+	cursor: pointer;
+	background: url("../images/star-grey.png") no-repeat;
+	background-position: center;
+}
+
+span.star.starred {
+	background: url("../images/star-yellow.png") no-repeat;
+	background-position: center;
+}
+
+span.keepunread {
+    padding: 2px 5px 2px 2px;
+	font-size: 0.9em;
+	margin-left: 5px;
+	color: #666666;
+	cursor: pointer;
+}
+
+a.share {
+    padding: 2px 5px 2px 5px;
+	text-decoration: none;
+	font-size: 0.9em;
+	color: #666666;
+	cursor: pointer;
+}
+
+a.delete-entry {
+    padding: 2px 5px 2px 5px;
+	text-decoration: none;
+	font-size: 0.9em;
+	color: #666666;
+	cursor: pointer;
+	margin-left: 5px;
+}
+
+div.itemlinks {
+	padding-top: 5px;
+	clear: both; /* removes float settings to prevent itemlinks div from being thrown to side */
+}
+
+/**
+ * Context menu (right-click feed or folder)
+ */
+
+div.contextitem {
+	color: black;
+	padding: 4px 28px 4px 16px;
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 11px;
+	cursor: pointer;
+}
+
+div.contextitem:hover {
+	background-color: blue;
+	color: white;
+	padding: 4px 28px 4px 16px;
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 11px;
+	cursor: pointer;
+}
+
+div.info {
+	padding: 10px;
+	margin-top: 5px;
+}
+
+div.info-code {
+	font-size: 2em;
+	color: red;
+	float: left;
+	font-weight: 700;
+	padding-right: 10px;
+	padding-top: 3px;
+}
+
+div.info-message {
+	font-size: 1.1em;
+    padding: 10px;
+    text-align: center;
+    color: #000;
+    border-radius: 2px;
+}
+
+/**
+ * Feed or folder entry in the navigation tree.
+ */
+div.node {
+   overflow: hidden;
+   width: 100%;
+}
+
+/**
+ * Box on the right side of the feed name which displays the number of unread items
+ */ 
+div.node-unread {
+	font-weight: 700;
+	font-size: 11px;
+	float: right;
+	border-radius: 4px;
+	color: #a2a2a2;
+	min-width: 25px;
+	text-align: center;
+	margin-right: 5px;
+	margin-left: 1px;
+	margin-top: 1px;
+}
+
+div.node-unreadtext {
+	font-weight: 700;
+}
+
+/** 
+ * feeds or folders in the tree navigation with 0 unread items get this pseudo class
+ */ 
+div.node-nounread {
+}	
+
+/**
+ * if 'hide feeds and folders with no unread items' is switched on, nodes with 0 unread get this class added dynamically
+ */
+div.node-hidden {
+	display: none;
+}
+
+/**
+ * Feed or folder name in the navigation tree.
+ */ 
+div.node-text {
+    float: none;
+    width: auto;
+    overflow: hidden;
+	margin-top: 1px;
+	font-size: 11px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+/* 404 : feed not found */
+span.node-status-404 {
+	color: red;
+}
+
+/* 610 : can't connect to server */
+span.node-status-610 {
+	color: red;
+}
+
+/* 611 : did not respond within timeout */
+span.node-status-611 {
+	color: #a8a8a8;
+}
+
+/* 601 : invalid xml */
+span.node-status-601 {
+	color: red;
+}
+
+a.feedlink {
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+div#feeddialogcontent span#feed-alternatives {
+	display: none; 
+	margin-left: 2px; 
+	margin-top: -2px; 
+	position: fixed; 
+	width: 265px; 
+	padding: 0px; 
+	background-color: #ffffff; 
+	border: 1px solid #cccccc;
+}
+
+span#feed-alternatives div.feed-alternative {
+	padding: 3px;
+}
+
+span#feed-alternatives div.feed-alternative:hover {
+	background-color: #eeeeee;
+}
+
+/**
+ * List of feeds in "Feed Statistics" view
+ */
+
+table.feedtable {
+	border-spacing: 0px;
+	/* box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12); */
+	box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.14);	
+	background-color: #fff;
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+table.feedtable > thead > tr > th {
+	padding: 10px 4px 10px 4px;
+	border-bottom: 1px solid #eee;
+	font-weight: normal;
+}
+
+tr.feedtablerow:hover {
+	background-color: #BEE2F3;
+}
+
+table.feedtable > tbody > tr > td {
+	padding: 0px 4px 0px 4px;
+    height: 30px;
+}
+
+table.feedtable > tbody > tr > td:first-child {
+	padding-left: 20px;
+}
+
+table.feedtable > tbody > tr > td:last-child {
+	padding-right: 30px;
+}
+
+table.feedtable > thead > tr > th:last-child {
+	padding-right: 30px;
+}
+
+.tagtableCount {
+	padding-left: 20px;
+	padding-right: 20px !important;
+	text-align: right !important;
+	width: 100px;
+}
+
+table.tagtable > thead > tr > th {
+	text-align: left;
+}
+
+td.feedtableTd > .taglink {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+table#rulelist > thead > tr > th {
+	text-align: left;
+}
+
+table#rulelist > tbody > tr > td:first-child {
+	text-align: right;
+	width: 60px;
+}
+
+table#rulelist > tbody > tr > td.center {
+	text-align: center;
+}
+
+table#rulelist > thead > tr > th.center {
+	text-align: center !important;
+	width: 110px;
+}
+
+
+/**
+ * Buttons on Options-screen
+ */
+
+button#googleimport {
+	width: 250px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+button#import {
+	width: 250px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+button#export {
+	width: 250px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+button#clearall {
+	width: 250px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+table.settings {
+	margin-left: 10px;
+}
+
+table.settings td {
+	height: 2.2em;
+	padding-right: 30px;
+	vertical-align: middle;
+	font-size: 13px;
+}
+
+/**
+ * Sharebox settings ("Send To" context menu - share via facebook, twitter etc) 
+ */
+div#feedbro-sharebox {
+	display: none;
+	width: 200px; 
+	background-color: #fff;
+	border: 1px solid #ddd;
+	margin: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	position: absolute;
+}
+ 
+.shareopt-favicon {
+	width: 16px;
+	margin-left: 15px;
+	margin-right: 8px;
+	vertical-align: middle;
+	margin-bottom: 1px;
+}
+
+div#feedbro-sharebox > div.opt:hover {
+	background-color: #dddddd;
+	cursor: pointer;
+}
+
+/**
+ * Full feed scanning settings
+ */
+img.fbarticlemainimage {
+	max-width: 40% !important;
+	display: block;
+	margin-bottom: 10px;
+}
+
+/**
+ * LinkedIn settings
+ */
+div.article-preview {
+	margin-top: 10px;
+}
+
+div.article-media {
+}
+
+div.article-body
+{
+    vertical-align: top;
+    padding: 10px;
+}
+
+div.linkedin-group-article {
+	white-space: pre-wrap;
+}	
+
+a.linkedin.article-preview-link {
+	text-decoration: none;
+}
+
+a.linkedin-hashtag {
+    text-decoration: none;
+}
+
+div.content-body {
+	color: rgba(0, 0, 0, 0.55);
+    margin-top: 4px;
+} 
+
+img.linkedin-image {
+	max-width: 50%;
+}
+
+.linkedin-article-image {
+    margin-top: 20px;
+}
+
+.linkedin-author-link {
+	text-decoration: none;
+}
+
+.linkedin-author-table {
+	border: 0;
+	border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+.linkedin-author-table-column-1 {
+    vertical-align: top;
+    width: 60px;
+}
+
+.linkedin-author-table-column-2 {
+    vertical-align: top;
+    padding-left: 10px;
+}
+
+.linkedin-actor-title {
+    color: #777;
+    font-size: 0.8em;
+}
+
+.linkedin-actor-image {
+	border-radius: 50%;
+	width: 58px;
+	height: 58px;
+}
+
+.linkedin-actor-name {
+	font-weight: bold;
+}
+
+.linkedin-shared-post {
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-top: 20px;
+	border-radius: 2px;
+}
+
+.linkedin-job-location,
+.linkedin-apply {
+	padding: 5px;
+}
+
+
+.linkedin-article-title {
+    padding: 5px;
+	text-decoration: underline;
+}
+
+.linkedin-article-subtitle {
+	font-size: 0.9em;
+    color: #111;
+    padding: 0px 5px;	
+}
+
+.linkedin-article-link {
+	text-decoration: none;
+}
+
+.linkedin-shared-post {
+	border: 1px solid #c5b891;
+}
+
+/**
+ * Preview settings
+ */
+ 
+div#feed > div.previewheader {
+    text-align: center;
+    padding: 15px 10px 15px 10px;
+    margin-bottom: 3px;
+    background-color: #BEE2F3;
+    font-size: 1.3em;
+	border-radius: 2px;
+}
+
+.previewheader-text {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.previewheader-error {
+    text-align: center;
+    padding: 15px 10px 15px 10px;
+    margin-bottom: 10px;
+    background-color: #ff3300;
+    font-size: 1.3em;
+    border: 1px solid #ddd;
+}
+
+img.titlesfavicon {
+	width: 14px;
+	height: 14px;
+	margin-right: 4px; 
+	vertical-align: middle; 
+	/* padding-bottom: 3px; */
+}
+
+div.fromline > img.fromlinefavicon {
+    vertical-align: middle;
+    margin-right: 5px;
+    margin-top: -2px;
+    width: 14px;
+	cursor: pointer;
+}
+
+div.entry-title span.feedbro-points {
+	font-size: 0.6em;
+    vertical-align: top;
+    color: #ccc;
+}
+
+div.entry.compact-headline > div.entry-title {
+	font-size: 1.2em;
+}
+
+div.entry-title > span.readtoggle-entry-upper,
+div.entry-title > span.delete-entry-upper {
+	float: right;
+}
+
+div.entry-nptitle > span.readtoggle-entry-upper,
+div.entry-nptitle > span.delete-entry-upper {
+	float: right;
+}
+
+div.entry-title td.entry-title-topcorner {
+	white-space: nowrap; 
+	vertical-align: top; 
+	text-align: right;
+	min-width: 100px;
+	width: 100px;
+}
+
+.entry-title-wrapper {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+div.entry-title > table.entry-table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+    table-layout: fixed;
+}
+
+img.articlemarkreadicon,
+img.articletrashicon {
+	vertical-align: middle; 
+	padding-bottom: 3px;
+	margin-left: 15px;
+	cursor: pointer;
+	width: 16px;
+}
+
+img.articletrashicon {
+	margin-right: 3px; 
+}
+
+div.lazyload {
+	height: 1px;
+	width: 1px;
+	z-index: 10000;
+}
+
+div#feed[data-viewmode="4"] > div.lazyload {
+	display: inline-block;
+}
+
+div.readtrigger {
+	height: 1px;
+}
+
+table.feedtable img.feedProperties {
+	width: 16px;
+	margin: auto;
+	display: block;
+	cursor: pointer;
+}
+
+.entry.iframe-content {
+	height: 100%;
+}
+
+blockquote.iframe-content > .enclosure {
+	display: none; /* hide enclosures in view mode 6 */
+}
+
+.entry.iframe-content > .entry-body {
+	height: calc(100% - 115px);
+}
+
+blockquote.iframe-content {
+	height: 100%;
+	margin-inline-start: 0;
+	margin-inline-end: 0;
+}
+
+.feedbroviewmode6iframe {
+    width: 100%;
+    height: calc(100% - 20px);
+    border: 0;
+    display: block;
+}
+
+/**
+ * FB
+ */
+ 
+.facebook-post-text {
+    white-space: pre-line;
+	padding-bottom: 10px;
+}
+
+.facebook-auctionitem-title {
+    font-weight: bold;
+}
+
+.facebook-multimedia {
+    display: inline-block;
+    max-width: 400px;
+    padding: 2px;
+}
+
+.facebook-multiple-images {
+	margin-top: 10px;
+}
+
+.facebook-embedded-article {
+	margin-top: 10px;
+}
+
+.facebook-auctionitem-description {
+    white-space: pre-line;
+}
+
+._5pat {
+    position: relative;
+    word-wrap: break-word;
+}	
+	
+._6cgn {
+    height: 263px;
+    max-width: 110%;
+    overflow: hidden;
+    position: relative;
+}	
+	
+._6cfw {
+    height: 142px;
+    left: 12px;
+    position: absolute;
+    top: 69px;
+    width: 252px;
+}
+
+._6cfx {
+    left: calc((100% - 429px)/2 + 264px);
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 165px;
+}
+
+._5v3q ._4-eo {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    position: relative;
+}
+
+._6k_ .img {
+    margin: 0;
+    position: absolute;
+}
+
+._6m2 {
+    overflow: hidden;
+    position: relative;
+    z-index: 0;
+}
+
+._ohe {
+    float: left;
+}
+
+._49u4, ._4r_y {
+    height: 0;
+    left: 0;
+    overflow: visible;
+    position: absolute;
+    right: 0;
+}
+
+.mtm {
+    margin-top: 10px;
+}
+
+.lfloat {
+    float: left;
+}
+
+._42ef {
+    overflow: hidden;
+}
+
+._3eqz ._3ekx {
+    margin: 0;
+    padding: 10px 12px;
+    position: relative;
+}
+
+._3eqz._5cwb ._6m3 {
+    display: flex;
+    flex-direction: column;
+    height: 136px;
+    justify-content: center;
+}
+
+._52c6 {
+    border: 1px solid;
+    border-color: #EBEDF0 #e9ebee #d1d1d1;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+._3-8n {
+    display: none;
+}
+
+._6l- {
+    position: relative;
+}
+
+._6ks {
+    line-height: 0;
+    position: relative;
+    z-index: 1;
+}
+
+._g5g {
+    border-width: 0 0 1px;
+    height: 298px;
+    margin: 1px 0 0 1px;
+    overflow: hidden;
+    text-align: center;
+    width: 298px;
+}
+
+._kvn {
+    height: 300px;
+    margin: -1px 0 0 -1px;
+    width: 300px;
+}
+
+._22st {
+    display: inline-block;
+    left: 12px;
+    padding: 1px 0 4px;
+    position: relative;
+    top: 0;
+}
+
+._22ss {
+    left: -12px;
+    margin-right: -24px;
+    overflow: hidden;
+    position: relative;
+    white-space: nowrap;
+}
+
+._4ozq {
+    position: relative;
+}
+
+._4ki>li {
+    display: inline-block;
+}
+
+._5ya {
+    position: relative;
+}
+
+._5ya {
+    margin: 0 6px 0 0;
+    white-space: normal;
+    width: 300px;
+}
+
+._1zpr ._52c6, ._5vb_ ._52c6, ._5vb_ ._dcs:hover ._52c6, ._64lx ._52c6, ._5tmf ._52c6 {
+    border: none;
+}
+
+._3eqz._3eqw._5cwb ._3ekx, ._3eqz._3eqw ._3ekx {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-left: none;
+    border-right: none;
+    border-top-right-radius: 0;
+}
+
+._2wtx {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.uiScaledImageContainer._35ph {
+    position: absolute;
+}
+
+._2_qm {
+    position: relative;
+}
+
+._19wj {
+	padding: 24px 0;
+	position: relative;
+	text-align: center;
+}
+
+._4nos {
+	border: 4px solid #fff;
+	border-radius: 50%;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
+	margin: 0 auto;
+}
+
+._5z6m {
+    display: none;
+}
+
+._2a2q {
+    overflow: hidden;
+    position: relative;
+}
+
+._xcx {
+    display: block;
+    position: absolute;
+}
+
+._46-h {
+    overflow: hidden;
+    position: relative;
+}
+
+._46-i {
+    height: inherit;
+}
+
+._a5_ {
+    display: block;
+    visibility: hidden;
+}
+
+._5z6o {
+    display: block;
+    width: 100%;
+}
+
+._5z6n {
+    display: block;
+    float: left;
+}
+
+._5qxm {
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-bottom: 7px;
+    margin-top: 7px;
+    overflow: hidden;
+    position: relative;
+}
+
+._5z6m {
+    align-items: center;
+    bottom: 0;
+    display: flex;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+._4a6n {
+    box-sizing: border-box;
+    flex-grow: 1;
+    width: 100%;
+}
+
+.uiScaledImageContainer .scaledImageFitHeight {
+    height: 100%;
+    min-height: initial;
+    width: auto;
+}
+
+.uiScaledImageContainer {
+    position: relative;
+    overflow: hidden;
+}
+
+.accessible_elem {
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+._4lpe._3htz,
+.hidden_elem {
+    display: none;
+}
+
+.autoresize-some {
+	min-height: 500px;
+	margin-top: 10px;
+    border: none;
+    display: block;
+    overflow: hidden;
+	min-width: 500px;
+}
+
+/**
+ * Slideshare
+ */
+.slideshare-thumb {
+	width: 260px;
+}
+.slideshare-thumb-img {
+	width: 250px;
+}
+
+.slideshare-description {
+	vertical-align: top;
+}
+ 

@@ -1,0 +1,43 @@
+CREDITS
+
+Feedbro is a product by Nodetics.com - All Rights Reserved (C)
+
+Components used by Feedbro:
+   alertify             [MIT License: licenses/alertify.LICENSE.txt]
+   buttons              [Free public domain / Unlicense.org : licenses/buttons.LICENSE.txt]
+   date.format          [Free custom license: licenses/date.format.LICENSE.txt]
+   jquery               [MIT License: licenses/jquery.LICENSE.txt]
+   tree.jquery          [Apache License 2.0: licenses/tree.jquery.LICENSE.txt]
+   
+Icons:  
+   Feedbro icon         [Creative Commons Attribution (by) license - author Asher Abbasi]: http://findicons.com/icon/157739/rss
+   Facebook icon        [Creative Commons Attribution (by) license - author Asher Abbasi]: http://findicons.com/icon/157736/facebook
+   Feed icon            [Creative Commons Attribution (by) license - author Asher Abbasi]: http://findicons.com/icon/64636/rss?id=352525
+   Settings icon        [Creative Commons Attribution (by) license - author Asher Abbasi]: http://findicons.com/icon/157613/settings?id=391333
+   Rules icon           [Creative Commons Attribution (by) license - author Yusuke Kamiyamane]: http://findicons.com/icon/116589/086?id=293713   
+   Tag icon             [Creative Commons Attribution (by) license - author Yusuke Kamiyamane]: http://findicons.com/icon/118632/tag?id=123514
+   Add feed icon        [Creative Commons Attribution (by) license - author Yusuke Kamiyamane]: http://findicons.com/icon/117963/feed_plus?id=382066
+   Add folder icon      [Creative Commons Attribution (by) license - author FatCow Web Hosting]: http://findicons.com/icon/164269/folder_add?id=165918
+   Mark read icon       [Creative Commons Attribution (by) license - author FatCow Web Hosting]: http://findicons.com/icon/164004/accept?id=289957
+   Remove icon          [Creative Commons Attribution (by) license - author VisualPharm (Ivan Boyko)]: http://findicons.com/icon/51016/remove?id=384894
+   Email icon           [Creative Commons Attribution (by) license - author VisualPharm (Ivan Boyko)]: http://findicons.com/icon/51039/mail
+   OPML icon            [Creative Commons Attribution-ShareAlike 3.0 Unported License]: http://opmlicons.com/
+   Feed icon            [Freeware - author feedicons.com]: http://findicons.com/icon/222375/25_rss?id=389206
+   Folder icon          [Freeware - author PC.DE]: http://findicons.com/icon/418118/folder?id=418223
+   Statistics icon      [Freeware - author PC.DE]: http://findicons.com/icon/418174/statistics?id=418291
+   All items icon       [Freeware - author Alexey Egorov]: http://findicons.com/icon/232351/list?id=232417
+   Star icon grey       [Freeware - author Dat Nguyen]: http://findicons.com/icon/181560/star_empty?id=182165
+   Star icon yellow     [Freeware - author Dat Nguyen]: http://findicons.com/icon/181699/star_full
+   Caret icon           [Freeware - author Dat Nguyen]: http://findicons.com/icon/181844/arrow_state_grey_expanded?id=182920
+   Twitter icon         [https://about.twitter.com/press/brand-assets]
+   Youtube icon         [http://www.youtube.com/yt/brand/downloads.html]
+   Help icon            [Creative Commons Attribution (by) license]: https://www.iconfinder.com/icons/62217/help_icon#size=64
+   Retweet icon         [Attribution license - https://icons8.com/icons/set/retweet]   
+
+Sounds:
+   waterdrop            [Creative Commons Attribution (by) license - author Porphyr]: http://www.freesound.org/people/Porphyr/sounds/191678/
+   chime                [Creative Commons Attribution (by) license - author Andromadax24]: http://www.freesound.org/people/Andromadax24/sounds/186719/     
+   bicyclebell          [Creative Commons Attribution (by) license - author KeyKrusher]: http://www.freesound.org/people/KeyKrusher/sounds/173000/
+   bell                 [Creative Commons Public Domain Dedication license - author zgump]: http://www.freesound.org/people/zgump/sounds/83541/
+   didong               [Creative Commons Public Domain Dedication license - author B_Lamerichs]: http://www.freesound.org/people/B_Lamerichs/sounds/219737/
+   didado               [Creative Commons Public Domain Dedication license - author B_Lamerichs]: http://www.freesound.org/people/B_Lamerichs/sounds/219723/

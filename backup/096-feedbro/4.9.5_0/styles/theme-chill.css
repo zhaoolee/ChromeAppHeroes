@@ -1,0 +1,216 @@
+div#feed {
+	background-color: #eee;
+	scrollbar-color: #dfdfdf #eee;
+}
+
+div#leftpane {
+	background-color: #f5f5f5;	
+	scrollbar-color: #f1f1f1 #f5f5f5;
+}
+
+div.entry {
+	background-color: #fafafa;
+    border: 2px solid #fafafa;	
+}
+
+div#core {
+	background-color: #fafafa;
+}
+
+body.optionsPage > div#core {
+	color: #222;
+}
+
+body.optionsPage select,
+body.optionsPage input {
+	background-color: #fff;
+    color: #111;
+	border: 0;
+}
+
+h1#fbreadermaintitle {
+	color: #333;
+}
+
+div.maindescription {
+	color: #888;
+}
+
+div#toolbar {
+	background-color: #E0E0E0;
+	border-bottom: 1px solid #dadada;
+}
+
+div#leftpane div.mainfunction {
+    color: #111;
+}
+
+div.menu-selected {
+	background-color: #FFF8D4;
+}
+
+div#titles {
+	background-color: #fafafa;
+	scrollbar-color: #dfdfdf #eee;
+}
+
+div#titles > div.item {
+	padding-right: 18px;
+}
+
+div.item.unread > div.item-title {
+    font-weight: 600;
+}
+
+div.imagebutton {
+	border: 0;
+	background-color: transparent;
+}
+
+#gotosettings > .imagebutton-img,
+#reload > .imagebutton-img,
+#prevItem > .imagebutton-img,
+#nextItem > .imagebutton-img,
+#openfbhelp > .imagebutton-img {
+	filter: brightness(110%);
+}
+
+div#toolbar select {
+	border: 0;
+	background-color: #E0E0E0;
+	color: #111;
+}
+
+span.tbdiv {
+	color: #31296E;
+}
+
+div.active-mode {
+	border: 0 !important;
+	background-color: #BDBDBD !important;
+}
+
+div#titles > div.activetitle {
+    background-color: #FFF8D4;
+}
+
+div#titles > div.datedivider {
+    background-color: #f4f4f4;
+	border-bottom: 1px solid #eee;
+}
+
+/**
+ * Custom scrollbar arrows
+ */
+::-webkit-scrollbar-button:start,
+::-webkit-scrollbar-button:end {
+  display: none
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background-color: #bbb;
+}
+
+#navigator::-webkit-scrollbar-track {
+}
+
+#navigator::-webkit-scrollbar-thumb {
+    /* background-color: #3949AB; */
+	/* background-color: #110064; */
+	background-color: #e8e8e8;
+}
+
+#titles::-webkit-scrollbar-track {
+	background-color: #eee;
+}
+
+#titles::-webkit-scrollbar-thumb {
+	background-color: #e2e2e2;
+}
+
+#feed::-webkit-scrollbar-thumb {
+    background-color: #ddd;
+}
+
+
+::-webkit-scrollbar-button:start:decrement,
+::-webkit-scrollbar-button:end:increment {
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 3px 3px;
+  /* background-color: #F1F5FA; */
+}
+
+
+#leftpane::-webkit-scrollbar-button:start:decrement,
+#leftpane::-webkit-scrollbar-button:end:increment {
+  background-color: #1A237E;
+}
+
+#titles::-webkit-scrollbar-button:start:decrement,
+#titles::-webkit-scrollbar-button:end:increment {
+  background-color: #eee;
+}
+ 
+ 
+::-webkit-scrollbar-button:vertical:decrement {
+  background-image: url(/images/scrollbar-arrow-up.png);
+  background-size: 9px;
+}
+
+::-webkit-scrollbar-button:vertical:increment {
+  background-image: url(/images/scrollbar-arrow-down.png);
+  background-size: 9px;
+} 
+
+
+/**
+ * Feed navigator settings
+ */
+
+ul.jqtree-tree .jqtree-toggler {
+	color: #ddd;
+}
+
+ul.jqtree-tree .jqtree-toggler:hover {
+    color: #111;
+}
+
+li.jqtree-selected  > div.jqtree-element div.node-text {
+	color: #333;
+	background-color: #FFF8D4;
+}
+
+li.jqtree-selected  > div.jqtree-element div.node-unread {
+	color: #333;
+}
+
+ul.jqtree-tree li.jqtree-selected > div.jqtree-element {
+    background-color: #FFF8D4;
+	color: #111;
+}
+
+div.node-text {
+	color: #333;
+}
+
+.feedfinder {
+	background-color: #f5f5f5;
+    color: #111;
+}
+
+.feedTitleLink {
+	color: #0060df;
+}
+
+.closeFeedFinder {
+	filter: invert(80%);
+}
+
+tr.feedtablerow:hover {
+    background-color: #FFF8D4;
+}
+
+div#feed > div.previewheader {
+    background-color: #FFF8D4;
+}	

@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<title>Feedbro - Options</title>
+	
+	<script src="scripts-core/jquery-3.2.1.min.js"></script>
+
+	<script src="scripts-core/date.format.js"></script>
+	<script src="scripts-core/alertify.js"></script>
+	<script src="scripts-core/feedbro.min.js"></script>
+	<script src="scripts-core/locale-en_US.js"></script>
+	<script src="scripts-core/init-options.js"></script>		
+	
+	<link rel="stylesheet" href="styles/buttons.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/reader.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/alertify.core.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/alertify.feedbro.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/theme-light.css" type="text/css" id="theme"/>
+	<link rel="stylesheet" href="styles/options.css" type="text/css"/>
+	<link rel="stylesheet" href="styles/custom.css" type="text/css"/>
+	
+</head>
+<body class="optionsPage">
+<div id="left" data-i18n="options_goback" title="Click to go back to Reader view" style="cursor: pointer">
+
+</div>
+<div id="core">
+
+<h3 data-i18n="options_subscriptionsandrules">Feed Subscriptions &amp; Rules</h3>
+
+<div id="feedbuttons">
+<table style="border: 0; width: 100%; padding-left: 10px">
+<tr>
+<td>
+<span data-i18n="options_feeds">Feeds</span>
+</td>
+<td valign="top">
+<a href="#" data-i18n="options_importfeeds" class="alertify-button alertify-button-cancel custom-button" id="import">Import Feed Subscriptions (as OPML)</a>
+<a href="#" data-i18n="options_exportfeeds" class="alertify-button alertify-button-cancel custom-button" id="export">Export Feed Subscriptions (as OPML)</a>
+<a href="#" data-i18n="options_deletefeeds" class="alertify-button alertify-button-cancel custom-button" id="clearall">Delete Feeds and Folders</a>
+</td>
+</tr>
+
+<tr>
+<td>
+</td>
+</tr>
+
+<tr>
+<td width="75">
+<span data-i18n="options_rules">Rules</span>
+</td>
+<td valign="top">
+<a href="#" data-i18n="options_importrules" class="alertify-button alertify-button-cancel custom-button" id="importRules">Import Rules (as JSON)</a>
+<a href="#" data-i18n="options_exportrules" class="alertify-button alertify-button-cancel custom-button" id="exportRules">Export Rules (as JSON)</a>
+<a href="#" data-i18n="options_deleterules" class="alertify-button alertify-button-cancel custom-button" id="deleteRules">Delete Rules</a>
+</td>
+</tr>
+
+<tr>
+<td>
+</td>
+</tr>
+
+<tr class="filter-firefox">
+<td>
+<span data-i18n="options_bookmarks">Bookmarks</span>
+</td>
+<td valign="top">
+<a href="#" data-i18n="options_importbookmarks" class="alertify-button alertify-button-cancel custom-button" id="importFirefox">Import Firefox Bookmarks (as HTML)</a>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="height: 0px; width: 0px; overflow: hidden;">
+	<input id="fileupload" type="file">	
+</div>
+<div style="height: 0px; width: 0px; overflow: hidden;">
+	<input id="rulesupload" type="file">	
+</div>
+<br>
+
+<h3 data-i18n="options_settings">Settings</h3>
+
+<table class="settings">
+<tr>
+ <td data-i18n="options_theme">Theme</td>
+ <td>
+  <select id="theme" data-i18n="options_theme_select" title="Color theme for the Feedbro user interface">
+	<option value="light" selected="selected">Light</option>
+	<option value="dark">Dark</option>
+	<option value="aqua">Aqua</option>
+	<option value="sepia">Sepia</option>
+	<option value="chill">Chill</option>
+  </select>
+ </td>
+</tr>
+<tr>
+ <td data-i18n="options_locale">User interface language</td>
+ <td>
+  <select id="locale" data-i18n="options_locale_select">
+	<option value="en_US">English (en_US) (default)</option>
+	<option value="fi_FI">Finnish (fi_FI)</option>
+  </select>
+    <a href="#" data-i18n="options_action_import_locale" class="alertify-button alertify-button-cancel" id="importLocale" style="line-height: 1em;">Import Locale</a>
+    <a href="#" data-i18n="options_action_update_locale" class="alertify-button alertify-button-cancel" id="updateLocale" style="line-height: 1em;">Update Locale</a>
+    <a href="#" data-i18n="options_action_template_locale" class="alertify-button alertify-button-cancel" id="templateLocale" style="line-height: 1em;">Get Locale Template</a>
+ </td>
+</tr>
+<tr>
+ <td data-i18n="options_extensionclick">Feedbro extension icon click</td>
+ <td>
+   <select id="iconclick" data-i18n="options_extensionclick_select" title="Defines what happens when the Feedbro extension icon is clicked">
+	<option data-i18n="options_extensionclick_popup" value="1" selected="selected">Opens the popup menu (to open the feed reader or scan the tab for feeds)</option>
+	<option data-i18n="options_extensionclick_reader" value="2">Opens the feed reader</option>
+   </select>
+ </td>
+</tr>
+<tr>
+ <td data-i18n="options_loadingtimeout">Feed loading timeout</td>
+ <td><select id="timeout" data-i18n="options_loadingtimeout_select" title="Maximum time to wait for a single feed to load before timeout expires and connection is aborted">
+	<option>1</option>
+	<option>2</option>
+	<option>3</option>
+	<option>4</option>
+	<option>5</option>
+	<option>6</option>
+	<option>7</option>
+	<option>8</option>
+	<option>9</option>
+	<option selected="selected">10</option>
+	<option>15</option>
+	<option>20</option>
+	<option>25</option>
+	<option>30</option>
+	<option>45</option>
+	<option>60</option>
+	<option>90</option>
+	</select> <span data-i18n="options_loadingtimeout_unit">seconds</span>
+ </td>	
+</tr> 
+<tr>
+ <td data-i18n="options_scaninterval">Scan interval (default)</td>
+ <td><select id="polldelay" data-i18n="options_scaninterval_select" title="Number of minutes to wait until the next scan for unread items across all feeds takes place">
+	<option>5</option>
+	<option>10</option>
+	<option>15</option>
+	<option>20</option>
+	<option>25</option>
+	<option>30</option>
+	<option>35</option>
+	<option>40</option>
+	<option>45</option>
+	<option selected="selected">60</option>
+	<option>90</option>
+	<option>120</option>
+	<option>180</option>
+	<option>240</option>
+	<option>480</option>
+	<option title="Once every 24h">1440</option>
+	<option title="Once a month">43200</option>
+	</select> <span data-i18n="options_scaninterval_unit">minutes</span></td>
+</tr>
+<tr>
+ <td data-i18n="options_threads">Feed update threads</td>
+ <td><select id="updatethreads" data-i18n="options_threads_select" title="Number of feeds to load concurrently. Higher number = faster updates but heavier network load. Use a smaller number if you have low network bandwidth.">
+	<option>1</option>
+	<option>2</option>
+	<option>3</option>
+	<option>4</option>
+	<option>5</option>
+	</select>
+ </td>
+</tr>
+<tr>
+ <td data-i18n="options_maxentries">Maximum entries to save (default)</td>
+ <td><select id="maxentries" data-i18n="options_maxentries_select" title="Maximum number of entries (articles) that are loaded from a single feed (aggregated feed can contain any number of entries)">
+	<option>1</option>
+	<option>2</option>
+	<option>3</option>
+	<option>4</option>
+	<option>5</option>
+	<option>6</option>
+	<option>7</option>
+	<option>8</option>
+	<option>9</option>
+	<option>10</option>
+	<option>15</option>
+	<option selected="selected">20</option>
+	<option>30</option>
+	<option>40</option>
+	<option>50</option>
+	<option>100</option>
+	</select>
+ </td>
+</tr>
+<tr>
+ <td data-i18n="options_inactivelimit">Inactive feed limit</td>
+ <td><select id="inactivelimit" data-i18n="options_inactivelimit_select" title="If the latest post in the feed was more than X days ago, feed is considered to be inactive and is automatically selected for removal in Feed Statistics view.">
+	<option>15</option>
+	<option>30</option>
+	<option>45</option>
+	<option>60</option>
+	<option>75</option>
+	<option>90</option>
+	<option>120</option>
+	<option>150</option>
+	<option selected="selected">180</option>
+	<option>270</option>
+	<option>365</option>
+	<option>730</option>
+	</select> <span data-i18n="options_inactivelimit_unit">days</span>
+ </td>
+</tr>
+<tr>
+ <td data-i18n="options_dateformat">Date format</td>
+ <td><select id="dateformat">
+	<option value="ddd mmm dd yyyy HH:MM:ss"></option>
+	<option value="ddd mmm dd yyyy h:MM:ss TT"></option>
+	<option value="mm/dd/yyyy h:MM:ss TT"></option>
+	<option value="dd.mm.yyyy HH:MM:ss"></option>
+	<option value="dd-mm-yyyy HH:MM:ss"></option>
+	<option value="dd/mm/yyyy HH:MM:ss"></option>
+	<option value="ddd dd.mm.yyyy HH:MM:ss"></option>
+	<option value="yyyy-mm-dd HH:MM:ss"></option>
+	<option value="yyyy-mm-dd h:MM:ss TT (ddd)"></option>
+	</select>
+ </td>
+</tr>
+<tr>
+ <td data-i18n="options_article_titlefontsize">Article title font size</td>
+ <td>
+<select id="titlefontsize" data-i18n="options_article_titlefontsize_select" title="Relative size of the article title text compared to the default setting">
+   <option value="85"> 85%</option>
+   <option value="90"> 90%</option>
+   <option value="95"> 95%</option>
+  <option value="100" selected="selected">100%</option>
+  <option value="105">105%</option>
+  <option value="110">110%</option>
+  <option value="115">115%</option>
+  <option value="120">120%</option>
+  <option value="125">125%</option>
+  <option value="130">130%</option>
+  <option value="135">135%</option>
+  <option value="140">140%</option>
+  <option value="145">145%</option>
+  <option value="150">150%</option>
+  <option value="155">155%</option>
+  <option value="160">160%</option>
+  <option value="165">165%</option>
+  <option value="170">170%</option>
+  <option value="175">175%</option>
+  <option value="180">180%</option>
+  <option value="185">185%</option>
+  <option value="190">190%</option>
+  <option value="195">195%</option>
+  <option value="200">200%</option>
+  <option value="210">210%</option>
+  <option value="220">220%</option>
+  <option value="230">230%</option>
+  <option value="240">240%</option>
+  <option value="250">250%</option>
+</select> 
+</td>
+</tr>
+<tr>
+ <td data-i18n="options_article_bodyfontsize">Article body font size</td>
+ <td>
+<select id="bodyfontsize" data-i18n="options_article_bodyfontsize_select" title="Relative size of the article body text compared to the default setting">
+   <option value="85"> 85%</option>
+   <option value="90"> 90%</option>
+   <option value="95"> 95%</option>
+  <option value="100" selected="selected">100%</option>
+  <option value="105">105%</option>
+  <option value="110">110%</option>
+  <option value="115">115%</option>
+  <option value="120">120%</option>
+  <option value="125">125%</option>
+  <option value="130">130%</option>
+  <option value="135">135%</option>
+  <option value="140">140%</option>
+  <option value="145">145%</option>
+  <option value="150">150%</option>
+  <option value="155">155%</option>
+  <option value="160">160%</option>
+  <option value="165">165%</option>
+  <option value="170">170%</option>
+  <option value="175">175%</option>
+  <option value="180">180%</option>
+  <option value="185">185%</option>
+  <option value="190">190%</option>
+  <option value="195">195%</option>
+  <option value="200">200%</option>
+  <option value="210">210%</option>
+  <option value="220">220%</option>
+  <option value="230">230%</option>
+  <option value="240">240%</option>
+  <option value="250">250%</option>
+</select> 
+</td>
+</tr>
+<tr>
+ <td data-i18n="options_article_bodylineheight">Article body line height</td>
+ <td>
+<select id="lineheight" data-i18n="options_article_bodylineheight_select" title="Line height in the text compared to the font size">
+   <option value="normal" title="Font default - varies font by font and is different for different browsers">normal (font default)</option>
+   <option value="1.00">1.00 (very dense)</option>
+   <option value="1.10">1.10</option>
+   <option value="1.20">1.20</option>
+   <option value="1.25">1.25</option>
+   <option value="1.30">1.30</option>
+   <option value="1.30">1.35</option>
+   <option value="1.40">1.40</option>
+   <option value="1.42857">1.42857 (bootstrap ratio)</option>
+   <option value="1.45">1.45 (recommended)</option>
+   <option value="1.50">1.50</option>
+   <option value="1.55">1.55</option>
+   <option value="1.58">1.58</option>
+   <option value="1.60">1.60</option>
+   <option value="1.618">1.618 (golden ratio)</option>
+   <option value="1.70">1.70</option>
+   <option value="1.80">1.80</option>
+   <option value="1.90">1.90</option>
+   <option value="2.00">2.00 (very loose)</option>
+</select> 
+</td>
+</tr>
+<tr>
+ <td data-i18n="options_article_font">Article font family</td>
+ <td>
+<select id="articlefontfamily" style="max-width: 650px">
+  <option>sans-serif</option>
+  <option>serif</option>
+  <option>'Arial', sans-serif</option>
+  <option>'Tahoma', sans-serif</option>
+  <option>'Verdana', sans-serif</option>
+  <option>'Trebuchet MS', sans-serif</option>
+  <option>'Segoe UI', sans-serif</option>
+  <option>'Open Sans', sans-serif</option>
+  <option>'Noto Sans', sans-serif</option>
+  <option>'Roboto', Arial, Helvetica, sans-serif</option>
+  <option>'Ubuntu', sans-serif</option>
+  <option>'Helvetica', sans-serif</option>
+  <option>'Helvetica Neue', sans-serif</option>
+  <option>'Helvetica Neue Light', sans-serif</option>
+  <option>'Lucida Grande', sans-serif</option>
+  <option>-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif</option>
+  <option>'Arial', Helvetica, Tahoma, Verdana, 宋体, SimSun, 华文细黑, STXihei, sans-serif</option>
+  <option>'Arial', 'Hiragino Sans GB', STXihei, 'Microsoft YaHei', sans-serif</option>
+  <option>'Arial', "MS PGothic", "Hiragino Kaku Gothic ProN", "Osaka", sans-serif</option>
+  <option>'Lato', Meiryo, Arial, "メイリオ", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif</option>
+  <option>'Arial', Verdana, Tahoma, Helvetica, mangal, sans-serif</option>
+  <option>'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif</option>
+  <option>'Arial', Tahoma, Verdana, sans-serif</option>
+  <option>'Arial', Helvetica, Verdana, sans-serif</option>
+  <option title="Great for people with dyslexia - Get the free font from https://gumroad.com/l/OpenDyslexic">'OpenDyslexic', sans-serif</option>
+  <option title="Great for people with dyslexia - Get the proprietary font from https://www.dyslexiefont.com/en/home/">'Dyslexie', sans-serif</option>
+  <option>'Georgia', serif</option>
+  <option>'Palatino Linotype', serif</option>
+  <option>'Times New Roman', serif</option>
+</select>
+ </td>
+</tr>
+<tr>
+    <td data-i18n="options_article_width">Article width</td>
+    <td><span data-i18n="options_article_width_view1">View 1:</span> <select id="articlewidth1" class="articlewidth" data-mode="1">
+    <option data-i18n="options_article_width_default" value="-1">Default</option>
+    <option value="500">500 px</option>
+    <option value="550">550 px</option>
+    <option value="600">600 px</option>
+    <option value="650">650 px</option>
+    <option value="700">700 px</option>
+    <option value="750">750 px</option>
+    <option value="800">800 px</option>
+    <option value="850">850 px</option>
+    <option value="900">900 px</option>
+    <option value="950">950 px</option>
+    <option value="1000">1000 px</option>
+    <option value="1050">1050 px</option>
+    <option value="1100">1100 px</option>
+    <option value="1150">1150 px</option>
+    <option value="1200">1200 px</option>
+    <option value="1250">1250 px</option>
+    <option value="1300">1300 px</option>
+    <option value="1350">1350 px</option>
+    <option value="1400">1400 px</option>
+    <option value="1450">1450 px</option>
+    <option value="1500">1500 px</option>
+    <option value="1550">1550 px</option>
+    <option value="1600">1600 px</option>
+</select>
+    <span data-i18n="options_article_width_view2">View 2:</span> <select id="articlewidth2" class="articlewidth" data-mode="2">
+    <option data-i18n="options_article_width_default" value="-1">Default</option>
+    <option value="500">500 px</option>
+    <option value="550">550 px</option>
+    <option value="600">600 px</option>
+    <option value="650">650 px</option>
+    <option value="700">700 px</option>
+    <option value="750">750 px</option>
+    <option value="800">800 px</option>
+    <option value="850">850 px</option>
+    <option value="900">900 px</option>
+    <option value="950">950 px</option>
+    <option value="1000">1000 px</option>
+    <option value="1050">1050 px</option>
+    <option value="1100">1100 px</option>
+    <option value="1150">1150 px</option>
+    <option value="1200">1200 px</option>
+    <option value="1250">1250 px</option>
+    <option value="1300">1300 px</option>
+    <option value="1350">1350 px</option>
+    <option value="1400">1400 px</option>
+    <option value="1450">1450 px</option>
+    <option value="1500">1500 px</option>
+    <option value="1550">1550 px</option>
+    <option value="1600">1600 px</option>
+</select>
+    <span data-i18n="options_article_width_view3">View 3:</span> <select id="articlewidth3" class="articlewidth" data-mode="3">
+    <option data-i18n="options_article_width_default" value="-1">Default</option>
+    <option value="500">500 px</option>
+    <option value="550">550 px</option>
+    <option value="600">600 px</option>
+    <option value="650">650 px</option>
+    <option value="700">700 px</option>
+    <option value="750">750 px</option>
+    <option value="800">800 px</option>
+    <option value="850">850 px</option>
+    <option value="900">900 px</option>
+    <option value="950">950 px</option>
+    <option value="1000">1000 px</option>
+    <option value="1050">1050 px</option>
+    <option value="1100">1100 px</option>
+    <option value="1150">1150 px</option>
+    <option value="1200">1200 px</option>
+    <option value="1250">1250 px</option>
+    <option value="1300">1300 px</option>
+    <option value="1350">1350 px</option>
+    <option value="1400">1400 px</option>
+    <option value="1450">1450 px</option>
+    <option value="1500">1500 px</option>
+    <option value="1550">1550 px</option>
+    <option value="1600">1600 px</option>
+</select>
+    <span data-i18n="options_article_width_view4">View 4:</span> <select id="articlewidth4" class="articlewidth" data-mode="4">
+    <option data-i18n="options_article_width_default" value="-1">Default</option>
+    <option value="500">500 px</option>
+    <option value="550">550 px</option>
+    <option value="600">600 px</option>
+    <option value="650">650 px</option>
+    <option value="700">700 px</option>
+    <option value="750">750 px</option>
+    <option value="800">800 px</option>
+    <option value="850">850 px</option>
+    <option value="900">900 px</option>
+    <option value="950">950 px</option>
+    <option value="1000">1000 px</option>
+    <option value="1050">1050 px</option>
+    <option value="1100">1100 px</option>
+    <option value="1150">1150 px</option>
+    <option value="1200">1200 px</option>
+    <option value="1250">1250 px</option>
+    <option value="1300">1300 px</option>
+    <option value="1350">1350 px</option>
+    <option value="1400">1400 px</option>
+    <option value="1450">1450 px</option>
+    <option value="1500">1500 px</option>
+    <option value="1550">1550 px</option>
+    <option value="1600">1600 px</option>
+</select>
+    <span data-i18n="options_article_width_view5">View 5:</span> <select id="articlewidth5" class="articlewidth" data-mode="5">
+    <option data-i18n="options_article_width_default" value="-1">Default</option>
+    <option value="500">500 px</option>
+    <option value="550">550 px</option>
+    <option value="600">600 px</option>
+    <option value="650">650 px</option>
+    <option value="700">700 px</option>
+    <option value="750">750 px</option>
+    <option value="800">800 px</option>
+    <option value="850">850 px</option>
+    <option value="900">900 px</option>
+    <option value="950">950 px</option>
+    <option value="1000">1000 px</option>
+    <option value="1050">1050 px</option>
+    <option value="1100">1100 px</option>
+    <option value="1150">1150 px</option>
+    <option value="1200">1200 px</option>
+    <option value="1250">1250 px</option>
+    <option value="1300">1300 px</option>
+    <option value="1350">1350 px</option>
+    <option value="1400">1400 px</option>
+    <option value="1450">1450 px</option>
+    <option value="1500">1500 px</option>
+    <option value="1550">1550 px</option>
+    <option value="1600">1600 px</option>
+</select>
+    <span data-i18n="options_article_width_view6">View 6:</span> <select id="articlewidth6" class="articlewidth" data-mode="6">
+    <option data-i18n="options_article_width_default" value="-1">Default</option>
+    <option value="500">500 px</option>
+    <option value="550">550 px</option>
+    <option value="600">600 px</option>
+    <option value="650">650 px</option>
+    <option value="700">700 px</option>
+    <option value="750">750 px</option>
+    <option value="800">800 px</option>
+    <option value="850">850 px</option>
+    <option value="900">900 px</option>
+    <option value="950">950 px</option>
+    <option value="1000">1000 px</option>
+    <option value="1050">1050 px</option>
+    <option value="1100">1100 px</option>
+    <option value="1150">1150 px</option>
+    <option value="1200">1200 px</option>
+    <option value="1250">1250 px</option>
+    <option value="1300">1300 px</option>
+    <option value="1350">1350 px</option>
+    <option value="1400">1400 px</option>
+    <option value="1450">1450 px</option>
+    <option value="1500">1500 px</option>
+    <option value="1550">1550 px</option>
+    <option value="1600">1600 px</option>
+</select>
+    </td>
+</tr>
+<tr>
+    <td data-i18n="options_article_height">Article card height</td>
+    <td>
+	<select id="cardheight" data-i18n="options_article_height_select" title="Article card height for view mode 4">
+    <option data-i18n="options_article_height_unlimited" value="-1">Unlimited</option>
+    <option value="200">200 px</option>
+    <option value="225">225 px</option>
+    <option value="250">250 px</option>
+    <option value="275">275 px</option>
+    <option value="300">300 px</option>
+    <option value="325">325 px</option>
+    <option value="350">350 px</option>
+    <option value="375">375 px</option>
+    <option value="400">400 px</option>
+    <option value="425">425 px</option>
+    <option value="450">450 px</option>
+    <option value="475">475 px</option>
+    <option value="500">500 px</option>
+    <option value="525">525 px</option>
+    <option value="550">550 px</option>
+	</td>
+</tr>
+<tr>
+ <td data-i18n="options_article_translationtarget">Article translation target language</td>
+ <td>
+  <select id="targetlanguage" data-i18n="options_article_translationtarget_select" title="When using Google Translate under Send To menu, use this language as the translation target language">
+  <option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="am">Amharic</option><option value="ar">Arabic</option><option value="hy">Armenian</option><option value="az">Azerbaijani</option><option value="eu">Basque</option><option value="be">Belarusian</option><option value="bn">Bengali</option><option value="bs">Bosnian</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinese</option><option value="co">Corsican</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="nl">Dutch</option><option value="en">English</option><option value="eo">Esperanto</option><option value="et">Estonian</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="fy">Frisian</option><option value="gl">Galician</option><option value="ka">Georgian</option><option value="de">German</option><option value="el">Greek</option><option value="gu">Gujarati</option><option value="ht">Haitian Creole</option><option value="ha">Hausa</option><option value="haw">Hawaiian</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="ig">Igbo</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="jw">Javanese</option><option value="kn">Kannada</option><option value="kk">Kazakh</option><option value="km">Khmer</option><option value="ko">Korean</option><option value="ku">Kurdish (Kurmanji)</option><option value="ky">Kyrgyz</option><option value="lo">Lao</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="lt">Lithuanian</option><option value="lb">Luxembourgish</option><option value="mk">Macedonian</option><option value="mg">Malagasy</option><option value="ms">Malay</option><option value="ml">Malayalam</option><option value="mt">Maltese</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mn">Mongolian</option><option value="my">Myanmar (Burmese)</option><option value="ne">Nepali</option><option value="no">Norwegian</option><option value="ps">Pashto</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="pa">Punjabi</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sm">Samoan</option><option value="gd">Scots Gaelic</option><option value="sr">Serbian</option><option value="st">Sesotho</option><option value="sn">Shona</option><option value="sd">Sindhi</option><option value="si">Sinhala</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="so">Somali</option><option value="es">Spanish</option><option value="su">Sundanese</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="tg">Tajik</option><option value="ta">Tamil</option><option value="te">Telugu</option><option value="th">Thai</option><option value="tr">Turkish</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="uz">Uzbek</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="xh">Xhosa</option><option value="yi">Yiddish</option><option value="yo">Yoruba</option><option value="zu">Zulu</option>
+  </select>  
+ </td>
+</tr>
+<tr>
+ <td valign="top" data-i18n="options_markread">Mark article as read</td>
+ <td>
+   <select id="markreadmode" title="">
+	<option data-i18n="options_markread_title" value="1">Automatically when the article is shown as a title or as a full article</option>
+	<option data-i18n="options_markread_bottom" value="2">Automatically when the bottom of the article body is displayed</option>
+	<option data-i18n="options_markread_manually" value="3">Manually</option>
+   </select>
+ </td>
+</tr>
+<tr>
+ <td valign="top" data-i18n="options_markread_confirm">Confirm dialog for "Mark Read" function</td>
+ <td>
+   <select id="confirmmode" title="">
+	<option data-i18n="options_markread_confirm_never" value="1" title="DANGER! You may accidentally mark all your unread articles as read with this setting on! There's no undo!">Never</option>
+	<option data-i18n="options_markread_confirm_allitems" value="2">Only when marking "All Items" view as read</option>
+	<option data-i18n="options_markread_confirm_always" value="3">Always</option>
+   </select>
+ </td>
+</tr>
+<tr>
+ <td data-i18n="options_notificationclick">Article desktop notification click</td>
+ <td>
+   <select id="popupclick" data-i18n="options_notificationclick_select" title="Defines what happens when user clicks the Desktop notification popup of an article">
+	<option data-i18n="options_notificationclick_feedbro" value="1" selected="selected">Opens the article in Feedbro</option>
+	<option data-i18n="options_notificationclick_tab" value="2">Opens the article in a new tab on the original website</option>
+   </select>
+ </td>
+</tr>
+<tr>
+ <td data-i18n="options_popupclick">Popup window article list article link</td>
+ <td>
+  <select id="articlelink">
+	<option data-i18n="options_popupclick_feedbro" value="1" selected="selected">Opens the article in Feedbro</option>
+	<option data-i18n="options_popupclick_tab" value="2">Opens the article in a new tab on the original website</option>
+  </select>
+ </td>
+</tr>
+<!--
+<tr>
+ <td data-i18n="options_notification_timeout">Notification timeout</td>
+ <td>
+  <select id="notificationtimeout" data-i18n="options_notification_timeout_select" title="Maximum time a notification is shown before it is automatically cleared">
+	<option data-i18n="options_notification_timeout_none" value="-1">No timeout</option>
+	<option data-i18n="options_notification_timeout_1s" value="1000">1 second</option>
+	<option data-i18n="options_notification_timeout_2s" value="2000">2 seconds</option>
+	<option data-i18n="options_notification_timeout_3s" value="3000">3 seconds</option>
+	<option data-i18n="options_notification_timeout_4s" value="4000">4 seconds</option>
+	<option data-i18n="options_notification_timeout_5s" value="5000">5 seconds</option>
+	<option data-i18n="options_notification_timeout_6s" value="6000">6 seconds</option>
+	<option data-i18n="options_notification_timeout_7s" value="7000">7 seconds</option>
+	<option data-i18n="options_notification_timeout_8s" value="8000" selected="selected">8 seconds</option>
+	<option data-i18n="options_notification_timeout_9s" value="9000">9 seconds</option>
+	<option data-i18n="options_notification_timeout_10s" value="10000">10 seconds</option>
+	<option data-i18n="options_notification_timeout_11s" value="11000">11 seconds</option>
+	<option data-i18n="options_notification_timeout_12s" value="12000">12 seconds</option>
+	<option data-i18n="options_notification_timeout_15s" value="15000">15 seconds</option>
+	<option data-i18n="options_notification_timeout_20s" value="20000">20 seconds</option>
+	<option data-i18n="options_notification_timeout_30s" value="30000">30 seconds</option>
+	<option data-i18n="options_notification_timeout_60s" value="60000">60 seconds</option>
+  </select>
+ </td>
+</tr>
+-->
+<tr>
+ <td data-i18n="options_faviconprovider">Favicon provider</td>
+ <td>
+  <select id="faviconprovider">
+	<option value="google" selected="selected">Google</option>
+	<option value="duckduckgo">DuckDuckGo</option>
+  </select>
+ </td>
+</tr>
+<tr>
+ <td valign="top" data-i18n="options_tagshortcuts" title="By pressing the key combination you can quickly add the specified tag to the active feed article (with blue border)">Tag shortcuts</td>
+ <td>
+   Alt+1 = <input class="quicktag" type="text" size="6" id="qtag1">
+   Alt+2 = <input class="quicktag" type="text" size="6" id="qtag2">
+   Alt+3 = <input class="quicktag" type="text" size="6" id="qtag3">
+   Alt+4 = <input class="quicktag" type="text" size="6" id="qtag4">
+   Alt+5 = <input class="quicktag" type="text" size="6" id="qtag5">
+ </td>
+</tr>
+<tr>
+ <td valign="top" data-i18n="options_removetags">Remove tags from feed entries</td>
+ <td>
+   <input type="checkbox" id="tag-script" disabled="disabled" checked="checked"><label for="tag-script">script</label>
+   <input type="checkbox" id="tag-object" disabled="disabled" checked="checked"><label for="tag-object">object</label>
+   <input type="checkbox" id="tag-applet" disabled="disabled" checked="checked"><label for="tag-applet">applet</label>
+   <input type="checkbox" id="tag-iframe"><label for="tag-iframe">iframe</label>
+   <input type="checkbox" id="tag-embed"><label for="tag-embed">embed</label>
+ </td>
+</tr>
+<tr>
+ <td valign="top" data-i18n="options_disableautoscan" title="If this is true, feeds are not automatically scanned for new articles. Only manual updates are possible">Disable automatic feed scanning</td>
+ <td>
+   <input type="checkbox" id="disableautoscan">
+ </td>
+</tr> 
+<tr>
+ <td valign="top" data-i18n="options_disableautoselect" title="If this is true, the first feed article isn't automatically selected in view mode 3 or 6">Do not open first article in view mode 3 or 6</td>
+ <td>
+   <input type="checkbox" id="disableautoselect">
+ </td>
+</tr> 
+<tr>
+ <td valign="top" data-i18n="options_refreshlist">Refresh article list when opening Reader view</td>
+ <td>
+   <input type="checkbox" id="iconclickreloads" data-i18n="options_refreshlist_input" title="If checked, Feedbro will automatically reload the list of articles when Feedbro reading view is opened">
+ </td>
+</tr> 
+<tr>
+ <td valign="top" data-i18n="options_allitems">Open "All Items" view at start</td>
+ <td>
+   <input type="checkbox" id="startallitems" data-i18n="options_allitems_input" title="If checked, Feedbro will automatically open 'All Items' upon startup">
+ </td>
+</tr> 
+<tr>
+ <td valign="top" data-i18n="options_sound">Sound</td>
+ <td>
+   <input type="checkbox" id="sound" data-i18n="options_sound_input" checked="checked" title="If checked, sound effects are enabled."> <span data-i18n="options_sound_hint" class="note">Note! You need to create a Rule (under Rules menu) to define when sound effects are triggered!</span>
+ </td>
+</tr>
+<tr>
+ <td valign="top" data-i18n="options_notifications">Notifications</td>
+ <td>
+   <input type="checkbox" id="notifications" data-i18n="options_notifications_input" checked="checked" title="If checked, desktop popup notifications are enabled."> <span data-i18n="options_notifications_hint" class="note">Note! You need to create a Rule (under Rules menu) to define when notifications are displayed!</span>
+ </td>
+</tr>
+<tr>
+ <td valign="top" data-i18n="options_favicons_navigator">Use favicons for feeds in the feed navigator</td>
+ <td>
+   <input type="checkbox" id="usefavicons" data-i18n="options_favicons_navigator_input" title="If checked, Feedbro will use favicons based on html url of the feed in the feed tree navigator">
+ </td>
+</tr> 
+<tr>
+ <td valign="top" data-i18n="options_favicons_view3">Use favicons in 3-panel view titles list</td>
+ <td>
+   <input type="checkbox" id="usefaviconstitles" data-i18n="options_favicons_view3_input" title="If checked, Feedbro will show favicons in the middle titles-panel in three panel view">
+ </td>
+</tr> 
+<tr>
+ <td valign="top" data-i18n="options_favicons_fromline">Use favicons in article "from line"</td>
+ <td>
+   <input type="checkbox" id="faviconfromline">
+ </td>
+</tr> 
+<tr>
+ <td valign="top" data-i18n="options_popup_latest">Show a list of latest articles in the popup</td>
+ <td>
+   <input type="checkbox" id="latestinpopup" data-i18n="options_popup_latest_input" title="If checked, Feedbro will show headlines of latest 10 unread articles in the popup when Feedbro icon is clicked">
+ </td>
+</tr>
+<tr>
+ <td valign="top" data-i18n="options_mathjax">MathJax enabled</td>
+ <td>
+   <input type="checkbox" id="mathjax" data-i18n="options_mathjax_input" title="If checked, Feedbro will automatically render mathematical formulas in LaTeX and TeX in feed entries using MathJax. Note that this significantly affects performance. Feedbro only tries to render entries that contain certain $-based markup. This feature is only available on Chrome!">
+ </td>
+</tr>
+<tr>
+ <td valign="top" data-i18n="options_justifytext">Justify text in articles</td>
+ <td>
+   <input type="checkbox" id="justifytext" data-i18n="options_justifytext_input" title="If checked, Feedbro will justify text in articles.">
+ </td>
+</tr>
+<tr>
+ <td valign="top" data-i18n="options_skipopmldupes">Skip existing OPML entries</td>
+ <td>
+   <input type="checkbox" id="skipopmldupes" data-i18n="options_skipopmldupes_input" title="If checked, Feedbro will skip feeds and folders that already exist when importing OPML">
+ </td>
+</tr>
+<tr>
+ <td valign="top" data-i18n="options_truncatetitles">Truncate long titles (view mode 2)</td>
+ <td>
+   <input type="checkbox" id="truncatetitles" data-i18n="options_truncatetitles_input" title="If checked, Feedbro will truncate long titles in view mode 2">
+ </td>
+</tr>
+<tr>
+ <td valign="top" data-i18n="options_disableheaderlistener">Disable HTTP Header listener</td>
+ <td>
+   <input type="checkbox" id="disableheaderlistener" data-i18n="options_disableheaderlistener_input" title="If checked, Feedbro may not be able to show websites in view mode 6 and received HTTP Link headers may create memory leaks">
+ </td>
+</tr>
+</table>
+
+</div>
+<div id="right" data-i18n="options_goback" title="Click to go back to Reader view" style="cursor: pointer"></div>
+</body>
+</html>

@@ -1,0 +1,170 @@
+* { 
+	box-sizing: border-box 
+}
+
+.forceScroll {
+}
+
+div#popuplist {
+	border: 0;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	font-size: 0.9em;
+}
+
+div.entryList {
+    width: 460px;
+	max-height: 500px;
+	overflow-y: scroll;
+}
+  
+div.popupTreeIcon {
+	display: inline-block;
+	margin-right: 8px;
+	width: 16px;
+}
+
+.popupEntryTable {
+	margin: 0;
+	border-collapse: collapse;
+}
+
+div.popupTreeIcon > img {
+	width: 16px;
+	height: 16px;
+}
+
+div.popupUnread {
+	text-align: center;
+	width: 30px;
+	color: #bbb;
+    font-size: 11px;
+    font-weight: 700;	
+}
+
+div.folder,
+div.feed {
+	width: 100%;
+}
+
+div.feed:hover,
+div.folder:hover {
+	background-color: #eee;
+	cursor: pointer;
+}
+
+div.feedName {
+}
+
+div.folderName {
+}
+
+div.truncate {
+  width: 380px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+div.backButton {
+	padding: 8px;
+	background-color: #eee;
+	margin-bottom: 5px;
+	width: 460px;
+}
+
+div.viewHeader {
+	padding: 8px;
+	margin-bottom: 5px;
+	width: 460px;
+	height: 32px;
+	border-bottom: 1px solid #ddd;
+	padding-left: 1px;
+}
+
+div.feedTitle {
+	text-align: center;
+	margin-right: 16px;
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+	padding-top: 2px;
+}
+
+div.article {
+    padding: 2px;
+	margin-bottom: 10px;
+	font-size: 1em;
+	font-family: "Segoe UI", Roboto, Arial, Helvetica, sans-serif;
+}
+
+div.article:hover {
+	background-color: #eee;
+}
+
+div.articleTitle {
+	margin-left: 5px;
+	margin-right: 5px;
+	width: 430px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+	font-weight: 700;
+	color: #000;
+}
+
+div.article.read  {
+	opacity: 0.3;
+}
+
+div.articleDate {
+    display: inline-block;
+	margin-left: 5px;
+	margin-right: 5px;
+	color: #bbb;
+	float: right;
+}
+
+div.footer {
+	white-space: nowrap;
+	margin-top: 5px;
+}
+
+div.articleAuthor {
+    display: inline-block;
+    margin-left: 5px;
+	color: #999;
+    width: 85%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+div.articleAuthor > .name {
+	color: #002299;
+}
+
+div.article > .popup-link {
+	text-decoration: none;
+	cursor: pointer;
+}
+
+img.feedIcon {
+	width: 12px; 
+	margin-right: 5px;
+	vertical-align: middle;
+    padding-bottom: 3px;
+}
+
+img.folderIcon {
+	vertical-align: middle;
+    margin-right: 3px;
+    margin-top: -4px;
+	display: none;
+}
+
+img.iconBackButton {
+	float: left;
+	width: 16px;
+	cursor: pointer;
+}

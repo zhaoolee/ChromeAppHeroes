@@ -1,0 +1,489 @@
+* { 
+	box-sizing: border-box 
+}
+
+body {
+	width: 300px; 
+	margin: 5px 0px 5px 0px;
+	background-color: #fff;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 0.8em;
+	overflow: hidden;
+}
+
+div#articlelist {
+	/* width: 482px; */
+	background-color: #eee;
+	font-size: 0.8em;
+	/* border: 1px solid #eee; */
+	border: 0;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}  
+
+div.article-popup {
+	margin-top: 1px;
+	margin-bottom: 1px;
+	background-color: #fff;
+	font-size: 1.17em;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+div.article-popup td {
+	padding: 3px;
+}
+
+div.article-popup-title {
+	font-size: 1.05em;
+	font-weight: 600;
+	overflow: hidden;
+	margin-right: 16px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	max-width: 420px;
+}
+
+span.open-article {
+	cursor: pointer;
+}
+
+span.open-article:hover {
+	text-decoration: underline !important;
+}
+
+span.open-article a{
+	text-decoration: none;
+	color: #000;
+}
+
+
+a.article-link:hover {
+	text-decoration: underline !important;
+}
+
+a.article-link:visited {
+	color: #bbb !important;
+}
+
+div.article-popup table {
+	width: 100%;
+}
+
+a.article-link {
+	text-decoration: none;
+	color: #000;
+}
+
+a.article-link img {
+	margin-top: 1px;
+}
+
+div.article-popup-star img {
+	margin-top: 1px;
+}
+
+div.article-popup-markread img {
+	margin-top: 1px;
+	width: 16px;
+}
+
+div.article-popup table tr {
+}
+
+div.article-popup table td.article-pic {
+	width: 45px;
+	padding-left: 6px;
+	vertical-align: top;
+}
+
+div.article-popup table td.article-meta {
+	vertical-align: top;
+}
+
+
+div.article-popup-feedtitle {
+	display: inline-block;
+	vertical-align: middle;
+	color: #999;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	margin-top: 2px;
+    max-width: 260px;
+    overflow: hidden;
+}	
+
+div.article-popup-date {
+	color: #888;
+	margin-top: 3px;
+	/* display: inline-block; */
+	display: none;
+	float: right;
+	margin-right: 10px;
+}
+
+div.article-popup-markread {
+	display: inline-block;
+	float: right;
+	margin-right: 8px;
+	cursor: pointer;
+}
+
+div.article-popup-linkhtml {
+	display: inline-block;
+	float: right;
+	margin-right: 8px;
+	cursor: pointer;
+}
+
+div.article-popup-star {
+	display: inline-block;
+	float: right;
+	cursor: pointer;
+}
+
+div.article-popup-delete {
+	display: inline-block;
+	float: right;
+	margin-left: 8px;
+	cursor: pointer;
+}
+
+div.article-popup-date img {
+	float: right;
+	vertical-align: top;
+}
+
+div.article-popup-bottom {
+}
+
+div.article-popup-image {
+	padding-right: 6px;
+}
+
+img.center-cropped {
+	width: 40px;
+	height: 40px;
+	object-position: center;
+	object-fit: cover
+}
+
+div.divider {
+    height: 1px;
+    border-bottom: 1px solid #E9E9E9;
+    margin-top: 7px;
+    margin-bottom: 5px;
+}
+
+/**
+ * mainmenu.html - Chrome extension button drop down
+ */
+div#menuitems div.menuitem {
+	font-size: 0.9em;
+	color: black;
+	padding: 4px 28px 4px 26px;
+	cursor: pointer;
+}
+
+div#menuitems div.menuitem:hover {
+	/* background-color: #4281F4; */
+	background-color: #eee;
+	/* color: white; */
+}
+
+div#results div.discovered-feed-entry {
+}
+
+div#results div.results-area {
+	margin-left: 24px;
+}
+
+div#results div.discovered-feed-name {
+	display: inline-block;
+	padding: 2px; 
+	padding-left: 6px;
+	padding-right: 6px;
+	border: 1px solid #dddddd;
+	margin-right: 16px;
+	margin-bottom: 1px;
+	margin-top: 1px;
+	cursor: pointer;
+	font-size: 12px;
+	max-width: 355px;
+	margin-left: 0px;
+}
+
+div.discovered-feed-entry img.previewicon {
+    vertical-align: middle;
+    width: 22px;
+    padding-bottom: 1px;
+    cursor: pointer;
+	border: 0;
+	margin-right: 3px;
+	margin-left: 7px;
+}
+
+div#results div.divider { 
+	height: 1px; 
+	border-bottom: 1px solid #E9E9E9;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+div.results-toolbar {
+	display: flex;
+	flex-flow: row;
+	margin-top: 10px;
+}	
+
+div.results-folder {
+	flex: 1;
+}
+
+span.discovered-feed-type {
+	padding: 2px;
+	display: inline-block;
+	width: 25px;
+	text-align: center;
+}
+
+span.discovered-feed-type a {
+	color: blue;
+	font-size: 0.95em;
+}
+
+div.results-label {
+	line-height: 2em;
+	font-size: 0.9em;
+	width: 85px;
+}
+
+div.results-buttons {	
+	margin-right: 26px;
+}
+
+div#results div.discovered-feed-entry-left {
+	width: 85px;
+	display: inline-block;
+}
+
+div#results select#folder {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 100%;
+}
+
+input[type="checkbox"] {
+    vertical-align: middle;
+    margin-bottom: 2px;
+}
+
+input#subscribe {
+	margin-left: 25px;
+}
+
+select {
+    -webkit-appearance: none;
+    -webkit-padding-end: 25px;
+    -webkit-padding-start: 5px;
+    -moz-appearance: none;
+    -moz-padding-end: 25px;
+    -moz-padding-start: 3px;
+    background-image: url(../images/caret.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 12px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    vertical-align: middle;
+    border: 1px solid #dddddd;
+    background-color: #ffffff;
+    border-radius: 0px;
+    height: 23px;
+}
+
+/**
+ * LiveClick settings
+ */
+
+.forceScroll {
+}
+
+div#popuplist {
+	border: 0;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	font-size: 0.9em;
+}
+
+div.entryList {
+    width: 460px;
+	max-height: 500px;
+	overflow-y: scroll;
+}
+  
+div.popupTreeIcon {
+	display: inline-block;
+	margin-right: 8px;
+	width: 16px;
+}
+
+.popupEntryTable {
+	margin: 0;
+	border-collapse: collapse;
+}
+
+div.popupTreeIcon > img {
+	width: 16px;
+	height: 16px;
+}
+
+div.popupUnread {
+	text-align: center;
+	width: 30px;
+	color: #bbb;
+    font-size: 11px;
+    font-weight: 700;	
+}
+
+div.folder,
+div.feed {
+	width: 100%;
+}
+
+div.feed:hover,
+div.folder:hover {
+	background-color: #eee;
+	cursor: pointer;
+}
+
+div.feedName {
+	font-size: 1.07em;
+}
+
+div.folderName {
+	font-size: 1.07em;
+}
+
+div.truncate {
+  width: 380px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+div.backButton {
+	padding: 8px;
+	background-color: #eee;
+	margin-bottom: 5px;
+	width: 460px;
+}
+
+div.viewHeader {
+	padding: 8px;
+	margin-bottom: 5px;
+	width: 460px;
+	height: 32px;
+	border-bottom: 1px solid #ddd;
+	padding-left: 1px;
+}
+
+div.feedTitle {
+	text-align: center;
+	margin-right: 16px;
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+	padding-top: 2px;
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+div.article {
+    padding: 2px;
+	margin-bottom: 5px;
+	font-size: 1.1em;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen, Roboto, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+div.article:hover {
+	background-color: #eee;
+}
+
+div.articleTitle {
+	margin-left: 5px;
+	margin-right: 5px;
+	width: 430px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+	font-weight: 600;
+	color: #000;
+}
+
+div.article.read  {
+	opacity: 0.3;
+}
+
+div.articleDate {
+    display: inline-block;
+	margin-left: 5px;
+	margin-right: 5px;
+	color: #bbb;
+	float: right;
+}
+
+div.footer {
+	white-space: nowrap;
+	margin-top: 5px;
+	font-size: 0.95em;
+}
+
+div.articleAuthor {
+    display: inline-block;
+    margin-left: 5px;
+	color: #999;
+    width: 85%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+div.articleAuthor > .name {
+	color: #666;
+}
+
+div.article > .popup-link {
+	text-decoration: none;
+	cursor: pointer;
+}
+
+img.feedIcon {
+	width: 12px; 
+	margin-right: 5px;
+	vertical-align: middle;
+    padding-bottom: 3px;
+}
+
+img.folderIcon {
+	vertical-align: middle;
+    margin-right: 3px;
+    margin-top: -4px;
+	display: none;
+}
+
+img.iconBackButton {
+	float: left;
+	width: 16px;
+	cursor: pointer;
+	padding-top: 2px;
+}
+
+img.feedTitleIcon {
+	width: 12px; 
+	margin-right: 5px; 
+	vertical-align: middle; 
+	padding-bottom: 2px;
+}

@@ -1,0 +1,1402 @@
+4.9.5 - 2021-02-18
+  - Bugfix: Twitter parsing crashed the feed parser if the Twitter account was suspended. It also killed the parsing thread.
+
+4.9.4 - 2021-01-23
+  - Bugfix: tiny edit to readtrigger element placing
+
+4.9.3 - 2021-01-23
+  - Bugfix: automatic "mark as read" mode 1 was broken in view mode 5 due to recent changes
+
+4.9.2 - 2021-01-18
+  - Enhancement: modification to Mathjax loader to ensure it can't run on Firefox
+
+4.9.0 - 2021-01-16
+  - Enhancement: view modes 4 and 5 now fully respect the custom article width setting
+  - Enhancement: entries in view mode 4 should be now of equal height (title texts don't wrap + image placeholder as a fixed height)
+  - Enhancement: enclosures are now hidden in view mode 6 to avoid layout bleeding  
+
+4.8.0 - 2021-01-08
+  - Feature: Rumble support! See rumble.com - a bit like YouTube. Navigate to channel home page and use "Find Feeds in Current Tab". e.g. https://rumble.com/c/FortniteGame
+  - Enhancement: entries in OPML that have type "atom" are now also imported (although the OPML spec doesn't define such attribute value) - e.g. Liferea uses this  
+  - Bugfix: Vimeo feed support was broken - fixed embedded videos and incorrect enclosures - unfortunately the feed does not have proper titles for entries or the feed itself in the RSS XML
+  - Bugfix: if media:content does not have "url" parameter, it won't be included as an enclosure
+
+4.7.2 - 2020-10-16
+  - Bugfix: Sepia theme had a white title text in viewmode 3 for the active item if "mark read" mode was set to "manual"
+
+4.7.1 - 2020-10-11
+  - Bugfix: YouTube search feed was temporarily broken due to YouTube bug workaround fix introduced in 4.6.1 - fixed
+  - Enhancement: Facebook parser should now parse market place and other groups a bit better
+  - Enhancement: iframe in viewmode 6 should now automatically adjust to use the full height of the reading pane
+
+4.7.0 - 2020-09-17
+  - Feature: Slack support - you can now use Rules to post matching feed entry title & link directly to a Slack channel using Slack Webhooks
+  - Feature: Discord support - you can now use Rules to post matching feed entry title & link directly to a Discord channel using Discord Webhooks
+  - Enhancement: tag names in Tags view are now underlined and cursor is changed to pointer
+  - Enhancement: Notification timeout setting removed from Feedbro Options because that can't be really controlled by the extension  
+  - Bugfix: fixed locale related buttons in Feedbro Options not to reload the page
+
+4.6.3 - 2020-09-15
+  - Bugfix: notification timeout functionality disabled because it deleted notifications on Chrome that had not been shown yet if there were
+      many notifications pending in the "show next queue"
+
+4.6.2 - 2020-09-12
+  - Enhancement: Facebook parser should now work for public pages like /BMW and groups with both the old and new UI
+
+4.6.1 - 2020-09-10
+  - Bugfix: feeds that contained a mix of entries with content and no content got duplicated content for entries with no content. Fixed.
+  - Workaround: YouTube seems to have a bug that sometimes generates feed XML entries without published-tag - this caused Feedbro to use current date for the entries.
+      Now if such invalid XML entries are found, they are skipped (until YouTube sends them with the published date).  
+
+4.6.0 - 2020-08-24
+  - Feature: Telegram support - Feedbro can now parse Telegram URLs like https://t.me/s/netflix
+  - Bugfix: Popup "Open Explorer" view didn't show starred articles - fixed
+
+4.5.1 - 2020-07-29
+  - Bugfix: JavaScript Date parsing on Firefox is broken (due to implementation bug in Firefox) and for example pubDate "Mon, 31 Aug 20 13:00:28 +0200"
+      is parsed as Date object Wed Aug 20 2031 14:00:28 GMT+0300. In other words, 2-digit year parsing doesn't work correctly. Created a workaround that
+      manually parses those kind of datestamps correctly.
+
+4.5.0 - 2020-07-20
+  - Enhancement: Twitter plugin doesn't need the pinned tab anymore. However /home and /explore views are no longer supported
+
+4.4.10 - 2020-07-18
+  - Enhancement: Twitter pinned tab cookie refresh window is now kept open for 3 seconds to deal with slower network connections
+  - Enhancement: Twitter parsing should now succeed the first time - feeds can occasionally run into 403 but will recover within 1-2 minutes
+
+4.4.9 - 2020-07-16
+  - Bugfix: rename feed/folder would hang if the name exceeded 50 chars
+  - Bugfix: add folder would hang if the name exceeded 35 chars  
+
+4.4.8 - 2020-07-15
+  - Enhancement: Twitter token update timestamping improved to prevent multiple concurrent pinned tabs
+
+4.4.7 - 2020-07-15
+  - Enhancement: Twitter & LinkedIn parser - token refresh call changed to GET 
+
+4.4.6 - 2020-07-15
+  - Bugfix: FB parser - should read /lists/ now
+  - Bugfix: FB parser - should now retrieve also the latests posts for supported feeds
+  - Bugfix: FB parser - link parsing/generation should now work properly
+  - Bugfix: Twitter plugin 403 problem should now recover automatically
+  - Enhancement: FB parser - Facebook tracking id is now stripped from the article link URL
+  - Enhancement: Feedbro can now automatically find feeds on YouTube profile pages with URL of type https://www.youtube.com/c/USERNAME/videos
+  - Enhancement: now feeds that have the oldest item first and newest item last in the XML are also parsed properly
+  - Enhancement: Twitter plugin can now auto-initialize required cookies by opening a pinned tab for a second even if Twitter has not been accessed after restarting Feedbro
+
+4.4.5 - 2020-07-07
+  - Enhancement: init-background now makes feedbrobg a window attribute to prevent it from going out-of-scope
+
+4.4.4 - 2020-07-06
+  - Enhancement: added attribute "persistent": true to manifest.json to prevent background page unloading on some browsers
+
+4.4.3 - 2020-07-03
+  - Enhancement: Facebook pages of type https://www.facebook.com/groups/12345678987 should be now properly parsed
+  - Enhancement: Facebook post layout improvements  
+
+4.4.2 - 2020-07-02
+  - Bugfix: delete article icon/button at the bottom of the article didn't work - fixed
+
+4.4.1 - 2020-06-27
+  - Bugfix: Facebook plugin was broken which caused an uncaught exception that broke the whole parsing - should be fixed now. Some Facebook groups might not
+      work though yet.
+
+4.4.0 - 2020-06-24
+  - Feature: LinkedIn home feed (https://www.linkedin.com/feed/) is now supported (using chronological order)
+  - Feature: LinkedIn hashtag feeds (e.g. https://www.linkedin.com/feed/hashtag/?keywords=purpose) are now supported
+  - Feature: LinkedIn personal articles feed (e.g. https://www.linkedin.com/in/marshallgoldsmith/detail/recent-activity/posts/) are now supported
+  - Feature: new fixed and improved Twitter integration - supports /home, /explore, user feeds, list feeds, hashtag feeds and search (cookies must be allowed)
+  - Feature: Twitter integration - videos are now supported in Tweets (on demand loading)
+  - Feature: Twitter integration - retweets with comments are now properly supported
+  - Enhancement: Twitter integration - links are removed from Tweet titles
+  - Enhancement: Twitter integration performance improved & it can now fetch more tweets per query
+  - Enhancement: Feedbro should be now better in finding the best image in view modes 4 and 5
+  - Enhancement: LinkedIn Group feed parsing is now much more efficient and retrieves 10 articles at a time instead of the old 2
+  - Enhancement: LinkedIn Jobs parsing is now much more efficient and retrieves 25 latest jobs with proper date stamps and GUID values
+  - Enhancement: LinkedIn home feed and group feed entries now contain the author name, title and picture
+  - Enhancement: potential memory leak fix: feed tree data is now a copy in Feedbro Reader view to break object linking to the background page
+  - Enhancement: small fixes based on ESLint analysis tool (used in addition to JSHint)
+  - Enhancement: TagSelector rewritten for better performance - now you must click on the tag icon to activate the tag widget for the feed entry
+  - Enhancement: HTML5 canvas elements are now ignored by ClearBody
+  - Enhancement: Facebook plugin should be now able to parse all public pages
+  - Enhancement: new CSS settings for input boxes and select boxes to override ugly Chrome 83+ defaults  
+  - Enhancement: feed tree favicon and folder icon flickering fixed
+  - Enhancement: excerpt generation in view mode 4 and 5 should now work better
+  - Enhancement: Google+ parser dropped
+  - Enhancement: memory management improved  
+  - Bugfix: FB entry author parsing was broken - fixed
+  - Bugfix: title generation didn't work properly if the article content didn't contain any tags - fixed
+  - Bugfix: fixed a bug with hashtag linkify (added newline as terminator)
+  - Bugfix: fixed LinkedIn hashtag link generation URL
+  - Bugfix: fixed Instagram related memory leak
+  - Bugfix: removed extra caret image in the middle of scroll bar in the rule form
+
+4.3.2 - 2020-05-08
+  - Enhancement: video tags are limited to max 100% (fixes e.g. too wide enclosures)
+  - Enhancement: if XML feed has media:content and enclosure with the same URL, only one of them is included in the parsed feed  
+
+4.3.1 - 2020-05-07
+  - Enhancement: minor internal changes
+
+4.3.0 - 2020-05-07
+  - Feature: partial media-rss support (entry/item level media:content tags, no support for media:group) - see https://www.rssboard.org/media-rss
+      Useful e.g. for flickr.com feeds
+  - Bugfix: LinkedIn job search was broken - fixed	  
+  - Enhancement: extra portion of an enclosure link is hidden with ellipsis if it's too long	  
+
+4.2.5 - 2020-05-06
+  - Bugfix: restored previous model that articles get "published" or "pubDate" as their timestamp even if there's "updated" timestamp
+      available. Duplicates are removed based on GUIDs.
+
+4.2.4 - 2020-05-06
+  - Enhancement: if an article is updated, the original "published" datestamp, (un)read status, tags, star status etc. are preserved
+      Unlike in 4.2.2 the article does not appear as new and does not get a new timestamp. This is because most updates are cosmetic minor
+      changes like fixing typos and small edits and typically users don't want to be notified about these again. Also preserving original
+      published date helps to keep the original publication order of articles.
+
+4.2.3 - 2020-05-05
+  - Enhancement: when an article is updated, the following rule actions are NOT executed: desktop notification, play sound, play sound URL, IFTTT
+
+4.2.2 - 2020-05-02
+  - Bugfix: localization system incorrectly HTML escaped some characters in e.g. success notification boxes
+
+4.2.1 - 2020-05-01
+  - Enhancement: small internal optimizations
+
+4.2.0 - 2020-04-27
+  - Feature: duplicate entry detection implemented - feed entry GUID values are now parsed properly and if the feed updates a previously published
+      entry, it will not create a new entry in Feedbro but Feedbro will update the contents and mark the article as unread
+  - Enhancement: article meta data updating procedure improved
+  - Enhancement: Feedbro Help file now contains a hyperlink for downloading your YouTube subscriptions as OPML
+  - Enhancement: CSS color scheme enhancements for all themes and especially sepia theme
+  - Enhancement: small performance improvements in feed parsing and storage management
+  - Enhancement: figure tags are now CSS width-limited to 100%
+  - Enhancement: improved Feedbro Help file regarding Reddit workaround and other minor details
+  - Bugfix: improved memory management by fixing 3 memory leaks
+  - Bugfix: some feeds parsed article links incorrectly - fixed  
+
+4.1.3 - 2020-04-12
+  - Enhancement: small CSS improvements
+  - Enhancement: Spanish locale externalized
+
+4.1.2 - 2020-04-10
+  - Enhancement: some dark & sepia theme CSS adjustments (prompts and dialog boxes)
+  - Enhancement: slight adjustment to aqua theme navigator pane
+
+4.1.1 - 2020-02-26
+  - Feature: added support for the ancient RSS 0.90 still used by e.g. http://rss.slashdot.org/Slashdot/slashdotLinux
+  - Enhancement: bookmark import feature is hidden in non-Firefox browsers
+  - Feature: added Spanish as one of the built-in languages
+  - Feature: new Option in Settings: "Disable HTTP Header listener". Checking this will disable HTTP Header modification which may prevent
+      certain websites from showing up in view mode 6 (sites that prevent iframe embedding). In addition, received HTTP Link headers may cause
+      memory leaks especially when using ClearBody to load full articles. Checking this option is justified if you are using "On specific sites" setting
+      in the WebExtension "Site access" settings and allow Feedbro to access only limited number of domains. When this restriction is on and HTTP Header Listener
+      is not disabled, Chrome misleadingly claims that Feedbro "wants access to this site" on all other sites than whitelisted ones because the HTTP Header Listener
+      is active. It's recommended to leave this option unchecked and use the default "On all sites" option under "Site access".
+      Note! This change introduced two new i18n keys: "options_disableheaderlistener_body", "options_disableheaderlistener_input_title" that need entries
+      in locale versions.
+
+4.0.3 - 2020-01-20
+  - Enhancement: margins removed from embedded article in view mode 6
+  - Bugfix: parsing failed if Atom feed had empty summary tag contents
+
+4.0.2 - 2019-11-10
+  - Bugfix: rename feed/folder was broken due to i18n changes - fixed
+
+4.0.1 - 2019-11-06
+  - Bugfix: restored onBeforeUnload save-hook to the reader view as without it deleted articles don't get deleted if browser is quickly closed after the operation
+
+4.0.0 - 2019-10-30
+  - Feature: multilanguage support! You can now create JSON based language support files to translate Feedbro into any language and install them via Options
+  - Feature: currently supported built-in language locales: English (en_US), Finnish (fi_FI) - contact feedbro.reader@gmail.com to contribute translations
+  - Feature: Rule Action "Play sound URL" that lets you play any sound that is directly accessible on the Internet. Sounds available e.g. on https://freesound.org/
+  - Enhancement: Facebook plugin now generates more descriptive article titles (rather than "No Title")
+  - Enhancement: iframes in posts now have max-width: 100% to improve layout when article width is limited
+  - Enhancement: switched title and message in desktop notifications - now there's more room for the actual article title text
+  - Enhancement: removed onBeforeUnload save-hook from the reader view to reduce the possibility of subscription data loss upon closing the browser
+  - Bugfix: fixed a potential problem when sharing the article to Facebook
+  - Bugfix: VK plugin caused duplicates with differing seconds in the timestamp
+  - Bugfix: request header handling fix (Twitter UI switching issue)
+
+3.47.1 - 2019-09-22
+  - Bugfix: fixed a rare issue in feedentrymanager entry loading
+
+3.47.0 - 2019-09-20
+  - Feature: feed autodiscovery now supports Pinterest user feeds and board feeds
+  - Enhancement: improved VK feed CSS
+
+3.46.4 - 2019-09-20
+  - Enhancement: VK plugin now uses English locale to load pages to enable proper date parsing
+
+3.46.3 - 2019-09-20
+  - Enhancement: open VK links in a new tab
+
+3.46.2 - 2019-09-20
+  - Bugfix: ensure VK plugin doesn't parse invalid dates if the locale doesn't fit
+
+3.46.1 - 2019-09-20
+  - Enhancement: slight VK CSS fixes
+
+3.46.0 - 2019-09-19
+  - Feature: VK.com plugin
+  - Enhancement: slight CSS fixes on form element settings
+
+3.45.1 - 2019-09-18
+  - Bugfix: Youtube Search plugin fix (titles)
+  - Enhancement: view mode 6 should now work also with pages that use frame-ancestors restriction with content-security-policy header
+  - Enhancement: Feedback link on the Feedbro main page now properly points to Mozilla Add-on Store on Firefox and variants (and Chrome Web Store on other browser variants)
+  - Enhancement: added some support links to Feedbro Help file
+  - Enhancement: Google+ removed from Send To-menu
+
+3.45.0 - 2019-09-11
+  - Feature: maximum article width (in pixels) for each view can be now adjusted separately to make it easier to read articles (less scanning from left to right)
+  - Feature: article title font size can be now adjusted in Options
+  - Feature: height for cards in view mode 4 can be now adjusted in Options (e.g. to get equal card heights)
+  - Feature: it is now possible to disable "show first article automatically" in view mode 3 and 6
+  - Bugfix: fixed a bug in view mode 3 heading display ("Last week" was sometimes incorrectly displayed)
+  - Enhancement: invisible lazyload elements now use inline-block layout to avoid introducing extra line feeds in view mode 4
+
+3.44.3 - 2019-08-19
+  - Enhancement: video support for Yammer
+
+3.44.2 - 2019-08-16
+  - Feature: added possibility to follow Yammer topics (hashtags)
+  - Enhancement: strip tags from Yammer post titles  
+
+3.44.1 - 2019-08-15
+  - Enhancement: removed unnecessary logging from Yammer plugin
+
+3.44.0 - 2019-08-15
+  - Feature: Yammer.com support! Now you can get your Yammer feeds as RSS in Feedbro!
+  - Feature: Feedbro now finds RSS links on vimeo.com
+  - Feature: Feedbro can now convert vimeo.com RSS feeds so that video players are embedded and visible (advanced lazy-loading like with Youtube applied)
+  - Feature: Feedbro now finds RSS links on bitchute.com
+  - Feature: Feedbro can now convert bitchute.com RSS feeds so that video players are embedded and visible (advanced lazy-loading like with Youtube applied)
+
+3.43.1 - 2019-07-28
+  - Bugfix: social media parser fix
+
+3.43.0 - 2019-07-12
+  - Feature: SlideShare.net custom search support
+  - Bugfix: apparently on some systems the lazyload still didn't work in view mode 3. Removed the top-margin CSS setting from it.
+
+3.42.8 - 2019-06-26
+  - Bugfix: fixed a bug with "contains any word" type rule condition (null article body returned true)
+
+3.42.7 - 2019-06-24
+  - Enhancement: middle pane scrollbar thumb is now better visible in aqua theme in viewmode 3 and 6
+  - Bugfix: added z-index CSS setting div.lazyload as it was causing problems to at least one user on Windows 10
+
+3.42.6 - 2019-06-03
+  - Bugfix: feed parsing didn't properly detect network down (398) and reported it internally as feed timeout (399). This may have caused a delay for feed parsing
+      when recovering from hibernation or sleep for example.
+
+3.42.5 - 2019-05-31
+  - Enhancement: slight CSS fixes (e.g. toolbar, titles section font size)
+
+3.42.4 - 2019-05-24
+  - Enhancement: added a few html sanitization safeguards
+
+3.42.3 - 2019-05-18
+  - Bugfix: Header adjustment fix
+
+3.42.2 - 2019-05-18
+  - Enhancement: Feedbro now automatically removes Link HTTP header from Feedbro related HTTP calls to prevent asset preloading 
+      in the background when using ClearBody (that would create memory leaks)
+  - Enhancement: ClearBody now disables different types of prefetching when parsing the html page to prevent memory leaks
+      See: https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content
+  - Enhancement (MAJOR): ClearBody now renames dynamic content related tags like audio, video, svg, source etc. before parsing the
+      html string as a DOM Document. Tags are restored in the parsed fragment. This finally fixes the bizarre memory leaks that happened
+      in the background (pending audio/video elements with attached DOM element trees)
+  - Enhancement: restored HTTP X-Frame-Options header modification affecting view mode 6 since this wasn't the root cause of memory issues after all
+	  
+3.42.1 - 2019-05-17
+  - Enhancement: remove all script tags from html documents scanned by ClearBody even before parsing the DOM
+  - Enhancement: removed HTTP X-Frame-Options header modification affecting view mode 6 introduced in 3.41.0 - it seems to cause problems
+
+3.42.0 - 2019-05-16
+  - Bugfix: ClearBody memory leak fixed (iframe-issue) 
+
+3.41.9 - 2019-05-15
+  - Bugfix: top toolbar height was collapsed on CentBrowser
+
+3.41.8 - 2019-05-15
+  - Bugfix: magnet links are now left as is in the article body (fixed relative link conversion bug)
+  - Enhancement: ClearBody now uses XMLSerializer instead of innerHTML which should improve memory management
+  - Enhancement: Fixed potential memory leak with ClearBody (element interdependency)
+  - Bugfix: ClearBody relative link conversion fixed regarding data, magnet and mailto-protocols
+  - Bugfix: Fixed a memory leak in the new FeedParser (getContent)
+  - Bugfix: Fixed an uncatched exception which would occur when the feed entry contains no link tag and no published date tag (interupted parsing)
+
+3.41.7 - 2019-05-06
+  - Enhancement: some feeds contain extra whitespace for link tags. Feedbro now trims those values to avoid broken links.
+
+3.41.6 - 2019-05-05
+  - Bugfix: after changing from view mode 2 to view mode 1 images wouldn't load because of lazyload attributes set for the images - fixed
+  - Enhancement: various CSS improvements to greatly improve rendering in case user has "minimum font size" setting in Firefox on
+
+3.41.5 - 2019-05-04
+  - Enhancement: X-Frame-Options HTTP Header modification is now limited to only iframes created by extensions (Feedbro)
+
+3.41.4 - 2019-05-04
+  - Bugfix: some weird corruption bug in the archive fixed
+  - Bugfix: feed finder menu color fix to Chill theme
+
+3.41.3 - 2019-05-03
+  - Bugfix: main menu color fix to Chill theme
+
+3.41.2 - 2019-05-03
+  - Feature: new option "Truncate long titles (view mode 2)" - on by default
+  - Feature: new theme: Chill - light theme but with less bright colors
+  - Bugfix: Help window can no longer open a popup window that is taller than the screen size (this could have happened with resolutions like x * 800)
+  - Enhancement: title is now fully expanded when opening items in view mode 2 and truncated again when collapsing the item  
+
+3.41.1 - 2019-05-03
+  - Enhancement: restored IntersectionObserver polyfill because apparently many Firefox users use about:config tweaks that disable that API
+      For example: https://github.com/ghacksuserjs/ghacks-user.js
+  - Enhancement: slightly smaller fonts in the popup due to requests
+
+3.41.0 - 2019-05-01
+  - Feature: new feed parser that should properly support XML namespaces. It's also faster and more memory efficient than the old one.
+  - Feature: LinkedIn Job Search is now supported
+  - Feature: popup Open Explorer view now shows the full article title in the tooltip
+  - Feature: View mode 6 should now work also with sites that use HTTP X-Frame-Options header to block iframe embedding
+  - Enhancement (theme): redesigned Aqua theme colors (mainly Material Design indigo-based colors)
+  - Enhancement (theme): slight improvements to the Sepia theme colors
+  - Enhancement: better font stack option selected by default
+  - Enhancement: properly styled select boxes in feed finder
+  - Enhancement: improved printing layout (extra borders and controls removed)
+  - Enhancement: various CSS tweaks and font-family changes
+  - Enhancement: ClearBody now strongly de-emphasizes iframe contents in full text parsing to improve body text detection
+  - Enhancement: improved view mode 2 (headlines) by disabling title wrapping, making font a bit smaller and positioning top star always in the same spot
+  - Cleanup: removed IntersectionObserver API polyfill since supported browsers now support the API natively
+  - Bugfix: removed unnecessary log event from feed finder
+  - Bugfix: printing didn't work properly in Firefox - fixed
+  - Tip: if you are on Linux, install Roboto font to get nicer looking UI (e.g. sudo apt-get install fonts-roboto)
+  
+3.39.3 - 2019-03-24
+  - Feature: favicon provider is now configurable (in Options). You can choose between Google and DuckDuckGo. Google is faster but
+      it has cache header only for 24 hours which means that every 24 hours Feedbro will re-download each favicon. DuckDuckGo caches
+      for one month but it is slower to respond and returns HTTP 404 for domains it can't find -> such favicons are requested every time again.
+  - Enhancement: added CSS white-space: pre for <code> html elements
+  - Bugfix: notifyEngine related message passing error fixed in Firefox
+	  
+3.39.2 - 2019-03-18
+  - Enhancement: fixed a message passing related harmless error in Chrome console
+
+3.39.1 - 2019-03-18
+  - Enhancement: technical improvement to feed background scanning system to reduce JavaScript closure generation
+  - Enhancement: use the default favicon for feed entries that don't have a link tag
+  - Bugfix: one parser fixed due to problems caused by Chrome 72 API change
+  - Enhancement: popup window now shows also starred entries in the "latest 10" list (may have been auto-starred by a Rule)
+  
+3.39.0 - 2019-01-19
+  - Feature: Advanced Feed Finder in the Reader view (experimental) - use the green + icon to activate
+  - Bugfix: IFTTT background thread caused memory issues - removed
+  
+3.38.2 - 2019-01-16
+  - Feature: colored scrollbars in dark & sepia theme in Firefox. You must set about:config option "layout.css.scrollbar-colors.enabled" to true to enable this feature.
+  - Bugfix: Feedbro Help had incorrect instructions regarding IFTTT webhook URL. The correct form for the parameter is: https://maker.ifttt.com/trigger/MYEVENT/with/key/AC11cggLDrvAWSZubQk7pn
+      Where you need to replace MYEVENT with the actual name of the event you have defined in IFTTT (and replace the key of course with your own key).
+  - Bugfix: IFTTT Webhook action handler in a Rule didn't work if there were other actions in the Rule as well. Fixed.
+  - Bugfix: Desktop notifications will be now shown in the correct order (first in, first out)
+  - Enhancement: IFTTT triggering uses a background thread to fire IFTTT maker channel calls with limited pace to avoid an overflow of calls that could timeout
+
+3.38.1 - 2019-01-04
+  - Feature: Feedbro Options page now uses selected theme colors
+  - Feature: RTL support for "Open Explorer" added
+  - Bugfix: small CSS fixes in the popup (feed discovery)
+  - Bugfix: Do you really want to mark ... as read?-confirm dialog checking with Enter was broken. Fixed.
+  - Bugfix: fixed subtle pixel shift CSS problem in newspaper view
+  - Enhancement: some CSS fixes in the reader view
+
+3.38.0 - 2019-01-03
+  - Feature: popup menu now contains "Open Explorer" option which opens a simple feed/folder navigator for browsing unread article titles in feeds. Rules are not applied.
+  - Feature: automatic feed scanning in the background can be now completely disabled. See "Disable automatic feed scanning" in Options. Even if this is
+      enabled, you can manually trigger feed scanning (right-click the feed or folder or use the blue reload icon in the top left-hand corner).
+  - Feature: generated OPML file now has a datestamp (yyyyMMdd-HHmmss) in the filename for easier archiving
+  - Feature: when importing OPML you can now skip existing feeds and folders by checking "Skip existing OPML entries" in Options (on by default)
+  - Feature: articles can be now marked as read in the popup
+  - Feature: links on Youtube article descriptions are now automatically converted to clickable hyperlinks
+  - Feature: added "Unselect All" button to Feed Statistics view
+  - Enhancement: Feed Reader view can now show a popup if the background engine detects that IndexedDB is broken which indicates that the browser profile is broken
+  - Enhancement: favicons are now cached for 90 days instead of 24 hours (speeds up UI loading) - this HTTP response header manipulation doesn't seem to always work though
+  - Enhancement: UI cleanup - removed some borders from the UI elements + added a bit of whitespace here and there
+  - Enhancement: Find Feeds in Current Tab now works for the new Reddit UI (auto-appends .rss postfix)
+  - Enhancement: Find Feeds will now automatically try append /feed to the URL if it doesn't otherwise find any feed links or XML feed source
+  - Enhancement: OPML/Rules download in Options page no longer uses the "open a new tab" workaround since Firefox has fixed the anchor download attribute bug
+  - Enhancement: ClearBody now drops elements that have aria-hidden="true" attribute
+  - Bugfix (MAJOR): ClearBody engine crashed if the link pointed to a large non-HTML source. Now accepts only text/html MIME pages and skips known binary extensions automatically.
+      Now ClearBody engine should work well with e.g. Hacker News feed that often contains direct links to binary files such as PDFs.
+  - Bugfix (MAJOR): fixed Clearbody engine by first doing tag filtering and then calculating weights - previous implementation weighted elements that were dropped in the end
+  - Bugfix: now if Feedbro is open in another browser window "Open Feed Reader" will focus that other browser window first before activating the Feedbro tab
+  - Bugfix: Pocket is no longer triggered by combinations like ALT+L, CTRL+L
+  - Bugfix: some ATOM feeds have two or more content tags. Feedbro now uses only the first one according to the ATOM specification.
+  - Bugfix: fixed various plugins
+  - Bugfix: Sort Feeds in Folder was case-sensitive - changed to case-insensitive!
+  - Bugfix: linkify now properly converts email addresses to hyperlinks in the feed parser
+	  
+3.37.9 - 2018-08-01
+  - Enhancement: improved guard against chrome.storage.local corruption
+
+3.37.8 - 2018-07-22
+  - Bugfix: keybind handler was lost if article title was clicked - fixed
+
+3.37.7 - 2018-06-10
+  - Enhancement: some RSS 2.0 feeds define dates incorrectly using Atom tags like <updated> (e.g. Tom's Hardware) - added a
+      fallback in RSS 2.0 parsing so that if pubDate tag is not found, Atom date tags are tried in order of published, updated
+  - Enhancement: improved performance of CSS selectors
+  - Bugfix: prev/next/delete functions didn't work in View Mode 6 (embedded iframe)
+
+3.37.6 - 2018-06-04
+  - Bugfix: Vivaldi on Linux has an annoying bug with HTML anchor element download attribute - trying to work around it
+
+3.37.5 - 2018-06-02
+  - Bugfix: latestItemDate for a feed is not set to match the datestamp of an item if the datestamp is in the future
+
+3.37.4 - 2018-05-24
+  - Bugfix: returned 0 millisecond rule to date stamps
+
+3.37.3 - 2018-05-12
+  - Enhancement: additional date parsing fix
+
+3.37.2 - 2018-05-12
+  - Bugfix: plugin parsing fix
+  - Enhancement: adjusted feed date parsing logic
+
+3.37.1 - 2018-04-23
+  - Bugfix: removed unnecessary logging entry
+  - Enhancement: removed gradient from feed tree highlight
+  - Enhancement: removed delicious from the Send To-menu
+  - Bugfix: shortcut 'w' no longer triggers if Ctrl, Shift or Alt is pressed at the same time
+
+3.37.0 - 2018-04-14
+  - Feature: now you can click the favicon under the feed article title ("from line") to just show the feed articles.
+      Note! Requires that you have enabled Options setting: 'Use favicons in article "from line"'
+  - Bugfix: feed date parsing for RFC3339 timestamps was not working for timestamps which had milliseconds - fixed	  
+
+3.36.6 - 2018-03-16
+  - Bugfix: plugin parsing fixes
+
+3.36.5 - 2018-02-03
+  - Enhancement: added two new font options "OpenDyslexic" (free) and "Dyslexie" (proprietary) for people who suffer from dyslexia
+  - Enhancement: CTRL+t (or ALT+t) will no longer trigger adding a tag
+  - Enhancement: favicon URL protocol changed to https to avoid unnecessary redirects -> faster loading and caching
+
+3.36.4 - 2018-01-15
+  - Bugfix: reverted enhancement made in 3.36.1 (don't send "If-Modified-Since"...) since it broke updates for some feeds.
+
+3.36.3 - 2018-01-11
+  - Feature: added an option to set the number of concurrent threads that are used when scanning feeds for new articles.
+      Higher number of threads = faster scanning but higher network load.
+
+3.36.2 - 2018-01-11
+  - Bugfix: fixed regression issue in view mode 2 - article expansion didn't work when clicking on the top part of the entry
+
+3.36.1 - 2018-01-10
+  - Enhancement: don't send "If-Modified-Since" HTTP Request header if the source didn't send Last-Modified header last time. Prioritize
+      If-None-Match header over If-Modified-Since header. This should make update scanning more lightweight.
+  - Enhancement: added 60 and 90 second feed loading timeout options. 
+  - Bugfix: mark-as-read when clicking title in viewmode 2 was temporarily broken due to previous layout changes - fixed
+  
+3.36.0 - 2018-01-01
+  - Bugfix: fixed view mode 6 by adding 'sandbox' attribute to iframe to restrict top navigation manipulation. Also added
+      "referrerpolicy" attribute.
+  - Enhancement: delete icon and mark read icon in the upper right-hand corner should now stay on the same line and in the
+      upper corner even if the article title is a long one (wraps)
+  - Enhancement: improved by drag & drop in the feed tree so that it isn't even possible to try to drop a folder inside a folder
+      or a folder inside a feed. This will reduce errors when organizing the feed tree.
+  - Bugfix: added sl=auto URL parameter to Google translate URLs to ensure correct detection of the article language
+
+3.35.4 - 2017-12-23
+  - Enhancement: better Youtube feed detection on Youtube pages that contain "channel" in the URL
+
+3.35.3 - 2017-12-23
+  - Bugfix: fixed a bug in internal README.txt build instructions for Firefox
+
+3.35.2 - 2017-12-10
+  - Enhancement: additional keyboard shortcut handling fixes
+
+3.35.1 - 2017-12-10
+  - Bugfix: fixed regression bug with delete article icon/keyboard shortcut
+
+3.35.0 - 2017-12-09
+  - Feature (experimental): you can now select "Feed Proxy" for the feed in feed Properties (right-click the feed in the feed tree). Default is 
+      to directly access the feed source URL. You can also select "Feedly" as the proxy which makes Feedbro to send the feed queries through 
+      Feedly API (only to fetch articles - it doesn't update last read/unread flags or anything).
+      The benefit of this is that Feedly stores the full feed history so you don't miss any items when your computer is turned off. Note however,
+      that you need to have large enough "Max entries to save" setting for feeds that post several articles in 24h. Also note that the
+      Feedly API "lags behind" so articles appear there with a significant delay (can be several hours). This option is thus only recommended
+      for feeds that post very frequently, only keep the latest 20 or so in the XML feed and you don't want to miss any of the articles.
+  - Enhancement: the max number of entries to load from a feed source with a single request now depends on the maximum entries to save
+      for the feed. So if the feed has e.g. a custom setting of max 300 articles, that's the max number of articles a single request can load
+      at once. Previously the max value was 100 (maximum default number of entries to save per feed). You can define a feed specific maximum
+      by right-clicking the feed in the feed tree, selecting Properties and adjusting "Maximum entries to save" setting.
+  - Feature: some sites may return invalid HTTP Response headers regarding content character encoding. You can now override this by adding URL
+      parameter "charset=<chartsetname>" to the feed URL. For example: https://www.example.com/feed?charset=windows-1251 - Note that if there
+      are already existing URL parameters, you need to add an ampersand properly like: https://www.example.com/feed?foo=bar&charset=windows-1251
+  - Bugfix: keyboard shortcuts should work now properly even if you have "Search for text when you start typing" option enabled in Firefox options
+  - Enhancement: parsing fixes
+	  
+3.34.0 - 2017-11-28
+  - Feature: view mode 6. Similar to view mode 3 but it embeds the original article as an iframe to the right panel. Note that many sites
+      prevent iframe embedding by using HTTP Response headers so this doesn't work with all feeds and sites. To get more space for the
+      embedded article, you can hide the feed tree by pressing 'w' or by clicking the "three lines" icon in the top left-hand corner.
+  - Enhancement: removed confirmation dialog from the "Refresh all feeds button"
+
+3.33.0 - 2017-11-24
+  - Bugfix: Firefox bookmark importing to Feedbro crashed if one of several bookmarks had href starting with "view-source:". Now Feedbro
+      drops such invalid bookmarks when importing.
+  - Enhancement: some parsing fixes
+  - Feature: in viewmodes 1, 2 and 3 there's now a circle icon in the top right-hand corner of each article. Click it to mark the article
+      as read/unread. Mainly relevant when using "mark as read" modes "when bottom is displayed" and "manually". Note that when "mark as read"
+      mode is "automatically when title is shown", articles don't show the checkmark or don't show as unread when first loaded. Otherwise
+      it would be difficult to determine which articles are new.
+  - Bugfix (MAJOR): given settings "show only unread" and "mark read manually" (or bottom article + other viewmode than 1 or 3), the
+      same articles were loaded repeatedly.
+
+3.32.4 - 2017-11-21
+  - Feature: you can now adjust text line-height in Options. Good value is around 1.45. Value "normal" is the default defined by the font.
+  - Feature: added button to refresh all feeds from feed sources (XML) - note that you shouldn't need to do this since Feedbro scans
+      for new articles automatically in the background. Note also that this is a heavy operation.
+
+3.32.2 - 2017-11-20
+  - Bugfix: Firefox bookmark importing fixes. The HTML file is challenging to parse correctly.
+
+3.32.1 - 2017-11-20
+  - Workaround: Firefox has a nasty bug on Linux and Macintosh which makes it impossible to download files properly (namely to export OPML
+      and Rules). See https://bugzilla.mozilla.org/show_bug.cgi?id=1413460 - as a workaround, Feedbro opens a popup window and displays the
+      file to be downloaded. The user must then right-click the popup and choose "Save as". You must allow the extension to show popups for
+      this to work.
+
+3.32.0 - 2017-11-19
+  - Feature: now you can import Feed subscriptions from exported Firefox bookmarks (HTML file) - see the "Import Firefox Subscriptions"
+      button in Options.
+  - Enhancement: you can now also click the "Keep unread" text to mark the article read/unread (not just the checkbox)
+  - Enhancement: if the OPML/import file does not have a title for the feed, the feed title is automatically taken from the feed XML source
+      when the feed is first loaded (auto-replace "Unnamed feed" -> actual feed title)
+
+3.31.5 - 2017-10-28
+  - Feature: added Flipboard to sharing options
+
+3.31.4 - 2017-10-26
+  - Enhancement: CTRL+d or ALT+d no longer deletes an article. You have to press just 'd'. ALT+d conflicted with activating the address bar.
+  - Enhancement: Feed name displayed in the article header is now the name the user has defined for the feed in the feed tree. Not the name
+      specified by the feed itself.  
+
+3.31.3 - 2017-10-19
+  - Bugfix: at least one clever user managed to drag folders under other folders although Feedbro does not support subfolders. As a result, he
+      got incorrect OPML export and odd behaviour. Fixed tree drag & drop so that folders really cannot be moved under other folders.
+  - Enhancement: slight tweaks to Sepia theme colors - our new favorite theme now!
+  - Bugfix: fromline didn't expand to 100% width on Firefox - fixed  
+
+3.31.2 - 2017-10-18
+  - Bugfix: "Mark all as read" button also had the last read pointer bug. Fixed.
+
+3.31.1 - 2017-10-18
+  - Bugfix: feed tree folder context menu option "Mark all items as read" didn't update the extension icon total unread count
+  - Bugfix: Marking items read also updated the last read pointer of the feed/folder to current time which might have caused missing articles  
+  - Enhancement: reduced the margin between articles horizontally
+
+3.31.0 - 2017-10-16
+  - Feature: added properties icon to the "Feed Statistics" view which allows you to edit the feed properties. It should also work by right-clicking
+      the feed in the feed tree. Note that after saving the feed properties the "Feed Statistics" view isn't automatically updated.
+  - Feature: Sepia-like theme (alpha version - subject to change)
+
+3.30.3 - 2017-10-10
+  - Bugfix: fixed right-click feed/folder problem with Macintosh
+
+3.30.2 - 2017-10-10
+  - Enhancement: restored Options menu item in the popup menu. It's handy in some situations especially on Firefox where you can't get the options
+      page by right-clicking the extension icon.
+
+3.30.1 - 2017-10-10
+  - Enhancement: since Firefox Private Browsing Mode has too many problems (getBackgroundPage() returns null, IndexedDB doesn't work properly etc)
+      Feedbro now properly signals to the user that it is not accessible in Private Browsing Mode when user clicks the extension icon or tries to
+      open the Reader view. Hopefully in the future we can make things work also in Private Browsing Mode but currently it's not worth it.
+
+3.30.0 - 2017-10-09
+  - Enhancement: view modes 2, 4 and 5 should load now radically faster especially if the feed articles contain a lot of images or iframes.
+      Feedbro should also use significantly less network bandwidth when loading these views. The secret is clever attribute based lazy-loading.
+  - Enhancement: Options and Help removed from the popup menu since they are available in the Reader toolbar + options can be also accessed by
+      right-clicking the extension icon (in Chrome) or in addon/extension list.
+  - Enhancement: now when you right-click the article title in view mode 3, the article is opened in a new tab without activating the tab. Hold
+      down CTRL to also activate. In other words, the previous functionality is now reversed.
+  - Feature: added "Known Issues" document (accessible from Help) to list all the current technical challenges with Firefox and
+      instructions how to add Feedbro as ContentHandler in Firefox (cannot be done programmatically yet).
+  - Feature: there's now an option (default: off) to show feed favicon in front of the "from line" under the article headline. However, the favicon
+      is not visible in view modes 4 and 5 until you expand the article. This is intentional.
+  - Bugfix: clicking Delete icon now properly selects the next article and marks it active if the deleted article was active	  
+
+3.29.8 - 2017-10-07
+  - Enhancement: fixed notification box by removing "by ..." if article author is an empty string
+  - Bugfix (MAJOR): sounds played in Firefox only once due to bug in Firefox HTML5 Audio class implementation (readyState)
+  - Bugfix: sound selection dropdown in Rule form in dark mode now has proper background color  
+
+3.29.7 - 2017-10-07
+  - Bugfix: some CSS corrections
+  - Bugfix: desktop notifications did not work properly on Firefox - Firefox does not show notifications if the API is called more than once
+       in rapid succession. Modified so that notifications are queued and shown one by one every second (except when adding a new feed).
+  - Bugfix (MAJOR): Rule Engine had a "Dead Object" problem (rule saved from UI, then UI closed -> rule became dead in the background). This messed up
+       rule evaluation and Rules mainmenu.  
+
+3.29.6 - 2017-10-05
+  - Featured: removed keyboard shortcut for starting Feedbro because it causes problems in Firefox
+
+3.29.5 - 2017-10-03
+  - Feature: in viewmode 3 you can now right-click the title in the middle titles view to open the article in a new tab (activates the tab).
+       If you hold CTRL down when right-clicking the article, the tab with the article won't be activated automatically.
+       Keyboard shortcut 'v' will also open the article in a new tab but without activating the tab.
+  - Feature: you can now sort feeds in alphabetical order in a folder by right-clicking the folder in the feed navigator and by selecting
+       "Sort feeds in folder"  
+  - Enhancement: folder toggles and feed/folder colors might slightly brighter in dark mode
+  - Bugfix: Feed tree context menu had invalid z-index CSS parameter name. Fixed.
+  - Enhancement: now right-click does nothing in Feed tree context menu (to prevent browser default right-click context menu from appearing)
+
+3.29.4 - 2017-09-29
+  - Enhancement: added favicon for the Reader view which is visible if you e.g. drag the reader view URL to your bookmarks bar
+  - Enhancement: improved XML parsing "tolerance" by automatically removing (some) invalid characters from malformed XML feeds
+  - Enhancement: when mode "Mark items manually as read" is on in view mode 3, article title in titles column is not automatically unbolded.
+      It only happens after you mark the article as read (shortcut 'm' or by removing check in checkbox "Keep as unread")  
+  - Bugfix: total unread count in the extension is now immediately updated when clicking the article link in the popup list of articles
+
+3.29.3 - 2017-09-28
+  - Feature: added Help icon to toolbar (shortcut: shift+?)
+  - Enhancement: increased internal ClearBody article scanning timeout to cope with slower sites
+  - Enhancement: shortcuts 'm' and 'v' now change the article title color to reflect that the article was marked as read  
+
+3.29.2 - 2017-09-27
+  - Feature: Options has a new setting for defining what article header click does in the popup menu. Options: open the article in
+      Feedbro or open it on the original website in a separate tab.
+  - Feature: Added Donate button (heart, upper left-hand corner) which you can use to securely donate a sum you can decide
+      to support Feedbro development.
+  - Bugfix: now when clicking the desktop notification of an article to open it in a new tab, the article is also marked as read
+  - Enhancement: now when you click "Open Feed Reader" in extension icon popup menu, the popup menu is closed on Firefox automatically
+  - Enhancement: borders for resizing feed tree and article list in viewmode 3 are now 2px wide instead of 1px
+  - Enhancement: when opening the article in a new tab with shortcut 'v' the article is now automatically marked as read
+
+3.29.1 - 2017-09-15
+  - Bugfix: it seems that chrome.storage.local is unreliable/buggy on Chrome (see e.g. issue 490915). chrome.storage.local.get 
+      can fail to load data which then caused Feedbro to later save data (feed subscriptions + data) with defaults (empty tree) 
+      because the get silently failed. Now if the get call fails, initialized flag isn't turned on and user is notified to 
+      reload the browser in order to reload the background process. This is more or less a hack and temporary until we find 
+      a better solution.
+
+3.29.0 - 2017-09-14
+  - Feature: added Google Translate to "Send To" menu (you can select target language in Options) - shortcut 'g'
+  - Feature: Options page now has a button for deleting all Rules. Use with caution!
+  - Feature: Rules can be now tested with built-in rule simulator. See Rules menu and "Test Rules" button
+  - Feature: added "justify text" to Options
+  - Feature: you can now click Feedbro icon in Options page to get back to the Reader view
+  - Enhancement: Now when you click a feed in "Feed Statistics" view, selected feed is scrolled into view in the feed tree
+  - Enhancement: max width to font select dropdown menu in Options
+  - Bugfix: "Send to email" (shortcut 'e') didn't work properly in view mode 3 when using keyboard shortcut - fixed
+
+3.28.1 - 2017-08-27
+  - Reupload to Mozilla Add-on store with new version number  
+  
+3.28.0 - 2017-08-27
+  - Bugfix: feed preview link from the popup did double decoding for the URL which broke some URLs with special characters
+  - Feature: some parsers added ;)
+  - Enhancement: "Send To >" popup themed to dark when dark theme is selected
+  - Enhancement: radically reduced background page debug logging and slightly also memory consumption
+  - Bugfix: when closing Feedbro reading view, settings are now forcesaved in the background
+
+3.27.2 - 2017-08-20
+  - Enhancement: finetuning of the Rules table columns (alignment and size)
+  - Enhancement: very slight CSS adjustments to improve font rendering and layout
+  - Bugfix: there was an error with internal "Starts with URL" rule condition parameter that overlapped with Title parameter value.
+  - Feature: Icon link to Options page is now in the Feedbro toolbar (upper right-hand corner)
+
+3.27.1 - 2017-08-18
+  - Bugfix: When clicking delete icon in the popup window, total unread count in the extension icon didn't update. Fixed.
+
+3.27.0 - 2017-08-17
+  - Feature: Rule engine improvements - Rules can be now sorted in order by using drag & drop in the Rules view.
+      Rule also has a new property called "Fallthrough". If it is true, other rules will be also evaluated even if the
+      rule matches (so one article can match multiple rules e.g. one doing highlights, other adding a tag etc). 
+      Note that if you have a lot of fallthrough rules, rule evaluation will be slower as there is more
+      to do for each article. Unless your rule should apply to a wide range of articles, it should probably not be
+      a fallthrough rule.
+  - Feature: new columns in Rule list: Type and Fallthrough
+  - Bugfix (MAJOR): Feedbro has been using window.localStorage to store settings and feed subscription data. This storage
+      can be cleared if user decides to wipe history information, uses browser in incognito mode or has setting
+      "clear everything on exit" (in Firefox) enabled. To overcome this, Feedbro now uses chrome.storage.local storage
+      which should persist in all cases. manifest.json also includes new "storage" permission which is required.
+
+3.26.5 - 2017-08-15
+  - Bugfix: Upgrading to JQuery 3.2.1 had broken feed parsing especially for RSS and RDF feeds containing prefixed tags
+      like content:encoded, dc:date and relative link parsing based on xml:base. Should be fixed now.
+
+3.26.4 - 2017-08-15
+  - Bugfix: RDF parsing was broken for some reason (at least for craigslist feeds)
+
+3.26.3 - 2017-08-14
+  - Feature: MathJax is back (but only for Chrome version) - build system now builds separate versions for Firefox and Chrome
+
+3.26.2 - 2017-08-13
+  - Feature: When link icon is clicked in the popup menu article list, the article is automatically marked as read when it is opened in
+       a new tab.
+  - Feature: When the article title link is clicked and the article is opened in a new tab, the article is automatically marked as read.
+       Note! You can hold Ctrl-key to avoid switching into the new tab.
+  - Feature: Added delete icon to list of articles in the popup menu short list.
+  - Enhancement: Delete link at the end of the article now has a trashbin icon as well
+  - Enhancement: Removed FriendFeed and Readability from sharing options as these services are no longer available
+
+3.26.1 - 2017-08-03
+  - Enhancement: Upgraded to JQuery 3.2.1
+  - Feature: Added "Article URL" as an option for Rule conditions. This is handy e.g. for domain specific blocking or highlights.
+  - Feature: Support for MathJax has been removed (sorry!) to comply with tight Firefox add-on security policies
+  - Enhancement: modifications to alertify.js code to get around Firefox add-on review warnings and to make it safer
+
+3.25.3 - 2017-07-20
+  - Bugfix: now if any of the matched Rule Actions for an article contains action "Delete article" or "Hide article", none of the other
+      possibly matched actions will be performed. In other words if one rule matched the article with e.g. action "Hide" and another rule
+      matched with action "Desktop notification", the desktop notification will NOT be shown because the "Hide" action eliminates it.
+
+3.25.2 - 2017-07-08
+  - Bugfix: MathJax had changed CDN and was not working. manifest.json updated to fix it.
+  - Bugfix: Atom feeds that had a summary tag, no Atom content tag and media:content tag didn't display corrent content. Fixed.
+
+3.25.0 - 2017-06-22
+  - Feature: Added Shift + d shortcut to delete all articles in currently loaded view
+  - Bugfix: scrolling in feed tree when using drag & drop outside the visible tree area should work now
+
+3.24.0 - 2017-05-15
+  - Feature: Export/Import Rules in Options
+  - Feature: OPML Export/Import now includes entryContent, maxItems and scanDelay attributes
+
+3.23.4 - 2017-04-28
+  - Bugfix: due to recent bug in Chrome - Feed/Folder select list on rule form now has an additional CSS setting to ensure 
+      minimal height.
+
+3.23.3 - 2017-04-28
+  - Bugfix: something has changed in IndexedDB implementation of Chrome which caused database connection to drop and it was not
+      automatically restored which stopped updates and saves. Now Feedbro automatically reconnects if the connection is down.
+  - Bugfix: reader.html had invalid </html> tag
+  - Bugfix: options.html had missing <body> tag
+
+3.23.2 - 2017-04-21
+  - Bugfix: Native Intersection Observer API implementation restored after figuring out how to fix it after Chrome 58.x API change.
+
+3.23.1 - 2017-04-20
+  - Workaround: Chrome 58.x Intersection Observer API had an unexpected API change which causes all articles to be observed as visible and thus
+       all articles in selected folder are immediately marked as read although they aren't all visible yet. To get around this, Feedbro
+       temporarily uses Intersection Observer API polyfill to override the native implementation. After the native implementation gets fixed,
+       it will be enabled again.
+
+3.23.0 - 2017-04-01
+  - Improvement: Feedbro should be now Firefox compatible (primary platform is still Chrome and FF experience is secondary,
+       not guaranteed and not officially supported)
+  - Bugfix: fixed Youtube Atom feed parsing problem related to yt:videoId tag (problem occurred only in Firefox)
+  - Improvement: minor CSS tweaks mainly for compatibility  
+
+3.22.3 - 2017-03-23
+  - Improvement: removed some unnecessary console logging messages
+  - Bugfix: maxEntries per feed load was temporarily broken due to latest refactoring
+  - Bugfix: Last-Modified and ETag headers were broken due to latest refactoring
+
+3.22.2 - 2017-03-22
+  - Bugfix: in some scenarios ClearBody engine outputted "undefined" as the feed entry content when the full article scan was unsuccessful
+      due to recent changes. Fixed.
+
+3.22.1 - 2017-03-22
+  - Bugfix: some Feedbro users are using older Chrome browsers (Major version below 51) which do not have Intersection Observer API
+      available. Due to this, Feedbro now comes with a polyfill to support older browsers. See
+      https://github.com/WICG/IntersectionObserver/tree/gh-pages/polyfill	  
+
+3.22.0 - 2017-03-21
+  - Improvement: memory usage improved by converting frequently instantiated classes to use JS prototype pattern.
+  - Improvement: performance and memory usage improved by removing jquery.inview-plugin which is replaced by using Intersection Observer API
+  - Improvement: removed jquery.min.map to reduce size
+  - Improvement: background.html Console no longer prints a log message every time it scans a feed
+  - Improvement: various small tweaks to improve memory usage and speed
+  - Bugfix: fixed a memory leak in ClearBody engine
+  - Bugfix: preview icon (eye) did not work properly in the "Find Feeds in Current Tab" popup if the feed URL contained characters ? or &. Fixed.
+  - Bugfix: fixed a potential memory leak in Opera view mode
+  - Improvement: Feedbro now finds feeds also on Youtube pages with URL like https://www.youtube.com/channel/<id> when 
+      using "Find Feeds in Current Tab". Feedbro also finds feeds on standard Youtube home pages like: https://www.youtube.com/user/JenniferLopezVEVO
+
+3.21.3 - 2017-03-01
+  - Bugfix: after marking All feed entries in All feeds as read, the unread counter in the extension icon didn't update. Fixed.
+
+3.21.2 - 2017-02-26
+  - Bugfix: fully restored previous max search count setting
+
+3.21.1 - 2017-02-26
+  - Bugfix (MAJOR): feed item search was accidentally limited to return only 100 hits which broke feeds that were defined to
+      store more than 100 items.
+
+3.21.0 - 2017-02-12
+  - Feature (MAJOR): new Rule option: "Add Points" and new article sort method: "Sort by points". With rules you can now
+      add "points" to feed entries when they arrive. "Sort by points" view then shows the feed entries with the most points first.
+      If two entries have equal points (e.g. 0), then the newer entry will be shown first. Note that the point value can be also
+      negative. With this feature you can "lift up" or "bury" articles that meet certain criteria. For example you could assign
+      -1000 points to all articles that arrive into feeds in certain folder. That allows you to keep them as last items
+      in the "All Items" view. Similarly you can add points to articles that contain e.g. certain keywords so that they rise up
+      on your lists. If you are e.g. monitoring certain stocks or events, this can be very useful.
+  - Bugfix: magnet-links are now properly processed when used as feed entry links
+  - Bugfix (MAJOR): Sort by oldest article sorting was totally broken - fixed
+  - Improvement: shift+right-arrow/left-arrow now works also in view mode 3 (three column view)
+  - Improvement: unified look and feel of "Add Feed"-dialog in dark mode
+
+3.20.0 - 2017-02-04
+  - Feature: "add tag" input field can be now activated with shortcut 't'
+  - Improvement: when adding a tag, pressing enter or Add Tag will automatically add the tag and close the dialog since in 99%
+      of the cases you just want to add one tag.
+  - Feature: now you can configure "tag shortcuts" in Options that allow you to add a tag to a feed article with keyboard shortcuts
+      like ALT+1, ALT+2, ALT+3, ALT+4, ALT+5
+
+3.19.3 - 2017-01-29
+  - Feature: in viewmode 3 (three panels) it is now possible to switch on/off favicons in the titles list. On by default.
+  - Improvement: default font stack changed to Arial, Helvetica, sans-serif to avoid ugly font rendering on some Asian locales.
+
+3.19.2 - 2017-01-28
+  - Improvement: now it's not possible to save Rules with actions that are not triggered in the selected When-context
+  - Improvement: added short instructions how to use IFTTT to the Help page
+
+3.19.1 - 2016-10-31
+  - Bugfix: Feed preview mode fixed.
+
+3.19.0 - 2016-10-31
+  - Feature: "Refresh article list when opening Reader view" option (false by default) lets you define whether Feedbro should
+      automatically reload the current list of articles when reading view is opened.
+  - Improvement: Rule action with regexp words highlighting runs faster now.
+  - Bugfix: CSS settings in "Add Feed" dialog got overridden by feed entries that used <style> tags in Preview mode. Fixed.
+
+3.18.3 - 2016-10-18
+  - Bugfix: Rule condition "matches all words" was horribly broken. Fixed.
+
+3.18.2 - 2016-10-15
+  - Improvement: word boundaries for Rule condition "contains any words that start with" changed from \b to more 
+      unicode friendly version.
+  - Improvement: added note text to Options page that you must define a rule in order to get notifications or sounds.
+
+3.18.1 - 2016-10-14
+  - Feature: added "contains any words that start with" condition to Rule conditions. This allows you to match
+      Rules based on word prefixes. E.g. with values "leader,bus" the rule would match whenever the article
+      contains any word that begins with either leader or bus - for example 'leadership' or 'business'. However
+      the rule would not match e.g. word 'nimbus'
+  - Bugfix: in view mode '3' the date header in the article list was incorrectly showing "last month" for certain older posts. Fixed.
+
+3.18.0 - 2016-10-13
+  - Feature: added "Preview" button to "Add Feed"-dialog so that it is easier to try which "Feed entry content" setting works
+      best for the feed being added.
+  - Feature: "Find Feeds in Current Tab" popup now has preview icon links for opening the feed in Feedbro before subscribing
+      Preview lets you inspect the feed contents & quality and adjust settings before actually subscribing.
+  - Feature: more settings to "Mark Read" function: never, always, only for "All Items" view
+  - Feature: added a simple survey that is trigged if user decides to uninstall
+  - Improvement: when saving feeds with the "Add Feed"-dialog the dialog remembers the previously used save folder setting per session
+  - Bugfix: Ctrl+L no longer opens Pocket sharing window. Lower-case L keyboard shortcut ('l') still opens it.
+
+3.17.3 - 2016-10-01
+  - Improvement: added more font family options (especially for Chinese and Japanese)
+
+3.17.2 - 2016-09-12
+  - Bugfix: feed titles that contained tags messed up the popup article heading list
+
+3.17.1 - 2016-09-12
+  - Improvement: MathJax detection performance improved slightly
+
+3.17.0 - 2016-09-11
+  - Feature: MathJax support - when enabled, automatically renders feed entries containing LaTeX or TeX markup
+      using MathJax rendering library to display beautiful mathematical formulas. Off by default, enable in Options.
+  - Improvement: hide extra divider in the popup when feed database is empty
+  - Bugfix: clicking Find Feeds in Current Tab twice or more does not duplicate the list of discovered feeds anymore
+
+3.16.0 - 2016-09-07
+  - Feature: Feedbro can now show 10 latest unread & unstarred articles when you click the Feedbro icon in the popup
+      This feature can be turned off in Options. See "Show latest articles in popup".
+  - Improvement: Find Feeds in Current Tab - slight html/css improvements and fixes
+  - Improvement: Feed parsing improved - some feeds with incorrectly placed xml declaration should get parsed now
+
+3.15.2 - 2016-09-05
+  - Improvement: scrollbar thumb styling improved by adding a wider border
+
+3.15.1 - 2016-09-04
+  - Bugfix: Options page wasn't scrollable if it didn't fit in the window - fixed
+
+3.15.0 - 2016-09-04
+  - Improvement: now when you click the desktop notification, Feedbro opens the article directly in Feedbro in 
+      viewmode 1 (full article view) regardless of the selected actual viewmode OR the original article is opened in
+      a new tab (html page). See Feedbro Options page to set the preference "Article desktop notification click".
+      Default behaviour is to open the article in Feedbro.
+
+3.14.0 - 2016-09-03
+  - Improvement: scrollbars now have arrows for scrolling
+  - Improvement: improved colors for the Rule form in dark theme
+  - Bugfix: in some situations dark theme might have ended up having light colored scrollbar instead of the darker one
+  - Bugfix: changed OPML export file extension to .opml according to the specification
+  - Bugfix: OPML import now scans feeds also from nested folders (outline-elements) (sub-folder(s) inside main folder)
+
+3.13.2 - 2016-08-21
+  - Improvement: Layout improvements to Rules, Tags, Feed Statistics views. CSS tweaks.
+  - Improvement: Rule dialog now re-centers the dialog when new conditions or actions are added.
+
+3.13.1 - 2016-08-18
+  - Feature: added VK.com to sharing options
+  - Bugfix: Atom feeds entries that contained e.g. title and media:title tag caused Feedbro to include both as title. Fixed.
+
+3.13.0 - 2016-08-15
+  - Feature: Feedbro now parses RSS feeds provided by Youtube so that video thumbnail and description are visible in
+      the article bodies. Feedbro embeds the video and can scale the video size automatically based on the viewport size. 
+      To subscribe to a Youtube feed, navigate to Youtube channel page (e.g. https://www.youtube.com/user/mhyatt18) 
+      and use "Find Feeds in Current Tab".
+
+3.12.4 - 2016-08-13
+  - Fix: reverted entry background color change in the dark theme
+
+3.12.3 - 2016-08-13
+  - Bugfix: Feed Statistics page showed incorrect "Last Updated" value for feeds that had pinned old post as the first entry
+      in the xml feed and feed update process didn't find any new articles since the last scan. Fixed.
+  - Improvement: slight CSS tuning to improve visual appearance.
+
+3.12.2 - 2016-08-03
+  - Bugfix: Feedbro used to stop feed parsing when it found the first article that was too old. This broke some feeds that
+      have pinned old entries as the first item in the feed XML. Fixed.
+  - Bugfix: emojis in Tweets are now in normal size (when using e.g. twitrss.me service)
+  - Bugfix: sharing via email didn't work due to Chrome bug (mailto-protocol does not trigger in popups anymore) - changed implementation 
+      to fix it. Fixed.
+
+3.12.1 - 2016-05-27
+  - Bugfix: Chrome 51 update caused a bug in the Opera View article list (dates partially hidden) - fixed
+
+3.12.0 - 2016-05-06
+  - Improvement: Feed loading now uses native XMLHttpRequest timeout attribute instead of custom timer
+  - Improvement: ClearBody engine ("Readability") now uses the Settings value for "Feed loading timeout" as timeout value
+      for loading articles. If you find feed entries that did not properly load as full text article despite your
+      feed setting "Get full article body" try increasing the value in "Feed loading timeout" setting.
+  - Twitter and Instagram support removed
+	  
+3.11.0 - 2016-05-02
+  - Improvement: added some tooltips to hint the user that in view modes 2, 4 and 5 the article area can be clicked to open
+      the article within Feedbro
+  - Bugfix: on Linux Chrome if the OPML file being imported contained invalid markup, the user didn't get a warning popup - fixed	  
+
+3.10.0 - 2016-04-26
+  - Improvement: some CSS tweaks to improve visual appearance
+
+3.9.3 - 2016-04-04
+  - Bugfix: fixed Feedbro startup problem when feedManager was accessed before database connection was open (rare timing problem)
+
+3.9.2 - 2016-04-03
+  - Bugfix (Major): fixed a nasty layout bug that occurred only on Linux Chrome - clicking a feed in the feed navigator scrolled the
+      feed tree to the top. This did not occur on Windows. Probably introduced by some of the latest Chrome builds.
+
+3.9.1 - 2016-03-26
+  - Bugfix: "Find feeds in Current Tab" for Instagram pages was broken - fixed
+
+3.9.0 - 2016-03-26
+  - Bugfix (Major): Rules with Regexp conditions did not work after saving, rule matching and browser restart - fixed
+  - Feature: you can now right-click a folder and select "Updated Feeds in Folder" which reloads all feeds in that folder from
+      the sources (actual feeds). Note that Feedbro does update all feeds automatically and uses an intelligent algorithm to do
+      this at scheduled intervals according to your settings so usually there should be no need to call this action manually.
+  - Improvement: ugly blue default border around images in feed articles is removed with CSS
+  - Improvement: UI made slightly cleaner by removing borders from toolbar buttons and select lists
+
+3.8.5 - 2016-03-12
+  - Improvement: link color in Dark theme made lighter
+
+3.8.4 - 2016-03-10
+  - Improvement: in Opera-view mode (3) up and down arrows no longer move between articles because that would
+      prevent scrolling the actual article with arrow keys. Use 'n' and 'p' to move up and down in the article list
+      if you want to use keys to navigate the article list.
+
+3.8.3 - 2016-03-09
+  - Improvement: some feeds use weird hybrid of RSS 2.0 and Atom markup. In such cases items may have entry items with
+      atom link tag instead of RSS link tag. Feedbro now scans both cases.
+  - Improvement: toggle buttons have slightly brighter color in Dark mode to make it easier to see which toggles are on.
+  - Bugfix: OPML export failed in rare cases when the feed xmlUrl was undefined
+
+3.8.2 - 2016-02-13
+  - Improvement: links are underlined and shown with better color in Dark theme
+  - Improvement: favicon loading should be now slightly more efficient
+  - Improvement: some other slight CSS adjustments
+  - Feature: added a couple of new fonts to font family options in Settings
+
+3.8.1 - 2016-02-12
+  - Bugfix: if feed html url contained a port number, favicon cache didn't return a proper image
+
+3.8.0 - 2016-02-11
+  - Feature: Feedbro now supports favicons for feeds in the feed navigator. On by default, change in Settings.
+
+3.7.4 - 2016-02-04
+  - Bugfix: refixed unread flag bug in "Mark artile as read" "Manually" mode.
+
+3.7.3 - 2016-02-04
+  - Bugfix: reverted fix in 3.7.2 (needs a different approach)
+
+3.7.2 - 2016-02-03
+  - Bugfix: fixed unread flag bug in "Mark artile as read" "Manually" mode.
+
+3.7.1 - 2016-01-31
+  - Bugfix: some CSS adjustments
+
+3.7.0 - 2016-01-31
+  - Feature: you can now change the article body font size in settings
+  - Feature: you can now change the font family in settings
+  - Improvement: front page big Feedbro icon now opens "All Items" view (which you can also set as default in Settings)
+  - Improvement: added a tooltip in list views ("Click to Open")
+  - Improvement: slight adjustments to the ClearBody engine settings
+
+3.6.3 - 2015-12-26
+  - Bugfix: unicode encoded html character decoding added already to feed parsing state to allow Rules with trigger "New article arrives"
+      to also work properly.
+
+3.6.2 - 2015-12-21
+  - Bugfix: feed entries that had a title containing html tags were shown as html tags - now tags are stripped from title elements
+      Fixes e.g. JIRA feeds.
+  - Bugfix: if feed content contained html character entities like &#1473; and the Rule condition contained the same characters
+      in unicode, there was no match. Same thing for common entities like &auml; and ä. Now Feedbro decodes html characters and
+      entities so that you can define rule conditions using unicode and they actually match the text as you see it.	  
+
+3.6.1 - 2015-12-18
+  - Feature: Feed statistics main view now shows the feed scanning delay
+  - Bugfix: added > and < characters to Rule word boundary test
+  - Improvement: scrollbars are a bit darker in the Dark theme
+
+3.6.0 - 2015-12-11
+  - Feature: added some new keyboard shortcuts. See Feedbro Help-page.
+
+3.5.3 - 2015-12-09
+  - Bugfix: Chrome 47 update somehow broke the flex layout, fixed div#core width with a temporary patch
+
+3.5.2 - 2015-12-08
+  - Bugfix: embedded Twitter post image links fixed
+  - Facebook has removed their RSS support so Feedbro does not currently support reading Facebook pages
+
+3.5.1 - 2015-11-29
+  - Bugfix: embedded Twitter post image links fixed
+  - Bugfix: Rule condition "contains all words", "contains any of the words", "doesn't contain words" behaviour changed so that
+      it does not use built-in word boundary (\b) before and after the defined word but rather a custom regular expression that
+      matches whitespace and common delimiters. This is because the native JavaScript RegExp class does not support
+      word boundaries for Unicode strings (for example in Russian). For languages which may have separate words without whitespace
+      or delimiters in between should be scanned with condition "matches regexp" for better flexibility.
+
+3.5.0 - 2015-11-01
+  - Feature: keyboard shortcut 'l' now saves the currently active article (blue border) directly to Pocket without any
+      popups. This also means that the article won't get any tags but it's a very fast way to save many articles for
+      reading later.
+
+3.4.2 - 2015-10-27
+  - Bugfix: Don't load feed entries that are date stamped into the future. This caused duplicate entries especially
+      if the computer clock was at the wrong time.
+
+3.4.1 - 2015-10-22
+  - Bugfix: If an Atom entry contained only the summary-tag and it didn't have the content wrapped in div -> error. Fixed.
+
+3.4.0 - 2015-09-27
+  - Feature: Feedbro now partially supports OpenSocial 2.0 XML feeds and can render them as HTML.
+      See https://opensocial-resources.googlecode.com/svn/spec/2.0/Social-Data.xml
+
+3.3.1 - 2015-09-12
+  - Bugfix: Feedbro was unable to parse certain date stamps such as Thu, 06 Aug 2015 06:40:39 EEST because Javascript
+      Date object did not properly identify the timezone abbreviation. Fixed.
+  - Bugfix: if feed contained articles that were dated far in the future (like year 2105), it messed up last read pointer
+      logic. Now Feedbro checks that article date is before current_time before it is considered when updating last read pointers.
+
+3.3.0 - 2015-08-04
+  - Feature: Feedbro Rule Engine now supports IFTTT.com (If This Then That) Maker Channel which allows the user to
+      trigger various other Internet services (e.g. automatically post the article link to del.icio.us
+      if rule matches). See https://maker.ifttt.com - Feedbro uses HTTP POST with JSON body so that 
+      {"value1": feedArticle.link, "value2": feedArticle.title, "value3": feedArticle.author}. When specifying a rule,
+      choose "IFTTT Maker Channel HTTP POST" as an action and put the maker URL to the input field. For example:
+      https://maker.ifttt.com/trigger/submit_delicious/with/key/RS3FdAr9fSJDKeEW - You need to configure the Maker Channel
+      with your IFTTT user account which also gives you the authentication string (the last part of the URL).
+  - Improvement: slight adjustments to colors in light and dark theme based on feedback - e.g. new article titles are now
+      shown with blue color instead of black in the light theme.
+	
+3.2.4 - 2015-07-27
+  - Improvement: improved readability of the dark theme by adjusting colors slightly
+
+3.2.3 - 2015-07-25
+  - Bugfix: Chrome 44 update broke the flex layout (Chrome issue 506893) - fixed with a CSS setting
+
+3.2.2 - 2015-06-11
+  - Bugfix: if htmlUrl of the feed contained double quotes, Feedbro generated an OPML file with broken markup. Fixed.
+
+3.2.1 - 2015-06-10
+  - Bugfix: Instagram feed parsing fixed.
+
+3.2.0 - 2015-06-09
+  - Improvement: Feed reader now understands HTML entities like &auml; and is able to parse feeds that use those entities even if 
+    they are not escaped with CDATA. 
+
+3.1.5 - 2015-06-04
+  - Bugfix: Twitter feed parsing was broken. Fixed.
+
+3.1.4 - 2015-05-30
+  - Improvement: text content after the main image in "full feed content" is now displayed on a separate line
+  - Improvement: date of atom feed entries is now determined primarily based on published-tag - not updated tag like it used to be
+  
+3.1.3 - 2015-05-25
+  - Bugfix: another layout bugfix for the navigator main menu options caused by the new Chrome 43.x update
+
+3.1.2 - 2015-05-22
+  - Bugfix: fixed a bug that was caused by changes in flex-row CSS layout in Google Chrome update 43.x - toolbar height shrinking problem
+
+3.1.1 - 2015-02-26
+  - Bugfix: some servers could not correctly interpret the default If-Modified-Since header sent by Feedbro. Datestamp changed to more
+    "compatible" date.
+
+3.1.0 - 2015-01-19
+  - Feature: Options now provides a selection to what happens when you click the Feedbro extension icon in the browser toolbar.
+      Default behaviour is to open the popup menu which allows you to either open the feed reader or scan the tab for new feeds.
+      Another option is to open the feed reader directly without the popup. This speeds up loading the feed reader view.
+      Note that you can right-click the Feedbro extension icon to access Options-menu to change this setting at any time.			 
+
+3.0.0 - 2015-01-07
+  - Feature: full text support for feeds!  Feedbro can now make feeds with partial content display the full article! Right-click the feed
+      in the feed navigator and select "Get full article body" or "Get full article body with main image" (adds image defined by meta tag og:image to
+      the beginning of the article). This will cause Feedbro to separately fetch each article defined by the feed, parse the body content and 
+      embed it to the feed automatically. 
+	
+      Note that this causes a HTTP GET request for each article and is somewhat slower than just accepting the feed content as it is. You can also 
+      define how to handle the feed content when adding a new feed with the +RSS icon (top left-hand corner).
+	
+      NOTE! Only consider using this option if the feed provides only a fraction of the actual article. Many feeds nowadays already provide the full content
+      and in such cases you should select option "As is - defined by the feed" for the "Feed entry content" setting. Also note that if you have this setting
+      on for all your feeds, scanning of new articles takes much longer than with normal feed contents.
+
+2.10.0 - 2014-12-29
+  - Feature: Aqua theme
+  - Feature: "mark as read" has now three options in the Options configuration page: 
+      1. mark read automatically when title or end of the article body is seen (default behaviour)
+      2. mark read automatically when end of the article body is seen (articles are no longer automatically marked as read in headlines/magazine/newspaper mode)
+      3. mark read manually (use "Keep unread" checkbox, m keyboard shortcut, shift+a or Mark Read icon button)
+
+2.9.6 - 2014-12-26
+  - Feature: you can now schedule sharing with Bufferapp.com
+  - Improvement: slight adjustments to colors, fonts and tooltips
+
+2.9.5 - 2014-12-22
+  - Bugfix: Twitter parsing fixed
+
+2.9.4 - 2014-12-18
+  - Feature: you can now share links on Hootsuite.com via Feedbro
+  - Improvement: slight adjustments to colors and fonts
+
+2.9.3 - 2014-11-23
+  - Improvement: left navigator now has very light grey background color to improve readability
+  - Improvement: some font colors adjusted to improve readability
+
+2.9.2 - 2014-11-20
+  - Improvement: tuned colors to improve readability (in light theme)
+
+2.9.1 - 2014-10-26
+  - Improvement: after starting Chrome the first Feedbro feed scan starts in 2 seconds instead of 30 seconds
+
+2.9.0 - 2014-10-25
+  - Improvement: feeds are now scanned with 5 'threads' instead of one - scanning of new feed items is a lot faster!
+  - Improvement: in Magazine view mode the body text is now larger (1em)
+
+2.8.0 - 2014-09-16
+  - Feature: Magazine view mode (title + picture + summary) (shortcut '5') where each article is on a separate line - click text to open the article
+  - Improvement: style-tags are now automatically removed from feed entry bodies to prevent CSS problems
+  - Improvement: feed reading area has light grey background instead of pure white
+  - Improvement: headlines are now bolded
+
+2.7.2 - 2014-08-24
+  - Bugfix: RuleEngine - "highlight with regexp" action did not work for nested html tags - fixed
+  - Bugfix: RuleEngine - when a rule had multiple feeds or folders selected, rule did not trigger - fixed
+  - Bugfix: "Find Feeds in Current Tab" now scans up to 100 link tags (used to be 20 -> Feedbro didn't always find the feed link tag)
+  - Improvement: if html page defines feed link tag title as an empty string, "Untitled feed" is displayed instead in "Find Feeds in Current Tab" discovery mode
+
+2.7.1 - 2014-08-06
+  - Improvement: "Find Feeds in Current Tab" discovery mode now notices if you are already subscribing to the feed you're trying to add
+  - Bugfix: unread posts now get proper 'unread' CSS class - unread post title is blue, read post is black (light mode) / lightGray (dark mode)
+  - Bugfix: "Find Feeds in Current Tab" discovery mode now properly parses feed:// and feed:http(s):// protocol links
+
+2.7.0 - 2014-07-30
+  - Improvement: Feedbro now supports feeds with entries that have no date tag (e.g. old RDF/RSS feeds).
+  - Improvement: Latest used folder is now remembered per session in "Find Feeds in Current Tab" discovery mode.
+
+2.6.2 - 2014-05-27
+  - Fixed a small typo when subscribing to multiple feeds using "Find Feeds in Current Tab"
+  - Improvement: if feed has status "no network" (network connection is down), reloads are attempted in 1 minute intervals (instead of 5 min)
+
+2.6.1 - 2014-05-26
+  - Bugfix: now HTTP code 304 properly resets network timeout and connection timeout status from feeds
+
+2.6.0 - 2014-05-13
+  - Feature: new "Newspaper" style view mode with title, summary and picture (shortcut '4')
+  - Improvement: now images which fail to load are automatically hidden (URL points to a non-existing image) 
+
+2.5.7 - 2014-05-08
+  - Improvement: notification system now detects if chrome.notifications module is available or not
+  - Improvement: now when a feed is added with add feed dialog or autodiscovery, it is immediately scanned for articles instead of waiting for unreadscan event
+
+2.5.6 - 2014-05-06
+  - Improvement: Feedbro will try to load all feeds which failed previously due to a network error (connection down or invalid domain) after 5 minutes
+
+2.5.5 - 2014-05-06
+  - Improvement: OPML files that contain an outline with xmlUrl attribute but no type attribute are interpreted as feeds (typical in OPML 1.0 files)
+  - Improvement: feeds URLs that have non-existing domain now get status "No network" (same when network is down)
+
+2.5.4 - 2014-05-06
+  - Bugfix: feedparser broke data URIs (like data:image/gif;base64,R0lGODlhEAAQAMQAAORHH...)
+
+2.5.3 - 2014-05-06
+  - Changes reverted in later versions
+
+2.5.2 - 2014-05-05
+  - Improvement: added nowrap and ellipsis overflow CSS setting to feed tree nodes
+  - Bugfix: one more relative link parsing fix - relative urls with : were skipped in relative link parsing (like in Google news)
+
+2.5.1 - 2014-05-04
+  - Feature: you can now share articles also to readability.com for reading them later
+  - Feature: keyboard shortcut 'e' now opens your email client for sharing the active article url
+  - Bugfix: if feed was totally invalid and contained no feed entries parsing died - fixed
+  - Bugfix: CSS improved so that bottom toolbar is always at the bottom. Articles with floated images messed layout sometimes.
+  - Bugfix: additional fixes to relative path handling
+  - Improvement: images have now maximum width of 100% of the reading area (while maintaining aspect ratio) so that very large photos aren't cut off
+  - Improvement: after importing OPML unread scan is immediately started without waiting for user to click OK to the prompt
+  - Improvement: if you have 10000 or more unread articles Feedbro icon will now show 9999 (Chrome can't show 5 digits)
+  - Improvement: if OPML is partially invalid and contains neither title nor text attribute, Feedbro generates one
+  - Improvement: internal feedparser should now handle even completely invalid inputs without exceptions 
+
+2.4.1 - 2014-05-02
+  - Bugfix: additional fix to relative path handling when xml:base is not defined and paths are /like/this.png
+
+2.4.0 - 2014-05-01
+  - Feature: UI color themes! Light (default), Dark (dark colors for low light usage) - choose the theme in Options-menu
+  - Feature: In titles only view mode there is now much larger area where you can click the title area to open the article.
+  - Bugfix: empty Facebook posts are now automatically marked as read (and they are not shown in the feed entry list)
+
+2.3.0 - 2014-04-27
+  - Feature: layout support for RTL languages (feed title, feed content)
+  - Feature: feed tree navigator can be now hidden to enable wider reading area (icon in top left corner or shortcut 'w')
+  - Feature: RTL text is rendered with Tahoma font (if available)
+  - Feature: Feedbro can now automatically open the "All Items" view on startup (check setting in Options page) - drag Feedbro link to bookmarks bar for quick access!
+  - Bugfix: shift+space shortcut works now (same as page up)
+
+2.2.1 - 2014-04-24
+  - UI cleanup: slight visual improvements (especially for Chrome on Mac)
+
+2.2.0 - 2014-04-23
+  - Feature: support for Atom and RSS Enclosures (inline with html5 audio and video tags)
+  - Feature: support for xml:base attribute and improved relative path handling
+  - Bugfix: autodiscovery works now for href="//www.engadget.com/rss.xml" type link tags (href without protocol)
+  - Bugfix: Help menu didn't always open on Linux Chrome
+
+2.1.1 - 2014-04-22
+  - Bugfix: certain keyboard shortcuts were not functioning correctly without mouse focus (pg dn, pg up, space) - now fixed
+  - Feature: in Opera style three column view arrow up and arrow down now move up and down in the article titles list
+
+2.1.0 - 2014-04-18
+  - Feature: Opera RSS reader style three column view - feed tree - list of article titles - article body
+  - Feature: Instagram posts now have autolinked usernames and hashtags
+  - Feature: Instagram @username strings are now rendered as links  
+  - Feature: Confirm dialog for marking a feed/folder read can be now switched on/off in Options. Marking all read in all feeds still asks for confirmation.
+  - Feature: feed tree navigator area and article titles list area can be now resized with a mouse
+  - Feature: in headline view mode cursor is now hand when hovering above article to indicate that it can be clicked open/closed
+  - Bugfix: Fixed a bug in Rule Engine - "contains text" condition was not working in case-insensitive mode
+  - Bugfix: Instagram tag feeds were not properly identified
+  - Bugfix: Instagram photo location tag was not always properly parsed
+  - UI cleanup: Feedbro text removed from top left hand corner and main buttons moved to toolbar
+  - UI cleanup: "Show content" was replaced with three view mode buttons
+  - UI cleanup: "Only unread" checkbox was replaced with corresponding toggle icon
+  - UI cleanup: Settings/Options page has slightly improved visual appearance
+  - UI cleanup: Feed properties window list of discovered feeds is now nicer
+  - UI cleanup: changed to CSS flex layout
+  - UI cleanup: changed Reload-button to an icon-button
+  - UI cleanup: feeds with unread items are displayed with blue RSS icon - feeds with 0 unread with gray RSS icon
+  - UI cleanup: Send to, Keep unread and Delete in feed article lower part now longer have a border
+  - UI cleanup: changed "Add Rule" button to unified look and feel button
+  - UI cleanup: removed Reset-button from Rule form
+  - UI cleanup: Rule form should now look better on Linux Chrome
+
+2.0.4 - 2014-04-08
+  - All Javascript code was checked with JSHint validator and a lot of small corrections were made
+  - Bugfix: after removing all subscriptions Options screen became unresponsive (hidden alertify modal window)
+
+2.0.1 - 2014-04-07
+  - Bugfix: duplicate check when adding tags had a small bug
+
+2.0.0 - 2014-04-07
+  - Feature: Advanced Rule Engine (allows notifications, filtering, highlights, regexp etc!)
+  - Feature: User defined feed entry tags (add, remove, search by, view tag cloud)
+  - Feature: Chrome notifications with optional sound effects (based on Rule Engine rules)
+  - Feature: Read single feed entry with article=<id> URL parameter (used when user clicks the notification popup)
+  - Feature: Instagram integration - turns Instagram pages automatically to RSS feeds (use "Find Feeds in Current Tab")
+  - Feature: Delete article-button and shortcut
+  - Feature: If feed title is empty or just whitespace, a title is generated for the feed entry based on the contents
+  - Feature: Now you can edit the feed name when using "Find Feeds in Current Tab" before subscribing
+  - Feature: Twitter image attachments are now shown in the generated RSS feed in Feedbro
+  - Improved Twitter feed visual appearance and made it more CSS based
+  - Improved Feedbro overall appearance to make it lighter and cleaner
+  - Improved and cleaner starting page
+  - Bugfix: Facebook feed discovery was broken for certain pages - fixed
+  - Bugfix: full escaping of blog entry title messed up titles which contain html entities - now escapes only < and >
+  - Bugfix: Starred Items did not always display the item (if there was only one) if user clicked between Starred Items and Feed Statistics
+  
+1.2.0 - 2014-02-21
+  - Feature: now when "Show content" mode is off (show blog entry titles only), you can click the article at the top/bottom and it will be expanded/closed
+  - Feature: blog entry is activated when it is clicked at the top
+  - Feature: active article is now shown with bolded left side (in blue instead of green)
+  - Feature: added keyboard shortcut 'u' for toggling 'show only unread'
+  - UI cleanup - Feedbro should look now more lightweight and be more pleasant for reading
+  - Bugfix: if blog entry had html tags in the title, it messed up the blog entry display
+  - Bugfix: if Send To link was pressed near the bottom of the screen, the context popup was rendered outside the screen
+
+1.1.15 - 2014-02-05
+  - Resubmission to fix locale related minor issues
+
+1.1.14 - 2014-02-05
+  - Bugfix: feed/folder tree flickered because icon images did not have width specified
+  - Feature: added templates for different locales (need translations though!)
+
+1.1.12 - 2013-08-20
+  - Feature: Feedbro can be now opened to reading mode quickly by pressing ALT+SHIFT+F
+  - Bugfix: in rare occasions lazy loading showed the same item twice (with the same id)
+  - Bugfix: feed entry loading should now ensure that all loaded & saved entries are newer than previously saved ones
+
+1.1.11 - 2013-08-03
+  - Fixed: if Atom entry did not contain type="text/html" attribute for link, it was not found.
+  - Added Evernote support for article sharing
+
+1.1.10 - 2013-07-31
+  - Added Yammer and Pocket support for article sharing
+  - Feed autodiscovery now supports Facebook pages. Open any Facebook page and select "Find Feeds in Current Tab" to subscribe
+  - Fix: If feed does not have top level text/html link tag defined, default feed link value to the feed URL
+
+1.1.9 - 2013-07-27
+  - Feeds should now print nicely
+  - Changed font-family setting to 'sans-serif' only to avoid problems with non-latin language rendering
+
+1.1.8 - 2013-07-26
+  - Changed font to Open Sans
+  - Removed Google Reader import button since Google Reader is discontinued and export from it does not work anymore
+  - Modified OPML import so that if text attribute is missing and title attribute is present, text is set as the same string as title
+
+1.1.7 - 2013-07-10
+  - Clicking feed name in "Feed Statistics" view will now open the feed and highlight it in the feed navigator
+  - Bugfix: feeds with link tag but undefined link crashed tagfilter.js
+
+1.1.6 - 2013-07-10
+  - Bugfix: "All Items" link now returns dataset even if indexeddb transaction failed
+
+1.1.5 - 2013-07-10
+  - Bugfix: feed/folder context popup window is now drawn properly for feeds/folders that are near the bottom of the screen
+  - Bugfix: feed navigator didn't show properly on Linux Chrome - fixed now
+
+1.1.4 - 2013-07-09
+  - Bugfix: Feed tree navigator can now properly show all feeds (with auto scroll) even if you make the browser window very small 
+  - Changed feed tree navigator font to Arial (a bit lighter)
+
+1.1.3 - 2013-07-05
+  - Added more options to share articles via social networking sites (Facebook, Google+ etc)
+  - Modified article footer now has simple "Send To" link instead of separate buttons for each sharing action
+  - Fine-tuned Twitter feed layout
+
+1.1.2 - 2013-06-27
+  - Fixed bugs in Twitter page parsing
+
+1.1.1 - 2013-06-27
+  - Fixed bugs in lazy loading when "show content" is off
+
+1.1.0 - 2013-06-24
+  - Added automatic parsing of Twitter pages into RSS feeds
+
+1.0.0 - 2013-06-09
+  - First public release

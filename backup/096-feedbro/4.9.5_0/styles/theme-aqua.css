@@ -1,0 +1,206 @@
+div#feed {
+	background-color: #d8d8d8;
+}
+
+div#leftpane {
+	background-color: #110033;
+	scrollbar-color: #110099 #11004E;
+}
+
+div.entry {
+	background-color: #fafafa;
+    border: 2px solid #fafafa;	
+}
+
+div#titles > div.datedivider {
+	background-color: #f2f2f2;
+	border-bottom: 1px solid #eee;
+}
+
+div#core {
+	background-color: #110033;
+}
+
+body.optionsPage > div#core {
+	color: #ddd;
+}
+
+body.optionsPage select,
+body.optionsPage input {
+	background-color: #1A2355;
+    color: #fff;
+	border: 0;
+}
+
+h1#fbreadermaintitle {
+	color: #333;
+}
+
+div.maindescription {
+	color: #888;
+}
+
+div#toolbar {
+	background-color: #303F9F;
+	border-bottom: 1px solid #314B6E;
+}
+
+div#leftpane div.mainfunction {
+    color: #ddd;
+}
+
+div.menu-selected {
+	background-color: #5C6BC0;
+}
+
+div#titles {
+	background-color: #fafafa;
+}
+
+div#titles > div.item {
+	padding-right: 18px;
+}
+
+div.imagebutton {
+	border: 0;
+	background-color: transparent;
+}
+
+#gotosettings > .imagebutton-img,
+#reload > .imagebutton-img,
+#prevItem > .imagebutton-img,
+#nextItem > .imagebutton-img,
+#openfbhelp > .imagebutton-img {
+	filter: brightness(150%);
+}
+
+div#toolbar select {
+	border: 0;
+	background-color: #303F9F;
+	color: #ddd;
+}
+
+span.tbdiv {
+	color: #31296E;
+}
+
+div.active-mode {
+	border: 0 !important;
+	background-color: #7986CB !important;
+}
+
+div#titles > div.activetitle {
+    background-color: #E8EAF6;
+}
+
+/**
+ * Custom scrollbar arrows
+ */
+::-webkit-scrollbar-button:start,
+::-webkit-scrollbar-button:end {
+  display: none
+}
+
+#leftpane::-webkit-scrollbar-track {
+    /* background-color: #F1F5FA; */
+	background-color: #1A237E;
+}
+
+#leftpane::-webkit-scrollbar-thumb {
+    /* background-color: #3949AB; */
+	background-color: #110064;
+}
+
+#titles::-webkit-scrollbar-track {
+	background-color: #eee;
+}
+
+#titles::-webkit-scrollbar-thumb {
+    background-color: #e6e6e6;
+}
+
+#feed::-webkit-scrollbar-thumb {
+    background-color: #bbb;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background-color: #bbb;
+}
+
+
+::-webkit-scrollbar-button:start:decrement,
+::-webkit-scrollbar-button:end:increment {
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 3px 3px;
+  /* background-color: #F1F5FA; */
+}
+
+
+#leftpane::-webkit-scrollbar-button:start:decrement,
+#leftpane::-webkit-scrollbar-button:end:increment {
+  background-color: #1A237E;
+}
+
+#titles::-webkit-scrollbar-button:start:decrement,
+#titles::-webkit-scrollbar-button:end:increment {
+  background-color: #eee;
+}
+ 
+ 
+::-webkit-scrollbar-button:vertical:decrement {
+  background-image: url(/images/scrollbar-arrow-up.png);
+  background-size: 9px;
+}
+
+::-webkit-scrollbar-button:vertical:increment {
+  background-image: url(/images/scrollbar-arrow-down.png);
+  background-size: 9px;
+} 
+
+
+/**
+ * Feed navigator settings
+ */
+
+ul.jqtree-tree .jqtree-toggler {
+	color: #303f9f;
+}
+
+ul.jqtree-tree .jqtree-toggler:hover {
+    color: #eee;
+}
+
+li.jqtree-selected  > div.jqtree-element div.node-text {
+	color: #eee;
+	background-color: #5C6BC0;
+}
+
+li.jqtree-selected  > div.jqtree-element div.node-unread {
+	color: #ddd;
+}
+
+ul.jqtree-tree li.jqtree-selected > div.jqtree-element {
+    background-color: #5C6BC0;
+}
+
+div.node-text {
+	color: #ccc;
+}
+
+.feedfinder {
+	background-color: #1A237E;
+    color: #ccc;
+}
+
+.feedTitleLink {
+	color: #eee;
+}
+
+.closeFeedFinder {
+	filter: invert(80%);
+}
+
+.linkedin-shared-post {
+    border: 1px solid #ddd;
+}
