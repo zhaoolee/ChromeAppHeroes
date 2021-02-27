@@ -44,7 +44,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
-
+- [097《假装水墨屏》让网页内容变成水墨屏效果](https://www.v2fy.com/p/097-fake-ink-screen-2021-02-27/)
 
 - [096《Feedbro》在Chrome中订阅RSS信息流](https://www.v2fy.com/p/096-feedbro-2021-02-27/)
 
@@ -422,6 +422,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
+
+#### [097《假装水墨屏》让网页内容变成水墨屏效果](https://www.v2fy.com/p/097-fake-ink-screen-2021-02-27/)
+
+![假装水墨屏](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1614414669516WxnchM5k.gif)
+
+
+假装墨水屏相当于把屏幕彩色变成了舒适的黑白，眼睛会舒服一些。
 
 #### [096《Feedbro》在Chrome中订阅RSS信息流](https://www.v2fy.com/p/096-feedbro-2021-02-27/)
 
