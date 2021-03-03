@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [098《RSSHub Radar》可以帮助你快速发现和订阅当前网站RSS的浏览器扩展](https://www.v2fy.com/p/098-rsshub-radar-2021-03-02/)
+
 - [097《假装水墨屏》让网页内容变成水墨屏效果](https://www.v2fy.com/p/097-fake-ink-screen-2021-02-27/)
 
 - [096《Feedbro》在Chrome中订阅RSS信息流](https://www.v2fy.com/p/096-feedbro-2021-02-27/)
@@ -419,8 +421,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
 
+#### [098《RSSHub Radar》可以帮助你快速发现和订阅当前网站RSS的浏览器扩展](https://www.v2fy.com/p/098-rsshub-radar-2021-03-02/)
 
 
+![快速获取当前网站的feed](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1614735419622dCSmRZC4.gif)
+
+RSS是上个世代的东西，随着内容平台们推荐算法的各种骚操作，RSS又被翻了出来；以现在的眼光看，RSS相当于把每个网站当成了公众号，用户可以通过RSS阅读器，订阅自己喜欢的网站更新，与公众号不同的是，RSS无广告，无需登录，且无法收集用户信息，用户也不会被同质化信息封闭自己的知识体系。
 
 
 #### [097《假装水墨屏》让网页内容变成水墨屏效果](https://www.v2fy.com/p/097-fake-ink-screen-2021-02-27/)
