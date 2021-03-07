@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "download": "^7.1.0",
     "gitbook": "^2.6.9",
     "gitbook-cli": "^2.3.2",
