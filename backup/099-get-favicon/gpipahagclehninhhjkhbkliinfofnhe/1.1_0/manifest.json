@@ -1,0 +1,15 @@
+{
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html",
+      "default_title": "Get Favicon"
+   },
+   "description": "This extension displays the current page's favicon as well as the favicon's URL and dimensions.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkjBd1DuE0TymO1pkPKki6wRENknNFbsx9paGlujxaIt37HuA07KurdNYsGMo1AH4MvN+4bozp33+rM8NDGR90xgqfcUbI8OYbOmv7a1Bx17rwB+l9ZyHoKn7AAU0RBlWu2E77U6IkV+I49eOgk82InecUxk59vFRqb2NmeR2ZLjoi7FECGXvFEkoDSemUdgwDrL62YUklIedvT8qoZtLAvQafnz8LpRNMlCTJBN+mORg73hVYOTwQDFFT7TO8J9rgK7gI2f736fXF4WkkA+FAlvtJaUKcOezb/RWmxsed9YhL963bTCqWQCvkT4/yCICYCFII6QC7KxQBHfcZU/e5wIDAQAB",
+   "manifest_version": 2,
+   "name": "Get Favicon",
+   "permissions": [ "tabs", "activeTab" ],
+   "short_name": "Get Favicon",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

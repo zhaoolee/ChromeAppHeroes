@@ -1,0 +1,34 @@
+body {
+    font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+}
+
+#container {
+    white-space: nowrap;
+    margin: 10px;
+}
+
+#IconContainer {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#MetaContainer {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.label {
+    font-weight: bold;
+    text-align: right;
+    width: 60px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.value {
+    text-align: left;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}
