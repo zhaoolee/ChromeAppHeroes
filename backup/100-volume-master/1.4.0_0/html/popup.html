@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en" class="mdc-typography">
+<head>
+  <meta charset="utf-8">
+  <title>Domain Blocker</title>
+  <link href="../css/popup.css" rel="stylesheet">
+</head>
+
+<body>
+
+<header class="header">
+  <img class="header__icon" src="../icon/icon-19.png" alt="Volume Master">
+  <h1 class="header__name">Volume Master</h1>
+  <span class="header__description">
+    Control volume of the current tab with the slider below.
+    You can also switch to any tab playing audio with just one click.
+  </span>
+</header>
+
+<section class="notification js-notification">
+  <button class="notification__close js-notification__close" tabindex="-1">×</button>
+  <div class="notification__title js-notification__title"></div>
+  <div class="notification__message js-notification__message"></div>
+</section>
+
+<section class="volume-slider">
+  <input id="volume-slider" class="volume-slider__slider" type="range" value="100" min="0" max="600" step="10" autofocus>
+</section>
+
+<section class="volume-info">
+  <span class="volume-info__volume-min">0 %</span>
+  <span class="volume-info__volume-current">
+    Volume:
+    <span id="volume-current" class="volume-info__volume-current-value"></span> %
+  </span>
+  <span class="volume-info__volume-max">600 %</span>
+</section>
+
+<section class="tabs">
+  <div class="tabs__title"></div>
+  <div class="tabs__list"></div>
+</section>
+
+<footer class="footer">
+  Made with
+  <span class="footer__heart">♥</span>
+  by
+  <a class="link link--external" tabindex="-1" target="_blank" href="https://www.petasittek.com/?utm_source=gce&utm_medium=footer&utm_campaign=vm">
+    Peta Sittek
+  </a>
+</footer>
+
+<script src="../js/popup.js"></script>
+
+<template id="template-tab">
+  <a href="#" class="tab">
+    <div class="tab__item tab__icon">
+      <img class="tab__icon-image" src="" alt="">
+    </div>
+    <div class="tab__item tab__title"></div>
+  </a>
+</template>
+
+</body>
+</html>
