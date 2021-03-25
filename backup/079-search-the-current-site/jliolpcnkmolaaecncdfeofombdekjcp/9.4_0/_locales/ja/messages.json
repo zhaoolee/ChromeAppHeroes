@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "検索オプション"
+   },
+   "Search": {
+      "message": "検索"
+   },
+   "Search_this_site": {
+      "message": "このサイト内で検索"
+   },
+   "extDescription": {
+      "message": "このサイト内で検索。"
+   },
+   "extName": {
+      "message": "Search the current site (サイト検索)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ オプション",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

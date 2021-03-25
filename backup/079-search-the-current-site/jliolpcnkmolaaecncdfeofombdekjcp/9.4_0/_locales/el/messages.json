@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Σύνθετη Αναζήτηση"
+   },
+   "Search": {
+      "message": "Αναζήτηση"
+   },
+   "Search_this_site": {
+      "message": "Αναζήτηση μόνο στον παρόντα ιστότοπο"
+   },
+   "extDescription": {
+      "message": "Αναζήτηση μόνο στον παρόντα ιστότοπο."
+   },
+   "extName": {
+      "message": "Search the current site (Αναζήτηση ιστότοπου)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Επιλογές",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

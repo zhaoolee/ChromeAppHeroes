@@ -1,0 +1,39 @@
+{
+   "background": {
+      "scripts": [ "lib.js", "bg.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "B站下载助手"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "lib.js" ],
+      "matches": [ "http://*.bilibili.com/*", "https://*.bilibili.com/*" ]
+   }, {
+      "all_frames": true,
+      "js": [ "fix_fetch.js" ],
+      "matches": [ "http://*.bilibili.com/*", "https://*.bilibili.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "cs.js" ],
+      "matches": [ "http://*.bilibili.com/*", "https://*.bilibili.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "description": "bilibili 哔哩哔哩 B站 下载助手 帮你下载版权受限（能看不能缓存）的 番剧 视频",
+   "differential_fingerprint": "1.fd97115638bd3d9768063135ad3b89b250bbff17bb2728527d12877eebdd0cd8",
+   "icons": {
+      "128": "icon.png",
+      "16": "icon.png",
+      "48": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi2h9zyXMhFrnTghusolDMgPiN3awINuhVOvMtNqL4vmsSlSrfowsUsrmQxaiYqoDjQ4NJKE//NSvSIMOF2UC+8Y5sTWZCG5VwnrJ5+P7P1vFicr3nNZzaaOrC3zQS/PbM9Q92EJFop+cOUkS/omtCa0RlAAeLeR5DKRwWg5jBZ2eE1fgemfwva0Wc1oydxblyHGHwZf1ZnVHyvKW/OWZVytZc2oht271iXE7unieA4t5F0RIdvh+w4IkHq1bYSEe6mjgYWFU9NSviHrGSVoOFHJtHqRrBkO5UVzelvl3xOFgzKtpPCQCtYyJfZuOqrrstWXiHyo8NY0xvWGT+IVyIwIDAQAB",
+   "manifest_version": 2,
+   "name": "bilibili哔哩哔哩下载助手",
+   "offline_enabled": true,
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.7",
+   "web_accessible_resources": [ "*.*", "**/*.*" ]
+}

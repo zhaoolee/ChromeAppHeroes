@@ -1,0 +1,119 @@
+{
+   "Advanced_search": {
+      "message": "Advanced search"
+   },
+   "Download_more_extensions": {
+      "message": "Download more extensions"
+   },
+   "Give_permission": {
+      "message": "Give permission..."
+   },
+   "InfoMsg_HasIncognitoAccess": {
+      "message": "You have currently \u003Cb>enabled\u003C/b> this extension to also be available for you in incognito windows. You can change this in the \u003Cbutton>Chrome Extensions Manager\u003C/button>."
+   },
+   "InfoMsg_HasNoIncognitoAccess": {
+      "message": "This extension is currently \u003Cb>disabled\u003C/b> in incognito mode. You can change this in the \u003Cbutton>Extensions Manager\u003C/button> by ticking \"Allow in incognito\"."
+   },
+   "Integrate_in_selection_context_menu": {
+      "message": "In the context menu of selected text, offer to search the site for the selection"
+   },
+   "Let_choose_site": {
+      "message": "Show site chooser when I'm on a subsite (like\u003Cbr>example.com/blogs/sub-site/)"
+   },
+   "NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Extension Options",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   },
+   "New_tab": {
+      "message": "A new tab"
+   },
+   "New_window": {
+      "message": "A new window"
+   },
+   "Not_access_to_all_tabs": {
+      "message": "You have selected multiple tabs. Right now, this extension doesn’t have permission to access all of those tabs."
+   },
+   "On_toolbar_button_click": {
+      "message": "On button click..."
+   },
+   "Open_popup": {
+      "message": "Open a popup"
+   },
+   "Open_search_engine_in": {
+      "message": "Open search engine in..."
+   },
+   "Open_tab": {
+      "message": "Directly open the search engine"
+   },
+   "Options_are_saved_automatically": {
+      "message": "The options are saved automatically."
+   },
+   "Rate_and_review_this_ext": {
+      "message": "Rate and/or review at the Chrome Web Store"
+   },
+   "Same_tab": {
+      "message": "The same tab"
+   },
+   "Search": {
+      "description": "This is for the button next to the popup searchbox.",
+      "message": "Search"
+   },
+   "Search_engine": {
+      "message": "Search engine"
+   },
+   "Search_this_site": {
+      "description": "This is the tooltip text that shows up when you mouse over the toolbar button.",
+      "message": "Search the current site"
+   },
+   "Search_this_site_for_TEXT": {
+      "description": "Shown in the context menu of selected text if activated by the user via the extension's options.",
+      "message": "Search site for '$text$'",
+      "placeholders": {
+         "text": {
+            "content": "$1",
+            "example": "positive externalities"
+         }
+      }
+   },
+   "Selected_text": {
+      "message": "Text selected on sites"
+   },
+   "Show_link_for_SOMETHING": {
+      "message": "Show link to \"Advanced search\"",
+      "placeholders": {
+         "link_text": {
+            "content": "$1",
+            "example": "Advanced Search"
+         }
+      }
+   },
+   "Use_selection": {
+      "message": "Prefill search box with selected text"
+   },
+   "Visit_the_forums": {
+      "message": "Support Forum - Report problems, ask questions and suggest something new"
+   },
+   "Yandex": {
+      "message": "Yandex (that one's in Russian)"
+   },
+   "extDescription": {
+      "message": "A toolbar button to search all pages of any website using Google."
+   },
+   "extName": {
+      "description": "The name of this extension.",
+      "message": "Search the current site"
+   },
+   "short_NAME_Extension_Options": {
+      "description": "This is displayed in the tab title of the extension's options page.",
+      "message": "‘$extension_name$’ Options",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

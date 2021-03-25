@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Rozšířené vyhledávání"
+   },
+   "Search": {
+      "message": "Hledat"
+   },
+   "Search_this_site": {
+      "message": "Hledat pouze na aktuální webové stránce"
+   },
+   "extDescription": {
+      "message": "Hledat pouze na aktuální webové stránce."
+   },
+   "extName": {
+      "message": "Search the current site——Hledat na tomto webu"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Možnosti",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

@@ -1,0 +1,12 @@
+::-webkit-scrollbar{width: 6px;height: 6px;}
+::-webkit-scrollbar-track{background-color: #ffffff;border-left: 0px}
+::-webkit-scrollbar-thumb{background-color: #bfbfbf; border-radius: 8px;}
+::-webkit-scrollbar-thumb:hover{background-color: #7d7d7d;}
+
+.player .sidebar {
+	height: auto !important;
+}
+
+.tiktok-toolbar-section{
+	cursor: pointer;
+}

@@ -1,0 +1,17 @@
+{
+   "copy_link": {
+      "message": "Copiar enlace al texto seleccionado"
+   },
+   "extension_description": {
+      "message": "Extensión del navegador, que permite enlazar a cualquier texto en una pagina."
+   },
+   "extension_name": {
+      "message": "Enlace al fragmento de texto"
+   },
+   "extension_short_name": {
+      "message": "Fragmento de texto"
+   },
+   "link_failure": {
+      "message": "No se pudo crear un enlace único, por favor selecciona una secuencia de palabras más larga."
+   }
+}

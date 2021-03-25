@@ -1,0 +1,30 @@
+{
+   "Advanced_search": {
+      "message": "進階搜尋"
+   },
+   "NAME_Extension_Options": {
+      "message": "‘$extension_name$’ 選項",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   },
+   "Search": {
+      "message": "搜尋"
+   },
+   "Search_this_site": {
+      "message": "僅在目前的網站上搜尋"
+   },
+   "extName": {
+      "message": "Search the current site (搜尋本站)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ 選項",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

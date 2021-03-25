@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Geavanceerd zoeken"
+   },
+   "Search": {
+      "message": "Zoeken"
+   },
+   "Search_this_site": {
+      "message": "Alleen zoeken op de huidige website"
+   },
+   "extDescription": {
+      "message": "Alleen zoeken op de huidige website."
+   },
+   "extName": {
+      "message": "Search the current site (Site doorzoeken)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Opties",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

@@ -1,0 +1,1 @@
+(t=>{t.oFetch=t.fetch;const e=document.createElement("script");e.textContent="(function (w){window.oFetch = w.oFetch = w.fetch;})(window);",document.documentElement.appendChild(e)})(window);

@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Căutare avansată"
+   },
+   "Search": {
+      "message": "Căutaţi"
+   },
+   "Search_this_site": {
+      "message": "Căutaţi numai în site-ul Web curent"
+   },
+   "extDescription": {
+      "message": "Căutaţi numai în site-ul Web curent."
+   },
+   "extName": {
+      "message": "Search the current site (Căutaţi în site)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Opţiuni",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

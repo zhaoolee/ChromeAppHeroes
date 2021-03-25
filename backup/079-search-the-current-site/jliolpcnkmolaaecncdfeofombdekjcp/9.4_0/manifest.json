@@ -1,0 +1,30 @@
+{
+   "background": {
+      "scripts": [ "punycodeconverter.js", "functions.js", "options_storage.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon128.png",
+      "default_title": "__MSG_Search_this_site__"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4fVd8Il+LMOjvLYz0vPnELgPW+O/zdOVDTycNxignbrXlumxAAcPABVzLxoHrXdbYxMkfnffRW4FvJ3xIIgGYOqzz/cnIl7qvFnDsM9X/P0ofGxV7HFFpHzJNwx5lSoaq2Io+IViBNI3XMd+hLqg9i4PxkqQyHoZYAzQw7OThgQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "35",
+   "name": "__MSG_extName__",
+   "optional_permissions": [ "tabs" ],
+   "options_page": "options.html",
+   "options_ui": {
+      "chrome_style": false,
+      "open_in_tab": false,
+      "page": "options.html"
+   },
+   "permissions": [ "activeTab", "contextMenus", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "9.4"
+}

@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Pesquisa Avançada"
+   },
+   "Search": {
+      "message": "Pesquisar"
+   },
+   "Search_this_site": {
+      "message": "Pesquisar apenas dentro deste site"
+   },
+   "extDescription": {
+      "message": "Pesquisar apenas dentro deste site."
+   },
+   "extName": {
+      "message": "Search the current site (Pesquisar no site)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Opções",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

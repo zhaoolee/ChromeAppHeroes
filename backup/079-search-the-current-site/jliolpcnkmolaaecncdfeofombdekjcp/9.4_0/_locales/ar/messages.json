@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "بحث متقدم"
+   },
+   "Search": {
+      "message": "بحث"
+   },
+   "Search_this_site": {
+      "message": "بحث في موقع الويب الحالي فقط"
+   },
+   "extDescription": {
+      "message": "بحث في موقع الويب الحالي فقط"
+   },
+   "extName": {
+      "message": "Search the current site (بحث في موقع)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ الخيارات",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

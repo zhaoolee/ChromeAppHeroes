@@ -1,0 +1,28 @@
+{
+    "type": "object",
+    "properties": {
+        "phabricatorMappings": {
+            "type": "array",
+            "id": "ListOfCallsignMappings",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "callsign": {
+                        "type": "string"
+                    },
+                    "path": {
+                        "type": "string"
+                    },
+                    "children": {
+                        "$ref": "ListOfCallsignMappings"
+                    }
+                }
+            }
+        },
+        "sourcegraphURL": {
+            "type": "string",
+            "title": "Sourcegraph URL",
+            "description": "The URL of your self-hosted Sourcegraph instance."
+        }
+    }
+}

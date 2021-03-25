@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Gelişmiş Arama"
+   },
+   "Search": {
+      "message": "Ara"
+   },
+   "Search_this_site": {
+      "message": "Yalnızca geçerli web sitesinde ara"
+   },
+   "extDescription": {
+      "message": "Yalnızca geçerli web sitesinde ara."
+   },
+   "extName": {
+      "message": "Search the current site (Sitede Ara)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Seçenekler",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

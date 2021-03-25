@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Avancerad sökning"
+   },
+   "Search": {
+      "message": "Sök"
+   },
+   "Search_this_site": {
+      "message": "Sök endast på den aktuella webbplatsen"
+   },
+   "extDescription": {
+      "message": "Sök endast på den aktuella webbplatsen."
+   },
+   "extName": {
+      "message": "Search the current site (Sök på webbplatsen)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Alternativ",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

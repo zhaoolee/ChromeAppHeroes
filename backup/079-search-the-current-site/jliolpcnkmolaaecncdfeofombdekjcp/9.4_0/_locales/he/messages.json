@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "חיפוש מתקדם"
+   },
+   "Search": {
+      "message": "חיפוש"
+   },
+   "Search_this_site": {
+      "message": "חפש באתר הנוכחי בלבד"
+   },
+   "extDescription": {
+      "message": "חפש באתר הנוכחי בלבד"
+   },
+   "extName": {
+      "message": "Search the current site (חפש באתר)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ אפשרויות",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

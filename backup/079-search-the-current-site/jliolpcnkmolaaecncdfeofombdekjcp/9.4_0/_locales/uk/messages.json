@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Складний пошук"
+   },
+   "Search": {
+      "message": "Пошук"
+   },
+   "Search_this_site": {
+      "message": "Пошук лише на поточному веб-сайті"
+   },
+   "extDescription": {
+      "message": "Пошук лише на поточному веб-сайті."
+   },
+   "extName": {
+      "message": "Search the current site (Пошук на сайті)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Параметри",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

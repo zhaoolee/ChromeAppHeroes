@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Cerca avançada"
+   },
+   "Search": {
+      "message": "Cerca"
+   },
+   "Search_this_site": {
+      "message": "Cerca només al lloc web actual"
+   },
+   "extDescription": {
+      "message": "Cerca només al lloc web actual."
+   },
+   "extName": {
+      "message": "Search the current site (Cerca al lloc)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Opcions",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

@@ -1,0 +1,37 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "js/content.js" ],
+      "matches": [ "*://github.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！’",
+   "differential_fingerprint": "1.442058dc56238973fe3ad3cb08ecffa32fb018de0d646062c4b8879843d25f44",
+   "homepage_url": "https://github.com/fhefh2015/Fast-GitHub",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqPqFCF8XQoRXtQl9o2pLj08pDLTUV2ieKxhqkZKyl0H9VZHgmOJe24/Lc3e0DKAIHuxheYMtd2JW2Tf9Y/dU+/zAOmYRckcD7Ke9fFSxkWsbASL/4omYj17tvuNKVlRUfogzdqvD8RggTPBNDL8rNIk3b7HZN8H0mRoKI4LUsO0lRcDUr7+G3/lMw4CqS1lLs7FJmDGtHg9Z51L+ZM5WEhRgBnwwMumv8P9sBxBDhXmveUSAKkVMJgzu4Wl106Gnx9M2Y2fMgL/U0WVdtQOk5+Wyp+pGLZLlGVQW3J41azMHILoZC7GQNrq4QX/o0OH0xznKrsb3/M7rphxDs9oh/wIDAQAB",
+   "manifest_version": 2,
+   "name": "GitHub加速",
+   "options_page": "",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "page_action": {
+      "default_icon": {
+         "38": "icons/icon38.png"
+      },
+      "default_popup": "",
+      "default_title": "GitHub加速"
+   },
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.3"
+}

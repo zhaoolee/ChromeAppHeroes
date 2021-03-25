@@ -1,0 +1,44 @@
+{
+   "background": {
+      "scripts": [ "js/background.bundle.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "img/icon-128.png",
+         "16": "img/icon-16.png",
+         "48": "img/icon-48.png"
+      },
+      "default_title": "Sourcegraph"
+   },
+   "content_scripts": [ {
+      "js": [ "js/inject.bundle.js" ],
+      "matches": [ "https://github.com/*", "https://sourcegraph.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' blob:; object-src 'self'",
+   "description": "Adds code intelligence to GitHub, GitLab, and other hosts: hovers, definitions, references. For 20+ languages.",
+   "differential_fingerprint": "1.fbaa8c5fd9725e8a358cc6a78363f3102b3f4c2a0e22eb7eb7d585141ebad051",
+   "icons": {
+      "128": "img/icon-128.png",
+      "16": "img/icon-16.png",
+      "48": "img/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCl2X/axNHMbP0K/NCpMzGo/pgBSsHB2xKx6tfohORKtEv2wUMBPmkK3++kirrwYO2f8Ficyq6pjlXV8LjwPSjSw9KZj6bkDn8QNoSdCp6x9i8ZOWPw6UTQ6s54b3rGQNyvrvfD7S6LphxGEx8rNlkjpWKcrvY3+DyoFKHP/hax7wIDAQAB",
+   "manifest_version": 2,
+   "name": "Sourcegraph",
+   "omnibox": {
+      "keyword": "src"
+   },
+   "optional_permissions": [ "tabs", "http://*/*", "https://*/*" ],
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "activeTab", "storage", "contextMenus", "https://github.com/*", "https://sourcegraph.com/*" ],
+   "storage": {
+      "managed_schema": "schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "21.2.23.2125",
+   "web_accessible_resources": [ "img/*", "css/style.bundle.css", "css/branded-style.bundle.css" ]
+}

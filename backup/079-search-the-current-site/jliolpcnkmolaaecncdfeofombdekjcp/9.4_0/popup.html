@@ -1,0 +1,55 @@
+<html><head>
+<style>
+body {text-align:right; padding-bottom: 0.3em; margin-bottom: 0; -webkit-user-select:none; background-color:white; color: navy; text-rendering: optimizeLegibility;
+vertical-align:middle; cursor:default; /*color:-webkit-text;*/}
+@media (-webkit-max-device-pixel-ratio: 1.0) {
+	body {
+		font:menu;
+	}
+}
+form {padding-bottom:0;margin-bottom:0;margin-right:0; white-space: nowrap}
+#inputbox { min-width:20.5em;width:100%; /*calc(100pt+10.25em)*/; margin-right: .65em;
+       /* display: table-cell; width: 100%;*/
+}
+#submitbutton {}
+#advButton {font-size:x-small;padding:0; border:0; background:transparent; text-decoration:underline; color:blue;}
+#advButton:not([disabled]) {cursor:pointer;}
+#advButton:hover {color:blue;}
+#advButton:not([disabled]):active {color:red;}
+#advButton[disabled] {color: gray!important;}
+table,tr,td {padding:0; border:0; margin:0;font-size:1em;}
+table {width:100%}
+#optionsbutton {display:none;}
+#domains {}
+#domains .domain {white-space:nowrap;}
+#domainCheckBoxes {margin:0.4em 0; display:none}
+#domainCheckboxes label {padding: 0.4em 0;}
+#domainCheckboxes span {padding-left:0.4em}
+#domainCheckboxes input:checked + span {text-shadow: 0 0 1pt rgba(0,0,0,0.5);}
+
+label {width:100%; display:block; text-align: left}
+label:hover {background-color: rgba(0, 0, 0, 0.05);}
+
+#permissionBox {-webkit-user-select: text; font-size: 113%; color: black; background: #ffd93b; padding: 2em 1em; text-align: center; margin-top: 1.5em}
+#permissionButton {text-align: center}
+</style>
+</head>
+<body>
+<form id=inputform>
+<table><tr><td><input name="q" spellcheck=false id=inputbox maxlength=2048 autofocus /></td><td width=1% align=left>
+<input type=submit id=submitbutton value="Search" />
+</td></tr></table>
+<table><tr><td>
+<span id="domains">...</span></td><td align=right>
+<button id="advButton" style="display:none"></button></td></tr></table>
+<div id="domainCheckBoxes"></div>
+<script src=punycodeconverter.js></script>
+<script src=functions.js></script>
+<script src=options_storage.js></script>
+<script src=popup.js></script>
+</form>
+<div id=permissionBox style="display: none">
+	<p id=permissionMsg></p>
+	<p><input id=permissionButton type=button/></p>
+</div>
+</body></html>

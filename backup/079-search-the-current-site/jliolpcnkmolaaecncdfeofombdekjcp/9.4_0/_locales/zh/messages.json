@@ -1,0 +1,42 @@
+{
+   "NAME_Extension_Options": {
+      "message": "‘$extension_name$’ 设置",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   },
+   "New_tab": {
+      "message": "在新标签页打开"
+   },
+   "New_window": {
+      "message": "在新窗口打开"
+   },
+   "Open_search_engine_in": {
+      "message": "结果页打开方式:"
+   },
+   "Options_are_saved_automatically": {
+      "message": "这些选项会自动保存。"
+   },
+   "Same_tab": {
+      "message": "当先标签页打开"
+   },
+   "Search_engine": {
+      "message": "搜索引擎:"
+   },
+   "Search_this_site": {
+      "message": "当前站点内搜索"
+   },
+   "extDescription": {
+      "message": "为您提供当前浏览网站的站内搜索功能。"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ 设置",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

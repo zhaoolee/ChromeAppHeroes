@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Tarkennettu haku"
+   },
+   "Search": {
+      "message": "Haku"
+   },
+   "Search_this_site": {
+      "message": "Hae ainoastaan nykyisestä verkkosivustosta"
+   },
+   "extDescription": {
+      "message": "Hae ainoastaan nykyisestä verkkosivustosta."
+   },
+   "extName": {
+      "message": "Search the current site (Sivustohaku)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Asetukset",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

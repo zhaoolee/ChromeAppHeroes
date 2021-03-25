@@ -1,0 +1,68 @@
+﻿<html class="loadingContent">
+<head>
+<title>Search the current site Options</title>
+<style>
+body {background:#eaaa37; margin:0; padding:0.7em; background-image:url("options_background.svg"); background-size: 90% 90%; text-align:center;  vertical-align:middle; text-rendering: optimizeLegibility;}
+@media (-webkit-max-device-pixel-ratio: 1.0) {
+	body {
+		font:menu; font-size:0.95em;
+	}
+}
+h1 {font-size:1.5em; padding-bottom: 1em;}
+h1 img {vertical-align:middle; margin-left:-28px; padding-right:10px;}
+table, tr, td {border:0; vertical-align:top;}
+table, tr, td, button {font-size:1em;}
+
+html.loadingContent {visibility:hidden;}
+html.loadingContent > body > #content {display:none;}
+
+body.loading {cursor: progress;}
+body.loading #options {opacity: 0.4;  pointer-events: none;}
+body.loading label {cursor: inherit;}
+
+#options_table td {padding: 0.2em 0;}
+#options_table td.left {font-weight:bold; white-space:nowrap;}
+#options_table td.right, #options_table img {vertical-align:middle;}
+#options_table label span {margin-left: 0.25em}
+
+#incognitoMsg button {margin:0.1em 0.4em;}
+label {word-wrap: break-word; white-space:nowrap; display:block; position:relative; padding:0.1em 0.4em;}
+label:hover {background:rgba(255,215,0,0.15);}
+label > span {display: inline-block; vertical-align:top;}
+
+#savedAutom, .permissionSync {opacity:.7; white-space:nowrap;}
+
+#content {display:inline-block; padding:0; text-align:left; background:white; color:black; min-width:50%; -webkit-box-shadow:0 0 1em rgba(0,0,0,0.6) inset;}
+#content div {padding:1em;}
+#content #options {-webkit-box-shadow:0 0 1em rgba(0,0,0,0.6) inset; padding-top: 2em; padding-bottom: 0.1em;}
+#content #infos {background:rgba(0,0,0,0.1);}
+#content #infos b {font-weight: normal; text-shadow: 0 0 1pt rgba(0,0,0,0.5);}
+#content #infos #download_more {text-align:right;}
+
+/* for when the page is embedded in the extension manager: */
+body.embedded {padding: 0.7em 3.5em}
+.embedded h1,
+.embedded #download_more,
+.embedded #incognitoMsg {display: none}
+</style>
+</head>
+
+<body class="loading embedded">
+<div id="content">
+<div id="options">
+<h1><img src="icon48.png" alt width=48 height=48 srcset="icon128.png 1.5x" /><span id="headerText">Options</span></h1>
+<table id="options_table">
+</table>
+<p id="savedAutom"></p>
+</div>
+<div id="infos">
+<p><a href="https://chrome.google.com/webstore/detail/jliolpcnkmolaaecncdfeofombdekjcp/reviews" id="linkToWebstoreEntry" target="_blank"></a></p>
+<p><a href="https://chrome.google.com/webstore/detail/jliolpcnkmolaaecncdfeofombdekjcp/support" id=supportForumsLink target="_blank"></a></p>
+<p id="incognitoMsg"></p>
+<p id="download_more"><a href="https://chrome.google.com/webstore/category/extensions" id="webstoreLink" target="_blank"></a></p>
+</div>
+</div>
+<script src="options_storage.js"></script>
+<script src="options.js"></script>
+</body>
+</html>

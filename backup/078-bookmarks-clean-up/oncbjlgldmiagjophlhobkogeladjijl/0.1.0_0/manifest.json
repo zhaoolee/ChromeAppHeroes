@@ -1,0 +1,29 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "32": "icons/icon32.png",
+         "64": "icons/icon64.png"
+      }
+   },
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "description": "Find and remove duplicated bookmarks manually and in batches, get rid of broken bookmark links and empty folders.",
+   "icons": {
+      "128": "icons/icon128.png",
+      "48": "icons/icon48.png",
+      "64": "icons/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh02XMsWE9YKhNyYJXUoVXxQSzpF01OlIj5R/KQaxoZL3hnRVPQFtUVJZRfi0qMngg/qihi1uZg3pcXRQCTPA62k1PQY1VN29jGirPFm3CycMRzIl2wjbYMl/6aJy+kTQJZLJpn+NVWHj90JhyRz4k29htiGYVw6IIbS9TVaORDX/UGuIE5F/aSNe0UWf/X7EbcxFZgfd2ysNUFI8AzNC4QOMKDSZI26ZYsaGv6F3a8IU5fs5fP4WIpZkBR0Ghv4+zGxJ2NxkxL7SVOCECRqVNg2Zjq0ZkiWZcWwMQirZqG8BDpIjaAQLWKOvmF2vwAOKUfYs+4fe916hLeQpCXZUdwIDAQAB",
+   "manifest_version": 2,
+   "name": "Bookmarks clean up",
+   "optional_permissions": [ "http://*/*", "https://*/*" ],
+   "options_ui": {
+      "page": "options.html"
+   },
+   "permissions": [ "activeTab", "storage", "bookmarks" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.0"
+}

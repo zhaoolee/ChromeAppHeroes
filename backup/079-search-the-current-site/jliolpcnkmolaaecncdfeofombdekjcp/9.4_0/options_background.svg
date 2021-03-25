@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: orange" width="100%" height="100%" viewbox="0 0 100 100" preserveaspectratio="none" version="1.1">
+  <filter id="noise" filterUnits="objectBoundingBox" 
+              x="0%" y="0%" width="100%" height="100%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.4" numOctaves="4"  result="turbulence"/>
+        <feColorMatrix type="matrix" in="turbulence"
+           values=".33 .33 .33 0 0 
+                   .33 .33 .33 0 0 
+                   .33 .33 .33 0 0 
+                   .33 .33 .33 0 0"/>
+  </filter>
+  <rect  x="0" y="0" width="100%" height="100%" filter="url(#noise)" opacity="0.6" fill="none" />
+</svg>

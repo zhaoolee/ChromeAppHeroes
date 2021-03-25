@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Speciális keresés"
+   },
+   "Search": {
+      "message": "Keresés"
+   },
+   "Search_this_site": {
+      "message": "Keresés csak az aktuális webhelyen belül"
+   },
+   "extDescription": {
+      "message": "Keresés csak az aktuális webhelyen belül."
+   },
+   "extName": {
+      "message": "Search the current site (Keresés a webhelyen)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Beállítások",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

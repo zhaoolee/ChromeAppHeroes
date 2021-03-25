@@ -1,0 +1,41 @@
+{
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icon/logo128.png",
+         "16": "icon/logo16.png",
+         "32": "icon/logo32.png",
+         "48": "icon/logo48.png"
+      },
+      "default_title": "Powerful Pixiv Downloader"
+   },
+   "content_scripts": [ {
+      "css": [ "style/viewer.min.css", "style/style.css" ],
+      "js": [ "lib/viewer.min.js", "lib/zip.js", "lib/whammy.js", "lib/gif.js", "lib/handlebars.min.js", "lib/jszip-utils.min.js", "lib/jszip.min.js", "lib/js-epub-maker.js", "lib/UPNG.js", "lib/pako.js", "js/content.js", "lib/iconfont.js" ],
+      "matches": [ "*://www.pixiv.net/*" ],
+      "run_at": "document_end"
+   }, {
+      "css": [ "style/style.css" ],
+      "js": [ "js/content.js", "lib/iconfont.js" ],
+      "matches": [ "*://www.pixivision.net/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "强大的 Pixiv 下载器，支持批量下载。強力な Pixiv ダウンローダー。The powerful Pixiv downloader supports batch downloading.",
+   "differential_fingerprint": "1.0c8afe6625f0d13a10237827c324ecd53b849a8fa3427ac6f6e51e6cbb9ab334",
+   "homepage_url": "https://github.com/xuejianxianzun/PixivBatchDownloader",
+   "icons": {
+      "128": "icon/logo128.png",
+      "16": "icon/logo16.png",
+      "32": "icon/logo32.png",
+      "48": "icon/logo48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhcJe7JYbZxOUYjhX6keUsh6H598y6MGqx2ldxfq2Be35GaNbzDV8IV68Ej2aYI4DpZ7CCwx3URMarrG4t9S0lEUFWnfrtPRZPXsIYreWRZIURmqIWawuuUs27/U+9UlOlXGCxojGYN/3/FQpgauWqF1xnSfnrmLN/4tVg2mEQ0BPjBkDrmG8lJgqNRvfSMyvSzgdFutRqlIuWStP1LOOOsnMJXGH7FAGeyqcOssIK80FMMzb7YyWDS3iqBhztXEu2AhBBJC2VkX8Bb4QdnRaSY/oSRR408BsSXsXXuIDwm2+6iSydz/qG69atDBrBBW8geL7qLKjTr+2ldcF82BaGwIDAQAB",
+   "manifest_version": 2,
+   "name": "Powerful Pixiv Downloader",
+   "permissions": [ "downloads", "*://www.pixiv.net/*", "*://www.pixivision.net/*", "*://*.techorus-cdn.com/*", "*://*.pximg.net/*", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "9.8.2",
+   "web_accessible_resources": [ "lib/z-worker.js", "lib/gif.worker.js", "manifest.json" ]
+}

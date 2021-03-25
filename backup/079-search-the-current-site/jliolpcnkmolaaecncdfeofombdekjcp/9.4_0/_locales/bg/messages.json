@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Разширено търсене"
+   },
+   "Search": {
+      "message": "Търсене"
+   },
+   "Search_this_site": {
+      "message": "Търсете само в настоящия уебсайт"
+   },
+   "extDescription": {
+      "message": "Търсете само в настоящия уебсайт."
+   },
+   "extName": {
+      "message": "Search the current site (Търсене в сайта)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Опции",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

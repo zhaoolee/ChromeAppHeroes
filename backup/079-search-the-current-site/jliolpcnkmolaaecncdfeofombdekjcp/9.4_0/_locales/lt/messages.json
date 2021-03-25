@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "Išplėstinė paieška"
+   },
+   "Search": {
+      "message": "Ieškoti"
+   },
+   "Search_this_site": {
+      "message": "Ieškoti tik šiame tinklalapyje"
+   },
+   "extDescription": {
+      "message": "Ieškoti tik šiame tinklalapyje."
+   },
+   "extName": {
+      "message": "Search the current site (Ieškoti svetainėje)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ Parinktys",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

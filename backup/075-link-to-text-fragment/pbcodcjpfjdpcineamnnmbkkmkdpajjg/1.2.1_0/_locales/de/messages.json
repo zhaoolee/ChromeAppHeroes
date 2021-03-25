@@ -1,0 +1,17 @@
+{
+   "copy_link": {
+      "message": "Link zu ausgewähltem Text kopieren"
+   },
+   "extension_description": {
+      "message": "Browser Extension, die das Verlinken auf beliebigen Text auf einer Seite ermöglicht."
+   },
+   "extension_name": {
+      "message": "Link zu Textfragment"
+   },
+   "extension_short_name": {
+      "message": "Textfragment"
+   },
+   "link_failure": {
+      "message": "Ein eindeutiger Link konnte nicht erstellt werden, bitte eine längere Wortsequenz auswählen."
+   }
+}

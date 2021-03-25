@@ -1,0 +1,25 @@
+{
+   "Advanced_search": {
+      "message": "고급 검색"
+   },
+   "Search": {
+      "message": "검색"
+   },
+   "Search_this_site": {
+      "message": "현재 웹사이트에서만 검색"
+   },
+   "extDescription": {
+      "message": "현재 웹사이트에서만 검색."
+   },
+   "extName": {
+      "message": "Search the current site (사이트 검색)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ 옵션",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

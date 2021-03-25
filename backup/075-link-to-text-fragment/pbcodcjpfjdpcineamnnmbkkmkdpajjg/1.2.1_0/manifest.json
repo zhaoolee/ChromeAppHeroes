@@ -1,0 +1,32 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background_script.js" ]
+   },
+   "commands": {
+      "copy_link": {
+         "description": "__MSG_copy_link__"
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "differential_fingerprint": "1.559ae2f0b429ece73f63f3f89f596dc8a03f64295e55df5008e2bae89913c055",
+   "icons": {
+      "1024": "assets/1024x1024.png",
+      "128": "assets/128x128.png",
+      "16": "assets/16x16.png",
+      "180": "assets/180x180.png",
+      "192": "assets/192x192.png",
+      "32": "assets/32x32.png",
+      "512": "assets/512x512.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhVVFLUpzTYoC8v2k81W+QGleRd/8DmZvoMvpXLyN37Y22geFg+FhlzdKnBmCRPvso4InsJTSTvJVHrDxpU3dFyVbo1J7Y1BaVPH6XHe0p84f8jwR4vF8hqZINcjz/5kwgLCxTzmKmbgoZ6iaWlh3mNCHO2Q69MyjQdtaKnbT7tz+neuHp0M+bgMGaJSx+XXzbXpL5R1Wfnn1h7jUUXVrMyV4uvgeGxa8+zmF1zabZ90pXPttCcybobxGY1xjLYmc0O7yqvf7OLOAcHf5EWcpRo/HO5l4FTfWosNJbQlYjhcazzKep6gpRio44gLF7YQ/NKsa7UBRDelwunomB5anhQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "80",
+   "name": "__MSG_extension_name__",
+   "optional_permissions": [ "http://*/*", "https://*/*" ],
+   "permissions": [ "activeTab", "contextMenus", "clipboardWrite" ],
+   "short_name": "__MSG_extension_short_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.1"
+}

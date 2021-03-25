@@ -1,0 +1,17 @@
+{
+   "copy_link": {
+      "message": "Copy Link to Selected Text"
+   },
+   "extension_description": {
+      "message": "Browser extension that allows for linking to arbitrary text on a page."
+   },
+   "extension_name": {
+      "message": "Link to Text Fragment"
+   },
+   "extension_short_name": {
+      "message": "Text Fragment"
+   },
+   "link_failure": {
+      "message": "Couldn't create a unique link, please select a longer sequence of words."
+   }
+}

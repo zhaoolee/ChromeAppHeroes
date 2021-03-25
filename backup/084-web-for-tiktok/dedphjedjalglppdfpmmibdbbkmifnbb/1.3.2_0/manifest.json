@@ -1,0 +1,36 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icon_128.png"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "inject/utils.js", "inject/inject-mobilify.js", "inject/inject.js" ],
+      "matches": [ "*://*.tiktok.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "exclude_matches": [ "*://*.tiktok.com/*" ],
+      "js": [ "inject/utils.js", "inject/inject-redirectToTikTok.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA02gvgHjmiiaV8WKEKASsf8LJRWmMXceCopW5sfeUaWQK6LZqoH3K/hSJmqQrCxYlj+Xw3LF3cEbWubuGbfpQvVOcym1znL9146C+BSilKhc+ZB7vXh97ZyEeGBu50+VgtwcCCmI80n8VVY3Id9T4dC5BXGxp3nWa+1In4CF8LJGvKIJYsxMyDjurnSacFjFCRzI3EzfNUU5YcjBWg4X0+9/3Oqohz0wpotueLcTIYNLhOuuy3OI3i0EX32mNhcj93KdBt6XjEKXEpZuEYxT5q5QD8kpTxB7cKiab+oKwWBubgRIvXsSXnzwCDl6hqBtxLYxFxs4HewYMf5hb7aRDEwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "40",
+   "name": "__MSG_name__",
+   "permissions": [ "downloads", "\u003Call_urls>", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.2",
+   "web_accessible_resources": [ "*.css", "*.js" ]
+}

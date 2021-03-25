@@ -1,0 +1,105 @@
+{
+   "Advanced_search": {
+      "message": "高级搜索"
+   },
+   "Give_permission": {
+      "message": "授予权限..."
+   },
+   "Integrate_in_selection_context_menu": {
+      "message": "在选中文本的右键菜单内提供站内搜索选项"
+   },
+   "Let_choose_site": {
+      "message": "在我浏览子站点时显示站点选择器 (例如\u003Cbr>example.com/blogs/sub-site/)"
+   },
+   "NAME_Extension_Options": {
+      "message": "‘$extension_name$’ 扩展选项",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   },
+   "New_tab": {
+      "message": "新标签页"
+   },
+   "New_window": {
+      "message": "新窗口"
+   },
+   "Not_access_to_all_tabs": {
+      "message": "您选择了多个标签页。目前此扩展程序无权访问所有标签页。"
+   },
+   "On_toolbar_button_click": {
+      "message": "点击按钮时..."
+   },
+   "Open_popup": {
+      "message": "打开弹出界面"
+   },
+   "Open_search_engine_in": {
+      "message": "在何处打开搜索引擎..."
+   },
+   "Open_tab": {
+      "message": "直接打开搜索引擎"
+   },
+   "Options_are_saved_automatically": {
+      "message": "选项会自动保存。"
+   },
+   "Rate_and_review_this_ext": {
+      "message": "在 Chrome 网上应用店打分并评测"
+   },
+   "Same_tab": {
+      "message": "当前标签页"
+   },
+   "Search": {
+      "message": "搜索"
+   },
+   "Search_engine": {
+      "message": "搜索引擎"
+   },
+   "Search_this_site": {
+      "message": "搜索此站点"
+   },
+   "Search_this_site_for_TEXT": {
+      "message": "在此站点搜索“$text$”",
+      "placeholders": {
+         "text": {
+            "content": "$1",
+            "example": "positive externalities"
+         }
+      }
+   },
+   "Selected_text": {
+      "message": "在站点上选择的文本"
+   },
+   "Show_link_for_SOMETHING": {
+      "message": "显示“高级搜索”链接",
+      "placeholders": {
+         "link_text": {
+            "content": "$1",
+            "example": "Advanced Search"
+         }
+      }
+   },
+   "Use_selection": {
+      "message": "预先用选择的文本填充搜索框"
+   },
+   "Visit_the_forums": {
+      "message": "支持论坛 - 报告漏洞、咨询问题或提出建议"
+   },
+   "Yandex": {
+      "message": "Yandex (俄语)"
+   },
+   "extDescription": {
+      "message": "一个使用 Google 搜索任意网站所有页面的工具栏按钮。"
+   },
+   "extName": {
+      "message": "Search the current site (站内搜索)"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "‘$extension_name$’ 选项",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}

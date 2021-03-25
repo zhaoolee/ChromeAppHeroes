@@ -1,0 +1,114 @@
+{
+   "Advanced_search": {
+      "message": "Erweiterte Suche"
+   },
+   "Download_more_extensions": {
+      "message": "Mehr Erweiterungen herunterladen"
+   },
+   "Give_permission": {
+      "message": "Berechtigung erteilen..."
+   },
+   "InfoMsg_HasIncognitoAccess": {
+      "message": "Es ist eingestellt, dass diese Erweiterung \u003Cb>auch in Inkognito-Fenstern\u003C/b> ausgeführt wird. (Sie können das im \u003Cbutton>Erweiterungs-Manager\u003C/button> ändern)"
+   },
+   "InfoMsg_HasNoIncognitoAccess": {
+      "message": "Es ist eingestellt, dass diese Erweiterung \u003Cb>nicht im Inkognito-Modus\u003C/b> ausgeführt wird.  Zum Umstellen setzen Sie im \u003Cbutton>Erweiterungs-Manager\u003C/button> ein Häkchen vor \"Im Inkognitomodus zulassen\"."
+   },
+   "Integrate_in_selection_context_menu": {
+      "message": "Im Kontextmenü von markiertem Text anbieten, die Website danach zu durchsuchen"
+   },
+   "Let_choose_site": {
+      "message": "Wenn auf einer Unter-Site, wie z.B. example.com/blogs/unter_site/, mich auswählen\u003Cbr />lassen welcher Teil der Website durchsucht werden soll"
+   },
+   "NAME_Extension_Options": {
+      "message": "'$extension_name$'-Erweiterungs-Optionen",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   },
+   "New_tab": {
+      "message": "Neuem Tab"
+   },
+   "New_window": {
+      "message": "Neuem Fenster"
+   },
+   "Not_access_to_all_tabs": {
+      "message": "Sie haben mehrere Tabs ausgewählt. Die Erweiterung hat aktuell nicht die Berechtigung, auf alle diese Tabs zuzugreifen."
+   },
+   "On_toolbar_button_click": {
+      "message": "Bei Klick auf Button..."
+   },
+   "Open_popup": {
+      "message": "Popup öffnen"
+   },
+   "Open_search_engine_in": {
+      "message": "Suche öffnen in..."
+   },
+   "Open_tab": {
+      "message": "Gleich Suche öffnen"
+   },
+   "Options_are_saved_automatically": {
+      "message": "Die Optionen werden automatisch gespeichert."
+   },
+   "Rate_and_review_this_ext": {
+      "message": "Bewerten oder rezensieren Sie im Chrome Web Store"
+   },
+   "Same_tab": {
+      "message": "Dem selben Tab"
+   },
+   "Search": {
+      "message": "Suche"
+   },
+   "Search_engine": {
+      "message": "Suchmaschine"
+   },
+   "Search_this_site": {
+      "message": "Website durchsuchen"
+   },
+   "Search_this_site_for_TEXT": {
+      "message": "Website nach \"$text$\" durchsuchen",
+      "placeholders": {
+         "text": {
+            "content": "$1",
+            "example": "positive externalities"
+         }
+      }
+   },
+   "Selected_text": {
+      "message": "Markierter Text auf Websites"
+   },
+   "Show_link_for_SOMETHING": {
+      "message": "Link für „$link_text$” anzeigen",
+      "placeholders": {
+         "link_text": {
+            "content": "$1",
+            "example": "Advanced Search"
+         }
+      }
+   },
+   "Use_selection": {
+      "message": "Suchbox mit auf Webseite markiertem Text füllen"
+   },
+   "Visit_the_forums": {
+      "message": "Support-Forum - Probleme melden, Fragen stellen, neue Features vorschlagen"
+   },
+   "Yandex": {
+      "message": "Yandex (die ist auf russisch)"
+   },
+   "extDescription": {
+      "message": "Durchsuchen Sie beliebige Websites mit Google."
+   },
+   "extName": {
+      "message": "Search the current site"
+   },
+   "short_NAME_Extension_Options": {
+      "message": "'$extension_name$'-Optionen",
+      "placeholders": {
+         "extension_name": {
+            "content": "Search the current site"
+         }
+      }
+   }
+}
