@@ -44,6 +44,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [100《Volume master》完美控制每个网页的音量](https://www.v2fy.com/p/100-volume-master-2021-03-25/)
+
+- [099《Get Favicon》一键获取网站的超清图标](https://www.v2fy.com/p/099-get-favicon-2021-03-22/)
+
 - [098《RSSHub Radar》可以帮助你快速发现和订阅当前网站RSS的浏览器扩展](https://www.v2fy.com/p/098-rsshub-radar-2021-03-02/)
 
 - [097《假装水墨屏》让网页内容变成水墨屏效果](https://www.v2fy.com/p/097-fake-ink-screen-2021-02-27/)
@@ -420,6 +424,17 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+####  [100《Volume master》完美控制每个网页的音量](https://www.v2fy.com/p/100-volume-master-2021-03-25/)
+
+![Volume master](https://cdn.fangyuanxiaozhan.com/assets/1616662116651N3htDez3.gif)
+
+Volume master 是一款功能单一，风评却很好的小工具；它的调整是一次性的，并且只针对一个网页，网页默认音量值是100%， 你可以把它调整到200%，这个200%只对当前网页有效，网页内换视频也可保留200%的效果，不会影响其它网页。
+
+#### [099《Get Favicon》一键获取网站的超清图标](https://www.v2fy.com/p/099-get-favicon-2021-03-22/)
+
+![GetFavicon](https://cdn.fangyuanxiaozhan.com/assets/1616406383461cGX5ryxF.gif)
+
+如果你需要对一些同行业的网站内容或数据，做一些调研，可以将Favicon放到PPT的图表中，展示的效果会一目了然，Favicon将成为你PPT的加分项
 
 #### [098《RSSHub Radar》可以帮助你快速发现和订阅当前网站RSS的浏览器扩展](https://www.v2fy.com/p/098-rsshub-radar-2021-03-02/)
 
