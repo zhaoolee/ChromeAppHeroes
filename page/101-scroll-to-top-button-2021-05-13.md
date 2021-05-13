@@ -27,7 +27,7 @@ PC网站的导航栏在页面顶部，且不会保持在窗口顶部，当用户
 
 ### 2. 选择双箭头，并保存
 
-![选择双箭头并保持](https://cdn.fangyuanxiaozhan.com/assets/1620905273335BDFKhXWc.png)
+![选择双箭头并保存](https://cdn.fangyuanxiaozhan.com/assets/1620905273335BDFKhXWc.png)
 
 ### 3. 键盘配置
 
