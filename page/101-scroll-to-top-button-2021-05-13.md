@@ -1,8 +1,10 @@
 ---
-title: 101《ScrollToTopButton》一键滚动到页面顶部或底部
+title: 101《Scroll To Top Button》一键滚动到页面顶部或底部
 ---
 
+PC网站的导航栏在页面顶部，且不会保持在窗口顶部，当用户看完页面，想使用导航切换页面时，需要滚轮滑动多次，返回顶部，非常不方便。
 
+而Scroll To Top Button这款工具，就可以一键返回页面顶部，或千万页面底部，非常方便！
 
 
 ## 使用浮动按钮，控制滚动到页面顶部或底部
@@ -30,7 +32,8 @@ title: 101《ScrollToTopButton》一键滚动到页面顶部或底部
 
 ![键盘配置](https://cdn.fangyuanxiaozhan.com/assets/16208990788242b6SZs1f.png)
 
-## 《ScrollToTopButton》 下载链接
+
+## 《Scroll To Top Button》 下载链接
 
 <table style="table-layout: fixed;">
 <tbody>
@@ -66,7 +69,7 @@ title: 101《ScrollToTopButton》一键滚动到页面顶部或底部
 
 ## 小结
 
-
+Scroll To Top Button是一款开源的小程序, 可以在Github直接找到源码，代码实现简单，且实现方式丰富多彩。《Scroll To Top Button》的确给用户带来了便捷，让用户浏览各种古老网站也极其舒适，软件配置也非常简单，zhaoolee希望这样的软件越多越好～
 
 
 
