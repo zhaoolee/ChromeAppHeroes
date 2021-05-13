@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [101《Scroll To Top Button》一键滚动到页面顶部或底部](https://www.v2fy.com/p/101-scroll-to-top-button-2021-05-13/)
+
 - [100《Volume master》完美控制每个网页的音量](https://www.v2fy.com/p/100-volume-master-2021-03-25/)
 
 - [099《Get Favicon》一键获取网站的超清图标](https://www.v2fy.com/p/099-get-favicon-2021-03-22/)
@@ -423,6 +425,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [101《Scroll To Top Button》一键滚动到页面顶部或底部](https://www.v2fy.com/p/101-scroll-to-top-button-2021-05-13/)
+
+![使用浮动按钮](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1620898515042zEKXbxwM.gif)
+
+PC网站的导航栏在页面顶部，且不会保持在窗口顶部，当用户看完页面，想使用导航切换页面时，需要滚轮滑动多次，返回顶部，非常不方便。而Scroll To Top Button这款工具，就可以一键返回页面顶部，或页面底部，非常方便！
+
 
 ####  [100《Volume master》完美控制每个网页的音量](https://www.v2fy.com/p/100-volume-master-2021-03-25/)
 

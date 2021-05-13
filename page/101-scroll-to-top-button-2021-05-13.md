@@ -10,7 +10,6 @@ PC网站的导航栏在页面顶部，且不会保持在窗口顶部，当用户
 ![使用浮动按钮](https://cdn.fangyuanxiaozhan.com/assets/1620898515042zEKXbxwM.gif)
 
 
-
 ## 使用键盘Alt+上箭头/Alt+下箭头，控制滚动到页面顶部或底部
 
 ![Alt+上箭头/Alt+下箭头](https://cdn.fangyuanxiaozhan.com/assets/1620898044100ns0ZYziD.gif)
