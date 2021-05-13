@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [102《特别篇：手机如何使用Chrome插件》手机端如何屏蔽知乎广告](https://www.v2fy.com/p/102-mobile-2021-05-13/)
+
 - [101《Scroll To Top Button》一键滚动到页面顶部或底部](https://www.v2fy.com/p/101-scroll-to-top-button-2021-05-13/)
 
 - [100《Volume master》完美控制每个网页的音量](https://www.v2fy.com/p/100-volume-master-2021-03-25/)
@@ -425,6 +427,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [102《特别篇：手机如何使用Chrome插件》手机端如何屏蔽知乎广告](https://www.v2fy.com/p/102-mobile-2021-05-13/)
+
+
+![愉快刷无广告的知乎](https://cdn.fangyuanxiaozhan.com/assets/1620907890920NeYH5EWJ.gif)
+
+安装扩展程序后的kiwi浏览器， 基本访问任何网站都看不到广告～
 
 #### [101《Scroll To Top Button》一键滚动到页面顶部或底部](https://www.v2fy.com/p/101-scroll-to-top-button-2021-05-13/)
 
