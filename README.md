@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [103《Marinara 番茄工作法（Pomodoro®）助理》奇妙番茄钟, 提醒打工人及时休息](https://www.v2fy.com/p/103-marinara-2021-05-14/)
+
 - [102《特别篇：手机如何使用Chrome插件》手机端如何屏蔽知乎广告](https://www.v2fy.com/p/102-mobile-2021-05-13/)
 
 - [101《Scroll To Top Button》一键滚动到页面顶部或底部](https://www.v2fy.com/p/101-scroll-to-top-button-2021-05-13/)
@@ -427,6 +429,15 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [103《Marinara 番茄工作法（Pomodoro®）助理》奇妙番茄钟, 提醒打工人及时休息](https://www.v2fy.com/p/103-marinara-2021-05-14/)
+
+
+
+![基本操作](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/16209826958803MSZmPCt.gif)
+
+
+番茄工作法（Pomodoro®）助理是一个好用的小工具, 开源免费跨平台, 使用番茄工作法, 能让打工人的精力得到合理利用, 避免过度疲劳.
 
 #### [102《特别篇：手机如何使用Chrome插件》手机端如何屏蔽知乎广告](https://www.v2fy.com/p/102-mobile-2021-05-13/)
 
