@@ -1,0 +1,1052 @@
+{
+   "airplane": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Lentokone"
+   },
+   "analog_alarm_clock": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Herätyskello"
+   },
+   "and": {
+      "description": "Connector of 'Chris Schmich & Contributors'. Shown on the settings-feedback page.",
+      "message": "&"
+   },
+   "antique_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Antiikkikello"
+   },
+   "app_desc": {
+      "description": "The short description of the application. Shown in the web store.",
+      "message": "Pomodoro® ajanhallinta-apulainen."
+   },
+   "app_name": {
+      "description": "The name of the application. Shown in the web store.",
+      "message": "Marinana: Pomodoro®-apulainen"
+   },
+   "app_name_short": {
+      "description": "The short name of the application. Shown at the top of the dropdown menu.",
+      "message": "Marinara"
+   },
+   "april": {
+      "description": "April. Shown on the settings-history page.",
+      "message": "Huhtikuu"
+   },
+   "april_short": {
+      "description": "April abbreviated. Shown on the settings-history page.",
+      "message": "Huhti"
+   },
+   "attributions": {
+      "description": "Link to audio attributions. Shown on the settings-feedback page.",
+      "message": "Attribuutiot"
+   },
+   "august": {
+      "description": "August. Shown on the settings-history page.",
+      "message": "Elokuu"
+   },
+   "august_short": {
+      "description": "August abbreviated. Shown on the settings-history page.",
+      "message": "Elo"
+   },
+   "autostart_description": {
+      "description": "Autostart setting description. Shown on the settings page.",
+      "message": "Ajasta Pomodoro alkamaan automaattisesti ennalta määrättynä aikana"
+   },
+   "autostart_notification_message": {
+      "description": "Autostart notification message. Shown in browser notifications when the autostart Pomodoro starts.",
+      "message": "Tämä ajastettu Pomodoro käynnistettiin automaattisesti"
+   },
+   "autostart_notification_title": {
+      "description": "Autostart notification title. Shown in browser notifications when the autostart Pomodoro starts.",
+      "message": "Käynnistä Pomodoro automaattisesti"
+   },
+   "autostart_title": {
+      "description": "Autostart section header. Shown on the settings page.",
+      "message": "Automaattikäynnistys"
+   },
+   "average_stat": {
+      "description": "Average Pomodoro completion stats label (abbreviated). Shown on the settings-history page.",
+      "message": "$average$ ka",
+      "placeholders": {
+         "average": {
+            "content": "$1",
+            "example": "7.33"
+         }
+      }
+   },
+   "battle_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Torvi"
+   },
+   "bell_ring": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Kellonsoitto 1"
+   },
+   "bike_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Polkupyörän torvi"
+   },
+   "bpm": {
+      "description": "Beats per minute; speed unit for timer sound. Shown on the settings page.",
+      "message": "iskuja minuutissa"
+   },
+   "brown_noise": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Ruskea häly"
+   },
+   "browser_action_tooltip": {
+      "description": "Browser action tooltip format with title and text. Title is usually timer phase (break, focus) while text is usually timer status (time remaining, paused).",
+      "message": "$title$: $text$",
+      "placeholders": {
+         "text": {
+            "content": "$2",
+            "example": "5m remaining"
+         },
+         "title": {
+            "content": "$1",
+            "example": "Short Break"
+         }
+      }
+   },
+   "chrome_web_store_description": {
+      "description": "Detailed extension description shown to users in the Chrome Web Store.",
+      "message": "• Lyhyet & pitkät tauot\n• Työkalupalkin ikoni ajastimella\n• Seuraa Pomodoro-historiaa & tilastoja\n• Säädettävä pitkien taukojen pituus\n• Säädettävät ajastusasetukset\n• Notifikaatiot työpöydälle tai välilehdelle\n• Yli 20 erilaista hälytinääntä\n• Ajastimen tikityksen äänet\n• Automaattinen ajastus\n• Avoimen lähdekoodin ohjelmisto"
+   },
+   "clear_history": {
+      "description": "Clear History button. Shown on the settings-history page.",
+      "message": "Tyhjennä historia"
+   },
+   "clear_history_confirmation": {
+      "description": "Clear history confirmation prompt. Shown when user clicks Clear History on the settings-history page.",
+      "message": "Haluatko poistaa Pomodoro-historiasi pysyvästi?"
+   },
+   "clear_history_description": {
+      "description": "Clear history description. Shown on the settings-history page.",
+      "message": "Tuhoa koko Pomodoro-historiasi pysyvästi."
+   },
+   "clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Kello"
+   },
+   "completed_today": {
+      "description": "Label for today's completed Pomodoro count. Shown on the timer expiration page.",
+      "message": "Suoritettu tänään"
+   },
+   "computer_magic": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Tietokonetaikaa"
+   },
+   "contributors": {
+      "description": "Part of 'Chris Schmich & Contributors'. Shown on the settings-feedback page.",
+      "message": "avustajat"
+   },
+   "countdown": {
+      "description": "Countdown page title. Shown on the countdown timer page.",
+      "message": "Aika"
+   },
+   "countdown_autoclose_tab": {
+      "description": "Countdown timer option. Specifies if the countdown tab should close when the session ends. Shown on the settings page.",
+      "message": "Sulje välilehti kun istunto päättyy"
+   },
+   "countdown_autoclose_window": {
+      "description": "Countdown timer option. Specifies if the countdown window should close when the session ends. Shown on the settings page.",
+      "message": "Sulje ikkuna kun istunto päättyy"
+   },
+   "countdown_timer": {
+      "description": "Countdown timer label. Shown on the settings page.",
+      "message": "Ajastin:"
+   },
+   "custom": {
+      "description": "Countdown timer resolution option. Lets the user specify their own countdown window resolution. Shown on the settings page.",
+      "message": "Mukautettu"
+   },
+   "daily_distribution": {
+      "description": "Daily distribution section header. Shown on the settings-history page.",
+      "message": "Päivittäinen jakauma"
+   },
+   "daily_empty_placeholder": {
+      "description": "Placeholder for daily stats when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "Tee Pomodoro nähdäksesi päivittäistilastosi"
+   },
+   "daily_tooltip": {
+      "description": "Tooltip for daily distribution chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ $start$-$end$ välillä",
+      "placeholders": {
+         "end": {
+            "content": "$3",
+            "example": "10:00a"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "15 Pomodoros"
+         },
+         "start": {
+            "content": "$2",
+            "example": "9:00a"
+         }
+      }
+   },
+   "date_format": {
+      "description": "Date-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%-d.%-m.%Y"
+   },
+   "date_time_format": {
+      "description": "Date-with-time format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%x, %X"
+   },
+   "december": {
+      "description": "December. Shown on the settings-history page.",
+      "message": "Joulukuu"
+   },
+   "december_short": {
+      "description": "December abbreviated. Shown on the settings-history page.",
+      "message": "Joulu"
+   },
+   "decimal_separator": {
+      "description": "Separator for fractional numbers (e.g. three-and-a-half: 3.5).",
+      "message": ","
+   },
+   "desk_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Pöytäkello"
+   },
+   "digital_alarm_clock": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Digitaalinen herätyskello"
+   },
+   "digital_watch": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Digitaalikello"
+   },
+   "ding": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Pim"
+   },
+   "ding_dong": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Pim pom"
+   },
+   "disclaimer": {
+      "description": "Disclaimer footer text. Shown on the settings-feedback page.",
+      "message": "Pomodoro® ja The Pomodoro Technique® ovat Francesco Cirillon tavaramerkkejä. Marinara ei liity tai ole Pomodoro®, The Pomodoro Technique® tai Francesco Cirillon tukema tai hyväksymä."
+   },
+   "do_not_show": {
+      "description": "Countdown timer visibility option. Shown on the settings page.",
+      "message": "Älä näytä"
+   },
+   "dong": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Pom"
+   },
+   "duration": {
+      "description": "Timer duration label. Shown on the settings page.",
+      "message": "Kesto:"
+   },
+   "duration_seconds": {
+      "description": "CSV column header for the Pomodoro's duration in seconds.",
+      "message": "Kesto (sekunteja)"
+   },
+   "electronic_chime": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Elektroninen helähdys"
+   },
+   "end_date": {
+      "description": "CSV column header for the Pomodoro's end date in YYYY-MM-DD format.",
+      "message": "Loppupäivämäärä"
+   },
+   "end_iso_8601": {
+      "description": "CSV column header for the Pomodoro's end time formatted to the ISO 8601 standard. See https://en.wikipedia.org/wiki/ISO_8601.",
+      "message": "Loppu (ISO 8601)"
+   },
+   "end_time": {
+      "description": "CSV column header for the Pomodoro's end time formatted as time on a 24-hour clock.",
+      "message": "Loppuaika (24 tuntinen)"
+   },
+   "end_timestamp": {
+      "description": "CSV column header for the Pomodoro's end time formatted as a Unix timestamp. See https://en.wikipedia.org/wiki/Unix_time.",
+      "message": "Loppuaikaleima (Unix)"
+   },
+   "end_timezone": {
+      "description": "CSV column header for the Pomodoro's end timezone defined as the GMT/UTC (Coordinated Universal Time) offset, measured in minutes.",
+      "message": "Loppuajan aikavyöhyke (minuutteja suhteessa UTC:hen)"
+   },
+   "error_saving_settings": {
+      "description": "Shown to the user in an alert when settings can't be saved due to user input error or unexpected error.",
+      "message": "Virhe asetusten tallennuksessa: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$1",
+            "example": "Duration must be a positive number."
+         }
+      }
+   },
+   "every_10th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "joka 10. tauko"
+   },
+   "every_2nd_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "joka 2. tauko (vuorotteleva)"
+   },
+   "every_3rd_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "joka 3. tauko"
+   },
+   "every_4th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "joka 4. tauko"
+   },
+   "every_5th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "joka 5. tauko"
+   },
+   "every_6th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "joka 6. tauko"
+   },
+   "every_7th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "joka 7. tauko"
+   },
+   "every_8th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "joka 8. tauko"
+   },
+   "every_9th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "joka 9. tauko"
+   },
+   "expire_title": {
+      "description": "Expiration page title. Shown on the expiration page when a focus/break session completes.",
+      "message": "Valmis"
+   },
+   "export": {
+      "description": "Export (history) button. Shown on the settings-history page.",
+      "message": "Vie"
+   },
+   "export_description": {
+      "description": "Export history description. Shown on the settings-history page.",
+      "message": "Varmuuskopioi tai siirrä toiselle tietokoneelle."
+   },
+   "february": {
+      "description": "February. Shown on the settings-history page.",
+      "message": "Helmikuu"
+   },
+   "february_short": {
+      "description": "February abbreviated. Shown on the settings-history page.",
+      "message": "Helmi"
+   },
+   "feedback": {
+      "description": "Feedback tab and section header. Shown on the settings page.",
+      "message": "Palaute"
+   },
+   "fire_pager": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Palohälytin"
+   },
+   "focus": {
+      "description": "Focus section header. Shown on the settings page.",
+      "message": "Keskittymisjakso"
+   },
+   "friday": {
+      "description": "Friday. Shown on the settings-history page.",
+      "message": "Perjantai"
+   },
+   "friday_short": {
+      "description": "Friday abbreviated. Shown on the settings-history page.",
+      "message": "pe"
+   },
+   "fullscreen": {
+      "description": "Countdown timer resolution option for a fullscreen (maximized) countdown timer. Shown on the settings page.",
+      "message": "Koko näyttö"
+   },
+   "glass_ping": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Lasinhelähdys"
+   },
+   "gong_1": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Gongi 1"
+   },
+   "gong_2": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Gongi 2"
+   },
+   "group_pomodoros_hour_buckets": {
+      "description": "Daily distribution bucket tooltip. Shown on the settings-history page.",
+      "message": "Järjestä Pomodorot $count$ tunnin osiin",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "group_pomodoros_minute_buckets": {
+      "description": "Daily distribution bucket tooltip. Shown on the settings-history page.",
+      "message": "Järjestä Pomodorot $count$ minuutin osiin",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "heatmap_date_format": {
+      "description": "Heatmap tooltip date format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the settings-history page.",
+      "message": "%A, %d %B, %Y"
+   },
+   "heatmap_tooltip": {
+      "description": "Tooltip for heatmap chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ $date$",
+      "placeholders": {
+         "date": {
+            "content": "$2",
+            "example": "Jun 07, 2017"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "25 Pomodoros"
+         }
+      }
+   },
+   "height": {
+      "description": "Height input placeholder. Refers to countdown window height in pixels.",
+      "message": "Korkeus"
+   },
+   "help_translate": {
+      "description": "Feedback link. Shown on settings-feedback page.",
+      "message": "Auta kääntämään"
+   },
+   "history": {
+      "description": "History tab. Shown on the settings page.",
+      "message": "Historia"
+   },
+   "history_empty_placeholder": {
+      "description": "Placeholder for history heatmap when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "Tee Pomodoro nähdäksesi historiasi"
+   },
+   "hour_format": {
+      "description": "Hour-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the daily distribution chart on the settings-history page.",
+      "message": "%-H"
+   },
+   "hour_minute_format": {
+      "description": "Hour-with-minutes format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown in the daily distribution chart tooltips on the settings-history page.",
+      "message": "%-H.%M"
+   },
+   "hover_preview": {
+      "description": "Hover to preview note. Shown on the settings page.",
+      "message": "Vie kursori tähän esikuunnellaksesi"
+   },
+   "hr_suffix": {
+      "description": "Number with hour suffix (abbreviated). Shown on the settings-history page.",
+      "message": "$count$ t",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "import": {
+      "description": "Import (history) button. Shown on the settings-history page.",
+      "message": "Tuo"
+   },
+   "import_confirmation": {
+      "description": "Import history confirmation prompt. Shown on the settings-history page.",
+      "message": "Tuotava tiedosto yhdistetään olemassaolevaan historiaasi. Haluatko jatkaa?"
+   },
+   "import_description": {
+      "description": "Import history description. Shown on the settings-history page.",
+      "message": "Tuo & yhdistä Pomodoro-historia varmuuskopiosta."
+   },
+   "import_failed": {
+      "description": "Error message shown when history import fails. Shown on the settings-history page.",
+      "message": "Historian tuonti epäonnistui: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1",
+            "example": "Missing Pomodoro data."
+         }
+      }
+   },
+   "in_month": {
+      "description": "Label for Pomodoro monthly stats, e.g. '5 Pomodoros / In January'. Shown on the settings-history page.",
+      "message": "$month$ssa",
+      "placeholders": {
+         "month": {
+            "content": "$1",
+            "example": "January"
+         }
+      }
+   },
+   "invalid_duration_data": {
+      "description": "Error when imported history has invalid duration information.",
+      "message": "Virheelliset tiedot kestoista."
+   },
+   "invalid_pomodoro_data": {
+      "description": "Error when imported history has invalid Pomodoro information.",
+      "message": "Virheelliset Pomodoro-tiedot."
+   },
+   "invalid_timezone_data": {
+      "description": "Error when imported history has invalid timezone information.",
+      "message": "Virheelliset aikavyöhyketiedot."
+   },
+   "january": {
+      "description": "January. Shown on the settings-history page.",
+      "message": "Tammikuu"
+   },
+   "january_short": {
+      "description": "January abbreviated. Shown on the settings-history page.",
+      "message": "Tammi"
+   },
+   "july": {
+      "description": "July. Shown on the settings-history page.",
+      "message": "Heinäkuu"
+   },
+   "july_short": {
+      "description": "July abbreviated. Shown on the settings-history page.",
+      "message": "Heinä"
+   },
+   "june": {
+      "description": "June. Shown on the settings-history page.",
+      "message": "Kesäkuu"
+   },
+   "june_short": {
+      "description": "June abbreviated. Shown on the settings-history page.",
+      "message": "Kesä"
+   },
+   "large_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Iso kello"
+   },
+   "last_9_months": {
+      "description": "Last 9 months section header. Shown on the settings-history page.",
+      "message": "$count$ edellisen 9 kuukauden aikana",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "No Pomodoros"
+         }
+      }
+   },
+   "less_than_minute": {
+      "description": "Badge tooltip and overlay text when timer has less than 1 minute remaining.",
+      "message": "\u003C1 min"
+   },
+   "license": {
+      "description": "Link to source license. Shown on the settings-feedback page.",
+      "message": "Lisenssi"
+   },
+   "long_break": {
+      "description": "Long Break section header. Shown on the settings page.",
+      "message": "Pitkä tauko"
+   },
+   "march": {
+      "description": "March. Shown on the settings-history page.",
+      "message": "Maaliskuu"
+   },
+   "march_short": {
+      "description": "March abbreviated. Shown on the settings-history page.",
+      "message": "Maalis"
+   },
+   "marinara_pomodoro_assistant": {
+      "description": "Settings page title.",
+      "message": "Marinara: Pomodoro-apulainen"
+   },
+   "may": {
+      "description": "May. Shown on the settings-history page.",
+      "message": "Toukokuu"
+   },
+   "may_short": {
+      "description": "May abbreviated. Shown on the settings-history page.",
+      "message": "Touko"
+   },
+   "metronome": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Metronomi"
+   },
+   "min_suffix": {
+      "description": "Number with minute suffix (abbreviated). Shown on the settings-history page.",
+      "message": "$count$ min",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "minutes": {
+      "description": "Minutes label for timer duration. Shown on the settings page.",
+      "message": "minuutit"
+   },
+   "mismatched_pomodoro_duration_data": {
+      "description": "Error when imported history has mismatched Pomodoro/duration data.",
+      "message": "Epäyhtenäiset Pomodoro/kesto-tiedot."
+   },
+   "mismatched_pomodoro_timezone_data": {
+      "description": "Error when imported history has mismatched Pomodoro/timezone data.",
+      "message": "Epäyhtenäiset Pomodoro/aikavyöhyke-tiedot."
+   },
+   "missing_duration_data": {
+      "description": "Error when imported history has no Pomodoro duration information.",
+      "message": "Puuttuvat tiedot kestoista."
+   },
+   "missing_pomodoro_data": {
+      "description": "Error when imported history has no Pomodoro information.",
+      "message": "Puuttuvat Pomodoro-tiedot."
+   },
+   "missing_timezone_data": {
+      "description": "Error when imported history has no Pomodoro timezone information.",
+      "message": "Puuttuvat aikavyöhyketiedot."
+   },
+   "monday": {
+      "description": "Monday. Shown on the settings-history page.",
+      "message": "Maanantai"
+   },
+   "monday_short": {
+      "description": "Monday abbreviated. Shown on the settings-history page.",
+      "message": "ma"
+   },
+   "music_box": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Soittorasia"
+   },
+   "n_minutes": {
+      "description": "Badge tooltip and overlay text when timer has least 1 minute remaining.",
+      "message": "$count$ min",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "never": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "ei ikinä"
+   },
+   "noise": {
+      "description": "Timer sound group name. Shown in the timer sound dropdown in settings.",
+      "message": "Häly"
+   },
+   "none": {
+      "description": "The 'no sound' option. Represents nothing selected. Shown on the settings page.",
+      "message": "Ei ääntä"
+   },
+   "november": {
+      "description": "November. Shown on the settings-history page.",
+      "message": "Marraskuu"
+   },
+   "november_short": {
+      "description": "November abbreviated. Shown on the settings-history page.",
+      "message": "Marras"
+   },
+   "october": {
+      "description": "October. Shown on the settings-history page.",
+      "message": "Lokakuu"
+   },
+   "october_short": {
+      "description": "October abbreviated. Shown on the settings-history page.",
+      "message": "Loka"
+   },
+   "pause_timer": {
+      "description": "Menu entry to pause the current timer. Shown in the dropdown menu.",
+      "message": "Keskeytä ajastin"
+   },
+   "periodic_beat": {
+      "description": "Timer sound group name. Shown in the timer sound dropdown in settings.",
+      "message": "Tasainen lyönti"
+   },
+   "pin_drop": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Neulan tipahdus"
+   },
+   "pink_noise": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Pinkki häly"
+   },
+   "play_audio_notification": {
+      "description": "Audio notification label. Shown on the settings page.",
+      "message": "Soita ääni:"
+   },
+   "pomodoro_assistant": {
+      "description": "Marinara title tagline. Shown on the settings-feedback page.",
+      "message": "Pomodoro-apulainen"
+   },
+   "pomodoro_count_many": {
+      "description": "Label for many Pomodoros. Shown on the expiration page.",
+      "message": "$count$ Pomodoroa",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "10"
+         }
+      }
+   },
+   "pomodoro_count_one": {
+      "description": "Label for a single Pomodoro. Shown on the expiration page.",
+      "message": "1 Pomodoro"
+   },
+   "pomodoro_count_zero": {
+      "description": "Label for zero Pomodoros. Shown on the expiration page.",
+      "message": "Ei Pomodoroja"
+   },
+   "pomodoro_history": {
+      "description": "Menu entry to view Pomodoro history/stats. Shown in the dropdown menu.",
+      "message": "Pomodoro-historia"
+   },
+   "pomodoros_completed_today": {
+      "description": "Daily Pomodoro counter. Should be short enough to fit in browser notification box. Shown in browser notifications.",
+      "message": "$pomodoros$ tänään",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "1 Pomodoro"
+         }
+      }
+   },
+   "pomodoros_imported": {
+      "description": "Count of Pomodoros imported. Shown in prompt after importing/merging Pomodoro history.",
+      "message": "$pomodoros$ tuotu.",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "3 Pomodoros"
+         }
+      }
+   },
+   "pomodoros_until_long_break": {
+      "description": "Pomodoro long break countdown. Shown on the timer expiration page and in browser notifications.",
+      "message": " $pomodoros$ pitkään taukoon",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "5 Pomodoros"
+         }
+      }
+   },
+   "pulse": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Pulssi"
+   },
+   "reception_bell": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Kellonsoitto 2"
+   },
+   "release_notes": {
+      "description": "Link to GitHub release notes. Shown on the settings-feedback page.",
+      "message": "Julkaisutiedot"
+   },
+   "report_an_issue": {
+      "description": "Link to report an issue on GitHub. Shown on the settings-feedback page.",
+      "message": "Ilmoita ongelmasta"
+   },
+   "restart_pomodoro_cycle": {
+      "description": "Menu entry to restart the current Pomodoro cycle. Shown in the dropdown menu.",
+      "message": "Käynnistä Pomodoro-jakso alusta"
+   },
+   "restart_timer": {
+      "description": "Menu entry to restart the current timer. Shown in the dropdown menu.",
+      "message": "Käynnistä ajastin alusta"
+   },
+   "resume_timer": {
+      "description": "Menu entry to resume the paused timer. Shown in the dropdown menu.",
+      "message": "Jatka jaksoa"
+   },
+   "robot_blip_1": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Robotti 1"
+   },
+   "robot_blip_2": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Robotti 2"
+   },
+   "saturday": {
+      "description": "Saturday. Shown on the settings-history page.",
+      "message": "Lauantai"
+   },
+   "saturday_short": {
+      "description": "Saturday abbreviated. Shown on the settings-history page.",
+      "message": "la"
+   },
+   "save_as_csv": {
+      "description": "Save as CSV button (.csv, comma-separated value file format). Shown on the settings-history page.",
+      "message": "Tallenna CSV-tiedostona"
+   },
+   "save_as_csv_description": {
+      "description": "Save as CSV description. Shown on the settings-history page.",
+      "message": "Käytä Excelin, Google Sheetsin, tai muun taulukkolaskentaohjelmiston kanssa."
+   },
+   "september": {
+      "description": "September. Shown on the settings-history page.",
+      "message": "Syyskuu"
+   },
+   "september_short": {
+      "description": "September abbreviated. Shown on the settings-history page.",
+      "message": "Syys"
+   },
+   "settings": {
+      "description": "Settings tab. Shown on the settings page.",
+      "message": "Asetukset"
+   },
+   "settings_saved": {
+      "description": "Settings Saved notification shown on settings page when settings are saved.",
+      "message": "Asetukset tallennettu"
+   },
+   "ship_bell": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Laivakello"
+   },
+   "short_break": {
+      "description": "Short Break section header. Shown on the settings page.",
+      "message": "Lyhyt tauko"
+   },
+   "show_desktop_notification": {
+      "description": "Desktop notification option. Shown on the settings page.",
+      "message": "Näytä ilmoitus työpöydällä"
+   },
+   "show_in_tab": {
+      "description": "Countdown timer visibility option. Shown on the settings page.",
+      "message": "Näytä uudessa välilehdessä"
+   },
+   "show_in_window": {
+      "description": "Countdown timer visibility option. Shown on the settings page.",
+      "message": "Näytä popup-ikkunassa"
+   },
+   "show_new_tab_notification": {
+      "description": "New tab notification option. Shown on the settings page.",
+      "message": "Näytä ilmoitus uudella välilehdellä"
+   },
+   "small_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Pieni kello"
+   },
+   "source_code": {
+      "description": "Link to GitHub source code. Shown on the settings-feedback page.",
+      "message": "Lähdekoodi"
+   },
+   "speed_label": {
+      "description": "Timer sound speed label. Shown on the settings page.",
+      "message": "Nopeus:"
+   },
+   "start_break": {
+      "description": "Start a break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "Aloita tauko"
+   },
+   "start_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "Aloita tauko nyt"
+   },
+   "start_focusing": {
+      "description": "Start a focus session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "Aloita keskittymisjakso"
+   },
+   "start_focusing_now": {
+      "description": "Notification button text when break timer expires.",
+      "message": "Aloita keskittyminen nyt"
+   },
+   "start_long_break": {
+      "description": "Start a long break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "Aloita pitkä tauko"
+   },
+   "start_long_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "Aloita pitkä tauko nyt"
+   },
+   "start_pomodoro_cycle": {
+      "description": "Menu entry to start a new Pomodoro cycle. Shown in the dropdown menu.",
+      "message": "Käynnistä Pomodoro-jakso"
+   },
+   "start_short_break": {
+      "description": "Start a short break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "Aloita lyhyt tauko"
+   },
+   "start_short_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "Aloita lyhyt tauko nyt"
+   },
+   "stop_timer": {
+      "description": "Menu entry to stop the current timer. Shown in the dropdown menu.",
+      "message": "Pysäytä ajastin"
+   },
+   "stopwatch": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Sekuntikello"
+   },
+   "sunday": {
+      "description": "Sunday. Shown on the settings-history page.",
+      "message": "Sunnuntai"
+   },
+   "sunday_short": {
+      "description": "Sunday abbreviated. Shown on the settings-history page.",
+      "message": "su"
+   },
+   "take_a_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "Pidä tauko"
+   },
+   "take_a_long_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "Pidä pitkä tauko"
+   },
+   "take_a_long_break_setting": {
+      "description": "Long break settings label. Shown on the settings page.",
+      "message": "Pidä pitkä tauko:"
+   },
+   "take_a_short_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "Pidä lyhyt tauko"
+   },
+   "this_month": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "Tässä kuussa"
+   },
+   "this_week": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "Tällä viikolla"
+   },
+   "thousands_separator": {
+      "description": "Group separator for large numbers (e.g. two thousand: 2,000).",
+      "message": " "
+   },
+   "thursday": {
+      "description": "Thursday. Shown on the settings-history page.",
+      "message": "Torstai"
+   },
+   "thursday_short": {
+      "description": "Thursday abbreviated. Shown on the settings-history page.",
+      "message": "to"
+   },
+   "time": {
+      "description": "Time input label. Shown on the settings page.",
+      "message": "Aika:"
+   },
+   "time_format": {
+      "description": "Time-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "\n%-H.%M.%S"
+   },
+   "time_remaining": {
+      "description": "Badge tooltip to show time remaining for current timer.",
+      "message": "$time$ jäljellä",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "5m"
+         }
+      }
+   },
+   "timer_paused": {
+      "description": "Tooltip to indicate the current timer is paused. Shown when hovering over the toolbar icon.",
+      "message": "Ajastin keskeytetty"
+   },
+   "timer_sound_label": {
+      "description": "Timer sound label. Shown on the settings page.",
+      "message": "Ajastimen ääni:"
+   },
+   "toaster_oven": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Leivänpaahdin"
+   },
+   "today": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "Tänään"
+   },
+   "tone": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Sävel"
+   },
+   "total": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "Yhteensä"
+   },
+   "train_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Juna"
+   },
+   "tuesday": {
+      "description": "Tuesday. Shown on the settings-history page.",
+      "message": "Tiistai"
+   },
+   "tuesday_short": {
+      "description": "Tuesday abbreviated. Shown on the settings-history page.",
+      "message": "ti"
+   },
+   "version": {
+      "description": "Version section header. Shown on the settings-feedback page.",
+      "message": "Versio"
+   },
+   "view": {
+      "description": "View section header. Shown on the settings-feedback page.",
+      "message": "Katso"
+   },
+   "view_history": {
+      "description": "View History button text. Shown on the timer expiration page.",
+      "message": "Selaa historiaa"
+   },
+   "wall_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Seinäkello"
+   },
+   "wednesday": {
+      "description": "Wednesday. Shown on the settings-history page.",
+      "message": "Keskiviikko"
+   },
+   "wednesday_short": {
+      "description": "Wednesday abbreviated. Shown on the settings-history page.",
+      "message": "ke"
+   },
+   "weekly_distribution": {
+      "description": "Weekly distribution section header. Shown on the settings-history page.",
+      "message": "Viikottainen jakauma"
+   },
+   "weekly_empty_placeholder": {
+      "description": "Placeholder for weekly stats when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "Tee Pomodoro nähdäksesi viikkotilastosi"
+   },
+   "weekly_tooltip": {
+      "description": "Tooltip for weekly distribution chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ $day$",
+      "placeholders": {
+         "day": {
+            "content": "$2",
+            "example": "Mondays"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "25 Pomodoros"
+         }
+      }
+   },
+   "when_complete": {
+      "description": "Section label for events to fire when timer completes. Shown on the settings page.",
+      "message": "Kun ajastin päättyy"
+   },
+   "white_noise": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Valkoinen häly"
+   },
+   "width": {
+      "description": "Width input placeholder. Refers to countdown window width in pixels.",
+      "message": "Leveys"
+   },
+   "wind_up_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Vedettävä kello"
+   },
+   "wood_block": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Puupalikka"
+   },
+   "wristwatch": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Rannekello"
+   },
+   "write_a_review": {
+      "description": "Link to write a review on Chrome Web Store. Shown on the settings-feedback page.",
+      "message": "Kirjoita arvostelu"
+   },
+   "your_history": {
+      "description": "Your History section header. Shown on the settings-history page.",
+      "message": "Historiasi"
+   }
+}

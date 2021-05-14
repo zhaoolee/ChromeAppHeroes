@@ -1,0 +1,894 @@
+{
+   "airplane": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "飛機廣播"
+   },
+   "analog_alarm_clock": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "鬧鐘"
+   },
+   "and": {
+      "description": "Connector of 'Chris Schmich & Contributors'. Shown on the settings-feedback page.",
+      "message": "&"
+   },
+   "antique_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "老爺鐘"
+   },
+   "app_desc": {
+      "description": "The short description of the application. Shown in the web store.",
+      "message": "蕃茄鐘® 時間管理助手."
+   },
+   "app_name": {
+      "description": "The name of the application. Shown in the web store.",
+      "message": "Marinara: Pomodoro® Assistant"
+   },
+   "app_name_short": {
+      "description": "The short name of the application. Shown at the top of the dropdown menu.",
+      "message": "Marinara"
+   },
+   "april": {
+      "description": "April. Shown on the settings-history page.",
+      "message": "四月"
+   },
+   "april_short": {
+      "description": "April abbreviated. Shown on the settings-history page.",
+      "message": "四月"
+   },
+   "attributions": {
+      "description": "Link to audio attributions. Shown on the settings-feedback page.",
+      "message": "版權信息"
+   },
+   "august": {
+      "description": "August. Shown on the settings-history page.",
+      "message": "八月"
+   },
+   "august_short": {
+      "description": "August abbreviated. Shown on the settings-history page.",
+      "message": "八月"
+   },
+   "average_stat": {
+      "description": "Average Pomodoro completion stats label (abbreviated). Shown on the settings-history page.",
+      "message": "平均 $average$",
+      "placeholders": {
+         "average": {
+            "content": "$1",
+            "example": "7.33"
+         }
+      }
+   },
+   "battle_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "戰爭號角"
+   },
+   "bell_ring": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "鐘聲"
+   },
+   "bike_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "單車喇叭"
+   },
+   "bpm": {
+      "description": "Beats per minute; speed unit for timer sound. Shown on the settings page.",
+      "message": "BPM"
+   },
+   "browser_action_tooltip": {
+      "description": "Browser action tooltip format with title and text. Title is usually timer phase (break, focus) while text is usually timer status (time remaining, paused).",
+      "message": "$title$: $text$",
+      "placeholders": {
+         "text": {
+            "content": "$2",
+            "example": "5m remaining"
+         },
+         "title": {
+            "content": "$1",
+            "example": "Short Break"
+         }
+      }
+   },
+   "chrome_web_store_description": {
+      "description": "Detailed extension description shown to users in the Chrome Web Store.",
+      "message": "• 支援短/長休息時間\n• 工具欄倒數計時器\n• 追蹤番茄歷史統計資訊\n• 設定長休息區間\n• 設定計時區間\n• 桌面通知\n• 新分頁通知\n• 20+款通知音效\n• 開源軟體"
+   },
+   "clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "時鐘"
+   },
+   "completed_today": {
+      "description": "Label for today's completed Pomodoro count. Shown on the timer expiration page.",
+      "message": "本日完成"
+   },
+   "computer_magic": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "電腦音樂"
+   },
+   "contributors": {
+      "description": "Part of 'Chris Schmich & Contributors'. Shown on the settings-feedback page.",
+      "message": "貢獻者"
+   },
+   "daily_distribution": {
+      "description": "Daily distribution section header. Shown on the settings-history page.",
+      "message": "每日分佈"
+   },
+   "daily_empty_placeholder": {
+      "description": "Placeholder for daily stats when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "完成一個番茄來查看每日統計資訊"
+   },
+   "daily_tooltip": {
+      "description": "Tooltip for daily distribution chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ 於 $start$—$end$",
+      "placeholders": {
+         "end": {
+            "content": "$3",
+            "example": "10:00a"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "15 Pomodoros"
+         },
+         "start": {
+            "content": "$2",
+            "example": "9:00a"
+         }
+      }
+   },
+   "date_format": {
+      "description": "Date-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%-m/%-d/%Y"
+   },
+   "date_time_format": {
+      "description": "Date-with-time format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%x, %X"
+   },
+   "december": {
+      "description": "December. Shown on the settings-history page.",
+      "message": "十二月"
+   },
+   "december_short": {
+      "description": "December abbreviated. Shown on the settings-history page.",
+      "message": "十二月"
+   },
+   "decimal_separator": {
+      "description": "Separator for fractional numbers (e.g. three-and-a-half: 3.5).",
+      "message": "."
+   },
+   "desk_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "桌面鐘"
+   },
+   "digital_alarm_clock": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "數位鬧鐘"
+   },
+   "digital_watch": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "數位手錶"
+   },
+   "ding": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "叮"
+   },
+   "ding_dong": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "叮噹"
+   },
+   "disclaimer": {
+      "description": "Disclaimer footer text. Shown on the settings-feedback page.",
+      "message": "Pomodoro® and The Pomodoro Technique® are trademarks of Francesco Cirillo. Marinara is not affiliated or associated with or endorsed by Pomodoro®, The Pomodoro Technique® or Francesco Cirillo."
+   },
+   "dong": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "噹"
+   },
+   "duration": {
+      "description": "Timer duration label. Shown on the settings page.",
+      "message": "維持:"
+   },
+   "electronic_chime": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "電子鐘"
+   },
+   "error_saving_settings": {
+      "description": "Shown to the user in an alert when settings can't be saved due to user input error or unexpected error.",
+      "message": "更改設定錯誤: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$1",
+            "example": "Duration must be a positive number."
+         }
+      }
+   },
+   "every_10th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "每十次短休息"
+   },
+   "every_2nd_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "每兩次短休息"
+   },
+   "every_3rd_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "每三次短休息"
+   },
+   "every_4th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "每四次短休息"
+   },
+   "every_5th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "每五次短休息"
+   },
+   "every_6th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "每六次短休息"
+   },
+   "every_7th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "每七次短休息"
+   },
+   "every_8th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "每八次短休息"
+   },
+   "every_9th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "每九次短休息"
+   },
+   "expire_title": {
+      "description": "Expiration page title. Shown on the expiration page when a focus/break session completes.",
+      "message": "夠鐘了！"
+   },
+   "export": {
+      "description": "Export History button. Shown on the settings-history page.",
+      "message": "匯出 歷史紀錄"
+   },
+   "february": {
+      "description": "February. Shown on the settings-history page.",
+      "message": "二月"
+   },
+   "february_short": {
+      "description": "February abbreviated. Shown on the settings-history page.",
+      "message": "二月"
+   },
+   "feedback": {
+      "description": "Feedback tab and section header. Shown on the settings page.",
+      "message": "回饋"
+   },
+   "fire_pager": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "傳呼機"
+   },
+   "focus": {
+      "description": "Focus section header. Shown on the settings page.",
+      "message": "專注時間"
+   },
+   "friday": {
+      "description": "Friday. Shown on the settings-history page.",
+      "message": "星期五"
+   },
+   "friday_short": {
+      "description": "Friday abbreviated. Shown on the settings-history page.",
+      "message": "星期五"
+   },
+   "glass_ping": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "玻璃聲"
+   },
+   "gong_1": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "銅鑼1"
+   },
+   "gong_2": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "銅鑼2"
+   },
+   "group_pomodoros_hour_buckets": {
+      "description": "Daily distribution bucket tooltip. Shown on the settings-history page.",
+      "message": "將番茄分類為 $count$ 小時 群組",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "group_pomodoros_minute_buckets": {
+      "description": "Daily distribution bucket tooltip. Shown on the settings-history page.",
+      "message": "將番茄分類為 $count$ 分鐘 群組",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "heatmap_date_format": {
+      "description": "Heatmap tooltip date format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the settings-history page.",
+      "message": "%A, %B %e 日, %Y"
+   },
+   "heatmap_tooltip": {
+      "description": "Tooltip for heatmap chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ 在 $date$",
+      "placeholders": {
+         "date": {
+            "content": "$2",
+            "example": "Jun 07, 2017"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "25 Pomodoros"
+         }
+      }
+   },
+   "help_translate": {
+      "description": "Feedback link. Shown on settings-feedback page.",
+      "message": "協助翻譯"
+   },
+   "history": {
+      "description": "History tab. Shown on the settings page.",
+      "message": "歷史紀錄"
+   },
+   "history_empty_placeholder": {
+      "description": "Placeholder for history heatmap when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "完成一個番茄來查看歷史紀錄"
+   },
+   "hour_format": {
+      "description": "Hour-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the daily distribution chart on the settings-history page.",
+      "message": "%-I%p"
+   },
+   "hour_minute_format": {
+      "description": "Hour-with-minutes format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown in the daily distribution chart tooltips on the settings-history page.",
+      "message": "%-I:%M%p"
+   },
+   "hover_preview": {
+      "description": "Hover to preview note. Shown on the settings page.",
+      "message": "試聽音效"
+   },
+   "hr_suffix": {
+      "description": "Number with hour suffix (abbreviated). Shown on the settings-history page.",
+      "message": "$count$ 小時",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "import": {
+      "description": "Import History button. Shown on the settings-history page.",
+      "message": "匯入 歷史紀錄"
+   },
+   "import_failed": {
+      "description": "Error message shown when history import fails. Shown on the settings-history page.",
+      "message": "匯入歷史紀錄失敗: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1",
+            "example": "Missing Pomodoro data."
+         }
+      }
+   },
+   "in_month": {
+      "description": "Label for Pomodoro monthly stats, e.g. '5 Pomodoros / In January'. Shown on the settings-history page.",
+      "message": "在 $month$",
+      "placeholders": {
+         "month": {
+            "content": "$1",
+            "example": "January"
+         }
+      }
+   },
+   "january": {
+      "description": "January. Shown on the settings-history page.",
+      "message": "一月"
+   },
+   "january_short": {
+      "description": "January abbreviated. Shown on the settings-history page.",
+      "message": "一月"
+   },
+   "july": {
+      "description": "July. Shown on the settings-history page.",
+      "message": "七月"
+   },
+   "july_short": {
+      "description": "July abbreviated. Shown on the settings-history page.",
+      "message": "七月"
+   },
+   "june": {
+      "description": "June. Shown on the settings-history page.",
+      "message": "六月"
+   },
+   "june_short": {
+      "description": "June abbreviated. Shown on the settings-history page.",
+      "message": "六月"
+   },
+   "large_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "巨型時鐘"
+   },
+   "last_9_months": {
+      "description": "Last 9 months section header. Shown on the settings-history page.",
+      "message": "過去九個月 $count$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "No Pomodoros"
+         }
+      }
+   },
+   "less_than_minute": {
+      "description": "Badge tooltip and overlay text when timer has less than 1 minute remaining.",
+      "message": "少於1分鐘"
+   },
+   "license": {
+      "description": "Link to source license. Shown on the settings-feedback page.",
+      "message": "使用授權"
+   },
+   "long_break": {
+      "description": "Long Break section header. Shown on the settings page.",
+      "message": "長休息"
+   },
+   "march": {
+      "description": "March. Shown on the settings-history page.",
+      "message": "三月"
+   },
+   "march_short": {
+      "description": "March abbreviated. Shown on the settings-history page.",
+      "message": "三月"
+   },
+   "marinara_pomodoro_assistant": {
+      "description": "Settings page title.",
+      "message": "Marinara: 蕃茄鐘助手"
+   },
+   "may": {
+      "description": "May. Shown on the settings-history page.",
+      "message": "五月"
+   },
+   "may_short": {
+      "description": "May abbreviated. Shown on the settings-history page.",
+      "message": "五月"
+   },
+   "metronome": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "節拍器"
+   },
+   "min_suffix": {
+      "description": "Number with minute suffix (abbreviated). Shown on the settings-history page.",
+      "message": "$count$ 分鐘",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "minutes": {
+      "description": "Minutes label for timer duration. Shown on the settings page.",
+      "message": "分鐘"
+   },
+   "mismatched_pomodoro_duration_data": {
+      "description": "Error when imported history has mismatched Pomodoro/duration data.",
+      "message": "無法對應 番茄/期間 資料."
+   },
+   "mismatched_pomodoro_timezone_data": {
+      "description": "Error when imported history has mismatched Pomodoro/timezone data.",
+      "message": "無法對應 番茄/時區 資料."
+   },
+   "missing_duration_data": {
+      "description": "Error when imported history has no Pomodoro duration information.",
+      "message": "遺失期間資料."
+   },
+   "missing_pomodoro_data": {
+      "description": "Error when imported history has no Pomodoro information.",
+      "message": "遺失番茄資料."
+   },
+   "missing_timezone_data": {
+      "description": "Error when imported history has no Pomodoro timezone information.",
+      "message": "遺失時區資料."
+   },
+   "monday": {
+      "description": "Monday. Shown on the settings-history page.",
+      "message": "星期一"
+   },
+   "monday_short": {
+      "description": "Monday abbreviated. Shown on the settings-history page.",
+      "message": "星期一"
+   },
+   "music_box": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "音樂盒"
+   },
+   "n_minutes": {
+      "description": "Badge tooltip and overlay text when timer has least 1 minute remaining.",
+      "message": "$count$分鐘",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "never": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "從不"
+   },
+   "none": {
+      "description": "The 'no sound' option. Represents nothing selected. Shown on the settings page.",
+      "message": "無音效"
+   },
+   "november": {
+      "description": "November. Shown on the settings-history page.",
+      "message": "十一月"
+   },
+   "november_short": {
+      "description": "November abbreviated. Shown on the settings-history page.",
+      "message": "十一月"
+   },
+   "october": {
+      "description": "October. Shown on the settings-history page.",
+      "message": "十月"
+   },
+   "october_short": {
+      "description": "October abbreviated. Shown on the settings-history page.",
+      "message": "十月"
+   },
+   "pause_timer": {
+      "description": "Menu entry to pause the current timer. Shown in the dropdown menu.",
+      "message": "暫停計時"
+   },
+   "pin_drop": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "釘子掉落"
+   },
+   "play_audio_notification": {
+      "description": "Audio notification label. Shown on the settings page.",
+      "message": "選擇通知音效:"
+   },
+   "pomodoro_assistant": {
+      "description": "Marinara title tagline. Shown on the settings-feedback page.",
+      "message": "蕃茄鐘助手"
+   },
+   "pomodoro_count_many": {
+      "description": "Label for many Pomodoros. Shown on the expiration page.",
+      "message": "$count$個 番茄",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "10"
+         }
+      }
+   },
+   "pomodoro_count_one": {
+      "description": "Label for a single Pomodoro. Shown on the expiration page.",
+      "message": "1個番茄"
+   },
+   "pomodoro_count_zero": {
+      "description": "Label for zero Pomodoros. Shown on the expiration page.",
+      "message": "0個番茄"
+   },
+   "pomodoro_history": {
+      "description": "Menu entry to view Pomodoro history/stats. Shown in the dropdown menu.",
+      "message": "蕃茄紀錄"
+   },
+   "pomodoros_completed_today": {
+      "description": "Daily Pomodoro counter. Should be short enough to fit in browser notification box. Shown in browser notifications.",
+      "message": "本日完成 $pomodoros$",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "1 Pomodoro"
+         }
+      }
+   },
+   "pomodoros_until_long_break": {
+      "description": "Pomodoro long break countdown. Shown on the timer expiration page and in browser notifications.",
+      "message": "下個長休息前還有 $pomodoros$ ",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "5 Pomodoros"
+         }
+      }
+   },
+   "pulse": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "脈衝"
+   },
+   "reception_bell": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "招待鈴"
+   },
+   "release_notes": {
+      "description": "Link to GitHub release notes. Shown on the settings-feedback page.",
+      "message": "更新日誌"
+   },
+   "report_an_issue": {
+      "description": "Link to report an issue on GitHub. Shown on the settings-feedback page.",
+      "message": "回報問題"
+   },
+   "restart_pomodoro_cycle": {
+      "description": "Menu entry to restart the current Pomodoro cycle. Shown in the dropdown menu.",
+      "message": "重啟蕃茄鐘循環"
+   },
+   "restart_timer": {
+      "description": "Menu entry to restart the current timer. Shown in the dropdown menu.",
+      "message": "重新計時"
+   },
+   "resume_timer": {
+      "description": "Menu entry to resume the paused timer. Shown in the dropdown menu.",
+      "message": "恢復計時"
+   },
+   "robot_blip_1": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "機器人1"
+   },
+   "robot_blip_2": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "機器人2"
+   },
+   "saturday": {
+      "description": "Saturday. Shown on the settings-history page.",
+      "message": "星期六"
+   },
+   "saturday_short": {
+      "description": "Saturday abbreviated. Shown on the settings-history page.",
+      "message": "星期六"
+   },
+   "september": {
+      "description": "September. Shown on the settings-history page.",
+      "message": "九月"
+   },
+   "september_short": {
+      "description": "September abbreviated. Shown on the settings-history page.",
+      "message": "九月"
+   },
+   "settings": {
+      "description": "Settings tab. Shown on the settings page.",
+      "message": "設定"
+   },
+   "settings_saved": {
+      "description": "Settings Saved notification shown on settings page when settings are saved.",
+      "message": "更改設定完成"
+   },
+   "ship_bell": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "船鐘"
+   },
+   "short_break": {
+      "description": "Short Break section header. Shown on the settings page.",
+      "message": "短休息"
+   },
+   "show_desktop_notification": {
+      "description": "Desktop notification option. Shown on the settings page.",
+      "message": "顯示桌面通知"
+   },
+   "show_new_tab_notification": {
+      "description": "New tab notification option. Shown on the settings page.",
+      "message": "顯示新分頁通知"
+   },
+   "small_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "小型時鐘"
+   },
+   "source_code": {
+      "description": "Link to GitHub source code. Shown on the settings-feedback page.",
+      "message": "原始碼"
+   },
+   "speed_label": {
+      "description": "Timer sound speed label. Shown on the settings page.",
+      "message": "播放速度"
+   },
+   "start_break": {
+      "description": "Start a break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "開始休息"
+   },
+   "start_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "開始休息"
+   },
+   "start_focusing": {
+      "description": "Start a focus session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "開始專注"
+   },
+   "start_focusing_now": {
+      "description": "Notification button text when break timer expires.",
+      "message": "開始專注"
+   },
+   "start_long_break": {
+      "description": "Start a long break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "開始長休息"
+   },
+   "start_long_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "開始長休息"
+   },
+   "start_pomodoro_cycle": {
+      "description": "Menu entry to start a new Pomodoro cycle. Shown in the dropdown menu.",
+      "message": "開啟蕃茄鐘循環"
+   },
+   "start_short_break": {
+      "description": "Start a short break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "開始短休息"
+   },
+   "start_short_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "開始短休息"
+   },
+   "stop_timer": {
+      "description": "Menu entry to stop the current timer. Shown in the dropdown menu.",
+      "message": "停止計時"
+   },
+   "stopwatch": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "秒錶"
+   },
+   "sunday": {
+      "description": "Sunday. Shown on the settings-history page.",
+      "message": "星期日"
+   },
+   "sunday_short": {
+      "description": "Sunday abbreviated. Shown on the settings-history page.",
+      "message": "星期日"
+   },
+   "take_a_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "休息"
+   },
+   "take_a_long_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "長休息"
+   },
+   "take_a_long_break_setting": {
+      "description": "Long break settings label. Shown on the settings page.",
+      "message": "長休息"
+   },
+   "take_a_short_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "短休息"
+   },
+   "this_month": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "本月"
+   },
+   "this_week": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "本週"
+   },
+   "thousands_separator": {
+      "description": "Group separator for large numbers (e.g. two thousand: 2,000).",
+      "message": ","
+   },
+   "thursday": {
+      "description": "Thursday. Shown on the settings-history page.",
+      "message": "星期四"
+   },
+   "thursday_short": {
+      "description": "Thursday abbreviated. Shown on the settings-history page.",
+      "message": "星期四"
+   },
+   "time_format": {
+      "description": "Time-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%-I:%M:%S %p"
+   },
+   "time_period_am": {
+      "description": "12-hour clock AM specifier. Can be empty if 24-hour clock is used. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "a"
+   },
+   "time_period_pm": {
+      "description": "12-hour clock PM specifier. Can be empty if 24-hour clock is used. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "p"
+   },
+   "time_remaining": {
+      "description": "Badge tooltip to show time remaining for current timer.",
+      "message": "剩餘$time$",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "5m"
+         }
+      }
+   },
+   "timer_paused": {
+      "description": "Tooltip to indicate the current timer is paused. Shown when hovering over the toolbar icon.",
+      "message": "計時器已暫停"
+   },
+   "timer_sound_label": {
+      "description": "Timer sound label. Shown on the settings page.",
+      "message": "選擇通知音效:"
+   },
+   "toaster_oven": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "烤麵包機"
+   },
+   "today": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "今日"
+   },
+   "tone": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "預設"
+   },
+   "total": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "全部"
+   },
+   "train_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "火車聲"
+   },
+   "tuesday": {
+      "description": "Tuesday. Shown on the settings-history page.",
+      "message": "星期二"
+   },
+   "tuesday_short": {
+      "description": "Tuesday abbreviated. Shown on the settings-history page.",
+      "message": "星期二"
+   },
+   "version": {
+      "description": "Version section header. Shown on the settings-feedback page.",
+      "message": "版本"
+   },
+   "view": {
+      "description": "View section header. Shown on the settings-feedback page.",
+      "message": "資訊"
+   },
+   "view_history": {
+      "description": "View History button text. Shown on the timer expiration page.",
+      "message": "查看紀錄"
+   },
+   "wall_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "掛牆鐘"
+   },
+   "wednesday": {
+      "description": "Wednesday. Shown on the settings-history page.",
+      "message": "星期三"
+   },
+   "wednesday_short": {
+      "description": "Wednesday abbreviated. Shown on the settings-history page.",
+      "message": "星期三"
+   },
+   "weekly_distribution": {
+      "description": "Weekly distribution section header. Shown on the settings-history page.",
+      "message": "每週分佈"
+   },
+   "weekly_empty_placeholder": {
+      "description": "Placeholder for weekly stats when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "完成一個番茄來查看每週統計資訊"
+   },
+   "weekly_tooltip": {
+      "description": "Tooltip for weekly distribution chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ 在 $day$",
+      "placeholders": {
+         "day": {
+            "content": "$2",
+            "example": "Mondays"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "25 Pomodoros"
+         }
+      }
+   },
+   "when_complete": {
+      "description": "Section label for events to fire when timer completes. Shown on the settings page.",
+      "message": "結束時:"
+   },
+   "wind_up_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "發條鐘"
+   },
+   "wood_block": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "木魚"
+   },
+   "wristwatch": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "腕錶"
+   },
+   "write_a_review": {
+      "description": "Link to write a review on Chrome Web Store. Shown on the settings-feedback page.",
+      "message": "留言評論"
+   }
+}

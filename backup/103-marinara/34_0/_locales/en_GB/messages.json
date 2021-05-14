@@ -1,0 +1,34 @@
+{
+   "date_format": {
+      "description": "Date-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%d/%m/%Y"
+   },
+   "date_time_format": {
+      "description": "Date-with-time format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%d/%m/%Y, %H:%M:%S"
+   },
+   "heatmap_date_format": {
+      "description": "Heatmap tooltip date format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the settings-history page.",
+      "message": "%d/%m/%Y"
+   },
+   "hour_format": {
+      "description": "Hour-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the daily distribution chart on the settings-history page.",
+      "message": "%H"
+   },
+   "hour_minute_format": {
+      "description": "Hour-with-minutes format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown in the daily distribution chart tooltips on the settings-history page.",
+      "message": "%H:%M"
+   },
+   "time_format": {
+      "description": "Time-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%H:%M:%S"
+   },
+   "time_period_am": {
+      "description": "12-hour clock AM specifier. Can be empty if 24-hour clock is used. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": ""
+   },
+   "time_period_pm": {
+      "description": "12-hour clock PM specifier. Can be empty if 24-hour clock is used. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": ""
+   }
+}

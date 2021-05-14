@@ -1,0 +1,900 @@
+{
+   "airplane": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Máy bay"
+   },
+   "analog_alarm_clock": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Đồng hồ cơ"
+   },
+   "and": {
+      "description": "Connector of 'Chris Schmich & Contributors'. Shown on the settings-feedback page.",
+      "message": "&"
+   },
+   "antique_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Đồng hồ cổ"
+   },
+   "app_desc": {
+      "description": "The short description of the application. Shown in the web store.",
+      "message": "Trợ lý quản lý thời gian Pomodoro®"
+   },
+   "app_name": {
+      "description": "The name of the application. Shown in the web store.",
+      "message": "Marinara: Trợ lý Pomodoro®"
+   },
+   "app_name_short": {
+      "description": "The short name of the application. Shown at the top of the dropdown menu.",
+      "message": "Marinara"
+   },
+   "april": {
+      "description": "April. Shown on the settings-history page.",
+      "message": "Tháng Tư"
+   },
+   "april_short": {
+      "description": "April abbreviated. Shown on the settings-history page.",
+      "message": "T4"
+   },
+   "attributions": {
+      "description": "Link to audio attributions. Shown on the settings-feedback page.",
+      "message": "Chức năng"
+   },
+   "august": {
+      "description": "August. Shown on the settings-history page.",
+      "message": "Tháng Tám"
+   },
+   "august_short": {
+      "description": "August abbreviated. Shown on the settings-history page.",
+      "message": "T8"
+   },
+   "autostart_description": {
+      "description": "Autostart setting description. Shown on the settings page.",
+      "message": "Hẹn trước để Pomodoro tự động bắt đầu vào một thời điểm"
+   },
+   "autostart_notification_message": {
+      "description": "Autostart notification message. Shown in browser notifications when the autostart Pomodoro starts.",
+      "message": "Pomodoro đặt hẹn trước đã được khởi động"
+   },
+   "autostart_notification_title": {
+      "description": "Autostart notification title. Shown in browser notifications when the autostart Pomodoro starts.",
+      "message": "Tự động bắt đầu Pomodoro"
+   },
+   "autostart_title": {
+      "description": "Autostart section header. Shown on the settings page.",
+      "message": "Tự động bắt đầu"
+   },
+   "average_stat": {
+      "description": "Average Pomodoro completion stats label (abbreviated). Shown on the settings-history page.",
+      "message": "$average$ trung bình",
+      "placeholders": {
+         "average": {
+            "content": "$1",
+            "example": "7.33"
+         }
+      }
+   },
+   "battle_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Kèn chiến"
+   },
+   "bell_ring": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Chuông nhà"
+   },
+   "bike_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Chuông xe đạp"
+   },
+   "bpm": {
+      "description": "Beats per minute; speed unit for timer sound. Shown on the settings page.",
+      "message": "Số nhịp mỗi phút"
+   },
+   "browser_action_tooltip": {
+      "description": "Browser action tooltip format with title and text. Title is usually timer phase (break, focus) while text is usually timer status (time remaining, paused).",
+      "message": "$title$: $text$",
+      "placeholders": {
+         "text": {
+            "content": "$2",
+            "example": "5m remaining"
+         },
+         "title": {
+            "content": "$1",
+            "example": "Short Break"
+         }
+      }
+   },
+   "chrome_web_store_description": {
+      "description": "Detailed extension description shown to users in the Chrome Web Store.",
+      "message": "• Quãng nghỉ ngắn & dài\n• Icon trên thanh trình duyệt cùng đồng hồ đếm ngược\n• Theo dõi lịch sử Pomodoro & thống kê\n• Quãng nghỉ dài có thể điều chỉnh\n• Đồng hồ đếm ngược có thể điều chỉnh\n• Có thông báo qua máy và tab mới\n• Hơn 20 loại âm báo\n• Có tiếng tíc tắc khi đếm ngược\n• Có thể cài đặt đồng hồ đếm ngược tự động\n• Phần mềm mã nguồn mở"
+   },
+   "clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Đồng hồ"
+   },
+   "completed_today": {
+      "description": "Label for today's completed Pomodoro count. Shown on the timer expiration page.",
+      "message": "Đã hoàn thành hôm nay"
+   },
+   "computer_magic": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Máy tính ảo diệu"
+   },
+   "contributors": {
+      "description": "Part of 'Chris Schmich & Contributors'. Shown on the settings-feedback page.",
+      "message": "Người đóng góp"
+   },
+   "daily_distribution": {
+      "description": "Daily distribution section header. Shown on the settings-history page.",
+      "message": "Phân phối hàng ngày"
+   },
+   "daily_empty_placeholder": {
+      "description": "Placeholder for daily stats when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "Hoàn thành 1 vòng Pomodoro để xem thống kê hàng ngày"
+   },
+   "daily_tooltip": {
+      "description": "Tooltip for daily distribution chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ trong khoảng $start$—$end$",
+      "placeholders": {
+         "end": {
+            "content": "$3",
+            "example": "10:00a"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "15 Pomodoros"
+         },
+         "start": {
+            "content": "$2",
+            "example": "9:00a"
+         }
+      }
+   },
+   "date_format": {
+      "description": "Date-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%-d/%-m/%Y"
+   },
+   "date_time_format": {
+      "description": "Date-with-time format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%x, %X"
+   },
+   "december": {
+      "description": "December. Shown on the settings-history page.",
+      "message": "Tháng Mười Hai"
+   },
+   "december_short": {
+      "description": "December abbreviated. Shown on the settings-history page.",
+      "message": "T12"
+   },
+   "decimal_separator": {
+      "description": "Separator for fractional numbers (e.g. three-and-a-half: 3.5).",
+      "message": "."
+   },
+   "desk_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Đồng hồ trên bàn"
+   },
+   "digital_alarm_clock": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Đồng hồ điện tử"
+   },
+   "digital_watch": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Đồng hồ điện tử đeo tay"
+   },
+   "ding": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Ding"
+   },
+   "ding_dong": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Ding Dong"
+   },
+   "disclaimer": {
+      "description": "Disclaimer footer text. Shown on the settings-feedback page.",
+      "message": "Pomodoro® và The Pomodoro Technique® là bản quyền của Francesco Cirillo. Marinara không liên kết với hoặc được xác nhận bởi  Pomodoro®, The Pomodoro Technique® hay Francesco Cirillo."
+   },
+   "dong": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Dong"
+   },
+   "duration": {
+      "description": "Timer duration label. Shown on the settings page.",
+      "message": "Độ dài:"
+   },
+   "electronic_chime": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Chuôn gió điện tử"
+   },
+   "every_10th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "mỗi lần nghỉ thứ 10"
+   },
+   "every_2nd_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "mỗi lần nghỉ thứ 2 (luân phiên)"
+   },
+   "every_3rd_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "mỗi lần nghỉ thứ 3"
+   },
+   "every_4th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "mỗi lần nghỉ thứ 4"
+   },
+   "every_5th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "mỗi lần nghỉ thứ 5"
+   },
+   "every_6th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "mỗi lần nghỉ thứ 6"
+   },
+   "every_7th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "mỗi lần nghỉ thứ 7"
+   },
+   "every_8th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "mỗi lần nghỉ thứ 8"
+   },
+   "every_9th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "mỗi lần nghỉ thứ 9"
+   },
+   "expire_title": {
+      "description": "Expiration page title. Shown on the expiration page when a focus/break session completes.",
+      "message": "Hết giờ"
+   },
+   "export": {
+      "description": "Export History button. Shown on the settings-history page.",
+      "message": "Xuất lịch sử"
+   },
+   "february": {
+      "description": "February. Shown on the settings-history page.",
+      "message": "Tháng Hai"
+   },
+   "february_short": {
+      "description": "February abbreviated. Shown on the settings-history page.",
+      "message": "T2"
+   },
+   "feedback": {
+      "description": "Feedback tab and section header. Shown on the settings page.",
+      "message": "Đóng góp ý kiến"
+   },
+   "fire_pager": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Máy bíp"
+   },
+   "focus": {
+      "description": "Focus section header. Shown on the settings page.",
+      "message": "Tập trung"
+   },
+   "friday": {
+      "description": "Friday. Shown on the settings-history page.",
+      "message": "Thứ Sáu"
+   },
+   "friday_short": {
+      "description": "Friday abbreviated. Shown on the settings-history page.",
+      "message": "T6"
+   },
+   "glass_ping": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Gõ gương"
+   },
+   "gong_1": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Gong 1"
+   },
+   "gong_2": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Gong 2"
+   },
+   "group_pomodoros_hour_buckets": {
+      "description": "Daily distribution bucket tooltip. Shown on the settings-history page.",
+      "message": "Gộp các vòng Pomodoro vào gói $count$ tiếng",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "group_pomodoros_minute_buckets": {
+      "description": "Daily distribution bucket tooltip. Shown on the settings-history page.",
+      "message": "Gộp các vòng Pomodoro vào gói $count$ phút",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "heatmap_date_format": {
+      "description": "Heatmap tooltip date format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the settings-history page.",
+      "message": "%b %d, %Y"
+   },
+   "heatmap_tooltip": {
+      "description": "Tooltip for heatmap chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ vào $date$",
+      "placeholders": {
+         "date": {
+            "content": "$2",
+            "example": "Jun 07, 2017"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "25 Pomodoros"
+         }
+      }
+   },
+   "help_translate": {
+      "description": "Feedback link. Shown on settings-feedback page.",
+      "message": "Giúp dịch"
+   },
+   "history": {
+      "description": "History tab. Shown on the settings page.",
+      "message": "Lịch sử"
+   },
+   "history_empty_placeholder": {
+      "description": "Placeholder for history heatmap when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "Hoàn thành 1 vòng Pomodoro để xem lịch sử"
+   },
+   "hour_format": {
+      "description": "Hour-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the daily distribution chart on the settings-history page.",
+      "message": "%-I%p"
+   },
+   "hour_minute_format": {
+      "description": "Hour-with-minutes format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown in the daily distribution chart tooltips on the settings-history page.",
+      "message": "%-I:%M%p"
+   },
+   "hover_preview": {
+      "description": "Hover to preview note. Shown on the settings page.",
+      "message": "Di chuột để xem"
+   },
+   "hr_suffix": {
+      "description": "Number with hour suffix (abbreviated). Shown on the settings-history page.",
+      "message": "$count$ H",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "import": {
+      "description": "Import History button. Shown on the settings-history page.",
+      "message": "Nhập dữ liệu lịch sử"
+   },
+   "import_failed": {
+      "description": "Error message shown when history import fails. Shown on the settings-history page.",
+      "message": "Có lỗi khi nhập dữ liệu lịch sử: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1",
+            "example": "Missing Pomodoro data."
+         }
+      }
+   },
+   "in_month": {
+      "description": "Label for Pomodoro monthly stats, e.g. '5 Pomodoros / In January'. Shown on the settings-history page.",
+      "message": "trong $month$",
+      "placeholders": {
+         "month": {
+            "content": "$1",
+            "example": "January"
+         }
+      }
+   },
+   "january": {
+      "description": "January. Shown on the settings-history page.",
+      "message": "Tháng Một"
+   },
+   "january_short": {
+      "description": "January abbreviated. Shown on the settings-history page.",
+      "message": "T1"
+   },
+   "july": {
+      "description": "July. Shown on the settings-history page.",
+      "message": "Tháng Bảy"
+   },
+   "july_short": {
+      "description": "July abbreviated. Shown on the settings-history page.",
+      "message": "T7"
+   },
+   "june": {
+      "description": "June. Shown on the settings-history page.",
+      "message": "Tháng Sáu"
+   },
+   "june_short": {
+      "description": "June abbreviated. Shown on the settings-history page.",
+      "message": "T6"
+   },
+   "large_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Đồng hồ lớn"
+   },
+   "last_9_months": {
+      "description": "Last 9 months section header. Shown on the settings-history page.",
+      "message": "$count$ trong 9 tháng vừa qua",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "No Pomodoros"
+         }
+      }
+   },
+   "less_than_minute": {
+      "description": "Badge tooltip and overlay text when timer has less than 1 minute remaining.",
+      "message": "\u003C1ph"
+   },
+   "license": {
+      "description": "Link to source license. Shown on the settings-feedback page.",
+      "message": "Giấy phép"
+   },
+   "long_break": {
+      "description": "Long Break section header. Shown on the settings page.",
+      "message": "Nghỉ dài"
+   },
+   "march": {
+      "description": "March. Shown on the settings-history page.",
+      "message": "Tháng Ba"
+   },
+   "march_short": {
+      "description": "March abbreviated. Shown on the settings-history page.",
+      "message": "T3"
+   },
+   "marinara_pomodoro_assistant": {
+      "description": "Settings page title.",
+      "message": "Marinara: Trợ lý Pomodoro"
+   },
+   "may": {
+      "description": "May. Shown on the settings-history page.",
+      "message": "Tháng Năm"
+   },
+   "may_short": {
+      "description": "May abbreviated. Shown on the settings-history page.",
+      "message": "T5"
+   },
+   "metronome": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Máy nhịp"
+   },
+   "min_suffix": {
+      "description": "Number with minute suffix (abbreviated). Shown on the settings-history page.",
+      "message": "$count$ Phút",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "minutes": {
+      "description": "Minutes label for timer duration. Shown on the settings page.",
+      "message": "phút"
+   },
+   "mismatched_pomodoro_duration_data": {
+      "description": "Error when imported history has mismatched Pomodoro/duration data.",
+      "message": "Dữ liệu Pomodoro/Độ dài không khớp"
+   },
+   "mismatched_pomodoro_timezone_data": {
+      "description": "Error when imported history has mismatched Pomodoro/timezone data.",
+      "message": "Dữ liệu Pomodoro/múi giờ không khớp"
+   },
+   "missing_duration_data": {
+      "description": "Error when imported history has no Pomodoro duration information.",
+      "message": "Thiếu dữ liệu về độ dài"
+   },
+   "missing_pomodoro_data": {
+      "description": "Error when imported history has no Pomodoro information.",
+      "message": "Thiếu dữ liệu Pomodoro"
+   },
+   "missing_timezone_data": {
+      "description": "Error when imported history has no Pomodoro timezone information.",
+      "message": "Thiếu dữ liệu về múi giờ"
+   },
+   "monday": {
+      "description": "Monday. Shown on the settings-history page.",
+      "message": "Thứ Hai"
+   },
+   "monday_short": {
+      "description": "Monday abbreviated. Shown on the settings-history page.",
+      "message": "T2"
+   },
+   "music_box": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Hộp âm nhạc"
+   },
+   "n_minutes": {
+      "description": "Badge tooltip and overlay text when timer has least 1 minute remaining.",
+      "message": "$count$m",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "never": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "không bao giờ"
+   },
+   "none": {
+      "description": "The 'no sound' option. Represents nothing selected. Shown on the settings page.",
+      "message": "Tắt"
+   },
+   "november": {
+      "description": "November. Shown on the settings-history page.",
+      "message": "Tháng Mười Một"
+   },
+   "november_short": {
+      "description": "November abbreviated. Shown on the settings-history page.",
+      "message": "T11"
+   },
+   "october": {
+      "description": "October. Shown on the settings-history page.",
+      "message": "Tháng Mười"
+   },
+   "october_short": {
+      "description": "October abbreviated. Shown on the settings-history page.",
+      "message": "T10"
+   },
+   "pause_timer": {
+      "description": "Menu entry to pause the current timer. Shown in the dropdown menu.",
+      "message": "Tạm dừng đếm ngược"
+   },
+   "pin_drop": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Rơi kim"
+   },
+   "play_audio_notification": {
+      "description": "Audio notification label. Shown on the settings page.",
+      "message": "Bật âm thanh:"
+   },
+   "pomodoro_assistant": {
+      "description": "Marinara title tagline. Shown on the settings-feedback page.",
+      "message": "Trợ lý Pomodoro®"
+   },
+   "pomodoro_count_many": {
+      "description": "Label for many Pomodoros. Shown on the expiration page.",
+      "message": "$count$ Pomodoro",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "10"
+         }
+      }
+   },
+   "pomodoro_count_one": {
+      "description": "Label for a single Pomodoro. Shown on the expiration page.",
+      "message": "1 Pomodoro"
+   },
+   "pomodoro_count_zero": {
+      "description": "Label for zero Pomodoros. Shown on the expiration page.",
+      "message": "Không có Pomodoro nào"
+   },
+   "pomodoro_history": {
+      "description": "Menu entry to view Pomodoro history/stats. Shown in the dropdown menu.",
+      "message": "Lịch sử Pomodoro"
+   },
+   "pomodoros_completed_today": {
+      "description": "Daily Pomodoro counter. Should be short enough to fit in browser notification box. Shown in browser notifications.",
+      "message": "$pomodoros$ hôm nay",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "1 Pomodoro"
+         }
+      }
+   },
+   "pomodoros_until_long_break": {
+      "description": "Pomodoro long break countdown. Shown on the timer expiration page and in browser notifications.",
+      "message": "Còn $pomodoros$ mới được nghỉ dài",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "5 Pomodoros"
+         }
+      }
+   },
+   "pulse": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Nhịp đập"
+   },
+   "reception_bell": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Chuông lễ tân"
+   },
+   "release_notes": {
+      "description": "Link to GitHub release notes. Shown on the settings-feedback page.",
+      "message": "Ghi chú cập nhật"
+   },
+   "report_an_issue": {
+      "description": "Link to report an issue on GitHub. Shown on the settings-feedback page.",
+      "message": "Báo cáo lỗi"
+   },
+   "restart_pomodoro_cycle": {
+      "description": "Menu entry to restart the current Pomodoro cycle. Shown in the dropdown menu.",
+      "message": "Khởi động lại vòng Pomodoro"
+   },
+   "restart_timer": {
+      "description": "Menu entry to restart the current timer. Shown in the dropdown menu.",
+      "message": "Khởi động lại đếm ngược"
+   },
+   "resume_timer": {
+      "description": "Menu entry to resume the paused timer. Shown in the dropdown menu.",
+      "message": "Tiếp tục đếm ngược"
+   },
+   "robot_blip_1": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Robot Blip 1"
+   },
+   "robot_blip_2": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Robot Blip 2"
+   },
+   "saturday": {
+      "description": "Saturday. Shown on the settings-history page.",
+      "message": "Thứ Bảy"
+   },
+   "saturday_short": {
+      "description": "Saturday abbreviated. Shown on the settings-history page.",
+      "message": "T7"
+   },
+   "september": {
+      "description": "September. Shown on the settings-history page.",
+      "message": "Tháng Chín"
+   },
+   "september_short": {
+      "description": "September abbreviated. Shown on the settings-history page.",
+      "message": "T9"
+   },
+   "settings": {
+      "description": "Settings tab. Shown on the settings page.",
+      "message": "Cài đặt"
+   },
+   "ship_bell": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Chuông tàu thủy"
+   },
+   "short_break": {
+      "description": "Short Break section header. Shown on the settings page.",
+      "message": "Nghỉ ngắn"
+   },
+   "show_desktop_notification": {
+      "description": "Desktop notification option. Shown on the settings page.",
+      "message": "Hiển thị thông báo qua máy"
+   },
+   "show_new_tab_notification": {
+      "description": "New tab notification option. Shown on the settings page.",
+      "message": "Hiển thị thông báo qua tab"
+   },
+   "small_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Đồng hồ nhỏ"
+   },
+   "source_code": {
+      "description": "Link to GitHub source code. Shown on the settings-feedback page.",
+      "message": "Mã nguồn"
+   },
+   "speed_label": {
+      "description": "Timer sound speed label. Shown on the settings page.",
+      "message": "Tốc độ:"
+   },
+   "start_break": {
+      "description": "Start a break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "Bắt đầu nghỉ"
+   },
+   "start_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "Bắt đầu nghỉ"
+   },
+   "start_focusing": {
+      "description": "Start a focus session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "Bắt đầu tập trung"
+   },
+   "start_focusing_now": {
+      "description": "Notification button text when break timer expires.",
+      "message": "Bắt đầu tập trung"
+   },
+   "start_long_break": {
+      "description": "Start a long break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "Bắt đầu nghỉ dài"
+   },
+   "start_long_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "Bắt đầu nghỉ dài"
+   },
+   "start_pomodoro_cycle": {
+      "description": "Menu entry to start a new Pomodoro cycle. Shown in the dropdown menu.",
+      "message": "Bắt đầu vòng Pomodoro"
+   },
+   "start_short_break": {
+      "description": "Start a short break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "Bắt đầu nghỉ ngắn"
+   },
+   "start_short_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "Bắt đầu nghỉ ngắn"
+   },
+   "stop_timer": {
+      "description": "Menu entry to stop the current timer. Shown in the dropdown menu.",
+      "message": "Tắt đếm ngược"
+   },
+   "stopwatch": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Đồng hồ đếm ngược"
+   },
+   "sunday": {
+      "description": "Sunday. Shown on the settings-history page.",
+      "message": "Chủ Nhật"
+   },
+   "sunday_short": {
+      "description": "Sunday abbreviated. Shown on the settings-history page.",
+      "message": "CN"
+   },
+   "take_a_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "Nghỉ tí đi"
+   },
+   "take_a_long_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "Nghỉ dài đi"
+   },
+   "take_a_long_break_setting": {
+      "description": "Long break settings label. Shown on the settings page.",
+      "message": "Nghỉ quãng dài:"
+   },
+   "take_a_short_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "Nghỉ ngắn tí đi"
+   },
+   "this_month": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "Tháng này"
+   },
+   "this_week": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "Tuần này"
+   },
+   "thousands_separator": {
+      "description": "Group separator for large numbers (e.g. two thousand: 2,000).",
+      "message": ","
+   },
+   "thursday": {
+      "description": "Thursday. Shown on the settings-history page.",
+      "message": "Thứ Năm"
+   },
+   "thursday_short": {
+      "description": "Thursday abbreviated. Shown on the settings-history page.",
+      "message": "T5"
+   },
+   "time": {
+      "description": "Time input label. Shown on the settings page.",
+      "message": "Thời gian:"
+   },
+   "time_format": {
+      "description": "Time-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%-I:%M:%S %p"
+   },
+   "time_period_am": {
+      "description": "12-hour clock AM specifier. Can be empty if 24-hour clock is used. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "s"
+   },
+   "time_period_pm": {
+      "description": "12-hour clock PM specifier. Can be empty if 24-hour clock is used. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "c"
+   },
+   "time_remaining": {
+      "description": "Badge tooltip to show time remaining for current timer.",
+      "message": "còn $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "5m"
+         }
+      }
+   },
+   "timer_paused": {
+      "description": "Tooltip to indicate the current timer is paused. Shown when hovering over the toolbar icon.",
+      "message": "Đếm ngược đang tạm dừng"
+   },
+   "timer_sound_label": {
+      "description": "Timer sound label. Shown on the settings page.",
+      "message": "Âm thanh đếm ngược:"
+   },
+   "toaster_oven": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Lò nướng bánh"
+   },
+   "today": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "Hôm nay"
+   },
+   "tone": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Loại âm"
+   },
+   "total": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "Tổng"
+   },
+   "train_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Chuông tàu"
+   },
+   "tuesday": {
+      "description": "Tuesday. Shown on the settings-history page.",
+      "message": "Thứ Ba"
+   },
+   "tuesday_short": {
+      "description": "Tuesday abbreviated. Shown on the settings-history page.",
+      "message": "T3"
+   },
+   "version": {
+      "description": "Version section header. Shown on the settings-feedback page.",
+      "message": "Phiên bản"
+   },
+   "view": {
+      "description": "View section header. Shown on the settings-feedback page.",
+      "message": "Xem"
+   },
+   "view_history": {
+      "description": "View History button text. Shown on the timer expiration page.",
+      "message": "Xem lịch sử"
+   },
+   "wall_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Đồng hồ treo tường"
+   },
+   "wednesday": {
+      "description": "Wednesday. Shown on the settings-history page.",
+      "message": "Thứ Tư"
+   },
+   "wednesday_short": {
+      "description": "Wednesday abbreviated. Shown on the settings-history page.",
+      "message": "T4"
+   },
+   "weekly_distribution": {
+      "description": "Weekly distribution section header. Shown on the settings-history page.",
+      "message": "Phân phối hàng tuần"
+   },
+   "weekly_empty_placeholder": {
+      "description": "Placeholder for weekly stats when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "Hoàn thành 1 vòng Pomodoro để xem thống kê hàng tuần"
+   },
+   "weekly_tooltip": {
+      "description": "Tooltip for weekly distribution chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ vào $day$",
+      "placeholders": {
+         "day": {
+            "content": "$2",
+            "example": "Mondays"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "25 Pomodoros"
+         }
+      }
+   },
+   "when_complete": {
+      "description": "Section label for events to fire when timer completes. Shown on the settings page.",
+      "message": "Khi xong:"
+   },
+   "wind_up_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Đồng hồ lên dây"
+   },
+   "wood_block": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Khúc gỗ"
+   },
+   "wristwatch": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Đồng hồ đeo tay"
+   },
+   "write_a_review": {
+      "description": "Link to write a review on Chrome Web Store. Shown on the settings-feedback page.",
+      "message": "Viết đánh giá"
+   }
+}

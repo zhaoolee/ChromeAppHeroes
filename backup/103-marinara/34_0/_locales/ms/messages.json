@@ -1,0 +1,1060 @@
+{
+   "airplane": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Kapal Terbang"
+   },
+   "analog_alarm_clock": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Jam Loceng Analog"
+   },
+   "and": {
+      "description": "Connector of 'Chris Schmich & Contributors'. Shown on the settings-feedback page.",
+      "message": "&"
+   },
+   "antique_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Jam Antik"
+   },
+   "app_desc": {
+      "description": "The short description of the application. Shown in the web store.",
+      "message": "Pembantu pengurusan masa Pomodoro® "
+   },
+   "app_name": {
+      "description": "The name of the application. Shown in the web store.",
+      "message": "Marinara: Pembantu Pomodoro®"
+   },
+   "app_name_short": {
+      "description": "The short name of the application. Shown at the top of the dropdown menu.",
+      "message": "Marinara"
+   },
+   "april": {
+      "description": "April. Shown on the settings-history page.",
+      "message": "April"
+   },
+   "april_short": {
+      "description": "April abbreviated. Shown on the settings-history page.",
+      "message": "Apr"
+   },
+   "attributions": {
+      "description": "Link to audio attributions. Shown on the settings-feedback page.",
+      "message": "Atribusi"
+   },
+   "august": {
+      "description": "August. Shown on the settings-history page.",
+      "message": "Ogos"
+   },
+   "august_short": {
+      "description": "August abbreviated. Shown on the settings-history page.",
+      "message": "Ogo"
+   },
+   "autostart_description": {
+      "description": "Autostart setting description. Shown on the settings page.",
+      "message": "Jadualkan Pomodoro untuk mulakan secara automatik pada masa tertentu."
+   },
+   "autostart_notification_message": {
+      "description": "Autostart notification message. Shown in browser notifications when the autostart Pomodoro starts.",
+      "message": "Pomodoro berjadual ini dimulakan secara automatik"
+   },
+   "autostart_notification_title": {
+      "description": "Autostart notification title. Shown in browser notifications when the autostart Pomodoro starts.",
+      "message": "Auto-mulakan Pomodoro"
+   },
+   "autostart_title": {
+      "description": "Autostart section header. Shown on the settings page.",
+      "message": "Auto-mulakan"
+   },
+   "average_stat": {
+      "description": "Average Pomodoro completion stats label (abbreviated). Shown on the settings-history page.",
+      "message": "purata $average$",
+      "placeholders": {
+         "average": {
+            "content": "$1",
+            "example": "7.33"
+         }
+      }
+   },
+   "battle_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Hon Pertempuran"
+   },
+   "bell_ring": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Dering Loceng"
+   },
+   "bike_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Hon Basikal"
+   },
+   "bpm": {
+      "description": "Beats per minute; speed unit for timer sound. Shown on the settings page.",
+      "message": "rentak seminit"
+   },
+   "brown_noise": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Bunyi Coklat"
+   },
+   "browser_action_tooltip": {
+      "description": "Browser action tooltip format with title and text. Title is usually timer phase (break, focus) while text is usually timer status (time remaining, paused).",
+      "message": "$title$: $text$",
+      "placeholders": {
+         "text": {
+            "content": "$2",
+            "example": "5m remaining"
+         },
+         "title": {
+            "content": "$1",
+            "example": "Short Break"
+         }
+      }
+   },
+   "chrome_web_store_description": {
+      "description": "Detailed extension description shown to users in the Chrome Web Store.",
+      "message": "• Rehat pendek dan panjang\n• Ikon bar alat dengan kiraan detik pelancaran\n• Menjejaki sejarah & statistik Pomodoro\n• Selang rehat panjang boleh dikonfigurasi\n• Jam jangka masa boleh dikonfigurasi\n• Notifikasi desktop & tab\n• Notifikasi audio dengan lebih 20 suara\n• Suara berdetik jam\n• Jadual jam automatik\n• Perisian sumber terbuka"
+   },
+   "clear_history": {
+      "description": "Clear History button. Shown on the settings-history page.",
+      "message": "Hapuskan Sejarah"
+   },
+   "clear_history_confirmation": {
+      "description": "Clear history confirmation prompt. Shown when user clicks Clear History on the settings-history page.",
+      "message": "Padamkan semua sejarah Pomodoro?"
+   },
+   "clear_history_description": {
+      "description": "Clear history description. Shown on the settings-history page.",
+      "message": "Padamkan semua sejarah Pomodoro"
+   },
+   "clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Jam"
+   },
+   "completed_today": {
+      "description": "Label for today's completed Pomodoro count. Shown on the timer expiration page.",
+      "message": "Hari Ini Selesai"
+   },
+   "computer_magic": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Komputer Magik"
+   },
+   "contributors": {
+      "description": "Part of 'Chris Schmich & Contributors'. Shown on the settings-feedback page.",
+      "message": "Penyumbang"
+   },
+   "countdown": {
+      "description": "Countdown page title. Shown on the countdown timer page.",
+      "message": "Kiraan detik pelancaran"
+   },
+   "countdown_autoclose_tab": {
+      "description": "Countdown timer option. Specifies if the countdown tab should close when the session ends. Shown on the settings page.",
+      "message": "Tutupkan tab apabila sesi berakhir"
+   },
+   "countdown_autoclose_window": {
+      "description": "Countdown timer option. Specifies if the countdown window should close when the session ends. Shown on the settings page.",
+      "message": "Tutupkan tingkap apabila sesi berakhir"
+   },
+   "countdown_timer": {
+      "description": "Countdown timer label. Shown on the settings page.",
+      "message": "Jam kiraan detik pelancaran:"
+   },
+   "custom": {
+      "description": "Countdown timer resolution option. Lets the user specify their own countdown window resolution. Shown on the settings page.",
+      "message": "Penyesuaian"
+   },
+   "daily_distribution": {
+      "description": "Daily distribution section header. Shown on the settings-history page.",
+      "message": "Pengedaran Harian"
+   },
+   "daily_empty_placeholder": {
+      "description": "Placeholder for daily stats when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "Lengkapkan Pomodoro untuk melihat statistik harian"
+   },
+   "daily_tooltip": {
+      "description": "Tooltip for daily distribution chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ antara $start$—$end$",
+      "placeholders": {
+         "end": {
+            "content": "$3",
+            "example": "10:00a"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "15 Pomodoros"
+         },
+         "start": {
+            "content": "$2",
+            "example": "9:00a"
+         }
+      }
+   },
+   "date_format": {
+      "description": "Date-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%-m/%-d/%Y"
+   },
+   "date_time_format": {
+      "description": "Date-with-time format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%x, %X"
+   },
+   "december": {
+      "description": "December. Shown on the settings-history page.",
+      "message": "Disember"
+   },
+   "december_short": {
+      "description": "December abbreviated. Shown on the settings-history page.",
+      "message": "Dis"
+   },
+   "decimal_separator": {
+      "description": "Separator for fractional numbers (e.g. three-and-a-half: 3.5).",
+      "message": "."
+   },
+   "desk_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Jam Meja"
+   },
+   "digital_alarm_clock": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Jam Loceng Digital"
+   },
+   "digital_watch": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Jam Digital"
+   },
+   "ding": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Ding"
+   },
+   "ding_dong": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Ding Dong"
+   },
+   "disclaimer": {
+      "description": "Disclaimer footer text. Shown on the settings-feedback page.",
+      "message": "Pomodoro® dan The Pomodoro Technique® adalah tanda dagangan Francesco Cirillo. Marinara tidak berafiliasi atau dikaitkan dengan atau disokong oleh Pomodoro®, The Pomodoro Technique® atau Francesco Cirillo."
+   },
+   "do_not_show": {
+      "description": "Countdown timer visibility option. Shown on the settings page.",
+      "message": "Jangan tunjuk"
+   },
+   "dong": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Dong"
+   },
+   "duration": {
+      "description": "Timer duration label. Shown on the settings page.",
+      "message": "Selang:"
+   },
+   "duration_seconds": {
+      "description": "CSV column header for the Pomodoro's duration in seconds.",
+      "message": "Jangka Masa (Saat)"
+   },
+   "electronic_chime": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Bunyi Elektronik"
+   },
+   "end_date": {
+      "description": "CSV column header for the Pomodoro's end date in YYYY-MM-DD format.",
+      "message": "Tarikh Akhir"
+   },
+   "end_iso_8601": {
+      "description": "CSV column header for the Pomodoro's end time formatted to the ISO 8601 standard. See https://en.wikipedia.org/wiki/ISO_8601.",
+      "message": "Akhir (ISO 8601)"
+   },
+   "end_time": {
+      "description": "CSV column header for the Pomodoro's end time formatted as time on a 24-hour clock.",
+      "message": "Tarikh Akhir (24 Jam)"
+   },
+   "end_timestamp": {
+      "description": "CSV column header for the Pomodoro's end time formatted as a Unix timestamp. See https://en.wikipedia.org/wiki/Unix_time.",
+      "message": "Cap Masa Akhir (Unix)"
+   },
+   "end_timezone": {
+      "description": "CSV column header for the Pomodoro's end timezone defined as the GMT/UTC (Coordinated Universal Time) offset, measured in minutes.",
+      "message": "Zon Masa Akhir  (UTC Mengimbangi Minit)"
+   },
+   "error_saving_settings": {
+      "description": "Shown to the user in an alert when settings can't be saved due to user input error or unexpected error.",
+      "message": "Ralat semasa menyimpan tetapan: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$1",
+            "example": "Duration must be a positive number."
+         }
+      }
+   },
+   "every_10th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "setiap rehat ke-10"
+   },
+   "every_2nd_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "setiap rehat ke-2 (berselang-seli)"
+   },
+   "every_3rd_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "setiap rehat ke-3"
+   },
+   "every_4th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "setiap rehat ke-4"
+   },
+   "every_5th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "setiap rehat ke-5"
+   },
+   "every_6th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "setiap rehat ke-6"
+   },
+   "every_7th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "setiap rehat ke-7"
+   },
+   "every_8th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "setiap rehat ke-8"
+   },
+   "every_9th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "setiap rehat ke-9"
+   },
+   "expire_title": {
+      "description": "Expiration page title. Shown on the expiration page when a focus/break session completes.",
+      "message": "Masa Sudah Tamat"
+   },
+   "export": {
+      "description": "Export (history) button. Shown on the settings-history page.",
+      "message": "Eksport"
+   },
+   "export_description": {
+      "description": "Export history description. Shown on the settings-history page.",
+      "message": "Untuk sandaran atau untuk mengimport kepada komputer lain."
+   },
+   "february": {
+      "description": "February. Shown on the settings-history page.",
+      "message": "Februari"
+   },
+   "february_short": {
+      "description": "February abbreviated. Shown on the settings-history page.",
+      "message": "Feb"
+   },
+   "feedback": {
+      "description": "Feedback tab and section header. Shown on the settings page.",
+      "message": "Maklum Balas"
+   },
+   "fire_pager": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Pager Api"
+   },
+   "focus": {
+      "description": "Focus section header. Shown on the settings page.",
+      "message": "Beri Tumpuan"
+   },
+   "friday": {
+      "description": "Friday. Shown on the settings-history page.",
+      "message": "Jumaat"
+   },
+   "friday_short": {
+      "description": "Friday abbreviated. Shown on the settings-history page.",
+      "message": "Jum"
+   },
+   "fullscreen": {
+      "description": "Countdown timer resolution option for a fullscreen (maximized) countdown timer. Shown on the settings page.",
+      "message": "Skrin penuh"
+   },
+   "glass_ping": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Bunyi Gelas"
+   },
+   "gong_1": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Gong 1"
+   },
+   "gong_2": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Gong 2"
+   },
+   "group_pomodoros_hour_buckets": {
+      "description": "Daily distribution bucket tooltip. Shown on the settings-history page.",
+      "message": "Kumpulkan Pomodoro-Pomodoro ke dalam $count$ baldi-baldi jam",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "group_pomodoros_minute_buckets": {
+      "description": "Daily distribution bucket tooltip. Shown on the settings-history page.",
+      "message": "Kumpulkan Pomodoro-Pomodoro ke dalam $count$ baldi-baldi minit",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "heatmap_date_format": {
+      "description": "Heatmap tooltip date format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the settings-history page.",
+      "message": "%A, %B %d, %Y"
+   },
+   "heatmap_tooltip": {
+      "description": "Tooltip for heatmap chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ pada $date$",
+      "placeholders": {
+         "date": {
+            "content": "$2",
+            "example": "Jun 07, 2017"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "25 Pomodoros"
+         }
+      }
+   },
+   "height": {
+      "description": "Height input placeholder. Refers to countdown window height in pixels.",
+      "message": "Ketinggian"
+   },
+   "help_translate": {
+      "description": "Feedback link. Shown on settings-feedback page.",
+      "message": "Tolong Terjemahkan"
+   },
+   "history": {
+      "description": "History tab. Shown on the settings page.",
+      "message": "Sejarah"
+   },
+   "history_empty_placeholder": {
+      "description": "Placeholder for history heatmap when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "Lengkapkan Pomodoro untuk melihat sejarah anda"
+   },
+   "hour_format": {
+      "description": "Hour-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the daily distribution chart on the settings-history page.",
+      "message": "%-I%p"
+   },
+   "hour_minute_format": {
+      "description": "Hour-with-minutes format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown in the daily distribution chart tooltips on the settings-history page.",
+      "message": "%-I:%M%p"
+   },
+   "hover_preview": {
+      "description": "Hover to preview note. Shown on the settings page.",
+      "message": "Legarkan untuk pratonton"
+   },
+   "hr_suffix": {
+      "description": "Number with hour suffix (abbreviated). Shown on the settings-history page.",
+      "message": "$count$ Jm",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "import": {
+      "description": "Import (history) button. Shown on the settings-history page.",
+      "message": "Import"
+   },
+   "import_confirmation": {
+      "description": "Import history confirmation prompt. Shown on the settings-history page.",
+      "message": "Import & gabungkan sejarah Pomodoro dari fail yang dieksport."
+   },
+   "import_description": {
+      "description": "Import history description. Shown on the settings-history page.",
+      "message": "Import & gabungkan sejarah Pomodoro dari fail yang dieksport."
+   },
+   "import_failed": {
+      "description": "Error message shown when history import fails. Shown on the settings-history page.",
+      "message": "Gagal mengimport sejarah: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1",
+            "example": "Missing Pomodoro data."
+         }
+      }
+   },
+   "in_month": {
+      "description": "Label for Pomodoro monthly stats, e.g. '5 Pomodoros / In January'. Shown on the settings-history page.",
+      "message": "Dalam $month$",
+      "placeholders": {
+         "month": {
+            "content": "$1",
+            "example": "January"
+         }
+      }
+   },
+   "invalid_duration_data": {
+      "description": "Error when imported history has invalid duration information.",
+      "message": "Data jangka masa tidak sah."
+   },
+   "invalid_pomodoro_data": {
+      "description": "Error when imported history has invalid Pomodoro information.",
+      "message": "Data Pomodoro tidak sah."
+   },
+   "invalid_timezone_data": {
+      "description": "Error when imported history has invalid timezone information.",
+      "message": "Data zon masa tidak sah."
+   },
+   "january": {
+      "description": "January. Shown on the settings-history page.",
+      "message": "Januari"
+   },
+   "january_short": {
+      "description": "January abbreviated. Shown on the settings-history page.",
+      "message": "Jan"
+   },
+   "july": {
+      "description": "July. Shown on the settings-history page.",
+      "message": "Julai"
+   },
+   "july_short": {
+      "description": "July abbreviated. Shown on the settings-history page.",
+      "message": "Jul"
+   },
+   "june": {
+      "description": "June. Shown on the settings-history page.",
+      "message": "Jun"
+   },
+   "june_short": {
+      "description": "June abbreviated. Shown on the settings-history page.",
+      "message": "Jun"
+   },
+   "large_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Jam Besar"
+   },
+   "last_9_months": {
+      "description": "Last 9 months section header. Shown on the settings-history page.",
+      "message": "$count$ dalam 9 Bulan Yang Lalu",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "No Pomodoros"
+         }
+      }
+   },
+   "less_than_minute": {
+      "description": "Badge tooltip and overlay text when timer has less than 1 minute remaining.",
+      "message": "\u003C1m"
+   },
+   "license": {
+      "description": "Link to source license. Shown on the settings-feedback page.",
+      "message": "Lesen"
+   },
+   "long_break": {
+      "description": "Long Break section header. Shown on the settings page.",
+      "message": "Rehat Panjang"
+   },
+   "march": {
+      "description": "March. Shown on the settings-history page.",
+      "message": "Mac"
+   },
+   "march_short": {
+      "description": "March abbreviated. Shown on the settings-history page.",
+      "message": "Mac"
+   },
+   "marinara_pomodoro_assistant": {
+      "description": "Settings page title.",
+      "message": "Marinara: Pembantu Pomodoro"
+   },
+   "may": {
+      "description": "May. Shown on the settings-history page.",
+      "message": "Mei"
+   },
+   "may_short": {
+      "description": "May abbreviated. Shown on the settings-history page.",
+      "message": "Mei"
+   },
+   "metronome": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Metronome"
+   },
+   "min_suffix": {
+      "description": "Number with minute suffix (abbreviated). Shown on the settings-history page.",
+      "message": "$count$ Min",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "minutes": {
+      "description": "Minutes label for timer duration. Shown on the settings page.",
+      "message": "minit"
+   },
+   "mismatched_pomodoro_duration_data": {
+      "description": "Error when imported history has mismatched Pomodoro/duration data.",
+      "message": "Data Pomodoro/jangka masa tidak sepadan."
+   },
+   "mismatched_pomodoro_timezone_data": {
+      "description": "Error when imported history has mismatched Pomodoro/timezone data.",
+      "message": "Data Pomodoro/zon masa tidak sepadan."
+   },
+   "missing_duration_data": {
+      "description": "Error when imported history has no Pomodoro duration information.",
+      "message": "Data jangka masa tiada."
+   },
+   "missing_pomodoro_data": {
+      "description": "Error when imported history has no Pomodoro information.",
+      "message": "Data Pomodoro tiada."
+   },
+   "missing_timezone_data": {
+      "description": "Error when imported history has no Pomodoro timezone information.",
+      "message": "Data zon masa tiada."
+   },
+   "monday": {
+      "description": "Monday. Shown on the settings-history page.",
+      "message": "Isnin"
+   },
+   "monday_short": {
+      "description": "Monday abbreviated. Shown on the settings-history page.",
+      "message": "Isn"
+   },
+   "music_box": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Kotak Muzik"
+   },
+   "n_minutes": {
+      "description": "Badge tooltip and overlay text when timer has least 1 minute remaining.",
+      "message": "$count$m",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "never": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "tidak pernah"
+   },
+   "noise": {
+      "description": "Timer sound group name. Shown in the timer sound dropdown in settings.",
+      "message": "Bunyi"
+   },
+   "none": {
+      "description": "The 'no sound' option. Represents nothing selected. Shown on the settings page.",
+      "message": "Tiada"
+   },
+   "november": {
+      "description": "November. Shown on the settings-history page.",
+      "message": "November"
+   },
+   "november_short": {
+      "description": "November abbreviated. Shown on the settings-history page.",
+      "message": "Nov"
+   },
+   "october": {
+      "description": "October. Shown on the settings-history page.",
+      "message": "Oktober"
+   },
+   "october_short": {
+      "description": "October abbreviated. Shown on the settings-history page.",
+      "message": "Okt"
+   },
+   "pause_timer": {
+      "description": "Menu entry to pause the current timer. Shown in the dropdown menu.",
+      "message": "Hentikan Seketika Jam"
+   },
+   "periodic_beat": {
+      "description": "Timer sound group name. Shown in the timer sound dropdown in settings.",
+      "message": "Pukulan Berkala"
+   },
+   "pin_drop": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Jatuhan Pin"
+   },
+   "pink_noise": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Bunyi Merah Jambu"
+   },
+   "play_audio_notification": {
+      "description": "Audio notification label. Shown on the settings page.",
+      "message": "Mainkan suara:"
+   },
+   "pomodoro_assistant": {
+      "description": "Marinara title tagline. Shown on the settings-feedback page.",
+      "message": "Pembantu Pomodoro"
+   },
+   "pomodoro_count_many": {
+      "description": "Label for many Pomodoros. Shown on the expiration page.",
+      "message": "$count$ Pomodoro",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "10"
+         }
+      }
+   },
+   "pomodoro_count_one": {
+      "description": "Label for a single Pomodoro. Shown on the expiration page.",
+      "message": "1 Pomodoro"
+   },
+   "pomodoro_count_zero": {
+      "description": "Label for zero Pomodoros. Shown on the expiration page.",
+      "message": "Tiada Pomodoro"
+   },
+   "pomodoro_history": {
+      "description": "Menu entry to view Pomodoro history/stats. Shown in the dropdown menu.",
+      "message": "Sejarah Pomodoro"
+   },
+   "pomodoros_completed_today": {
+      "description": "Daily Pomodoro counter. Should be short enough to fit in browser notification box. Shown in browser notifications.",
+      "message": "$pomodoros$ hari ini",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "1 Pomodoro"
+         }
+      }
+   },
+   "pomodoros_imported": {
+      "description": "Count of Pomodoros imported. Shown in prompt after importing/merging Pomodoro history.",
+      "message": "$pomodoros$ diimport.",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "3 Pomodoros"
+         }
+      }
+   },
+   "pomodoros_until_long_break": {
+      "description": "Pomodoro long break countdown. Shown on the timer expiration page and in browser notifications.",
+      "message": "$pomodoros$ sehingga rehat panjang",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "5 Pomodoros"
+         }
+      }
+   },
+   "pulse": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Nadi"
+   },
+   "reception_bell": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Dering Resepsi"
+   },
+   "release_notes": {
+      "description": "Link to GitHub release notes. Shown on the settings-feedback page.",
+      "message": "Nota Pelepasan"
+   },
+   "report_an_issue": {
+      "description": "Link to report an issue on GitHub. Shown on the settings-feedback page.",
+      "message": "Laporkan Masalah"
+   },
+   "restart_pomodoro_cycle": {
+      "description": "Menu entry to restart the current Pomodoro cycle. Shown in the dropdown menu.",
+      "message": "Mulakan Semula Kitaran Pomodoro"
+   },
+   "restart_timer": {
+      "description": "Menu entry to restart the current timer. Shown in the dropdown menu.",
+      "message": "Mulakan Semula Jam"
+   },
+   "resume_timer": {
+      "description": "Menu entry to resume the paused timer. Shown in the dropdown menu.",
+      "message": "Menyambung Semula Jam"
+   },
+   "robot_blip_1": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Bunyi Robot 1"
+   },
+   "robot_blip_2": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Bunyi Robot 2"
+   },
+   "saturday": {
+      "description": "Saturday. Shown on the settings-history page.",
+      "message": "Sabtu"
+   },
+   "saturday_short": {
+      "description": "Saturday abbreviated. Shown on the settings-history page.",
+      "message": "Sab"
+   },
+   "save_as_csv": {
+      "description": "Save as CSV button (.csv, comma-separated value file format). Shown on the settings-history page.",
+      "message": "Simpan sebagai CSV"
+   },
+   "save_as_csv_description": {
+      "description": "Save as CSV description. Shown on the settings-history page.",
+      "message": "Guna dengan Excel, Google Sheets, atau perisian hamparan elektronik lain."
+   },
+   "september": {
+      "description": "September. Shown on the settings-history page.",
+      "message": "September"
+   },
+   "september_short": {
+      "description": "September abbreviated. Shown on the settings-history page.",
+      "message": "Sep"
+   },
+   "settings": {
+      "description": "Settings tab. Shown on the settings page.",
+      "message": "Tetapan"
+   },
+   "settings_saved": {
+      "description": "Settings Saved notification shown on settings page when settings are saved.",
+      "message": "Tetapan Disimpan"
+   },
+   "ship_bell": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Loceng Kapal"
+   },
+   "short_break": {
+      "description": "Short Break section header. Shown on the settings page.",
+      "message": "Rehat Pendek"
+   },
+   "show_desktop_notification": {
+      "description": "Desktop notification option. Shown on the settings page.",
+      "message": "Tunjukkan notifikasi desktop"
+   },
+   "show_in_tab": {
+      "description": "Countdown timer visibility option. Shown on the settings page.",
+      "message": "Tunjukkan dalam tab baru"
+   },
+   "show_in_window": {
+      "description": "Countdown timer visibility option. Shown on the settings page.",
+      "message": "Tunjukkan dalam tetingkap pop timbul"
+   },
+   "show_new_tab_notification": {
+      "description": "New tab notification option. Shown on the settings page.",
+      "message": "Tunjukkan notifikasi tab baru"
+   },
+   "small_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Jam Kecil"
+   },
+   "source_code": {
+      "description": "Link to GitHub source code. Shown on the settings-feedback page.",
+      "message": "Kod Sumber"
+   },
+   "speed_label": {
+      "description": "Timer sound speed label. Shown on the settings page.",
+      "message": "Kepantasan:"
+   },
+   "start_break": {
+      "description": "Start a break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "Mulakan Rehat"
+   },
+   "start_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "Mulakan rehat sekarang"
+   },
+   "start_focusing": {
+      "description": "Start a focus session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "Mulakan Memberi Tumpuan"
+   },
+   "start_focusing_now": {
+      "description": "Notification button text when break timer expires.",
+      "message": "Mulakan memberi tumpuan sekarang"
+   },
+   "start_long_break": {
+      "description": "Start a long break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "Mulakan Rehat Panjang"
+   },
+   "start_long_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "Mulakan rehat panjang sekarang"
+   },
+   "start_pomodoro_cycle": {
+      "description": "Menu entry to start a new Pomodoro cycle. Shown in the dropdown menu.",
+      "message": "Mulakan Kitaran Pomodoro"
+   },
+   "start_short_break": {
+      "description": "Start a short break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "Mulakan Rehat Pendek"
+   },
+   "start_short_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "Mulakan rehat pendek sekarang"
+   },
+   "stop_timer": {
+      "description": "Menu entry to stop the current timer. Shown in the dropdown menu.",
+      "message": "Hentikan Jam"
+   },
+   "stopwatch": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Jam Randik"
+   },
+   "sunday": {
+      "description": "Sunday. Shown on the settings-history page.",
+      "message": "Ahad"
+   },
+   "sunday_short": {
+      "description": "Sunday abbreviated. Shown on the settings-history page.",
+      "message": "Aha"
+   },
+   "take_a_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "Ambilkan Rehat"
+   },
+   "take_a_long_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "Ambilkan Rehat Panjang"
+   },
+   "take_a_long_break_setting": {
+      "description": "Long break settings label. Shown on the settings page.",
+      "message": "Berehat panjang"
+   },
+   "take_a_short_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "Ambilkan Rehat Pendek"
+   },
+   "this_month": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "Bulan Ini"
+   },
+   "this_week": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "Minggu Ini"
+   },
+   "thousands_separator": {
+      "description": "Group separator for large numbers (e.g. two thousand: 2,000).",
+      "message": ","
+   },
+   "thursday": {
+      "description": "Thursday. Shown on the settings-history page.",
+      "message": "Khamis"
+   },
+   "thursday_short": {
+      "description": "Thursday abbreviated. Shown on the settings-history page.",
+      "message": "Kha"
+   },
+   "time": {
+      "description": "Time input label. Shown on the settings page.",
+      "message": "Masa:"
+   },
+   "time_format": {
+      "description": "Time-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%-I:%M:%S %p"
+   },
+   "time_period_am": {
+      "description": "12-hour clock AM specifier. Can be empty if 24-hour clock is used. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "a"
+   },
+   "time_period_pm": {
+      "description": "12-hour clock PM specifier. Can be empty if 24-hour clock is used. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "p"
+   },
+   "time_remaining": {
+      "description": "Badge tooltip to show time remaining for current timer.",
+      "message": "Masih Ada $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "5m"
+         }
+      }
+   },
+   "timer_paused": {
+      "description": "Tooltip to indicate the current timer is paused. Shown when hovering over the toolbar icon.",
+      "message": "Jam Dihentikan Seketika"
+   },
+   "timer_sound_label": {
+      "description": "Timer sound label. Shown on the settings page.",
+      "message": "Suara jam:"
+   },
+   "toaster_oven": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Ketuhar Pembakar"
+   },
+   "today": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "Hari Ini"
+   },
+   "tone": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Tona"
+   },
+   "total": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "Jumlah"
+   },
+   "train_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Hon Kereta Api"
+   },
+   "tuesday": {
+      "description": "Tuesday. Shown on the settings-history page.",
+      "message": "Selasa"
+   },
+   "tuesday_short": {
+      "description": "Tuesday abbreviated. Shown on the settings-history page.",
+      "message": "Sel"
+   },
+   "version": {
+      "description": "Version section header. Shown on the settings-feedback page.",
+      "message": "Versi"
+   },
+   "view": {
+      "description": "View section header. Shown on the settings-feedback page.",
+      "message": "Paparan"
+   },
+   "view_history": {
+      "description": "View History button text. Shown on the timer expiration page.",
+      "message": "Paparkan Sejarah"
+   },
+   "wall_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Jam Dinding"
+   },
+   "wednesday": {
+      "description": "Wednesday. Shown on the settings-history page.",
+      "message": "Rabu"
+   },
+   "wednesday_short": {
+      "description": "Wednesday abbreviated. Shown on the settings-history page.",
+      "message": "Rab"
+   },
+   "weekly_distribution": {
+      "description": "Weekly distribution section header. Shown on the settings-history page.",
+      "message": "Pengedaran Mingguan"
+   },
+   "weekly_empty_placeholder": {
+      "description": "Placeholder for weekly stats when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "Lengkapkan Pomodoro untuk melihat statistik mingguan"
+   },
+   "weekly_tooltip": {
+      "description": "Tooltip for weekly distribution chart. Shown on the settings-history page.",
+      "message": "$pomodoros$ pada $day$",
+      "placeholders": {
+         "day": {
+            "content": "$2",
+            "example": "Mondays"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "25 Pomodoros"
+         }
+      }
+   },
+   "when_complete": {
+      "description": "Section label for events to fire when timer completes. Shown on the settings page.",
+      "message": "Apabila selesai:"
+   },
+   "white_noise": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Bunyi Putih"
+   },
+   "width": {
+      "description": "Width input placeholder. Refers to countdown window width in pixels.",
+      "message": "Lebar"
+   },
+   "wind_up_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Jam Bergulung"
+   },
+   "wood_block": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Blok Kayu"
+   },
+   "wristwatch": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "Jam Tangan"
+   },
+   "write_a_review": {
+      "description": "Link to write a review on Chrome Web Store. Shown on the settings-feedback page.",
+      "message": "Tuliskan Ulasan"
+   },
+   "your_history": {
+      "description": "Your History section header. Shown on the settings-history page.",
+      "message": "Sejarah Anda"
+   }
+}

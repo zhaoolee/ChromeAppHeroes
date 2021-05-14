@@ -1,0 +1,1060 @@
+{
+   "airplane": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "طائرة"
+   },
+   "analog_alarm_clock": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "ساعة منبهة ميكانيكية"
+   },
+   "and": {
+      "description": "Connector of 'Chris Schmich & Contributors'. Shown on the settings-feedback page.",
+      "message": "&"
+   },
+   "antique_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "ساعة قديمة"
+   },
+   "app_desc": {
+      "description": "The short description of the application. Shown in the web store.",
+      "message": "Pomodora® مساعد تنظيم الوقت"
+   },
+   "app_name": {
+      "description": "The name of the application. Shown in the web store.",
+      "message": "Marinara: Pomodoro® Assistant"
+   },
+   "app_name_short": {
+      "description": "The short name of the application. Shown at the top of the dropdown menu.",
+      "message": "Marinara"
+   },
+   "april": {
+      "description": "April. Shown on the settings-history page.",
+      "message": "إبريل"
+   },
+   "april_short": {
+      "description": "April abbreviated. Shown on the settings-history page.",
+      "message": "إبريل"
+   },
+   "attributions": {
+      "description": "Link to audio attributions. Shown on the settings-feedback page.",
+      "message": "المصادر الموثقة"
+   },
+   "august": {
+      "description": "August. Shown on the settings-history page.",
+      "message": "أغسطس"
+   },
+   "august_short": {
+      "description": "August abbreviated. Shown on the settings-history page.",
+      "message": "أغسطس"
+   },
+   "autostart_description": {
+      "description": "Autostart setting description. Shown on the settings page.",
+      "message": "للبدء بشكل تلقائي في وقت محدد  Pomodoro جدولة"
+   },
+   "autostart_notification_message": {
+      "description": "Autostart notification message. Shown in browser notifications when the autostart Pomodoro starts.",
+      "message": "مجدول بشكل تلقائي Pomodoro تم بدء"
+   },
+   "autostart_notification_title": {
+      "description": "Autostart notification title. Shown in browser notifications when the autostart Pomodoro starts.",
+      "message": "Pomodoro بدء تلقائي لـ "
+   },
+   "autostart_title": {
+      "description": "Autostart section header. Shown on the settings page.",
+      "message": "البدء التلقائي"
+   },
+   "average_stat": {
+      "description": "Average Pomodoro completion stats label (abbreviated). Shown on the settings-history page.",
+      "message": "$average$ avg",
+      "placeholders": {
+         "average": {
+            "content": "$1",
+            "example": "7.33"
+         }
+      }
+   },
+   "battle_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "بوق الحرب"
+   },
+   "bell_ring": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "جرس"
+   },
+   "bike_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "جرس دراجة"
+   },
+   "bpm": {
+      "description": "Beats per minute; speed unit for timer sound. Shown on the settings page.",
+      "message": "دقات لكل دقيقة"
+   },
+   "brown_noise": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "تشويش بني"
+   },
+   "browser_action_tooltip": {
+      "description": "Browser action tooltip format with title and text. Title is usually timer phase (break, focus) while text is usually timer status (time remaining, paused).",
+      "message": "$text$ :$title$",
+      "placeholders": {
+         "text": {
+            "content": "$2",
+            "example": "5m remaining"
+         },
+         "title": {
+            "content": "$1",
+            "example": "Short Break"
+         }
+      }
+   },
+   "chrome_web_store_description": {
+      "description": "Detailed extension description shown to users in the Chrome Web Store.",
+      "message": "• فترات راحة قصيرة وطويلة\n• أيقونة شريط أدوات مع عد تنازلي\n• Pomodoro  متابعة تاريخ وإحصاءات \n• قابلية تعديل وقت فترات الراحة الطويلة\n• قابلية تعديل وقت العد التنازلي\n• تنبيهات سطح المكتب وشريط الأدوات\n• تنبيهات صوتية مع إمكانية الاختيار من 20 صوت\n• صوت لدقات دقائق العد التنازلي\n• جدولة مواقيت العد التنازلي بشكل آلي\n• برنامج مفتوح المصدر"
+   },
+   "clear_history": {
+      "description": "Clear History button. Shown on the settings-history page.",
+      "message": "تاريخ الاستخدام"
+   },
+   "clear_history_confirmation": {
+      "description": "Clear history confirmation prompt. Shown when user clicks Clear History on the settings-history page.",
+      "message": "هل تريد مسح تاريخ الاستخدام بشكل نهائي؟"
+   },
+   "clear_history_description": {
+      "description": "Clear history description. Shown on the settings-history page.",
+      "message": "مسح تاريخ الاستخدام بشكل نهائي"
+   },
+   "clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "ساعة"
+   },
+   "completed_today": {
+      "description": "Label for today's completed Pomodoro count. Shown on the timer expiration page.",
+      "message": "تم اليوم"
+   },
+   "computer_magic": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "سحر الكمبيوتر"
+   },
+   "contributors": {
+      "description": "Part of 'Chris Schmich & Contributors'. Shown on the settings-feedback page.",
+      "message": "المساهمين"
+   },
+   "countdown": {
+      "description": "Countdown page title. Shown on the countdown timer page.",
+      "message": "العد التنازلي"
+   },
+   "countdown_autoclose_tab": {
+      "description": "Countdown timer option. Specifies if the countdown tab should close when the session ends. Shown on the settings page.",
+      "message": "اغلق شريط التصفح عند انتهاء الجلسة"
+   },
+   "countdown_autoclose_window": {
+      "description": "Countdown timer option. Specifies if the countdown window should close when the session ends. Shown on the settings page.",
+      "message": "اغلق النافذة عند انتهاء الجلسة"
+   },
+   "countdown_timer": {
+      "description": "Countdown timer label. Shown on the settings page.",
+      "message": "مؤقت العد التنازلي"
+   },
+   "custom": {
+      "description": "Countdown timer resolution option. Lets the user specify their own countdown window resolution. Shown on the settings page.",
+      "message": "مخصص"
+   },
+   "daily_distribution": {
+      "description": "Daily distribution section header. Shown on the settings-history page.",
+      "message": "التوزيع اليومي"
+   },
+   "daily_empty_placeholder": {
+      "description": "Placeholder for daily stats when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "لرؤية النتائج اليومية Pomodoro أتم"
+   },
+   "daily_tooltip": {
+      "description": "Tooltip for daily distribution chart. Shown on the settings-history page.",
+      "message": "$end$—$start$ بين $pomodoros$",
+      "placeholders": {
+         "end": {
+            "content": "$3",
+            "example": "10:00a"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "15 Pomodoros"
+         },
+         "start": {
+            "content": "$2",
+            "example": "9:00a"
+         }
+      }
+   },
+   "date_format": {
+      "description": "Date-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%-d/%-m/%Y"
+   },
+   "date_time_format": {
+      "description": "Date-with-time format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%x, %X"
+   },
+   "december": {
+      "description": "December. Shown on the settings-history page.",
+      "message": "ديسمبر"
+   },
+   "december_short": {
+      "description": "December abbreviated. Shown on the settings-history page.",
+      "message": "ديسمبر"
+   },
+   "decimal_separator": {
+      "description": "Separator for fractional numbers (e.g. three-and-a-half: 3.5).",
+      "message": "."
+   },
+   "desk_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "ساعة مكتب"
+   },
+   "digital_alarm_clock": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "ساعة منبهة الكترونية"
+   },
+   "digital_watch": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "ساعة الكترونية"
+   },
+   "ding": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Ding"
+   },
+   "ding_dong": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Ding Dong"
+   },
+   "disclaimer": {
+      "description": "Disclaimer footer text. Shown on the settings-feedback page.",
+      "message": ".Francesco Cirillo أو The Pomodoro Technique® ،Pomodoro® بـ Marinara ولا ترتبط Francesco Cirillo هي علامات تجارية مسجلة لصالح The Pomodoro Technique® و Pomodoro®"
+   },
+   "do_not_show": {
+      "description": "Countdown timer visibility option. Shown on the settings page.",
+      "message": "لا تظهر"
+   },
+   "dong": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Dong"
+   },
+   "duration": {
+      "description": "Timer duration label. Shown on the settings page.",
+      "message": "الفترة:"
+   },
+   "duration_seconds": {
+      "description": "CSV column header for the Pomodoro's duration in seconds.",
+      "message": "الفترة (ثواني)"
+   },
+   "electronic_chime": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "جرس الكتروني"
+   },
+   "end_date": {
+      "description": "CSV column header for the Pomodoro's end date in YYYY-MM-DD format.",
+      "message": "تاريخ الانتهاء"
+   },
+   "end_iso_8601": {
+      "description": "CSV column header for the Pomodoro's end time formatted to the ISO 8601 standard. See https://en.wikipedia.org/wiki/ISO_8601.",
+      "message": "(ISO 8601) الانتهاء"
+   },
+   "end_time": {
+      "description": "CSV column header for the Pomodoro's end time formatted as time on a 24-hour clock.",
+      "message": "وقت الانتهاء (نظام 24 ساعة)"
+   },
+   "end_timestamp": {
+      "description": "CSV column header for the Pomodoro's end time formatted as a Unix timestamp. See https://en.wikipedia.org/wiki/Unix_time.",
+      "message": "(Unix نظام) وقت الانتهاء"
+   },
+   "end_timezone": {
+      "description": "CSV column header for the Pomodoro's end timezone defined as the GMT/UTC (Coordinated Universal Time) offset, measured in minutes.",
+      "message": "(UTC نظام) المنطقة الزمنية  للانتهاء"
+   },
+   "error_saving_settings": {
+      "description": "Shown to the user in an alert when settings can't be saved due to user input error or unexpected error.",
+      "message": "$message$ :خطأ اثناء حفظ الاعدادات",
+      "placeholders": {
+         "message": {
+            "content": "$1",
+            "example": "Duration must be a positive number."
+         }
+      }
+   },
+   "every_10th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "عند كل عاشر جلسة"
+   },
+   "every_2nd_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "عند كل ثاني جلسة (بالتناوب)"
+   },
+   "every_3rd_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "عند كل ثالث جلسة"
+   },
+   "every_4th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "عند كل رابع جلسة"
+   },
+   "every_5th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "عند كل خامس جلسة"
+   },
+   "every_6th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "عند كل سادس جلسة"
+   },
+   "every_7th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "عند كل سابع جلسة"
+   },
+   "every_8th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "عند كل ثامن جلسة"
+   },
+   "every_9th_break": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "عند كل تاسع جلسة"
+   },
+   "expire_title": {
+      "description": "Expiration page title. Shown on the expiration page when a focus/break session completes.",
+      "message": "انتهى الوقت"
+   },
+   "export": {
+      "description": "Export (history) button. Shown on the settings-history page.",
+      "message": "تصدير"
+   },
+   "export_description": {
+      "description": "Export history description. Shown on the settings-history page.",
+      "message": "لأخذ نسخة احتياطية للاستخدام في حاسب آخر"
+   },
+   "february": {
+      "description": "February. Shown on the settings-history page.",
+      "message": "فبراير"
+   },
+   "february_short": {
+      "description": "February abbreviated. Shown on the settings-history page.",
+      "message": "فبراير"
+   },
+   "feedback": {
+      "description": "Feedback tab and section header. Shown on the settings page.",
+      "message": "أعطنا رأيك"
+   },
+   "fire_pager": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "Fire Pager"
+   },
+   "focus": {
+      "description": "Focus section header. Shown on the settings page.",
+      "message": "تركيز"
+   },
+   "friday": {
+      "description": "Friday. Shown on the settings-history page.",
+      "message": "الجمعة"
+   },
+   "friday_short": {
+      "description": "Friday abbreviated. Shown on the settings-history page.",
+      "message": "جمعة"
+   },
+   "fullscreen": {
+      "description": "Countdown timer resolution option for a fullscreen (maximized) countdown timer. Shown on the settings page.",
+      "message": "شاشة كاملة"
+   },
+   "glass_ping": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "جرس زجاجي"
+   },
+   "gong_1": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "جرس 1"
+   },
+   "gong_2": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "جرس 2"
+   },
+   "group_pomodoros_hour_buckets": {
+      "description": "Daily distribution bucket tooltip. Shown on the settings-history page.",
+      "message": "ساعات $count$ الى مجموعات مقسمة الى Pomodoro تجميع",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "group_pomodoros_minute_buckets": {
+      "description": "Daily distribution bucket tooltip. Shown on the settings-history page.",
+      "message": "دقائق $count$ الى مجموعات مقسمة الى Pomodoro تجميع",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "heatmap_date_format": {
+      "description": "Heatmap tooltip date format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the settings-history page.",
+      "message": "%A, %B %d, %Y"
+   },
+   "heatmap_tooltip": {
+      "description": "Tooltip for heatmap chart. Shown on the settings-history page.",
+      "message": "$date$ بتاريخ $pomodoros$",
+      "placeholders": {
+         "date": {
+            "content": "$2",
+            "example": "Jun 07, 2017"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "25 Pomodoros"
+         }
+      }
+   },
+   "height": {
+      "description": "Height input placeholder. Refers to countdown window height in pixels.",
+      "message": "الطول"
+   },
+   "help_translate": {
+      "description": "Feedback link. Shown on settings-feedback page.",
+      "message": "المساعدة في الترجمة"
+   },
+   "history": {
+      "description": "History tab. Shown on the settings page.",
+      "message": "التاريخ"
+   },
+   "history_empty_placeholder": {
+      "description": "Placeholder for history heatmap when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "لرؤية تاريخ الاستخدام Pomodoro أتم"
+   },
+   "hour_format": {
+      "description": "Hour-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown on the daily distribution chart on the settings-history page.",
+      "message": "%-I%p"
+   },
+   "hour_minute_format": {
+      "description": "Hour-with-minutes format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format. Shown in the daily distribution chart tooltips on the settings-history page.",
+      "message": "%-I:%M%p"
+   },
+   "hover_preview": {
+      "description": "Hover to preview note. Shown on the settings page.",
+      "message": "حلق بالفأرة للمعاينة"
+   },
+   "hr_suffix": {
+      "description": "Number with hour suffix (abbreviated). Shown on the settings-history page.",
+      "message": "دقائق $count$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "import": {
+      "description": "Import (history) button. Shown on the settings-history page.",
+      "message": "إستيراد"
+   },
+   "import_confirmation": {
+      "description": "Import history confirmation prompt. Shown on the settings-history page.",
+      "message": "سيتم دمج تاريخ الاستخدام المستورج مع تاريخ الاستخدام الحالي. هل تريد الاكمال؟"
+   },
+   "import_description": {
+      "description": "Import history description. Shown on the settings-history page.",
+      "message": " من ملف نسخة احتياطية Pomodoro إستيراد ودمج تاريخ "
+   },
+   "import_failed": {
+      "description": "Error message shown when history import fails. Shown on the settings-history page.",
+      "message": "$error$ : فشل استيراد تاريخ الاستخدام",
+      "placeholders": {
+         "error": {
+            "content": "$1",
+            "example": "Missing Pomodoro data."
+         }
+      }
+   },
+   "in_month": {
+      "description": "Label for Pomodoro monthly stats, e.g. '5 Pomodoros / In January'. Shown on the settings-history page.",
+      "message": "$month$ بشهر",
+      "placeholders": {
+         "month": {
+            "content": "$1",
+            "example": "January"
+         }
+      }
+   },
+   "invalid_duration_data": {
+      "description": "Error when imported history has invalid duration information.",
+      "message": "بينات المواقيت غير صحيحة"
+   },
+   "invalid_pomodoro_data": {
+      "description": "Error when imported history has invalid Pomodoro information.",
+      "message": "غير صحيحة Pomodoro بيانات"
+   },
+   "invalid_timezone_data": {
+      "description": "Error when imported history has invalid timezone information.",
+      "message": "المنطقة الزمني غير صحيحة"
+   },
+   "january": {
+      "description": "January. Shown on the settings-history page.",
+      "message": "يناير"
+   },
+   "january_short": {
+      "description": "January abbreviated. Shown on the settings-history page.",
+      "message": "يناير"
+   },
+   "july": {
+      "description": "July. Shown on the settings-history page.",
+      "message": "يوليو"
+   },
+   "july_short": {
+      "description": "July abbreviated. Shown on the settings-history page.",
+      "message": "يوليو"
+   },
+   "june": {
+      "description": "June. Shown on the settings-history page.",
+      "message": "يونيو"
+   },
+   "june_short": {
+      "description": "June abbreviated. Shown on the settings-history page.",
+      "message": "يونيو"
+   },
+   "large_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "ساعة كبيرة"
+   },
+   "last_9_months": {
+      "description": "Last 9 months section header. Shown on the settings-history page.",
+      "message": "في آخر 9 اشهر $count$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "No Pomodoros"
+         }
+      }
+   },
+   "less_than_minute": {
+      "description": "Badge tooltip and overlay text when timer has less than 1 minute remaining.",
+      "message": "\u003C1 د "
+   },
+   "license": {
+      "description": "Link to source license. Shown on the settings-feedback page.",
+      "message": "رخصة الاستخدام"
+   },
+   "long_break": {
+      "description": "Long Break section header. Shown on the settings page.",
+      "message": "إستراحة طويلة"
+   },
+   "march": {
+      "description": "March. Shown on the settings-history page.",
+      "message": "مارس"
+   },
+   "march_short": {
+      "description": "March abbreviated. Shown on the settings-history page.",
+      "message": "مارس"
+   },
+   "marinara_pomodoro_assistant": {
+      "description": "Settings page title.",
+      "message": "Marinara: Pomodoro Assistant"
+   },
+   "may": {
+      "description": "May. Shown on the settings-history page.",
+      "message": "مايو"
+   },
+   "may_short": {
+      "description": "May abbreviated. Shown on the settings-history page.",
+      "message": "مايو"
+   },
+   "metronome": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "بندول الايقاع"
+   },
+   "min_suffix": {
+      "description": "Number with minute suffix (abbreviated). Shown on the settings-history page.",
+      "message": "ساعات $count$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "minutes": {
+      "description": "Minutes label for timer duration. Shown on the settings page.",
+      "message": "دقائق"
+   },
+   "mismatched_pomodoro_duration_data": {
+      "description": "Error when imported history has mismatched Pomodoro/duration data.",
+      "message": "مع المواقيت Pomodoro عدم توافق بيانات "
+   },
+   "mismatched_pomodoro_timezone_data": {
+      "description": "Error when imported history has mismatched Pomodoro/timezone data.",
+      "message": "مع المنطقة الزمنية Pomodoro عدم توافق بيانات "
+   },
+   "missing_duration_data": {
+      "description": "Error when imported history has no Pomodoro duration information.",
+      "message": "بينات المواقيت مفقودة"
+   },
+   "missing_pomodoro_data": {
+      "description": "Error when imported history has no Pomodoro information.",
+      "message": "مفقودة Pomodoro بيانات"
+   },
+   "missing_timezone_data": {
+      "description": "Error when imported history has no Pomodoro timezone information.",
+      "message": "المنطقة الزمني مفقودة"
+   },
+   "monday": {
+      "description": "Monday. Shown on the settings-history page.",
+      "message": "الإثنين"
+   },
+   "monday_short": {
+      "description": "Monday abbreviated. Shown on the settings-history page.",
+      "message": "اثنين"
+   },
+   "music_box": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "صندوق موسيقي"
+   },
+   "n_minutes": {
+      "description": "Badge tooltip and overlay text when timer has least 1 minute remaining.",
+      "message": "د$count$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "never": {
+      "description": "Long break option. Shown in the long break dropdown on the settings page.",
+      "message": "أبداً"
+   },
+   "noise": {
+      "description": "Timer sound group name. Shown in the timer sound dropdown in settings.",
+      "message": "تشويش"
+   },
+   "none": {
+      "description": "The 'no sound' option. Represents nothing selected. Shown on the settings page.",
+      "message": "لا يوجد"
+   },
+   "november": {
+      "description": "November. Shown on the settings-history page.",
+      "message": "نوفمبر"
+   },
+   "november_short": {
+      "description": "November abbreviated. Shown on the settings-history page.",
+      "message": "نوفمبر"
+   },
+   "october": {
+      "description": "October. Shown on the settings-history page.",
+      "message": "أكتوبر"
+   },
+   "october_short": {
+      "description": "October abbreviated. Shown on the settings-history page.",
+      "message": "أكتوبر"
+   },
+   "pause_timer": {
+      "description": "Menu entry to pause the current timer. Shown in the dropdown menu.",
+      "message": "إيقاف العد التنازلي مؤقتاً"
+   },
+   "periodic_beat": {
+      "description": "Timer sound group name. Shown in the timer sound dropdown in settings.",
+      "message": "نبض متردد"
+   },
+   "pin_drop": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "صوت دبوس"
+   },
+   "pink_noise": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "تشويش وردي"
+   },
+   "play_audio_notification": {
+      "description": "Audio notification label. Shown on the settings page.",
+      "message": "تشغيل الصوت:"
+   },
+   "pomodoro_assistant": {
+      "description": "Marinara title tagline. Shown on the settings-feedback page.",
+      "message": "Pomodoro مساعد"
+   },
+   "pomodoro_count_many": {
+      "description": "Label for many Pomodoros. Shown on the expiration page.",
+      "message": "$count$ Pomodoros",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "10"
+         }
+      }
+   },
+   "pomodoro_count_one": {
+      "description": "Label for a single Pomodoro. Shown on the expiration page.",
+      "message": "1 Pomodoro"
+   },
+   "pomodoro_count_zero": {
+      "description": "Label for zero Pomodoros. Shown on the expiration page.",
+      "message": "Pomodoros لا يوجد"
+   },
+   "pomodoro_history": {
+      "description": "Menu entry to view Pomodoro history/stats. Shown in the dropdown menu.",
+      "message": "Pomodoro تاريخ"
+   },
+   "pomodoros_completed_today": {
+      "description": "Daily Pomodoro counter. Should be short enough to fit in browser notification box. Shown in browser notifications.",
+      "message": "اليوم $pomodoros$",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "1 Pomodoro"
+         }
+      }
+   },
+   "pomodoros_imported": {
+      "description": "Count of Pomodoros imported. Shown in prompt after importing/merging Pomodoro history.",
+      "message": "$pomodoros$ تم استيراد",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "3 Pomodoros"
+         }
+      }
+   },
+   "pomodoros_until_long_break": {
+      "description": "Pomodoro long break countdown. Shown on the timer expiration page and in browser notifications.",
+      "message": "متبقية حتى استراحة طويلة $pomodoros$",
+      "placeholders": {
+         "pomodoros": {
+            "content": "$1",
+            "example": "5 Pomodoros"
+         }
+      }
+   },
+   "pulse": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "نبض"
+   },
+   "reception_bell": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "جرس استقبال"
+   },
+   "release_notes": {
+      "description": "Link to GitHub release notes. Shown on the settings-feedback page.",
+      "message": "معلومات الاصدار"
+   },
+   "report_an_issue": {
+      "description": "Link to report an issue on GitHub. Shown on the settings-feedback page.",
+      "message": "الابلاغ عن خطأ"
+   },
+   "restart_pomodoro_cycle": {
+      "description": "Menu entry to restart the current Pomodoro cycle. Shown in the dropdown menu.",
+      "message": "Pomodoro إعادة بدء دورة "
+   },
+   "restart_timer": {
+      "description": "Menu entry to restart the current timer. Shown in the dropdown menu.",
+      "message": "إعادة بدء العد التنازلي"
+   },
+   "resume_timer": {
+      "description": "Menu entry to resume the paused timer. Shown in the dropdown menu.",
+      "message": "إستمرار العد التنازلي"
+   },
+   "robot_blip_1": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "صوت آلي 1"
+   },
+   "robot_blip_2": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "صوت آلي 2"
+   },
+   "saturday": {
+      "description": "Saturday. Shown on the settings-history page.",
+      "message": "السبت"
+   },
+   "saturday_short": {
+      "description": "Saturday abbreviated. Shown on the settings-history page.",
+      "message": "سبت"
+   },
+   "save_as_csv": {
+      "description": "Save as CSV button (.csv, comma-separated value file format). Shown on the settings-history page.",
+      "message": "CSV حفظ بصيغة"
+   },
+   "save_as_csv_description": {
+      "description": "Save as CSV description. Shown on the settings-history page.",
+      "message": "أو برامج الجداول الاخرى Excel, Google Sheets الاستخدام مع"
+   },
+   "september": {
+      "description": "September. Shown on the settings-history page.",
+      "message": "سبتمبر"
+   },
+   "september_short": {
+      "description": "September abbreviated. Shown on the settings-history page.",
+      "message": "سبتمبر"
+   },
+   "settings": {
+      "description": "Settings tab. Shown on the settings page.",
+      "message": "الإعدادات"
+   },
+   "settings_saved": {
+      "description": "Settings Saved notification shown on settings page when settings are saved.",
+      "message": "تم حفظ الاعدادات"
+   },
+   "ship_bell": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "جرس سفينة"
+   },
+   "short_break": {
+      "description": "Short Break section header. Shown on the settings page.",
+      "message": "إستراحة قصيرة"
+   },
+   "show_desktop_notification": {
+      "description": "Desktop notification option. Shown on the settings page.",
+      "message": "اظهر تنبيهات سطح المكتب"
+   },
+   "show_in_tab": {
+      "description": "Countdown timer visibility option. Shown on the settings page.",
+      "message": "اظهر في شريط تصفح جديد"
+   },
+   "show_in_window": {
+      "description": "Countdown timer visibility option. Shown on the settings page.",
+      "message": "اظهر في نافذة جديدة"
+   },
+   "show_new_tab_notification": {
+      "description": "New tab notification option. Shown on the settings page.",
+      "message": "اظهر تنبيه عند بدء شريط تصفح جديد"
+   },
+   "small_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "ساعة صغيرة"
+   },
+   "source_code": {
+      "description": "Link to GitHub source code. Shown on the settings-feedback page.",
+      "message": "كود مصدر البرنامج"
+   },
+   "speed_label": {
+      "description": "Timer sound speed label. Shown on the settings page.",
+      "message": "السرعة:"
+   },
+   "start_break": {
+      "description": "Start a break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "بدء استراحة"
+   },
+   "start_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "بدء استراحة الآن"
+   },
+   "start_focusing": {
+      "description": "Start a focus session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "بدء التركيز"
+   },
+   "start_focusing_now": {
+      "description": "Notification button text when break timer expires.",
+      "message": "بدء التركيز الآن"
+   },
+   "start_long_break": {
+      "description": "Start a long break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "بدء استراحة طويلة"
+   },
+   "start_long_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "بدء استراحة طويلة الآن"
+   },
+   "start_pomodoro_cycle": {
+      "description": "Menu entry to start a new Pomodoro cycle. Shown in the dropdown menu.",
+      "message": "Pomodoro بدء دورة"
+   },
+   "start_short_break": {
+      "description": "Start a short break session. Shown in the dropdown menu, timer expiration page, and in browser notifications.",
+      "message": "بدء استراحة قصيرة"
+   },
+   "start_short_break_now": {
+      "description": "Notification button text when focus timer expires.",
+      "message": "بدء استراحة قصيرة الآن"
+   },
+   "stop_timer": {
+      "description": "Menu entry to stop the current timer. Shown in the dropdown menu.",
+      "message": "إيقاف العد التنازلي"
+   },
+   "stopwatch": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "ساعة عد تنازلي"
+   },
+   "sunday": {
+      "description": "Sunday. Shown on the settings-history page.",
+      "message": "الأحد"
+   },
+   "sunday_short": {
+      "description": "Sunday abbreviated. Shown on the settings-history page.",
+      "message": "أحد"
+   },
+   "take_a_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "أخذ استراحة"
+   },
+   "take_a_long_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "أخذ استراحة طويلة"
+   },
+   "take_a_long_break_setting": {
+      "description": "Long break settings label. Shown on the settings page.",
+      "message": "خذ فترة راحة طويلة"
+   },
+   "take_a_short_break": {
+      "description": "Action title. Shown on the timer expiration page and in browser notifications.",
+      "message": "أخذ استراحة قصيرة"
+   },
+   "this_month": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "هذا الشهر"
+   },
+   "this_week": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "هذا الاسبوع"
+   },
+   "thousands_separator": {
+      "description": "Group separator for large numbers (e.g. two thousand: 2,000).",
+      "message": "،"
+   },
+   "thursday": {
+      "description": "Thursday. Shown on the settings-history page.",
+      "message": "الخميس"
+   },
+   "thursday_short": {
+      "description": "Thursday abbreviated. Shown on the settings-history page.",
+      "message": "خميس"
+   },
+   "time": {
+      "description": "Time input label. Shown on the settings page.",
+      "message": "الوقت:"
+   },
+   "time_format": {
+      "description": "Time-only format. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "%-I:%M:%S %p"
+   },
+   "time_period_am": {
+      "description": "12-hour clock AM specifier. Can be empty if 24-hour clock is used. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "ص"
+   },
+   "time_period_pm": {
+      "description": "12-hour clock PM specifier. Can be empty if 24-hour clock is used. See format options at https://github.com/d3/d3-time-format/blob/master/README.md#locale_format.",
+      "message": "م"
+   },
+   "time_remaining": {
+      "description": "Badge tooltip to show time remaining for current timer.",
+      "message": "متبقي $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "5m"
+         }
+      }
+   },
+   "timer_paused": {
+      "description": "Tooltip to indicate the current timer is paused. Shown when hovering over the toolbar icon.",
+      "message": "تم إيقاف المؤقت"
+   },
+   "timer_sound_label": {
+      "description": "Timer sound label. Shown on the settings page.",
+      "message": "صوت المؤقت:"
+   },
+   "toaster_oven": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "جرس فرن"
+   },
+   "today": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "اليوم"
+   },
+   "tone": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "النبرة"
+   },
+   "total": {
+      "description": "Pomodoro stats label. Shown on the settings-history page.",
+      "message": "الكل"
+   },
+   "train_horn": {
+      "description": "Sound name. Shown in the audio notification dropdown in settings.",
+      "message": "جرس قطار"
+   },
+   "tuesday": {
+      "description": "Tuesday. Shown on the settings-history page.",
+      "message": "الثلاثاء"
+   },
+   "tuesday_short": {
+      "description": "Tuesday abbreviated. Shown on the settings-history page.",
+      "message": "ثلاثاء"
+   },
+   "version": {
+      "description": "Version section header. Shown on the settings-feedback page.",
+      "message": "النسخة"
+   },
+   "view": {
+      "description": "View section header. Shown on the settings-feedback page.",
+      "message": "عرض"
+   },
+   "view_history": {
+      "description": "View History button text. Shown on the timer expiration page.",
+      "message": "عرض تاريخ الاستخدام"
+   },
+   "wall_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "ساعة جدار"
+   },
+   "wednesday": {
+      "description": "Wednesday. Shown on the settings-history page.",
+      "message": "الأربعاء"
+   },
+   "wednesday_short": {
+      "description": "Wednesday abbreviated. Shown on the settings-history page.",
+      "message": "اربعاء"
+   },
+   "weekly_distribution": {
+      "description": "Weekly distribution section header. Shown on the settings-history page.",
+      "message": "التوزيع الاسبوعي"
+   },
+   "weekly_empty_placeholder": {
+      "description": "Placeholder for weekly stats when no Pomodoros have been completed. Shown on the settings-history page.",
+      "message": "لرؤية النتائج الاسبوعية Pomodoro أتم"
+   },
+   "weekly_tooltip": {
+      "description": "Tooltip for weekly distribution chart. Shown on the settings-history page.",
+      "message": "$day$ يوم $pomodoros$",
+      "placeholders": {
+         "day": {
+            "content": "$2",
+            "example": "Mondays"
+         },
+         "pomodoros": {
+            "content": "$1",
+            "example": "25 Pomodoros"
+         }
+      }
+   },
+   "when_complete": {
+      "description": "Section label for events to fire when timer completes. Shown on the settings page.",
+      "message": "عند الاكمال:"
+   },
+   "white_noise": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "تشويش أبيض"
+   },
+   "width": {
+      "description": "Width input placeholder. Refers to countdown window width in pixels.",
+      "message": "العرض"
+   },
+   "wind_up_clock": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "ساعة بزنبرك"
+   },
+   "wood_block": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "مكعب خشبي"
+   },
+   "wristwatch": {
+      "description": "Timer sound name. Shown in the timer sound dropdown in settings.",
+      "message": "ساعة معصم"
+   },
+   "write_a_review": {
+      "description": "Link to write a review on Chrome Web Store. Shown on the settings-feedback page.",
+      "message": "كتابة مراجعة"
+   },
+   "your_history": {
+      "description": "Your History section header. Shown on the settings-history page.",
+      "message": "تاريح استخدامك"
+   }
+}

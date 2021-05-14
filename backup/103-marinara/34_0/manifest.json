@@ -1,0 +1,30 @@
+{
+   "author": "Chris Schmich \u003Cschmch@gmail.com>",
+   "background": {
+      "persistent": true,
+      "scripts": [ "modules/chunk-common.js", "modules/chunk-vendors.js", "modules/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/browser-action.png",
+      "default_title": "Marinara"
+   },
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_app_desc__",
+   "homepage_url": "https://github.com/schmich/marinara",
+   "icons": {
+      "128": "images/128.png",
+      "16": "images/16.png",
+      "48": "images/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk7BAeIV1C6dpxauMiglkKS1cOzonUwnAg1Lz0sPolj4R65L0HVZwGl8Up50Lu7q64hUhNpzdzK1eYMROr3ePmBWNujCiNLtKhEBNltmM/n+mwxW6i7faVTE6wcBHQUBeJdOO6ycWZSq4d9PK5O0xn2D46RYKgw1GrFtjZSZ1G6DC/sm0i6HL2nWBY2oabc0qaktARWXkwLpaDPv/GlF84+jn8SdG6wDfpGLbC0EmG86JAtKnAattD2kGNKqnWCQU3W3HFMcxh2ywq1SpYd5jSOO7oBTIbtIrP89GchLGCCAQ0Q2Z8GMqDMosGPXJPo8loCQJh9L3GhykokhNOC+9tQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "55",
+   "name": "__MSG_app_name__",
+   "offline_enabled": true,
+   "options_page": "modules/options.html",
+   "permissions": [ "alarms", "contextMenus", "storage", "notifications" ],
+   "short_name": "__MSG_app_name_short__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "34"
+}
