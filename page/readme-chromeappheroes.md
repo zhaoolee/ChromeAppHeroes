@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [104《特别篇：星愿浏览器》下载一切可下载的视频](https://www.v2fy.com/p/104-twinkstar-2021-05-17/)
+
 - [103《Marinara 番茄工作法（Pomodoro®）助理》奇妙番茄钟, 提醒打工人及时休息](https://www.v2fy.com/p/103-marinara-2021-05-14/)
 
 - [102《特别篇：手机如何使用Chrome插件》手机端如何屏蔽知乎广告](https://www.v2fy.com/p/102-mobile-2021-05-13/)
@@ -237,198 +239,36 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 | 名称 | 作者主页 | 开源信息 | 简介 |
 | -- | -- | -- | -- |
+| [Make Zero](https://chrome.google.com/webstore/detail/make-zero-%E6%96%87%E5%AD%97%E5%8A%A0%E5%AF%86%E5%99%A8/ihpcojcdiclghnggnlkcinbmfpomefcc?hl=zh-CN) | [sheepzh](https://github.com/sheepzh) |  [Github仓库地址](https://github.com/sheepzh/make-zero) | 加解密文本 |
+| [网费很贵](https://chrome.google.com/webstore/detail/%E7%BD%91%E8%B4%B9%E5%BE%88%E8%B4%B5-%E4%B8%8A%E7%BD%91%E6%97%B6%E9%97%B4%E7%BB%9F%E8%AE%A1/dkdhhcbjijekmneelocdllcldcpmekmm)  | [sheepzh](https://github.com/sheepzh) | [Github仓库地址](https://github.com/sheepzh/timer) | 统计网页的运行时间、用户的浏览时间和用户打开网站的次数 |
 | [The Fucking Github](https://chrome.google.com/webstore/detail/the-fucking-github/agajobpbaphiohkbkjigcalebbfmofdo)| [lvxianchao](https://github.com/lvxianchao) | [Github仓库地址](https://github.com/lvxianchao/the-fucking-github) | 很方便地查看、整理、搜索你已经 Star 过的项目和搜索 Github 上的项目。 |
 | [HitUP](https://chrome.google.com/webstore/detail/hitup/eiokaohkigpbonodjcbjpecbnccijkjb)| [wonderbeyond](https://github.com/wonderbeyond) | [Github仓库地址](https://github.com/wonderbeyond/HitUP) | 利用 New Tab “空白页” 助您保持对流行技术趋势的跟进，附带其它福利。 |
 | [Gitako - Github file tree](https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk)| [EnixCoda](https://github.com/EnixCoda) | [Github仓库地址](https://github.com/EnixCoda/Gitako) | 功能上类似于大名鼎鼎的 Octotree ，但是用了更现代化的前端工具，性能好很多。 |
 | [GITHUBER](https://chrome.google.com/webstore/detail/githuber/janmcneaglgklfljjcpihkkomeghljnf)| [zhuowenli](https://github.com/zhuowenli) | [Github仓库地址](https://github.com/zhuowenli/githuber) | 这是一个帮助 GitHub 开发者每日发现优质内容的 Chrome 主页拓展。 |
+| [GLaDOS](https://chrome.google.com/webstore/detail/glados/dhjjibbeddglobeoapgppnlnmijajfbb) | [glados-network](https://github.com/glados-network) | [Github 仓库地址](https://github.com/glados-network/GLaDOS) | GLaDOS is trustable networking manager, a system to master your network. |
+
+
+
 
 ![造福人类.png](https://www.v2fy.com/asset/README/60c92f0de3d44bb7a612d08e2e1f3d18.png)
 
 
 ## 内容同步更新到公众号「0加1」
 
-![公众号0加1](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/public.assets/0add1.png)
+![0加1](https://cdn.fangyuanxiaozhan.com/assets/1621236376166GGYAm74Y.png)
 
-公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
-
-
-## 赞助打赏
-
-![](https://www.v2fy.com/asset/qr/3qr.png)
+公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
 
 
-| 赞赏金额 | 赞赏者 | 赞赏时间 |
-| --- | --- | --- |
-| 5.00 | 虚拟世界 | 2002-04-27 |
-| 1.00 | 阿也 | 2020-04-26 |
-| 5.00 | 无名雍羽 | 2020-04-24 |
-| 30.00 | 张明辉(极简插件站长) | 2020-04-21 |
-| 1.00 | 雨田 | 2020-04-09 |
-| 1.00 | 2020我仍是少年 | 2020-03-24 |
-| 1.00 | Will | 2020-03-12 |
-| 1.00 | (未留姓名) | 2020-02-28 |
-| 1.00 | (未留姓名) | 2020-02-16 |
-| 5.00 | 南华愚叟 | 2020-02-02 |
-| 1.00 | 萧磊 | 2020-01-02 |
-| 1.00 | 锦饭 | 2019-12-15 |
-| 1.00 | 王世文 | 2019-11-22 |
-| 10.00 | 贺乾明(公众号量子位编辑) | 2019-11-20 |
-| 20.00 | 张明辉(极简插件站长) | 2019-11-16 |
-| 20.00 | Sakura0428 | 2019-11-02 |
-| 1.00 | (未留姓名) | 2019-09-26 |
-| 1.00 | 夏天的小虫子 | 2019-09-23 |
-| 20.00 | enjoy lift | 2019-09-20 |
-| 5.00 | L__hoo原 | 2019-09-20 |
+#### [104《特别篇：星愿浏览器》下载一切可下载的视频](https://www.v2fy.com/p/104-twinkstar-2021-05-17/)
 
-<details>
-<summary>点击展开历史捐赠</summary>
-<pre>
-<table>
-<thead>
-</thead>
-<tbody>
-<tr>
-<td>5.00</td>
-<td>半岛铁盒</td>
-<td>2019-09-14</td>
-</tr>
-<tr>
-<td>12.34</td>
-<td>张明辉</td>
-<td>2019-08-20</td>
-</tr>
-<tr>
-<td>10.00</td>
-<td>六小登登</td>
-<td>2019-09-05</td>
-</tr>
-<tr>
-<td>10.00</td>
-<td>云淡风晴</td>
-<td>2019-07-24</td>
-</tr>
-<tr>
-<td>10.00</td>
-<td>金三古月</td>
-<td>2019-06-02</td>
-</tr>
-<tr>
-<td>10.00</td>
-<td>Azuno</td>
-<td>2019-06-01</td>
-</tr>
-<tr>
-<td>10.00</td>
-<td>邦妥</td>
-<td>2019-05-22</td>
-</tr>
-<tr>
-<td>5.00</td>
-<td>enjoy life</td>
-<td>2019-09-20</td>
-</tr>
-<tr>
-<td>5.00</td>
-<td>L__hoo原</td>
-<td>2019-09-20</td>
-</tr>
-<tr>
-<td>5.00</td>
-<td>梦想旅程(公众号:苏生不惑)</td>
-<td>2019-09-14</td>
-</tr>
-<tr>
-<td>5.00</td>
-<td>1111</td>
-<td>2019-07-27</td>
-</tr>
-<tr>
-<td>5.00</td>
-<td>那都不重要</td>
-<td>2019-05-19</td>
-</tr>
-<tr>
-<td>5.00</td>
-<td>Lismg</td>
-<td>2019-06-05</td>
-</tr>
-<tr>
-<td>5.00</td>
-<td>small胖</td>
-<td>2019-07-09</td>
-</tr>
-<tr>
-<td>2.00</td>
-<td>良辰美</td>
-<td>2019-07-20</td>
-</tr>
-<tr>
-<td>2.00</td>
-<td>@Coolstar</td>
-<td>2019-07-06</td>
-</tr>
-<tr>
-<td>1.00</td>
-<td>(未留姓名)</td>
-<td>2019-09-26</td>
-</tr>
-<tr>
-<td>1.00</td>
-<td>夏天的小虫子</td>
-<td>2019-09-23</td>
-</tr>
-<tr>
-<td>1.00</td>
-<td>(未留姓名)</td>
-<td>2019-07-26</td>
-</tr>
-<tr>
-<td>1.00</td>
-<td>17</td>
-<td>2019-07-12</td>
-</tr>
-<tr>
-<td>1.00</td>
-<td>(未留姓名)</td>
-<td>2019-06-13</td>
-</tr>
-<tr>
-<td>1.00</td>
-<td>Walter Wu</td>
-<td>2019-06-01</td>
-</tr>
-<tr>
-<td>1.00</td>
-<td>Joseph</td>
-<td>2019-04-24</td>
-</tr>
-<tr>
-<td>1.00</td>
-<td>(未留姓名)</td>
-<td>2019-04-12</td>
-</tr>
-<tr>
-<td>1.00</td>
-<td>于云鹏Edward</td>
-<td>2019-04-12</td>
-</tr>
-<tr>
-<td>1.00</td>
-<td>黄金星</td>
-<td>2019-04-11</td>
-</tr>
-</tbody>
-</table>
-</pre>
-</details>
+
+![星愿](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/2020-12-30-xingyuan-1609331643000.assets/windows-xingyuan.gif)
 
 
 
-![](https://www.v2fy.com/asset/jetbrain/jetbrains-variant-2.png)
 
-[感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
-
-**感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+《星愿浏览器》是一款自带视频下载功能的浏览器，网页没有特殊加密的视频，都可以下载到本地。
 
 #### [103《Marinara 番茄工作法（Pomodoro®）助理》奇妙番茄钟, 提醒打工人及时休息](https://www.v2fy.com/p/103-marinara-2021-05-14/)
 
@@ -1202,6 +1042,7 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 ---
 
 ## 他人眼中的 Chrome插件英雄榜(商业互吹模块)
+
 - [《这份“插件英雄榜Top20”才是Chrome的正确打开方式！》](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/88386634) 作者: [AI科技大本营](https://me.csdn.net/dQCFKyQDXYm3F8rB0)
 - [《Chrome 插件英雄榜》](https://zhuanlan.zhihu.com/p/58636515) 作者: [非著名程序员](https://www.zhihu.com/people/loonggg/activities)
 - [《開源日報第363期》](https://openingsource.org/6190/zh-tw/) 作者: [开源工厂](https://openingsource.org/)
@@ -1220,8 +1061,6 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 - 感谢 掘金沸点运营 [@清蒸不是水煮](https://juejin.im/user/5b39bd7de51d4558d43ff06d) 给出的 **正面最开始放个索引目录比较好** 的小建议
 
 - 感谢[简书](https://www.jianshu.com/)社区提供超棒的Markdown编辑器,**Chrome插件英雄榜**的编辑工作,几乎全部由通过简书编辑器完成
-
-
 
 ---
 
@@ -1254,3 +1093,181 @@ I need your support, I hope you can add a star 🌟 to this project.
 ![2.png](https://www.v2fy.com/asset/README/dc9ab48d958843c98f2a4c9336cff748.png)
 
 
+
+## 赞助打赏
+
+![](https://www.v2fy.com/asset/qr/3qr.png)
+
+
+| 赞赏金额 | 赞赏者 | 赞赏时间 |
+| --- | --- | --- |
+| 5.00 | 虚拟世界 | 2002-04-27 |
+| 1.00 | 阿也 | 2020-04-26 |
+| 5.00 | 无名雍羽 | 2020-04-24 |
+| 30.00 | 张明辉(极简插件站长) | 2020-04-21 |
+| 1.00 | 雨田 | 2020-04-09 |
+| 1.00 | 2020我仍是少年 | 2020-03-24 |
+| 1.00 | Will | 2020-03-12 |
+| 1.00 | (未留姓名) | 2020-02-28 |
+| 1.00 | (未留姓名) | 2020-02-16 |
+| 5.00 | 南华愚叟 | 2020-02-02 |
+| 1.00 | 萧磊 | 2020-01-02 |
+| 1.00 | 锦饭 | 2019-12-15 |
+| 1.00 | 王世文 | 2019-11-22 |
+| 10.00 | 贺乾明(公众号量子位编辑) | 2019-11-20 |
+| 20.00 | 张明辉(极简插件站长) | 2019-11-16 |
+| 20.00 | Sakura0428 | 2019-11-02 |
+| 1.00 | (未留姓名) | 2019-09-26 |
+| 1.00 | 夏天的小虫子 | 2019-09-23 |
+| 20.00 | enjoy lift | 2019-09-20 |
+| 5.00 | L__hoo原 | 2019-09-20 |
+
+<details>
+<summary>点击展开历史捐赠</summary>
+<pre>
+<table>
+<thead>
+</thead>
+<tbody>
+<tr>
+<td>5.00</td>
+<td>半岛铁盒</td>
+<td>2019-09-14</td>
+</tr>
+<tr>
+<td>12.34</td>
+<td>张明辉</td>
+<td>2019-08-20</td>
+</tr>
+<tr>
+<td>10.00</td>
+<td>六小登登</td>
+<td>2019-09-05</td>
+</tr>
+<tr>
+<td>10.00</td>
+<td>云淡风晴</td>
+<td>2019-07-24</td>
+</tr>
+<tr>
+<td>10.00</td>
+<td>金三古月</td>
+<td>2019-06-02</td>
+</tr>
+<tr>
+<td>10.00</td>
+<td>Azuno</td>
+<td>2019-06-01</td>
+</tr>
+<tr>
+<td>10.00</td>
+<td>邦妥</td>
+<td>2019-05-22</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>enjoy life</td>
+<td>2019-09-20</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>L__hoo原</td>
+<td>2019-09-20</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>梦想旅程(公众号:苏生不惑)</td>
+<td>2019-09-14</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>1111</td>
+<td>2019-07-27</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>那都不重要</td>
+<td>2019-05-19</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>Lismg</td>
+<td>2019-06-05</td>
+</tr>
+<tr>
+<td>5.00</td>
+<td>small胖</td>
+<td>2019-07-09</td>
+</tr>
+<tr>
+<td>2.00</td>
+<td>良辰美</td>
+<td>2019-07-20</td>
+</tr>
+<tr>
+<td>2.00</td>
+<td>@Coolstar</td>
+<td>2019-07-06</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>(未留姓名)</td>
+<td>2019-09-26</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>夏天的小虫子</td>
+<td>2019-09-23</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>(未留姓名)</td>
+<td>2019-07-26</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>17</td>
+<td>2019-07-12</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>(未留姓名)</td>
+<td>2019-06-13</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>Walter Wu</td>
+<td>2019-06-01</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>Joseph</td>
+<td>2019-04-24</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>(未留姓名)</td>
+<td>2019-04-12</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>于云鹏Edward</td>
+<td>2019-04-12</td>
+</tr>
+<tr>
+<td>1.00</td>
+<td>黄金星</td>
+<td>2019-04-11</td>
+</tr>
+</tbody>
+</table>
+</pre>
+</details>
+
+
+
+![](https://www.v2fy.com/asset/jetbrain/jetbrains-variant-2.png)
+
+[感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
+
+**感谢以上赞赏者对本开源项目的支持[手动滑稽]**
