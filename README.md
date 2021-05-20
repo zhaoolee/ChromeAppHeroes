@@ -255,11 +255,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 内容同步更新到公众号「0加1」
 
-![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621236428447Rj0PjSdP.gif)
 
-![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621236376166GGYAm74Y.png)
+![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621472051345iXBTrJEW.gif)
 
-
+![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621472049125FfzFCrKd.png)
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
 
