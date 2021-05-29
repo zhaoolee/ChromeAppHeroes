@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [105《潮汐》极简番茄钟与白噪音,和大自然一起，平静身心](https://www.v2fy.com/p/105-tide-2021-05-29/)
+
 - [104《特别篇：星愿浏览器》下载一切可下载的视频](https://www.v2fy.com/p/104-twinkstar-2021-05-17/)
 
 - [103《Marinara 番茄工作法（Pomodoro®）助理》奇妙番茄钟, 提醒打工人及时休息](https://www.v2fy.com/p/103-marinara-2021-05-14/)
@@ -249,7 +251,6 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 
-
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/60c92f0de3d44bb7a612d08e2e1f3d18.png)
 
 
@@ -258,9 +259,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621472051345iXBTrJEW.gif)
 
-![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621472049125FfzFCrKd.png)
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
+#### [105《潮汐》极简番茄钟与白噪音,和大自然一起，平静身心](https://www.v2fy.com/p/105-tide-2021-05-29/)
+
+![潮汐](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1622258018257DaHmz271.gif)
+
+工作时, 听魔性音乐容易分散精力, 听一些白噪音, 可以让心境平和, 提升工作专注度, 如果晚上睡不着, 听一些白噪音, 有助眠的奇效~
 
 
 #### [104《特别篇：星愿浏览器》下载一切可下载的视频](https://www.v2fy.com/p/104-twinkstar-2021-05-17/)
