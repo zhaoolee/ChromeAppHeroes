@@ -1,0 +1,40 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "tide_16.png",
+         "48": "tide_48.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_browserIconTitle__"
+   },
+   "content_scripts": [ {
+      "css": [ "block.css" ],
+      "js": [ "chunk-vendors.js", "content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en_US",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "https://tide.fm",
+   "icons": {
+      "128": "tide_128.png",
+      "16": "tide_16.png",
+      "48": "tide_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjTFB3r13RwfR/2D8NLAQdyEmx/PNGt99ltl51/AFE79bMvGprIZVy3NGec3T95EKUjgcRvQMJNZgjDcpCSPlm+EyGgfS9d/765ymg5lS4X4T9WA3GecfYgxH5Qg9z20I0tWMThLRHMRVtPro8rYRPgsM+t2NaJXtjKL+CtqWgkvNVfGgRs6DXnXiOc0HHKtJcIu3TC1KY9rMa9HalL3rsHHi4XhWK/TUW5ApdMUG2yctJQbAyNQRzSi31AJTyaDjPdRywbhLMI3c6ZCYZVXY/Pimnd2CDXvEj+KlduEuzg7g088Jk1Ou45bs32bGM1aEUR53cY2h7vi+vDF9TdYanQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_ui": {
+      "chrome_style": false,
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "storage", "notifications", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.7",
+   "web_accessible_resources": [ "tide_128.png" ]
+}

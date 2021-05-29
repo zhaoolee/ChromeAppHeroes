@@ -1,0 +1,598 @@
+{
+   "addWhiteListItemDialogConfirmBtn": {
+      "description": "弹框 - 标题 - 确定新增白名单条目",
+      "message": "添加"
+   },
+   "addWhiteListItemDialogTitle": {
+      "description": "弹框 - 标题 - 新增白名单条目",
+      "message": "添加白名单网站"
+   },
+   "appDesc": {
+      "description": "潮汐插件名字",
+      "message": "潮汐，屡获殊荣的白噪音专注计时器，帮你保持专注，提升工作效率。"
+   },
+   "appName": {
+      "description": "潮汐插件名字",
+      "message": "潮汐 - 极简番茄钟与白噪音"
+   },
+   "badgeTestRest": {
+      "description": "休息开始后，浏览器工具栏 - 潮汐插件的Badge，不能超过四个字符",
+      "message": "休息"
+   },
+   "blockCloseBtn": {
+      "description": "拦截界面 - 关闭tab按钮",
+      "message": "继续专注"
+   },
+   "blockConfirmGiveupCancelBtn": {
+      "description": "拦截界面 - 确认放弃弹框 - 取消按钮",
+      "message": "取消"
+   },
+   "blockConfirmGiveupConfirmBtn": {
+      "description": "拦截界面 - 确认放弃弹框 - 确认按钮",
+      "message": "放弃专注"
+   },
+   "blockConfirmGiveupText": {
+      "description": "拦截界面 - 确认放弃弹框 - 内容",
+      "message": "当前正在专注，确认停止专注并继续浏览网页吗？"
+   },
+   "blockEmoji_0": {
+      "description": "拦截界面 - 表情_0",
+      "message": "🙈"
+   },
+   "blockEmoji_1": {
+      "description": "拦截界面 - 表情_1",
+      "message": "🙈"
+   },
+   "blockEmoji_2": {
+      "description": "拦截界面 - 表情_2",
+      "message": "🙈"
+   },
+   "blockEmoji_3": {
+      "description": "拦截界面 - 表情_3",
+      "message": "🙈"
+   },
+   "blockEmoji_4": {
+      "description": "拦截界面 - 表情_4",
+      "message": "🙈"
+   },
+   "blockEmoji_5": {
+      "description": "拦截界面 - 表情_5",
+      "message": "🙈"
+   },
+   "blockGiveupBtn": {
+      "description": "拦截界面 - 放弃按钮",
+      "message": "浏览网站并停止专注"
+   },
+   "blockQuotes_0": {
+      "description": "拦截界面 - 金句_0",
+      "message": "目不能二视，耳不能二听，手不能二事"
+   },
+   "blockQuotes_1": {
+      "description": "拦截界面 - 金句_1",
+      "message": "目不能二视，耳不能二听，手不能二事"
+   },
+   "blockQuotes_2": {
+      "description": "拦截界面 - 金句_2",
+      "message": "目不能二视，耳不能二听，手不能二事"
+   },
+   "blockQuotes_3": {
+      "description": "拦截界面 - 金句_3",
+      "message": "目不能二视，耳不能二听，手不能二事"
+   },
+   "blockQuotes_4": {
+      "description": "拦截界面 - 金句_4",
+      "message": "目不能二视，耳不能二听，手不能二事"
+   },
+   "blockQuotes_5": {
+      "description": "拦截界面 - 金句_5",
+      "message": "目不能二视，耳不能二听，手不能二事"
+   },
+   "breakQuotes_0": {
+      "description": "休息文案 - 金句_0",
+      "message": "来一次深呼吸"
+   },
+   "breakQuotes_1": {
+      "description": "休息文案 - 金句_1",
+      "message": "休息一下吧"
+   },
+   "breakQuotes_2": {
+      "description": "休息文案 - 金句_2",
+      "message": "站起来活动活动"
+   },
+   "breakQuotes_3": {
+      "description": "休息文案 - 金句_3",
+      "message": "闭上眼睛休息一下"
+   },
+   "breakQuotes_4": {
+      "description": "休息文案 - 金句_4",
+      "message": "放松放松肩膀"
+   },
+   "breakQuotes_5": {
+      "description": "休息文案 - 金句_5",
+      "message": "放松放松脖子"
+   },
+   "browserIconTitle": {
+      "description": "工具栏图标tooltips",
+      "message": "潮汐"
+   },
+   "customDuration": {
+      "description": "当使用自定义时长时，模块页 - 下拉框",
+      "message": "自定义时长"
+   },
+   "defaultDuration": {
+      "description": "当使用自定义时长时，模块页 - 下拉框",
+      "message": "默认时长"
+   },
+   "delWhiteListItem": {
+      "description": "模块设置 - 白名单 - 条目 - 菜单 - 删除",
+      "message": "删除"
+   },
+   "delWhiteListItemDialogConfirmBtn": {
+      "description": "弹框 - 标题 - 确定删除白名单条目",
+      "message": "确定"
+   },
+   "delWhiteListItemDialogTitle": {
+      "description": "弹框 - 标题 - 删除白名单条目",
+      "message": "确定将该网站从白名单移除？"
+   },
+   "durationInputConfirmBtn": {
+      "description": "专注时长设置 自定义时间输入的确认按钮",
+      "message": "确定"
+   },
+   "durationInputPlaceholder": {
+      "description": "专注时长设置 自定义时间输入的Placeholder",
+      "message": "请输入"
+   },
+   "editWhiteListItem": {
+      "description": "模块设置 - 白名单 - 条目 - 菜单 - 编辑",
+      "message": "编辑"
+   },
+   "editWhiteListItemDialogConfirmBtn": {
+      "description": "弹框 - 标题 - 确定编辑白名单条目",
+      "message": "保存"
+   },
+   "editWhiteListItemDialogTitle": {
+      "description": "弹框 - 标题 - 编辑白名单条目",
+      "message": "编辑白名单网站"
+   },
+   "feedback": {
+      "description": "意见反馈",
+      "message": "意见反馈"
+   },
+   "greeting": {
+      "description": "未登录时的问候语",
+      "message": "登录潮汐"
+   },
+   "greetingDesc": {
+      "description": "未登录时的问候语下方小字",
+      "message": "从今天起，和潮汐一起平静身心"
+   },
+   "hour": {
+      "description": "单数'小时'",
+      "message": "小时"
+   },
+   "hours": {
+      "description": "复数'小时'",
+      "message": "小时"
+   },
+   "invalidDomain": {
+      "description": "弹框 - 新增白名单条目 - 域名错误",
+      "message": "请输入正确的网址"
+   },
+   "loginBtn": {
+      "description": "登录按钮",
+      "message": "登录"
+   },
+   "loginedDesc": {
+      "description": "登录后的用户昵称下方小字",
+      "message": "与潮汐相遇的第 $days$ 天",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "365"
+         }
+      }
+   },
+   "logoPath": {
+      "description": "LOGO 路径，不用翻译",
+      "message": "/options-logo-zh.png"
+   },
+   "logoutBtn": {
+      "description": "登出按钮",
+      "message": "登出"
+   },
+   "logoutDialogCancelBtn": {
+      "description": "注销弹框 - 取消按钮",
+      "message": "取消"
+   },
+   "logoutDialogConfirmBtn": {
+      "description": "注销弹框 - 确定按钮",
+      "message": "登出"
+   },
+   "logoutDialogContent": {
+      "description": "注销弹框 - 内容",
+      "message": "登出后将无法同步专注记录等数据"
+   },
+   "logoutDialogTitle": {
+      "description": "注销弹框 - 标题",
+      "message": "确定登出潮汐？"
+   },
+   "min": {
+      "description": "单数'分钟'",
+      "message": "分钟"
+   },
+   "mins": {
+      "description": "复数'分钟'",
+      "message": "分钟"
+   },
+   "navSettings": {
+      "description": "导航 - 设置",
+      "message": "设置"
+   },
+   "navStatistics": {
+      "description": "导航 - 统计",
+      "message": "统计"
+   },
+   "never": {
+      "description": "模块页 - 下拉框 - 从不",
+      "message": "从不"
+   },
+   "notifications_break_finish_message_0": {
+      "description": "休息完成通知 - 内容（一般）",
+      "message": "继续开始专注吧"
+   },
+   "notifications_break_finish_message_1": {
+      "description": "休息完成通知 - 内容（自动专注）",
+      "message": "已自动开始下一次专注"
+   },
+   "notifications_break_finish_message_2": {
+      "description": "休息完成通知 - 内容（专注周期）",
+      "message": "完成一个专注周期"
+   },
+   "notifications_break_finish_title_0": {
+      "description": "休息完成通知 - 标题",
+      "message": "休息时间结束"
+   },
+   "notifications_buttons_0": {
+      "description": "通知按钮 - 开始休息",
+      "message": "开始休息"
+   },
+   "notifications_buttons_1": {
+      "description": "通知按钮 - 开始专注",
+      "message": "开始专注"
+   },
+   "notifications_buttons_2": {
+      "description": "通知按钮 - 跳过并开始专注",
+      "message": "跳过休息并开始专注"
+   },
+   "notifications_buttons_3": {
+      "description": "通知按钮 - 专注结束 - 跳过休息并开始下一个专注周期",
+      "message": "跳过休息并开始专注"
+   },
+   "notifications_buttons_4": {
+      "description": "通知按钮 - 休息结束 - 开始下一个专注周期",
+      "message": "开始下一次专注"
+   },
+   "notifications_focus_finish_message_0": {
+      "description": "专注完成通知 - 内容（一般）",
+      "message": "完成了第 $times$ 次专注",
+      "placeholders": {
+         "times": {
+            "content": "$1",
+            "example": "4"
+         }
+      }
+   },
+   "notifications_focus_finish_message_1": {
+      "description": "专注完成通知 - 内容（高效模式）",
+      "message": "休息一下再继续"
+   },
+   "notifications_focus_finish_message_2": {
+      "description": "专注完成通知 - 内容（长休息）",
+      "message": "休息一下，站起来活动活动"
+   },
+   "notifications_focus_finish_message_3": {
+      "description": "专注完成通知 - 内容（自动休息）",
+      "message": "自动开始休息"
+   },
+   "notifications_focus_finish_message_4": {
+      "description": "专注完成通知 - 内容（自动休息 & 长休息）",
+      "message": "自动开始休息，站起来活动一下吧"
+   },
+   "notifications_focus_finish_title_0": {
+      "description": "专注完成通知 - 标题（一般）",
+      "message": "完成一次 $duration$ 的专注 👏",
+      "placeholders": {
+         "duration": {
+            "content": "$1",
+            "example": "25 分钟"
+         }
+      }
+   },
+   "notifications_focus_finish_title_1": {
+      "description": "专注完成通知 - 标题（长休息）",
+      "message": "你已连续完成 $times$ 次专注",
+      "placeholders": {
+         "times": {
+            "content": "$1",
+            "example": "4"
+         }
+      }
+   },
+   "notifications_focus_finish_title_3": {
+      "description": "专注完成通知 - 标题（专注周期）",
+      "message": "成功完成一个专注周期 👏"
+   },
+   "notifications_focus_finish_title_4": {
+      "description": "专注完成通知 - 标题（专注周期 & 长休息）",
+      "message": "连续完成 $times$ 次专注",
+      "placeholders": {
+         "times": {
+            "content": "$1",
+            "example": "4"
+         }
+      }
+   },
+   "optionsPageTitleInfos": {
+      "description": "Options页标题 - 统计",
+      "message": "潮汐 - 统计"
+   },
+   "optionsPageTitleSettings": {
+      "description": "Options页标题 - 设置",
+      "message": "潮汐 - 设置"
+   },
+   "pageHistoriesDesc": {
+      "description": "网站浏览记录 - 描述",
+      "message": "帮助你了解自己在不同网站上花费的时间"
+   },
+   "pageHistoriesDuration": {
+      "description": "每天的总时长",
+      "message": "$duration$",
+      "placeholders": {
+         "duration": {
+            "content": "$1",
+            "example": "12 小时 30 分钟"
+         }
+      }
+   },
+   "pageHistoriesEmpty": {
+      "description": "网站浏览记录 - 空记录",
+      "message": "暂无浏览记录"
+   },
+   "pageHistoriesLoading": {
+      "description": "从服务器获取 网站浏览记录 时，底部的loading文案",
+      "message": "正在加载中"
+   },
+   "pageHistoriesMore": {
+      "description": "网站浏览记录界面底部 用于查看往期浏览记录的按钮",
+      "message": "查看更多"
+   },
+   "pageHistoriesNoMore": {
+      "description": "网站浏览记录界面底部 没有更多浏览记录时，会用此文案 替换掉 往期浏览记录的按钮",
+      "message": "已全部加载"
+   },
+   "pageHistoriesTitle": {
+      "description": "网站浏览记录 - 标题",
+      "message": "网页浏览时间"
+   },
+   "pageHistoriesToday": {
+      "description": "浏览日期 - 今天",
+      "message": "今天"
+   },
+   "pageHistoriesYesterday": {
+      "description": "浏览日期 - 昨天",
+      "message": "昨天"
+   },
+   "privacyPolicy": {
+      "description": "隐私协议",
+      "message": "隐私协议"
+   },
+   "privacyPolicyLink": {
+      "description": "隐私协议地址，不用翻译",
+      "message": "http://tide.moreless.io/pages/chrome/privacy-policy/zh-hans.html"
+   },
+   "sectionAtomaticTitle": {
+      "description": "模块设置 - 自动化 - 标题",
+      "message": "自动选项"
+   },
+   "sectionAtomatic_autoBreak": {
+      "description": "模块设置 - 自动休息",
+      "message": "自动休息"
+   },
+   "sectionAtomatic_autoFocus": {
+      "description": "模块设置 - 自动休息",
+      "message": "自动开始下次专注"
+   },
+   "sectionAtomatic_autoFocusCycle": {
+      "description": "模块设置 - 自动专注周期",
+      "message": "自动专注周期"
+   },
+   "sectionWhiteListAddBtn": {
+      "description": "模块设置 - 白名单 - 新增按钮",
+      "message": "添加"
+   },
+   "sectionWhiteListDesc": {
+      "description": "模块设置 - 白名单 - 描述",
+      "message": "专注过程中仅允许浏览白名单网站"
+   },
+   "sectionWhiteListTitle": {
+      "description": "模块设置 - 白名单 - 标题",
+      "message": "白名单"
+   },
+   "sectionWorkModeSwitch_breakDuration": {
+      "description": "模块设置 - 短休息时长",
+      "message": "短休息时长"
+   },
+   "sectionWorkModeSwitch_focusDuration": {
+      "description": "模块设置 - 专注时长",
+      "message": "专注时长"
+   },
+   "sectionWorkModeSwitch_longBreakDuration": {
+      "description": "模块设置 - 长休息专注时长",
+      "message": "长休息时长"
+   },
+   "sectionWorkModeSwitch_longBreakFrequency": {
+      "description": "模块设置 - 多久一次长休息",
+      "message": "长休息间隔专注数"
+   },
+   "sectionWorkModeTitle": {
+      "description": "模块设置 - 高效模式 - 标题",
+      "message": "高效模式"
+   },
+   "serverLang": {
+      "description": "服务器对应语言的key",
+      "message": "zh-Hans"
+   },
+   "settingsImmersiveModeDesc": {
+      "description": "沉浸模式 - 描述",
+      "message": "开启沉浸模式后，专注过程中不允许暂停，同时只能浏览白名单内网页"
+   },
+   "settingsImmersiveModeTitle": {
+      "description": "沉浸模式 - 标题",
+      "message": "沉浸模式"
+   },
+   "settingsWorkModeDesc": {
+      "description": "高效模式 - 描述",
+      "message": "基于番茄工作法，帮助提升工作学习效率"
+   },
+   "settingsWorkModeTitle": {
+      "description": "高效模式 - 标题",
+      "message": "高效模式"
+   },
+   "simplifiedHr": {
+      "description": "简写的单数'小时'",
+      "message": "小时"
+   },
+   "simplifiedHrs": {
+      "description": "简写的复数'小时'",
+      "message": "小时"
+   },
+   "simplifiedMin": {
+      "description": "简写的单数'分钟'",
+      "message": "分钟"
+   },
+   "simplifiedMins": {
+      "description": "简写的复数'分钟'",
+      "message": "分钟"
+   },
+   "simplifiedSec": {
+      "description": "简写的'秒钟'",
+      "message": "秒"
+   },
+   "simplifiedSecs": {
+      "description": "简写的复数'秒钟'",
+      "message": "秒"
+   },
+   "subject": {
+      "description": "意见反馈邮件标题",
+      "message": "潮汐 for Chrome - 意见反馈"
+   },
+   "terms": {
+      "description": "服务条款",
+      "message": "服务条款"
+   },
+   "timerBreakStageTips": {
+      "description": "长休息开始后，倒计时下方出现的长休息标识",
+      "message": "休息模式"
+   },
+   "timerContinueBtn": {
+      "description": "番茄钟继续按钮",
+      "message": "继续"
+   },
+   "timerPauseBtn": {
+      "description": "番茄钟暂停按钮",
+      "message": "暂停"
+   },
+   "timerSkipBtn": {
+      "description": "番茄钟跳过休息的按钮",
+      "message": "跳过"
+   },
+   "timerStartBreakBtn": {
+      "description": "番茄钟开始休息按钮",
+      "message": "开始休息"
+   },
+   "timerStartFocusBtn": {
+      "description": "番茄钟开始专注按钮",
+      "message": "开始专注"
+   },
+   "timerStopBtn": {
+      "description": "番茄钟停止按钮",
+      "message": "放弃"
+   },
+   "tipsImmersiveModeButton": {
+      "description": "沉浸模式解读弹框 - 确定按钮",
+      "message": "确定"
+   },
+   "tipsImmersiveModeContent": {
+      "description": "沉浸模式解读弹框 - 内容",
+      "message": "开启沉浸模式后，专注过程中不允许暂停，同时只能浏览白名单内网页，打开其他网站将导致专注失败。"
+   },
+   "tipsImmersiveModeTitle": {
+      "description": "沉浸模式解读弹框 - 标题",
+      "message": "什么是沉浸模式？"
+   },
+   "tipsWorkModeButton": {
+      "description": "高效模式解读弹框 - 按钮",
+      "message": "确定"
+   },
+   "tipsWorkModeContent": {
+      "description": "高效模式解读弹框 - 内容",
+      "message": "高效模式基于番茄工作法原理：每次专注结束搭配一次休息，多次专注结束搭配一次长休息。劳逸结合，有助于提高工作效率。"
+   },
+   "tipsWorkModeTitle": {
+      "description": "高效模式解读弹框 - 标题",
+      "message": "什么是高效模式？"
+   },
+   "today": {
+      "description": "番茄钟底部今日专注次数的'今日'",
+      "message": "今天"
+   },
+   "todayFocusDurations": {
+      "description": "专注统计 - 今日总次数",
+      "message": "今日专注时长"
+   },
+   "todayFocusTimes": {
+      "description": "专注统计 - 今日次数",
+      "message": "今日专注"
+   },
+   "totalFocusDurations": {
+      "description": "专注统计 - 总时长",
+      "message": "总专注时长"
+   },
+   "totalFocusTimes": {
+      "description": "专注统计 - 总次数",
+      "message": "总专注"
+   },
+   "unitFocus": {
+      "description": "模块页 - 下拉框 - 单位专注",
+      "message": "次"
+   },
+   "unitMin": {
+      "description": "模块页 - 下拉框 - 分钟数单位",
+      "message": "分钟"
+   },
+   "unitTimes": {
+      "description": "模块页 - 下拉框 - 单位次数",
+      "message": "次"
+   },
+   "unlimited": {
+      "description": "模块页 - 下拉框 - 无限",
+      "message": "无限"
+   },
+   "weeklyFocusDurations": {
+      "description": "专注统计 - 本周时长",
+      "message": "本周专注时长"
+   },
+   "weeklyFocusTimes": {
+      "description": "专注统计 - 本周次数",
+      "message": "本周专注"
+   },
+   "whiteListItemDialogCancelBtn": {
+      "description": "弹框 - 标题 - 取消按钮",
+      "message": "取消"
+   },
+   "whiteListItemInputPlaceholder": {
+      "description": "弹框 - 新增白名单条目 - 输入框Placeholder",
+      "message": "请输入网址"
+   }
+}

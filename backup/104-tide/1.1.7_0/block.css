@@ -1,0 +1,148 @@
+.tide-blocker-blocked {
+  overflow: hidden !important;
+  height: 100%;
+}
+
+.tide-blocker-container,
+#tide-blocker-modal {
+  pointer-events: none;
+  transition: opacity .3s ease-in;
+  opacity: 0;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  z-index: 2147483647;
+}
+
+.tide-blocker-blocked .tide-blocker-container {
+  pointer-events: all;
+  transition: opacity 0s ease-out;
+  opacity: 1;
+}
+
+.tide-blocker-mask,
+#tide-blocker-modal-mask {
+  width: 100%;
+  height: 100%;
+}
+
+.tide-blocker-mask {
+  background-color: rgba(0, 0, 0, 0.88);
+}
+
+.tide-blocker-main,
+#tide-blocker-confirm {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#tide-blocker-confirm-btns {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 8px;
+}
+
+#tide-blocker-confirm-btn,
+#tide-blocker-confirm-cancel-btn {
+  height: 36px;
+  line-height: 36px;
+  padding: 0 8px;
+  color: #ff6757;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+
+#tide-blocker-confirm-btn {
+  margin-left: 16px;
+}
+
+.tide-blocker-main {
+  color: #fff;
+  opacity: 1;
+  transition: opacity 0.3s ease-out;
+}
+
+#tide-blocker-confirm {
+  max-width: 413.5px;
+  background-color: #fff;
+}
+
+#tide-blocker-confirm-text {
+  font-size: 14px;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.64);
+  padding: 24px;
+  text-align: left;
+}
+
+#tide-blocker-remain {
+  margin: 0 auto;
+  font-size: 80px;
+  line-height: 94px;
+  font-stretch: condensed;
+  color: #fff;
+}
+
+#tide-blocker-wisecrack {
+  font-size: 28px;
+  font-style: italic;
+  line-height: 33px;
+  color: rgba(255, 255, 255, 0.4);
+  margin: 40px auto 0;
+}
+
+#tide-blocker-wisecrack-emoji {
+  margin: 32px auto 0;
+  font-size: 60px;
+  line-height: 80px;
+}
+
+#tide-blocker-close-btn {
+  display: block;
+  text-align: center;
+  margin: 72px auto 0;
+  padding: 0 24px;
+  font-size: 14px;
+  height: 38px;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  outline: none;
+  border: 1px solid rgba(255, 255, 255, 1);
+  background-color: transparent;
+}
+
+#tide-blocker-giveup-btn {
+  display: block;
+  text-align: center;
+  margin: 32px auto 0;
+  height: 15px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 15px;
+  color: rgba(255, 255, 255, 0.24);
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.tide-blocker-giveup-confirm .tide-blocker-main {
+  opacity: 0.24;
+  transition: opacity 0.2s ease-in;
+  pointer-events: none;
+}
+
+.tide-blocker-giveup-confirm #tide-blocker-modal {
+  pointer-events: all;
+  transition: opacity 0.3s ease-out;
+  opacity: 1;
+}
