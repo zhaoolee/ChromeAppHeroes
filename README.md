@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [106《Browser Desktop》一款MacOS风格的浏览器桌面](https://www.v2fy.com/p/106-browser-desktop-2021-06-05/)
+
 - [105《潮汐》极简番茄钟与白噪音,和大自然一起，平静身心](https://www.v2fy.com/p/105-tide-2021-05-29/)
 
 - [104《特别篇：星愿浏览器》下载一切可下载的视频](https://www.v2fy.com/p/104-twinkstar-2021-05-17/)
@@ -261,6 +263,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
+
+#### [106《Browser Desktop》一款MacOS风格的浏览器桌面](https://www.v2fy.com/p/106-browser-desktop-2021-06-05/)
+
+
+![支持更换更多MacOS风格的壁纸](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/16228559999434EmXTKEd.gif)
+
+MacOS的壁纸确实赏心悦目，Browser Desktop 让Windows用户和Linux用户，也能轻易体验MacOS壁纸带来的美感。
 
 #### [105《潮汐》极简番茄钟与白噪音,和大自然一起，平静身心](https://www.v2fy.com/p/105-tide-2021-05-29/)
 

@@ -1,0 +1,34 @@
+{
+   "background": {
+      "scripts": [ "js/menu.js" ]
+   },
+   "browser_action": {
+      "default_icon": "logo.png",
+      "default_popup": "popup.html"
+   },
+   "chrome_url_overrides": {
+      "newtab": "new_tab.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/content.css" ],
+      "js": [ "js/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "Browser Desktop(浏览器桌面)是一款实用的工具类浏览器插件（new tab，新标签页）。并且您可在多个不同的浏览器之间切换使用，而这完全不用考虑数据备份的问题，",
+   "differential_fingerprint": "1.f0768936321cb6b2758a3844b242c1bd0c78bd83b354a24aa5bf533668f0f949",
+   "icons": {
+      "128": "logo.png",
+      "16": "logo_16.png",
+      "48": "logo_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAicnk3DBdwPvNORztU041cTtGqP/Z8BW+EVp2XI3UPPp7TuLTnr4TnaMXIjX5o1Z0On+VqvYsNa52zJLbc7hr2jTl3tJTarByZchIPB78NneSUKcFUSAzHgKJpsC7StulMfwZ01p/0rbReZDitrhf7oNUToJn7I1Nz021mgACUpRbFpeIXRjQka67n+ONfMvnhn6cMZdMrHT732Ib9NsUTCGkcRb2UgnOU0AwEyC3jUQMhDaWcsyaInyZWEW/i+d1X7Fn1vcAPhqlcXoc+MsNwi6Gl9XjBngvTYEzDER2+p5z+DwHR9dGTj0+VSS6FzP5R49/8VAkYhWwNmmyWOe6OQIDAQAB",
+   "manifest_version": 2,
+   "name": "Browser Desktop",
+   "options_page": "options.html",
+   "permissions": [ "contextMenus", "tabs", "bookmarks", "history" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.43"
+}
