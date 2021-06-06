@@ -55,7 +55,7 @@ title: 091《FasterChrome》鼠标悬停预加载链接让你的Chrome起飞
 <div style="text-align: center;">暂无</div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/091-faster-chrome.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/091-faster-chrome.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

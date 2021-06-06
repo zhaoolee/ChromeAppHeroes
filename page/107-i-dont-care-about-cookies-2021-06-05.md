@@ -43,7 +43,7 @@ title: 107《I don't care about cookies》屏蔽所有网站询问Cookies授权�
 </div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/107-i-dont-care-about-cookies.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/107-i-dont-care-about-cookies.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

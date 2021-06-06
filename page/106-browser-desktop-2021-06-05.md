@@ -67,7 +67,7 @@ Browser Desktop的壁纸很经典， 但并不是特别新， 如果你需要最
 </div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/106-browser-desktop.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/106-browser-desktop.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

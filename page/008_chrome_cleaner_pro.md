@@ -63,7 +63,7 @@ title: 008《Chrome Cleaner Pro》为Chrome加速
 <div style="text-align: center;">暂无</div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/008-chrome-cleaner-pro.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/008-chrome-cleaner-pro.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

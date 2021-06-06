@@ -66,7 +66,7 @@ title: 003《Secure Shell App》 Chrome中开启ssh一种什么体验
 <div style="text-align: center;">暂无</div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/003-secure-shell-app.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/003-secure-shell-app.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

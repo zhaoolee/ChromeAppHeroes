@@ -68,7 +68,7 @@ title: 006《SimilarSites》 一键查找姊妹网站 SimilarSites
 <div style="text-align: center;">暂无</div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/006-similar-sites.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/006-similar-sites.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

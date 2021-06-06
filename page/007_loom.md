@@ -45,7 +45,7 @@ title: 007《loom》 Chrome翻录网页视频神器
 <div style="text-align: center;">暂无</div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/007-loom.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/007-loom.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

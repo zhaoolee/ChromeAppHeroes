@@ -59,7 +59,7 @@ Article Editor of Sina Weibo, only rich text is supported(like gmail), In order 
 <div style="text-align: center;"><a  href="https://addons.mozilla.org/zh-CN/firefox/addon/markdown-here/">下载链接 / Download link</a></div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/001-markdown-here.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/001-markdown-here.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

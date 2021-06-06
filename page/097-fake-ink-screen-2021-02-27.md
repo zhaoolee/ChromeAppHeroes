@@ -183,21 +183,21 @@ window.addEventListener('load', () => {
 <tr>
 <td>
 <div style="text-align: center;">
-<a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/097-fake-ink-screen.zip">下载链接 / Download link</a>
+<a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/097-fake-ink-screen.zip">下载链接 / Download link</a>
 </div>
 </td>
 <td>
 <div style="text-align: center;">
-<a href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/097-fake-ink-screen.zip">下载链接 / Download link</a>
+<a href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/097-fake-ink-screen.zip">下载链接 / Download link</a>
 </div>
 </td>
 <td>
 <div style="text-align: center;">
-<a href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/097-fake-ink-screen.zip">下载链接 / Download link</a>
+<a href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/097-fake-ink-screen.zip">下载链接 / Download link</a>
 </div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/097-fake-ink-screen.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/097-fake-ink-screen.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

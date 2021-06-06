@@ -114,7 +114,7 @@ JsonFormatter的使用非常简单，安装即可自动生效，处理的效果�
 </div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/095-json-formatter.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/095-json-formatter.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

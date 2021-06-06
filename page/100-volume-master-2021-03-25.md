@@ -40,7 +40,7 @@ title: 100《Volume master》完美控制每个网页的音量
 </div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/100-volume-master.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/100-volume-master.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

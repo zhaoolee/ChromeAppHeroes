@@ -47,7 +47,7 @@ title: 094《SmoothScroll》让网页滚动如奶油般顺滑的奇妙小工具
 </div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/094-smoothscroll.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/094-smoothscroll.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

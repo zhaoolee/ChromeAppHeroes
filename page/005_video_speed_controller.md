@@ -56,7 +56,7 @@ title: 005《Video Speed Controller》 刷课（刷剧）神器！给网页视�
 <div style="text-align: center;">暂无</div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/005-video-speed-controller.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/005-video-speed-controller.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

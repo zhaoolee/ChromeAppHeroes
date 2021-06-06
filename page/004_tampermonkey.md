@@ -91,7 +91,7 @@ title: 004《Tampermonkey》 油猴子! 给浏览器开个挂
 <div style="text-align: center;"><a  href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/">下载链接 / Download link</a></div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/004-tampermonkey.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/004-tampermonkey.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

@@ -74,7 +74,7 @@ As we all know, Chrome's native download feature is not easy to use, for example
 <div style="text-align: center;">暂无</div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/002-chrono.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/002-chrono.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

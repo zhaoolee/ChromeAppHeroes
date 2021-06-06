@@ -61,7 +61,7 @@ PC网站的导航栏在页面顶部，且不会保持在窗口顶部，当用户
 </div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/101-scroll-to-top-button.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/101-scroll-to-top-button.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

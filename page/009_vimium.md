@@ -89,7 +89,7 @@ zh: https://www.zhihu.com/search?type=content&q=%s Zhihu
 <div style="text-align: center;"><a  href="https://addons.mozilla.org/en-GB/firefox/addon/vimium-ff/">下载链接 / Download link</a></div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/009-vimium.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/009-vimium.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>

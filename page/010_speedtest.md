@@ -58,7 +58,7 @@ title: 010《speedtest》网络测速插件speedtest
 <div style="text-align: center;"><a  href="https://addons.mozilla.org/zh-CN/firefox/addon/speedtest-ookla-crx/">下载链接 / Download link</a></div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/backup/010-speedtest.zip">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/010-speedtest.zip">下载链接 / Download link</a></div>
 </td>
 </tr>
 </tbody>
