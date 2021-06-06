@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [107《I don't care about cookies》屏蔽所有网站询问Cookies授权的弹窗](https://www.v2fy.com/p/107-i-dont-care-about-cookies-2021-06-05/)
+
 - [106《Browser Desktop》一款MacOS风格的浏览器桌面](https://www.v2fy.com/p/106-browser-desktop-2021-06-05/)
 
 - [105《潮汐》极简番茄钟与白噪音,和大自然一起，平静身心](https://www.v2fy.com/p/105-tide-2021-05-29/)
@@ -264,6 +266,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
 
+#### [107《I don't care about cookies》屏蔽所有网站询问Cookies授权的弹窗](https://www.v2fy.com/p/107-i-dont-care-about-cookies-2021-06-05/)
+
+![I don't care about cookies](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1622941089981bbnJyhZX.gif)
+
+用户并不关心Cookies是否被使用， 网站弹窗询问用户是否使用Cookies，那这个网站摆明了就是要收集用户在本网站的浏览记录，这种弹窗直接通过《I don't care about cookies》屏蔽就好～
 
 #### [106《Browser Desktop》一款MacOS风格的浏览器桌面](https://www.v2fy.com/p/106-browser-desktop-2021-06-05/)
 
