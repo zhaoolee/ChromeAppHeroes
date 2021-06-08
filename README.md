@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [108《Grabox》打通Chrome，Edge，FireFox，360，2345，QQ，搜狗等浏览器们的书签目录](https://www.v2fy.com/p/108-grabox-2021-06-08/)
+
 - [107《I don't care about cookies》屏蔽所有网站询问Cookies授权的弹窗](https://www.v2fy.com/p/107-i-dont-care-about-cookies-2021-06-05/)
 
 - [106《Browser Desktop》一款MacOS风格的浏览器桌面](https://www.v2fy.com/p/106-browser-desktop-2021-06-05/)
@@ -265,6 +267,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
+
+#### [108《Grabox》打通Chrome，Edge，FireFox，360，2345，QQ，搜狗等浏览器们的书签目录](https://www.v2fy.com/p/108-grabox-2021-06-08/)
+
+![grabox共享信息](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1623121987007wfscpWsw.gif)
+
+每次安装启用一个新的浏览器，新浏览器都会建议用户把Chrome浏览器的书签导入到新浏览器中，但这种导入方式，始终无法实现双向同步，在Edge中添加的书签， 无法在Chrome中找到，也无法通过各家厂商的云服务同步，而Grabox的出现，彻底解决了跨浏览器同步书签的问题，是真正解决用户痛点的产品。
 
 #### [107《I don't care about cookies》屏蔽所有网站询问Cookies授权的弹窗](https://www.v2fy.com/p/107-i-dont-care-about-cookies-2021-06-05/)
 
