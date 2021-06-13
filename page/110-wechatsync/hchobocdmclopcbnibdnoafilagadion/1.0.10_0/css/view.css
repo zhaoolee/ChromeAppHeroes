@@ -1,0 +1,881 @@
+/**
+ * common style
+ */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 1.25em;
+  line-height: 1.4em;
+}
+
+h2 {
+  font-size: 1.125em;
+}
+
+h3 {
+  font-size: 1.05em;
+}
+
+h4,
+h5,
+h6 {
+  font-size: 1em;
+  margin: 1em 0;
+}
+
+h1.title {
+  text-align: start;
+  -webkit-hyphens: manual;
+  margin-bottom: 1em;
+}
+
+.page {
+  text-align: start;
+  word-wrap: break-word;
+  outline: none;
+}
+
+.page.rtl {
+  direction: rtl;
+}
+
+a {
+  color: rgb(65, 110, 210);
+  text-decoration: none;
+}
+
+#article {
+  text-rendering: optimizeLegibility;
+}
+
+#article * {
+  /* Scale down anything larger than our view. Max-width maintains aspect ratios on images. */
+  max-width: 100%;
+}
+
+#article img {
+  /* By default, images are centered on their own line. */
+  margin: 0.5em auto;
+  display: block;
+  height: auto;
+}
+
+#article img.reader-image-tiny {
+  display: inline;
+  margin: 0;
+}
+
+#article .leading-image,
+figure,
+.auxiliary {
+  margin-bottom: 0.25em;
+}
+
+#article .leading-image img {
+  margin: auto;
+  display: block;
+  clear: both;
+}
+
+#article .leading-image .credit {
+  margin: 0;
+  text-align: right;
+}
+
+#article .leading-image .caption,
+#article .leading-image .credit,
+#article figcaption,
+#article .auxiliary figcaption {
+  font-size: 0.75em;
+  line-height: 1.5em;
+  margin-top: 1em;
+  width: 100%;
+}
+
+#article .leading-image .credit + .caption {
+  margin-top: 0.1em;
+}
+
+#article .auxiliary {
+  display: block;
+  clear: both;
+  font-size: 0.75em;
+  line-height: 1.4em;
+  text-align: start;
+}
+
+#article .auxiliary > * {
+  -webkit-margin-start: 0;
+}
+
+#article .auxiliary img,
+#article .auxiliary > *:first-child {
+  margin: 0;
+}
+
+/* If the element immediately after an image is inline, it might bump up against the image. */
+#article .auxiliary img + * {
+  display: block;
+}
+
+#article .auxiliary figcaption {
+  font-size: 100%;
+}
+
+#article .auxiliary * {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+#article .float.left {
+  float: left;
+  margin-right: 20px;
+}
+
+#article .float.right {
+  float: right;
+  margin-left: 20px;
+}
+
+#article .clear {
+  clear: both;
+}
+
+#article ul.list-style-type-none,
+#article ol.list-style-type-none,
+#article .list-style-type-none > li {
+  list-style-type: none;
+  -webkit-padding-start: 0;
+}
+
+#article .page div.scrollable {
+  overflow-x: scroll;
+  word-wrap: normal;
+}
+
+#article .page div.scrollable table {
+  max-width: none;
+}
+
+#article .large-element {
+  max-width: 100%;
+  height: auto;
+}
+
+#article .leading-image,
+#article figure,
+#article .auxiliary {
+  font-family: -apple-system-font;
+}
+
+body #article .leading-image,
+body #article figure,
+body #article .auxiliary {
+  color: rgba(0, 0, 0, 0.65);
+}
+
+figure {
+  margin: 0;
+}
+
+hr {
+  background: rgba(0, 0, 0, 0.2);
+  height: 1px;
+  border: 0;
+}
+
+pre {
+  font-size: 0.93em;
+  line-height: 1.5em;
+}
+
+blockquote {
+  color: rgba(0, 0, 0, 0.65);
+  margin-left: 2px;
+  margin-right: 6px;
+  padding-left: 16px;
+}
+
+blockquote:not(.simple) {
+  border-left: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+/* Collapse excess whitespace. */
+.page p > p:empty,
+.page div > p:empty,
+.page p > div:empty,
+.page div > div:empty,
+.page p + br,
+.page p > br:only-child,
+.page div > br:only-child,
+.page img + br {
+  display: none;
+}
+
+.page table {
+  font-size: 0.9em;
+  text-align: start;
+  word-wrap: break-word;
+  border-collapse: collapse;
+}
+
+.page table td,
+.page table th {
+  padding: 0.25em 0.5em;
+  border: 1px solid rgb(216, 216, 216);
+}
+
+.page table th {
+  background-color: rgba(0, 0, 0, 0.025);
+}
+
+.page sup,
+.page sub {
+  line-height: 1;
+  font-size: 0.75em;
+}
+
+.hidden {
+  display: none;
+}
+
+/* Fonts */
+body.system {
+  font-family: -apple-system-font;
+}
+body.athelas {
+  font-family: Athelas;
+}
+body.charter {
+  font-family: Charter;
+}
+body.georgia {
+  font-family: Georgia;
+}
+body.iowan {
+  font-family: 'Iowan Old Style';
+}
+body.palatino {
+  font-family: Palatino;
+}
+body.seravek {
+  font-family: Seravek;
+}
+body.times {
+  font-family: 'Times New Roman';
+}
+
+body.yugothic {
+  font-family: 'YuGothic';
+}
+body.yumincho {
+  font-family: 'YuMincho';
+}
+body.hiraginokaku {
+  font-family: 'Hiragino Kaku Gothic ProN';
+}
+body.hiraginomincho {
+  font-family: 'Hiragino Mincho ProN';
+}
+body.hiraginomaru {
+  font-family: 'Hiragino Maru Gothic ProN';
+}
+
+body.heitisc {
+  font-family: 'Heiti SC';
+}
+body.songtisc {
+  font-family: 'Songti SC';
+}
+body.kaitisc {
+  font-family: 'Kaiti SC';
+}
+body.yuantisc {
+  font-family: 'Yuanti SC';
+}
+
+body.heititc {
+  font-family: 'Heiti TC';
+}
+body.songtitc {
+  font-family: 'Songti TC';
+}
+body.kaititc {
+  font-family: 'Kaiti TC';
+}
+
+body.applesdgothicneo {
+  font-family: 'Apple SD Gothic Neo';
+}
+body.nanumgothic {
+  font-family: 'NanumGothic';
+}
+body.nanummyeongjo {
+  font-family: 'NanumMyeongjo';
+}
+
+body.khmer {
+  font-family: 'Khmer MN';
+}
+body.khmersangnam {
+  font-family: 'Khmer Sangnam MN';
+}
+
+body.lao {
+  font-family: 'Lao MN';
+}
+body.laosangnam {
+  font-family: 'LaoSangnam MN';
+}
+
+body.thonburi {
+  font-family: 'Thonburi';
+}
+
+body.kailasa {
+  font-family: 'Kailasa';
+}
+
+body.geezapro {
+  font-family: 'Geeza Pro';
+}
+
+body.kefa {
+  font-family: 'Kefa';
+}
+body.arialhebrew {
+  font-family: 'Arial Hebrew';
+}
+
+body.mshtakan {
+  font-family: 'Mshtakan';
+}
+
+body.plantagenetcherokee {
+  font-family: 'Plantagenet Cherokee';
+}
+
+body.euphemiaucas {
+  font-family: 'Euphemia UCAS';
+}
+
+body.bangla {
+  font-family: 'Bangla Sangam MN';
+}
+body.gujarati {
+  font-family: 'Gujarati Sangam MN';
+}
+body.gurmukhi {
+  font-family: 'Gurmukhi MN';
+}
+body.devanagari {
+  font-family: 'Devanagari Sangam MN';
+}
+body.kannada {
+  font-family: 'Kannada Sangam MN';
+}
+body.malayalam {
+  font-family: 'Malayalam Sangam MN';
+}
+body.oriya {
+  font-family: 'Oriya Sangam MN';
+}
+body.sinhala {
+  font-family: 'Sinhala Sangam MN';
+}
+body.inaimathi {
+  font-family: 'InaiMathi';
+}
+body.tamil {
+  font-family: 'Tamil Sangam MN';
+}
+body.telugu {
+  font-family: 'Telugu Sangam MN';
+}
+
+@media print {
+  body {
+    margin: 2mm 9mm;
+    line-height: 1.5em;
+    font-family: -apple-system-font;
+  }
+
+  .original-url {
+    display: none;
+  }
+  a {
+    text-decoration: underline;
+  }
+  .ctrl {
+    display: none;
+  }
+}
+
+@media screen {
+  body {
+    margin: 0;
+    padding: 0;
+    -webkit-user-select: none;
+    overflow-x: hidden;
+    -webkit-text-size-adjust: none;
+    font-size: 100%;
+    line-height: 1.7;
+  }
+  body p {
+    text-align: justify;
+    text-justify: inter-ideograph;
+    word-break: initial;
+  }
+
+  .cached embed,
+  .cached applet,
+  .cached object {
+    display: none !important;
+  }
+
+  #article {
+    pointer-events: auto;
+    -webkit-user-select: auto;
+    overflow: visible;
+  }
+
+  #article:focus {
+    outline: none;
+  }
+
+  .page-number {
+    display: none;
+  }
+  .show-pn .page-number {
+    display: block;
+  }
+
+  .page-number,
+  #incoming-page-corner {
+    font-weight: bold;
+    position: absolute;
+    -webkit-user-select: none;
+    font: 12px 'Helvetica Neue';
+    color: rgb(168, 168, 168);
+    cursor: default;
+  }
+
+  .page {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    position: relative;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+  }
+
+  #article .page:first-child {
+    margin-top: 0;
+    border-top: none;
+    padding-top: 20px;
+  }
+
+  .page:last-of-type {
+    padding-bottom: 45px;
+  }
+
+  .page video {
+    position: relative;
+  }
+
+  #incoming-page-placeholder {
+    display: none;
+    height: 30px;
+    margin-bottom: 0;
+  }
+
+  #incoming-page-corner {
+    position: absolute;
+    right: 10px;
+    top: 8px;
+  }
+
+  #incoming-page-text {
+    float: right;
+    -webkit-user-select: none;
+  }
+
+  #next-page-container {
+    position: absolute;
+    /* Workaround for <rdar://problem/8662842> iOS Reader: loading multiple pages stops at the 2nd page. */
+    /*display: none;*/
+    left: -1000px;
+    /* The iframe needs to be wider than the width threshold value for Reader detection, see <rdar://problem/9599297>. */
+    width: 320px;
+    height: 0px;
+  }
+
+  .page div.scrollable {
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .ctrl {
+    position: fixed;
+    top: 22px;
+    left: 50%;
+    overflow: hidden;
+  }
+  .ctrl .icon {
+    position: relative;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    border: 1px solid rgb(220, 220, 220);
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAWCAYAAABKbiVHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDY3IDc5LjE1Nzc0NywgMjAxNS8wMy8zMC0yMzo0MDo0MiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NzBGNzM0MjE3RTU1MTFFNUE3MzJCNDVENDA0RDM2MTAiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NzBGNzM0MjI3RTU1MTFFNUE3MzJCNDVENDA0RDM2MTAiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo3MEY3MzQxRjdFNTUxMUU1QTczMkI0NUQ0MDREMzYxMCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo3MEY3MzQyMDdFNTUxMUU1QTczMkI0NUQ0MDREMzYxMCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PglEVnUAAAOZSURBVHjaxFZLT1pREB4uLwFfIbgg4ht8oBITTYxWN02j3bKpqy4bl/6CpiRddGfTrQtD0q3pxk0b141d+ULjA0WroOitEIxcBQU6c8q5wetVcCGd5OQO95zjnZnvm2/U5HI5eC6bnp7OxeNx5jscDpicnNQ8dl54rkC2t7flQMjC4TBEIpGF/xLM8vIye1ZUVMjvVlZWXpU9mEQi4cTKML+vrw8aGxuZv7a2BldXV/qyBhMIBIK3t7fM7+npieBiviRJsLW1lS5rMBwim80GTU1Njq6uLo8gCByq8sG0v78vnp2dMd/j8bBnbW1twOl0Mj8UCsHp6emHkoMhXIn5tB7D+IGq2Ljf3d3t435vb698ZnV11ad2V3d9fS2otGV6bm6O+RMTE2mXy6UtJZB0Om3f2NgA0q7m5maorq7+yP8+VqbOYDCIqVSKQTUyMmJC6FJFK0OHqSW1Wu2jGCsNyRmmjykrwbLW6WKdnZ3Mv7i4ILikojDhwfd7e3vgdrsBKwLBYBAuLy/fPoW4er0e8MMu5X5hgGpJ3guG8KQy48UsYg7ZbJb0wV8skPPz8x9HR0fMb29vB6PRGFKeQb0xI3TM39nZuZekrvAHBqHFYIj90NDQoEetsCJcImU8PDxcrCqyura0tJDwvVc719rayqpCSaIe+YeGhr7KweBLY0FbSjRPRkdH6bARCZbs6Ohgl3Evg5phVvtAJpOxkLryoTs/P08PX7FqLi0tweDgoFEVJo4jKuavgvYsKla7u7tiMpl8sibFYjE4PDyU7sGEUv2G5kl9fT1YrdaX/D1Wo6aqqiqBnQJjY2OvTSbTd7Xu4zY+Pn5nOKoZcYuqwu/y2SUHs76+7sdys2hnZmYkhX4AzRrUkG8DAwNmRfd9ou4js9vtoNxXM+TUOwziC/Emn+QLTOCngDjraVGEND+wKoDidGfRjOGty8/zhYSf4lyh1lXuqy2z2ewnIpPd3NxQIRboPavM8fFxXBRFwIEGXq+3Ri2b2dnZRDQahZOTkz9YAVu++wzUfYx8mAhq01SpfKFJjlyToerv7/9HYPwhFA42NeOChWflWXVwcCBiCzOfBJIyLjUYPO+hqpPh4ARMNCogH9w0TywWC2FZ99BlzNqn0WiIN8Qhd14gVdW1FEOV/s3HQz5Jk7C5ublIuFHZsNQP/uODwX5ua2tjZEbSLeI099KoIHgqKysB9xxPbW1KgO7TIiL/FWAAsnz2OtlCA3EAAAAASUVORK5CYII=)
+      rgb(251, 251, 251) no-repeat center;
+    background-size: 20px;
+    z-index: 2;
+    opacity: 0.4;
+    transition: all 0.5s;
+  }
+  .ctrl .icon:hover {
+    opacity: 1;
+  }
+  .ctrl .contenter {
+    width: 28px;
+    color: rgb(27, 27, 27);
+    background: rgb(251, 251, 251);
+    border: 1px solid rgb(220, 220, 220);
+    transition: all 0.3s;
+    transform: translateY(-110%);
+    transform-origin: top;
+  }
+  .ctrl .contenter .item {
+    text-align: center;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(220, 220, 220);
+  }
+  .ctrl .contenter .item:hover {
+    opacity: 0.5;
+  }
+  .ctrl .contenter > div:last-child .item:last-child {
+    border: none;
+  }
+  .ctrl .contenter ul {
+    margin: 0;
+    padding: 0;
+  }
+  .ctrl .contenter li {
+    list-style: none;
+    display: block;
+  }
+  .ctrl .size-choose .item {
+    height: 28px;
+    line-height: 28px;
+    font-family: Helvetica, Arial;
+  }
+  .ctrl .size-choose .item sup {
+    vertical-align: top;
+  }
+  .ctrl .size-choose .size-small {
+    font-size: small;
+  }
+  .ctrl .size-choose .size-large {
+    font-size: medium;
+  }
+  .ctrl .theme-choose .item {
+    height: 28px;
+    overflow: hidden;
+  }
+  .ctrl .theme-choose span {
+    display: block;
+    width: 16px;
+    height: 16px;
+    margin: 6px auto;
+    border-radius: 50%;
+  }
+  .ctrl .font-choose .item {
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  .ctrl .font-choose .item span:last-child {
+    display: none;
+  }
+  .ctrl .font-choose .item:hover span:first-child {
+    display: none;
+  }
+  .ctrl .font-choose .item:hover span:last-child {
+    display: inline;
+  }
+  .ctrl.show .contenter {
+    transform: translateY(0);
+  }
+  .ctrl.show .icon {
+    opacity: 1;
+  }
+}
+
+#article .extendsBeyondTextColumn {
+  max-width: none;
+}
+
+@media only screen and (min-width: 780px) {
+  body {
+    -webkit-text-size-adjust: auto;
+  }
+
+  #article {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .ctrl {
+    margin-left: 405px;
+  }
+
+  /* Readable margins. */
+  /*
+	body.system #article { max-width: 83.2ex; }
+	body.athelas #article { max-width: 104ex; }
+	body.charter #article { max-width: 86ex; }
+	body.georgia #article { max-width: 94ex; }
+	body.iowan #article { max-width: 90ex; }
+	body.palatino #article { max-width: 97ex; }
+	body.seravek #article { max-width: 87ex; }
+	body.times #article { max-width: 97ex; }
+	*/
+
+  .page {
+    /* We don't want the lines seperating pages to extend beyond the primary text column. */
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+}
+
+#article {
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+/* Reader's paper appearance. */
+html.paper {
+  height: 100%;
+}
+
+html.paper body {
+  height: calc(100% - 44px);
+}
+
+html.paper body:after {
+  content: '';
+  height: 22px;
+  display: block;
+}
+
+html.paper #article {
+  min-height: 100%;
+  margin: 22px auto 0 auto;
+  overflow: hidden;
+}
+
+html.paper #article :nth-child(1 of .page),
+html.paper #article :nth-child(1 of .page):nth-last-child(1 of .page) {
+  padding-top: 46px;
+}
+
+html.paper #article .page-number,
+html.paper #article #incoming-page-corner {
+  /* Stop lining this text up with .page's right margin. */
+  top: 14px;
+  right: 0px;
+}
+/* End Reader's paper appearance. */
+
+/* Use slightly smaller page padding when vertically constrained. */
+@media screen and (max-height: 700px) {
+  .page {
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+}
+
+/**
+ * theme
+ */
+html:not(.paper) body.white,
+body.white #article {
+  background-color: rgb(251, 251, 251);
+}
+html:not(.paper) body.sepia,
+body.sepia #article {
+  background-color: rgb(248, 241, 227);
+}
+html:not(.paper) body.gray,
+body.gray #article {
+  background-color: rgb(90, 90, 92);
+}
+html:not(.paper) body.night,
+body.night #article {
+  background-color: rgb(18, 18, 18);
+}
+
+html.paper body.white {
+  background-color: rgb(230, 230, 230);
+}
+html.paper body.sepia {
+  background-color: rgb(224, 216, 200);
+}
+html.paper body.gray {
+  background-color: rgb(50, 50, 51);
+}
+html.paper body.night {
+  background-color: black;
+}
+
+html.paper body.white #article {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+}
+html.paper body.sepia #article {
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+}
+html.paper body.gray #article {
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+}
+html.paper body.night #article {
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.35);
+}
+
+body.sepia #article .leading-image,
+body.sepia #article figure,
+body.sepia #article .auxiliary {
+  color: rgba(79, 50, 28, 0.9);
+}
+body.gray #article .leading-image,
+body.gray #article figure,
+body.gray #article .auxiliary {
+  color: rgba(255, 255, 255, 0.7);
+}
+body.night #article .leading-image,
+body.night #article figure,
+body.night #article .auxiliary {
+  color: rgba(255, 255, 255, 0.67);
+}
+
+body.gray #article a,
+body.night #article a {
+  color: rgba(84, 190, 255, 0.95);
+}
+
+body.white #article .page {
+  color: rgb(27, 27, 27);
+  border-top-color: rgb(220, 220, 220);
+}
+body.sepia #article .page {
+  color: rgb(79, 50, 28);
+  border-top-color: rgb(230, 218, 201);
+}
+body.gray #article .page {
+  color: rgba(255, 255, 255, 0.7);
+  border-top-color: rgb(111, 111, 111);
+}
+body.night #article .page {
+  color: rgb(176, 176, 176);
+  border-top-color: rgb(62, 62, 62);
+}
+
+body.sepia #article .page-number,
+body.sepia #article #incoming-page-corner {
+  color: rgba(63, 41, 23, 0.5);
+}
+body.gray #article .page-number,
+body.gray #article #incoming-page-corner {
+  color: rgba(255, 255, 255, 0.35);
+}
+body.night #article .page-number,
+body.night #incoming-page-corner {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+body.sepia #article hr {
+  background: rgb(230, 218, 201);
+}
+body.gray #article hr {
+  background: rgb(111, 111, 111);
+}
+body.night #article hr {
+  background: rgb(62, 62, 62);
+}
+
+body.sepia #article blockquote {
+  color: rgb(140, 112, 79);
+}
+body.sepia #article blockquote:not(.simple) {
+  border-left-color: rgba(154, 128, 92, 0.1);
+}
+body.gray #article blockquote {
+  color: rgba(255, 255, 255, 0.5);
+}
+body.gray #article blockquote:not(.simple) {
+  border-left-color: rgba(255, 255, 255, 0.1);
+}
+body.night #article blockquote {
+  color: rgba(255, 255, 255, 0.6);
+}
+body.night #article blockquote:not(.simple) {
+  border-left-color: rgba(255, 255, 255, 0.15);
+}
+
+body.sepia .page table td,
+body.sepia .page table th {
+  border-color: rgb(230, 218, 202);
+}
+body.sepia .page table th {
+  background-color: rgba(154, 128, 92, 0.06);
+}
+body.gray .page table td,
+body.gray .page table th {
+  border-color: rgb(106, 106, 106);
+}
+body.gray .page table th {
+  background-color: rgba(255, 255, 255, 0.035);
+}
+body.night .page table td,
+body.night .page table th {
+  border-color: rgb(50, 50, 50);
+}
+body.night .page table th {
+  background-color: rgba(255, 255, 255, 0.045);
+}
+
+body.sepia .ctrl .icon,
+body.sepia .ctrl .contenter,
+body.sepia .ctrl .contenter .item {
+  background-color: rgb(248, 241, 227);
+  border-color: rgb(230, 218, 201);
+}
+body.gray .ctrl .icon,
+body.gray .ctrl .contenter,
+body.gray .ctrl .contenter .item {
+  background-color: rgb(90, 90, 92);
+  border-color: rgb(111, 111, 111);
+}
+body.night .ctrl .icon,
+body.night .ctrl .contenter,
+body.night .ctrl .contenter .item {
+  background-color: rgb(18, 18, 18);
+  border-color: rgb(62, 62, 62);
+}
+
+body.sepia .ctrl .contenter {
+  color: rgb(79, 50, 28);
+}
+body.gray .ctrl .contenter {
+  color: rgba(255, 255, 255, 0.7);
+}
+body.night .ctrl .contenter {
+  color: rgb(176, 176, 176);
+}

@@ -1,0 +1,107 @@
+/*!
+ * Compares two software version numbers (only number)
+ *
+ * @parse String newVer (e.g. "1.7.1" or "1.2.1").
+ * @parse String oldVer (e.g. "1.7.1" or "1.2.1").
+ * @return Object {
+ *       gt:
+ *          <,return -1
+ *          =,return 0
+ *          >,return 1
+ *          error, return < -1
+ *
+ *      lt:
+ *          <,return 1
+ *          =,return 0
+ *          >,return -1
+ *          error, return < -1
+ *
+ *      clean:
+ *          ['dfdsfd','1.0.1']      -> ['1.0.1']
+ *          ['1.1.b','1.0.1']       -> ['1.0.1']
+ *          ['1.1.b','1.0.1',12121] -> ['1.0.1']
+ *
+ *      sort:
+ *          ["1.7.0","1.7","1.ab.8","1.70.0","1.90","1.9.0","1.8"]  ->
+ *          ["1.7","1.7.0","1.8","1.9.0","1.70.0","1.90"]
+ *
+ *      max:
+ *          ["1.7.0","1.7","1.ab.8","1.70.0","1.90","1.9.0","1.8"]  ->
+ *          return "1.90"
+ *
+ *      min:
+ *          ["1.7.0","1.7","1.ab.8","1.70.0","1.90","1.9.0","1.8"]  ->
+ *          return "1.7"
+ *
+ *  }
+ */
+
+/*!
+ * Vue-Lazyload.js v1.3.3
+ * (c) 2019 Awe <hilongjw@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
+ * Released under the MIT License.
+ */
+
+/*!
+ * vuex v3.6.2
+ * (c) 2021 Evan You
+ * @license MIT
+ */
+
+/*! *****************************************************************************
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+  this file except in compliance with the License. You may obtain a copy of the
+  License at http://www.apache.org/licenses/LICENSE-2.0
+
+  THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+  KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+  WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+  MERCHANTABLITY OR NON-INFRINGEMENT.
+
+  See the Apache Version 2.0 License for specific language governing permissions
+  and limitations under the License.
+  ***************************************************************************** */
+
+/**
+ * Checks if an event is supported in the current execution environment.
+ *
+ * NOTE: This will not work correctly for non-generic events such as `change`,
+ * `reset`, `load`, `error`, and `select`.
+ *
+ * Borrows from Modernizr.
+ *
+ * @param {string} eventNameSuffix Event name, e.g. "click".
+ * @param {?boolean} capture Check if the capture phase is supported.
+ * @return {boolean} True if the event is supported.
+ * @internal
+ * @license Modernizr 3.0.0pre (Custom Build) | MIT
+ */
+
+/**
+ * Returns an array of the selectors.
+ *
+ * @license Sizzle CSS Selector Engine - MIT
+ * @param {String} selectorText from mensch
+ * @api public
+ */
+
+/**
+ * [js-md5]{@link https://github.com/emn178/js-md5}
+ *
+ * @namespace md5
+ * @version 0.7.3
+ * @author Chen, Yi-Cyuan [emn178@gmail.com]
+ * @copyright Chen, Yi-Cyuan 2014-2017
+ * @license MIT
+ */
+
+//! moment.js
+
+//! moment.js locale configuration

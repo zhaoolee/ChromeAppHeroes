@@ -1,0 +1,21 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icon-128.png"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "GLaDOS Website Connector, Get Latest GLaDOS Website.",
+   "icons": {
+      "128": "icon-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAken05Bcy342d7bMwLOKvpt4p0qKHE1DNRTth7Ghib6tDPVBJaTQs1gEDjn33QVhrzz0u578SbE3SCnJgqe2QphaHwRi/xs1/r5f7I5D+IXdG7GU8IRfMK6mtqVkxUHrlYkP1LBcJoIy/YYIecMbtUOEyTG1Ms+2O5WucWbgDYUfx2fVURBP1Xp/79b06Rv03LCpcDej+NGUZI7IKAzGfaOnFRbgQBy/p9tse2+wsCneV3+i2Eu3JfP4EzoHl4zYERebrUdRgIL/VDelwV4SQJr2dnveptgGfaVU4c7qpYcAeIU8pgwRERPjITtepTsSI3EOWOTh5lnNaXNiE+D998wIDAQAB",
+   "manifest_version": 2,
+   "name": "GLaDOS",
+   "options_page": "options.html",
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1",
+   "web_accessible_resources": [ "content.styles.css", "icon-128.png", "icon-34.png" ]
+}

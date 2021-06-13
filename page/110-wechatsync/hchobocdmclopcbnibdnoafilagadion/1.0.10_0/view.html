@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html class="paper">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1" />
+    <title>Reader View</title>
+    <link rel="stylesheet" type="text/css" href="css/view.css" />
+    <link rel="stylesheet" type="text/css" href="viewer.js.css" />
+  </head>
+  <body class="white system">
+    <main id="app">
+      <router-view />
+    </main>
+    <iframe
+      src="about:blank"
+      id="next-page-preload"
+      name="__reader_view_nextpage_preload__"
+      style="display:none"
+    ></iframe>
+    <script src="libs/juqery.js"></script>
+    <script src="libs/jquery.xmlrpc.min.js"></script>
+    <script src="libs/google-analytics-bundle.js"></script>
+    <script type="text/javascript" src="viewer.js"></script>
+  </body>
+</html>

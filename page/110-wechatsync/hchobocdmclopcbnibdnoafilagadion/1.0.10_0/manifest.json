@@ -1,0 +1,45 @@
+{
+   "background": {
+      "scripts": [ "libs/juqery.js", "libs/jquery.xmlrpc.min.js", "libs/aliyun-oss-sdk.min.js", "libs/hmac-sha256.js", "libs/enc-base64-min.js", "libs/google-analytics-bundle.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "index.html"
+   },
+   "content_scripts": [ {
+      "js": [ "libs/juqery.js", "libs/Readability.js", "libs/reader.js", "page.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   }, {
+      "css": [ "css/boot.css" ],
+      "js": [ "libs/juqery.js", "libs/popper.min.js", "libs/bootstrap.min.js", "content.js" ],
+      "matches": [ "http://mp.weixin.qq.com/*", "https://mp.weixin.qq.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "libs/juqery.js", "api.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   }, {
+      "all_frames": true,
+      "js": [ "libs/juqery.js", "segmenftfault.js" ],
+      "matches": [ "http://segmentfault.com/*", "https://segmentfault.com/*", "https://mp.toutiao.com/*", "http://mp.toutiao.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://hm.baidu.com https://cdn.authing.cn https://cdn.jsdelivr.net https://www.google.com/ https://ajax.googleapis.com/; object-src 'self'",
+   "description": "微信公众号文章同步助手，支持头条号、简书、知乎、WordPress",
+   "icons": {
+      "128": "images/logo.png",
+      "16": "images/logo.png",
+      "48": "images/logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmmO5pjH7YJoHmYbObRjs1PVbcUX2GbHU26dWpzyOE3QNfjcHYmhO2ph7L/IlaKFu85tFAkhaB+SeYRAYuRKPFa5wTJSuUvrXaruvyeywAndRHIlZizU7Eg/VPpjxhM7CooUgcpus0EnbUSFP8cLVqgtiJEndLVxZqhhpE0Lyeavcy62t2YpOznhIajJekbqQOvPSBtGtwERsYiQBMafQwldREepVFMiKGtvYHI1DzOHVGYtowqNXoMyBr6gsmqNJ8e01gY7EBwk4mg1Z4wLrc0jTMqozjp+4e0jPyrP+sXtp6sgn61SEAQJHplrhdPOzbcj3aKaXNMtl50IFpWmZAwIDAQAB",
+   "manifest_version": 2,
+   "name": "微信公众号同步助手",
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "index.html#/options"
+   },
+   "permissions": [ "contextMenus", "webRequest", "webRequestBlocking", "storage", "unlimitedStorage", "notifications", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.10",
+   "web_accessible_resources": [ "view.html", "templates.html", "autoformat.js", "inject.js", "images/*" ]
+}

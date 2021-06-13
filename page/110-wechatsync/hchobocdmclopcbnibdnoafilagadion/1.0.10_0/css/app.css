@@ -1,0 +1,235 @@
+.scence {
+  padding: 20px;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 12px;
+  margin-right: 10px;
+}
+::-webkit-scrollbar-button:vertical {
+  display: none;
+}
+::-webkit-scrollbar-track:vertical {
+  background-color: black;
+}
+::-webkit-scrollbar-track-piece {
+  background: #fff;
+}
+::-webkit-scrollbar-thumb:vertical {
+  background-color: #8e8e8e;
+}
+::-webkit-scrollbar-thumb:vertical:hover {
+  background-color: #3b3b3b;
+}
+::-webkit-scrollbar-corner:vertical {
+  background-color: #535353;
+}
+::-webkit-scrollbar-resizer:vertical {
+  background-color: #ff6e00;
+}
+
+.btn,
+body {
+  font-size: 13px;
+}
+
+#login-section .header {
+  text-align: left;
+  line-height: 42px;
+  padding: 0 20px;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  font-weight: 500;
+}
+
+.header {
+  height: 58px;
+  position: relative;
+  border-bottom: 1px solid #f5f5f5;
+  background: white;
+  margin-bottom: 15px;
+}
+
+body,
+html {
+  /* min-height: 800px; */
+  width: 425px;
+  height: 800px;
+  max-height: 500px;
+  overflow: hidden;
+  background-color: #f7f7f7;
+}
+
+.authing-login-form-wrapper,
+._authing_form-wrapper {
+  height: 450px !important;
+  max-height: 450px !important;
+}
+
+.tab-bar {
+  position: relative;
+  border-bottom: 1px solid #f5f5f5;
+  background: white;
+  font-size: 0;
+  height: 58px;
+  /* box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.05); */
+}
+.tab-bar .tab {
+  cursor: pointer;
+  width: 49%;
+  height: 100%;
+  display: inline-block;
+  text-align: center;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  position: relative;
+  padding-top: 8px;
+  -webkit-transition: color 0.2s ease 0ms;
+  transition: color 0.2s ease 0ms;
+}
+.tab-bar .tab .icon {
+  margin-bottom: 1px;
+  opacity: 0.9;
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  -webkit-filter: brightness(0.8);
+  filter: brightness(0.8);
+  -webkit-transition: opacity 0.2s ease 0ms;
+  transition: opacity 0.2s ease 0ms;
+}
+.tab-bar .tab .icon.active {
+  opacity: 0;
+}
+.tab-bar .tab .icon.active {
+  -webkit-filter: none;
+  filter: none;
+}
+.tab-bar .tab span {
+  color: #abaeaf;
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  margin-top: 25px;
+}
+.tab-bar .tab .badge {
+  position: absolute;
+  top: 10px;
+  right: 30px;
+  bottom: auto;
+  left: auto;
+}
+.tab-bar .tab .tools-badge.default-badge {
+  width: 7px;
+  height: 7px;
+  border-radius: 3.5px;
+  z-index: 1;
+}
+.tab-bar .tab .tools-badge.text-badge {
+  z-index: 10;
+  height: 14px;
+  line-height: 14px;
+  min-width: 14px;
+  font-size: 12px;
+  border-radius: 7px;
+  padding: 0 3px;
+}
+.tab-bar .tab #settings-badge {
+  height: 14px;
+  line-height: 14px;
+  min-width: 14px;
+  font-size: 12px;
+  border-radius: 7px;
+  padding: 0 3px;
+}
+.tab-bar .tab #messages-badge {
+  height: 14px;
+  line-height: 14px;
+  min-width: 14px;
+  font-size: 12px;
+  border-radius: 7px;
+  padding: 0 3px;
+}
+
+.tab-bar .tab.current,
+.tab-bar .tab:hover {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+.tab-bar .tab.active .icon {
+  opacity: 0;
+}
+.tab-bar .tab.active .icon.active {
+  opacity: 1;
+}
+.tab-bar .tab.active span {
+  color: #24be48;
+}
+
+.float-section-header {
+  height: 58px;
+  position: relative;
+  border-bottom: 1px solid #f5f5f5;
+  background: white;
+  line-height: 58px;
+  text-align: center;
+}
+.float-section-header .back-btn {
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  position: absolute;
+  height: 40px;
+  line-height: 40px;
+  top: 8px;
+  left: 8px;
+  padding: 5px 0;
+  width: 40px;
+  background: none;
+  border-radius: 4px;
+}
+.float-section-header .back-btn:hover {
+  background: #f0f0f0;
+}
+
+#tab-content-wrap {
+  overflow: auto;
+  height: 442px;
+}
+
+.tool-bottom {
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+  background: white;
+  width: 100%;
+}
+
+.account-types {
+  margin: 0;
+  padding: 0;
+}
+
+.account-types li {
+  list-style: none;
+  line-height: 30px;
+  background: white;
+  padding: 10px 15px 10px 15px;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+}
+
+.account-types li .icon {
+  margin-bottom: 3px;
+  margin-right: 10px;
+}
+
+.add-account-form {
+  padding: 20px;
+}
+
+/* #14EDD0 */
