@@ -44,6 +44,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+
+- [110《微信公众号同步助手》快速将微信文章同步到知乎B站等创作平台](https://www.v2fy.com/p/110-wechatsync-2021-06-13/)
+
+
+
+- [109《GLaDOS》一款快捷签到领魔法上网天数的小工具
+文章作者](https://www.v2fy.com/p/109-glados-2021-06-09/)
+
 - [108《Grabox》打通Chrome，Edge，FireFox，360，2345，QQ，搜狗等浏览器们的书签目录](https://www.v2fy.com/p/108-grabox-2021-06-08/)
 
 - [107《I don't care about cookies》屏蔽所有网站询问Cookies授权的弹窗](https://www.v2fy.com/p/107-i-dont-care-about-cookies-2021-06-05/)
@@ -268,6 +276,18 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
 
+#### [110《微信公众号同步助手》快速将微信文章同步到知乎B站等创作平台](https://www.v2fy.com/p/110-wechatsync-2021-06-13/)
+
+![同步到知乎](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1623563435713XcNk6BQB.gif)
+
+微信公众号的内容，无法被大多数搜索引擎爬取，希望《微信公众号同步助手》工具，能让更多的内容创作者，把内容分发到整个互联网，为内容获得更多曝光的同时，也能让后来人能够在互联网轻松搜索自己需要的资源。
+
+
+####  [109《GLaDOS》一款快捷签到领魔法上网天数的小工具文章作者](https://www.v2fy.com/p/109-glados-2021-06-09/)
+
+![签到白嫖服务天数](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1623559333004aZnnBM6Z.gif)
+
+GLaDOS是一款很稳定的魔法上网工具，支持Clash，iOS，Wireguard VPN， Surge客户端，路由器OpenWRT/LEDE and Padavan，V2Ray，Switch下载加速，配合GLaDOS插件，可以快捷白嫖服务天数，并能防失联。可以通过 http://i.v2fy.com/vpn 用QQ邮箱或Gmail邮箱注册体验
 
 #### [108《Grabox》打通Chrome，Edge，FireFox，360，2345，QQ，搜狗等浏览器们的书签目录](https://www.v2fy.com/p/108-grabox-2021-06-08/)
 
