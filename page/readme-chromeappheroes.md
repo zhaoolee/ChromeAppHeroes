@@ -44,6 +44,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [111《Unsplash For Chrome》查找免费无版权超清图并直接插入任意在线编辑器](https://v2fy.com/p/111-unsplash-for-chrome-2021-07-22/)
 
 - [110《微信公众号同步助手》快速将微信文章同步到知乎B站等创作平台](https://www.v2fy.com/p/110-wechatsync-2021-06-13/)
 
@@ -275,6 +276,20 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
+####  [111《Unsplash For Chrome》查找免费无版权超清图并直接插入任意在线编辑器](https://v2fy.com/p/111-unsplash-for-chrome-2021-07-22/)
+
+
+
+![edit](https://cdn.fangyuanxiaozhan.com/assets/1626916076862smBb07sZ.gif)
+
+
+
+随着自媒体的兴趣, 内容创造者数量也越来越多, 而一张好图片, 能极大提升读者的观感. 
+
+在互联网时代, 并非所有的图片都需要付费使用, 但乱用图片产生的版权纠纷, 的确会非常麻烦.
+
+Unsplash这款扩展程序, 的确提升了用户查找和使用无版权图片的效率, 值得一试~ 
 
 #### [110《微信公众号同步助手》快速将微信文章同步到知乎B站等创作平台](https://www.v2fy.com/p/110-wechatsync-2021-06-13/)
 
