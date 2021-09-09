@@ -1,5 +1,5 @@
 ---
-title: 073《Chrome Better History》如何让Chrome查找历史记录更方便?
+title: Chrome插件英雄榜073《Chrome Better History》如何让Chrome查找历史记录更方便?
 ---
 
 Chrome查找网页历史记录功能非常简单, 只支持输入关键词查找历史记录, 但Chrome只存储了历史网页的标题(title), 并没有存储全文, 如果用户输入网页内部的关键词, 就无法查到对应的记录

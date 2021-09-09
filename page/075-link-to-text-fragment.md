@@ -1,5 +1,5 @@
 ---
-title: 075《Link to Text Fragment》 截图已经Out了！这款谷歌发布的分享工具，让3万新媒体人直呼绝活儿…
+title: Chrome插件英雄榜075《Link to Text Fragment》 截图已经Out了！这款谷歌发布的分享工具，让3万新媒体人直呼绝活儿…
 ---
 
 

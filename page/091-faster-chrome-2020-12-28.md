@@ -1,5 +1,5 @@
 ---
-title: 091《FasterChrome》鼠标悬停预加载链接让你的Chrome起飞
+title: Chrome插件英雄榜091《FasterChrome》鼠标悬停预加载链接让你的Chrome起飞
 ---
 
 全球排名第一的建站工具WordPress，有一款非常受欢迎的扩展instant-page，它可以通过鼠标悬停预加载链接来提高Chrome访问网站的速度，开源地址:

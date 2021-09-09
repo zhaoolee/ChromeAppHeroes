@@ -1,5 +1,5 @@
 ---
-title: 077《Sourcegraph》阮一峰大佬推荐的github仓库关键词搜索工具
+title: Chrome插件英雄榜077《Sourcegraph》阮一峰大佬推荐的github仓库关键词搜索工具
 ---
 
 Github是本星球最大的程序员社区, 里面不仅有代码, 还有大量的优质文章.

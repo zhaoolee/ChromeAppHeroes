@@ -1,5 +1,5 @@
 ---
-title: 072《OneNote Web Clipper》微软免费跨平台笔记OneNote扩展程序
+title: Chrome插件英雄榜072《OneNote Web Clipper》微软免费跨平台笔记OneNote扩展程序
 ---
 
 OneNote是一款微软出品的笔记软件，免费且支持图片OCR识别，在微软过剩开发能力的加持下，OneNote横跨iOS， Android， macOS，Windows, 网页端

@@ -1,5 +1,5 @@
 ---
-title: 106《Browser Desktop》一款MacOS风格的浏览器桌面
+title: Chrome插件英雄榜106《Browser Desktop》一款MacOS风格的浏览器桌面
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: 101《Scroll To Top Button》一键滚动到页面顶部或底部
+title: Chrome插件英雄榜101《Scroll To Top Button》一键滚动到页面顶部或底部
 ---
 
 PC网站的导航栏在页面顶部，且不会保持在窗口顶部，当用户看完页面，想使用导航切换页面时，需要滚轮滑动多次，返回顶部，非常不方便。而Scroll To Top Button这款工具，就可以一键返回页面顶部，或页面底部，非常方便！
