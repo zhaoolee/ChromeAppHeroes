@@ -1,5 +1,5 @@
 ---
-title: 022《扩展管理器》管理你的Chrome扩展
+title: Chrome插件英雄榜022《扩展管理器》管理你的Chrome扩展
 ---
 如果你读完了 **Chrome插件英雄榜** 前面的章节，并且实际操作了一下，或许你会下图所示的情况
 > ![](https://www.v2fy.com/asset/022kuo_zhan_guan_li_qi/21ca22fb1aba4f0caeac2fc138f21a4b.png)

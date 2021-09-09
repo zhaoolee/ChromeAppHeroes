@@ -1,5 +1,5 @@
 ---
-title: 005《Video Speed Controller》 刷课（刷剧）神器！给网页视频加个速(最快可达16倍!)
+title: Chrome插件英雄榜005《Video Speed Controller》 刷课（刷剧）神器！给网页视频加个速(最快可达16倍!)
 ---
 刷一些没营养视频的时候, 我们会有倍速播放视频的需求, 而网站的在线播放器一般只提供不高于4倍的播放速度, 最近发现了一个很好用的, 可以将视频播放速度提高到16倍开源浏览器插件Video Speed Controller,分享给大家, github开源地址: https://github.com/igrigorik/videospeed
 

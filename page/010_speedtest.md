@@ -1,5 +1,5 @@
 ---
-title: 010《speedtest》网络测速插件speedtest
+title: Chrome插件英雄榜010《speedtest》网络测速插件speedtest
 ---
 当上网速度很慢的时候，人们想到的第一件事就进行网络测速。在window上，只要你安装了360全家桶，测速功能就是默认安装的，但其实测速这种功能根本不需要安装到本地，交给浏览器就好了。
 

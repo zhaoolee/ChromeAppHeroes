@@ -1,5 +1,5 @@
 ---
-title: 029 《SimpRead》为任意网页开启阅读模式
+title: Chrome插件英雄榜029 《SimpRead》为任意网页开启阅读模式
 ---
 为网页开启阅读模式, 能让我们更专注于内容, 不会被花花绿绿的广告推广分散精力, 而SimpRead就是一歀为网页开启**阅读模式**的插件
 > ![](https://www.v2fy.com/asset/029_simread/7a33faad14ea478d982aa3bd56f0ca2c.gif)

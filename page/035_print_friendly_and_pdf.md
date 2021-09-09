@@ -1,5 +1,5 @@
 ---
-title: 035《Print Friendly & PDF》让你拥有最佳的打印阅读体验
+title: Chrome插件英雄榜035《Print Friendly & PDF》让你拥有最佳的打印阅读体验
 ---
 主流浏览器默认的打印效果都不理想，Chrome也不例外
 

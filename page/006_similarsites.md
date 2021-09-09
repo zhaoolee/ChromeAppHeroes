@@ -1,5 +1,5 @@
 ---
-title: 006《SimilarSites》 一键查找姊妹网站 SimilarSites
+title: Chrome插件英雄榜006《SimilarSites》 一键查找姊妹网站 SimilarSites
 ---
 当你浏览一个很棒的站点的时候, 或许你会想到, 和它"差不多"的站点有哪些, 尤其是针对一些资源站点, 这个站点没有, 而它同类的站点"往往有"!
 这里推荐一个很有意思的chrome的插件**SimilarSites**, 它的作用只有一个, 发现同类站点~

@@ -1,5 +1,5 @@
 ---
-title: 039《Simplify Gmail》让网页版Gmail更清爽
+title: Chrome插件英雄榜039《Simplify Gmail》让网页版Gmail更清爽
 ---
 先放一张使用Simplify Gmail后, 清爽的gmail界面~
 

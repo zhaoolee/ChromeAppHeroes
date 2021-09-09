@@ -1,5 +1,5 @@
 ---
-title: 027《Text》来自Chrome实验室的跨平台记事本
+title: Chrome插件英雄榜027《Text》来自Chrome实验室的跨平台记事本
 ---
 > ![](https://www.v2fy.com/asset/027_text/2bd23b3bf7d54d20b1dcfd987a0afadb.png)
 

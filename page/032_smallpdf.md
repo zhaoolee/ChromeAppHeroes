@@ -1,5 +1,5 @@
 ---
-title: 032《Smallpdf》简单好用的线上PDF工具
+title: Chrome插件英雄榜032《Smallpdf》简单好用的线上PDF工具
 ---
 
 [smallpdf.com](smallpdf.com)提供了简单好用的线上PDF工具

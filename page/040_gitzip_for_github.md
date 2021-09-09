@@ -1,5 +1,5 @@
 ---
-title: 040《GitZip for github》从Github批量下载表情包
+title: Chrome插件英雄榜040《GitZip for github》从Github批量下载表情包
 ---
 最近我创建了一个关于表情包的github仓库,里面收录了国人常用的表情包, 并可以在线预览表情包 [https://zhaoolee.github.io/ChineseBQB/](https://zhaoolee.github.io/ChineseBQB/)
 

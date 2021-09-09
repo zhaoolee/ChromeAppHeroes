@@ -1,5 +1,5 @@
 ---
-title: 018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件
+title: Chrome插件英雄榜018《Enhanced Github》从“冰柜”到“冰棍儿”,下载Github单个文件
 ---
 - Github有一个比较蛋疼的设定，仓库可以打包下载，但没有提供仓库内单个文件的下载链接...
 - 我需要Github给我一根冰棍解暑，Github却坚持把装有冰棍的冰柜也送给我（哥们儿真够意思）...

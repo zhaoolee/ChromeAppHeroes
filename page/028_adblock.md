@@ -1,5 +1,5 @@
 ---
-title: 028《AdBlock》Adblock自定义屏蔽简书广告
+title: Chrome插件英雄榜028《AdBlock》Adblock自定义屏蔽简书广告
 ---
 Adblock 可以拦截网页上的广告，被誉为最受欢迎的 Chrome 扩展
 

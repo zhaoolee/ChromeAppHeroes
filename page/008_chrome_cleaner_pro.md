@@ -1,5 +1,5 @@
 ---
-title: 008《Chrome Cleaner Pro》为Chrome加速
+title: Chrome插件英雄榜008《Chrome Cleaner Pro》为Chrome加速
 ---
 
 - Chrome经过最近几年的发展, 强力的扩展越来越多, 离Chrome OS的目标也越来越近

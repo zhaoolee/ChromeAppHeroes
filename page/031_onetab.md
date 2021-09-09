@@ -1,5 +1,5 @@
 ---
-title: 031《OneTab》把多个Tab转换为一个列表
+title: Chrome插件英雄榜031《OneTab》把多个Tab转换为一个列表
 ---
 > OneTab是Chrome的一款插件, 主要用来管理浏览器的标签页,它有两个应用场景
 

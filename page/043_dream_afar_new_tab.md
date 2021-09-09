@@ -1,5 +1,5 @@
 ---
-title: 043《Dream Afar New Tab》探索世界的新方式
+title: Chrome插件英雄榜043《Dream Afar New Tab》探索世界的新方式
 ---
 Dream Afar New Tab是一款标签壁纸扩展程序，每次打开新标签， 就可以看到世界某处的新景观。
 

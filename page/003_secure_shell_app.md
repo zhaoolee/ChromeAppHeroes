@@ -1,5 +1,5 @@
 ---
-title: 003《Secure Shell App》 Chrome中开启ssh一种什么体验
+title: Chrome插件英雄榜003《Secure Shell App》 Chrome中开启ssh一种什么体验
 ---
 - 对于拥有自己服务器的人来讲, ssh连接服务器是很常用的操作
 - For people who have their own servers, connection vps by ssh is a very common operation.

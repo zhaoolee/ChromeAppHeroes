@@ -1,5 +1,5 @@
 ---
-title: 009《vimium》Chrome与vim双神器融合
+title: Chrome插件英雄榜009《vimium》Chrome与vim双神器融合
 ---
 vimium是chrome浏览器的一款插件, 可以用键盘代替鼠标的操作, 提高我们的浏览速度和上网体验!
 

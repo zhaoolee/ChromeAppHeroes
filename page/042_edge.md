@@ -1,5 +1,5 @@
 ---
-title: 042 在Edge中安装Chrome扩展程序
+title: Chrome插件英雄榜042 在Edge中安装Chrome扩展程序
 ---
 
 - 最终效果图

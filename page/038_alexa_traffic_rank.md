@@ -1,5 +1,5 @@
 ---
-title: 038《Alexa Traffic Rank》一键查看网站全球排名
+title: Chrome插件英雄榜038《Alexa Traffic Rank》一键查看网站全球排名
 ---
 有一个名为Alexa的网站, 专注于对全球网站进行排名
 > ![](https://www.v2fy.com/asset/038_alexa_traffic_rank/65e1ed735b3c49b6b0d65eea071001e2.png)

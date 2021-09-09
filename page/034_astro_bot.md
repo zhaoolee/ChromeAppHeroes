@@ -1,5 +1,5 @@
 ---
-title: 034《Astro Bot》用新标签页刷编程题
+title: Chrome插件英雄榜034《Astro Bot》用新标签页刷编程题
 ---
 Astro Bot可以在新标签页,展示一道与程序相关的问题或相关新闻
 

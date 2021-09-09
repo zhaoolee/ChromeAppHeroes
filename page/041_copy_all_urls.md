@@ -1,5 +1,5 @@
 ---
-title: 041《Copy All Urls》优雅地保存-开启多个标签页
+title: Chrome插件英雄榜041《Copy All Urls》优雅地保存-开启多个标签页
 ---
 
 Copy All Urls可以一键复制当前窗口所有已打开标签页Url, 而且可以将复制的多个Url一键开启

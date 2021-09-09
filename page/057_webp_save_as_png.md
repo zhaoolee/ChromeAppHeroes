@@ -1,5 +1,5 @@
 ---
-title: 057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式
+title: Chrome插件英雄榜057《图片另存为JPG/PNG/WebP》让WebP图片下载为PNG格式
 ---
 WebP是google推行的新的图片格式, 可以使用更小的空间,保存更清晰的图片, 但由于格式较新, Adobe Photoshop CC 2019 20.0.2版本都无法打开查看, 所以我们需要保存网页中的WebP图片为通用性较强png格式
 

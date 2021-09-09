@@ -1,5 +1,5 @@
 ---
-title: 059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标
+title: Chrome插件英雄榜059《PageSpeed Insight and CheckList》为网页优化提供建议和量化指标
 ---
 《PageSpeed Insight and CheckList》是一款给网页提出改良建议的小工具,如果你按照《PageSpeed Insight and CheckList》给出的建议,对网页进行改进,你的网站会变得更快~
 

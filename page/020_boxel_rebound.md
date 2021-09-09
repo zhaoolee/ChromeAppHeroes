@@ -1,5 +1,5 @@
 ---
-title: 020《Boxel Rebound》“嗨到中毒”的弹跳小方块(附自制赛道分享方法)
+title: Chrome插件英雄榜020《Boxel Rebound》“嗨到中毒”的弹跳小方块(附自制赛道分享方法)
 ---
 Boxel Rebound是一款和Google浏览器**断网小恐龙**类似的弹跳小游戏
 

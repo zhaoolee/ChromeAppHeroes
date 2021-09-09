@@ -1,5 +1,5 @@
 ---
-title: 049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹
+title: Chrome插件英雄榜049《Web Server for Chrome》搭建本地Web服务器, 实现局域网共享文件夹
 ---
 我想把个人电脑内一些有趣的资源, 分享给同一内网下面的小伙伴
 

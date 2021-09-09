@@ -1,5 +1,5 @@
 ---
-title: 058《IP-Address》快速查看当前设备IP
+title: Chrome插件英雄榜058《IP-Address》快速查看当前设备IP
 ---
 如何快速查看自己设备真实的IP地址, 并获得ip所在的国家或地区?
 这款名为《IP-Address》的Chrome扩展可以帮到你～

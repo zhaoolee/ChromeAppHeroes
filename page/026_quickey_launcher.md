@@ -1,5 +1,5 @@
 ---
-title: 026《Quickey Launcher》打开网站只需一键
+title: Chrome插件英雄榜026《Quickey Launcher》打开网站只需一键
 ---
 Quickey Launcher以优雅的方式, 为任意网页绑定一个快捷键, 绑定完成后, 即可通过快捷键,打开网页
 

@@ -1,5 +1,5 @@
 ---
-title: 024《Dark Reader》为任意网站启用夜间模式
+title: Chrome插件英雄榜024《Dark Reader》为任意网站启用夜间模式
 ---
 Dark Reader 是一款 Chrome 护眼插件，可以实时生成黑色主题，为任意网站启用夜间模式
 ## 先放两张对比图

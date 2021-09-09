@@ -1,5 +1,5 @@
 ---
-title: 063《Picviewer CE+》功能丰富的网页看图神器
+title: Chrome插件英雄榜063《Picviewer CE+》功能丰富的网页看图神器
 ---
 Picviewer CE+是一款网页看图工具,与普通的浏览器扩展程序不同, Picviewer CE+是Tampermonkey的脚本，通过文末下载地址安装Picviewer CE+后，只需将鼠标浮于网页图片上方,即可触发工具菜单
 

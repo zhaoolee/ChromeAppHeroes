@@ -1,5 +1,5 @@
 ---
-title: 066 《PowerfulPixivDownloader》福利工具! Pixiv图片批量下载器
+title: Chrome插件英雄榜066 《PowerfulPixivDownloader》福利工具! Pixiv图片批量下载器
 ---
 
 [Pixiv]( https://www.pixiv.net)是一个拥有众多优质插画/漫画的网站, 每日/每周/每月的排行榜内容更是佳作频出, 而PowerfulPixivDownloader是针对这些排行榜的批量图片下载工具

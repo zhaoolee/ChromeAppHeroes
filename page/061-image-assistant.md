@@ -1,5 +1,5 @@
 ---
-title: 061《ImageAssistant》图片助手批量图片下载器
+title: Chrome插件英雄榜061《ImageAssistant》图片助手批量图片下载器
 ---
 最近zhaoolee在研究一个「咋摆Pose」的专题, 从海量的互联网人像素材中, 筛选出「优质的Pose」, 课题完成后, 无论是拍摄他人, 还是被他人拍摄, 都可以游刃有余的应对~   (如果你也对[「咋摆Pose」](https://www.v2fy.com/find-pose)专题感兴趣, 欢迎在专题页面底部留言) 「咋摆Pose」专题链接: [https://www.v2fy.com/find-pose](https://www.v2fy.com/find-pose)
 
