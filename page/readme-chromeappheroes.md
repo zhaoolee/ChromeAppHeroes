@@ -40,7 +40,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.rocks/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验 [http://i.v2fy.com/vpn](http://i.v2fy.com/vpn)
 
-![广告位招租](https://cdn.fangyuanxiaozhan.com/assets/1631233224206SJ7twr3r.png)
+![广告位招租](https://cdn.fangyuanxiaozhan.com/assets/1631234205295EK3AQi6j.png)
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
