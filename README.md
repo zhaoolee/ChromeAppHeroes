@@ -40,18 +40,17 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.rocks/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验 [http://i.v2fy.com/vpn](http://i.v2fy.com/vpn)
 
-
+![广告位招租](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1631233224206SJ7twr3r.png)
 
 ## 目录(点击以下标题, 可以进入文章页~)
+
+- [112《Smart TOC》节约滚动网页时间, 为任意网页自动添加索引，生成浮动智能小目录](https://v2fy.com/p/112-smart-toc-2021-09-09/)
 
 - [111《Unsplash For Chrome》查找免费无版权超清图并直接插入任意在线编辑器](https://v2fy.com/p/111-unsplash-for-chrome-2021-07-22/)
 
 - [110《微信公众号同步助手》快速将微信文章同步到知乎B站等创作平台](https://www.v2fy.com/p/110-wechatsync-2021-06-13/)
 
-
-
-- [109《GLaDOS》一款快捷签到领魔法上网天数的小工具
-文章作者](https://www.v2fy.com/p/109-glados-2021-06-09/)
+- [109《GLaDOS》一款快捷签到领魔法上网天数的小工具文章作者](https://www.v2fy.com/p/109-glados-2021-06-09/)
 
 - [108《Grabox》打通Chrome，Edge，FireFox，360，2345，QQ，搜狗等浏览器们的书签目录](https://www.v2fy.com/p/108-grabox-2021-06-08/)
 
@@ -276,6 +275,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
+#### [112《Smart TOC》节约滚动网页时间, 为任意网页自动添加索引，生成浮动智能小目录](https://v2fy.com/p/112-smart-toc-2021-09-09/)
+
+![浮动智能小目录](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1631154938446YF8iDrGh.gif)
 
 ####  [111《Unsplash For Chrome》查找免费无版权超清图并直接插入任意在线编辑器](https://v2fy.com/p/111-unsplash-for-chrome-2021-07-22/)
 
