@@ -9,6 +9,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![谷粒VI设计.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/5ecd2856f287477c89c20efb7de11a9b.png)
 
+![ChromeAppHeroes](https://user-images.githubusercontent.com/15868458/154180687-28b9ed29-1f18-4ffc-ba6b-e1fee703dd52.gif)
+
+
 ## 本项目B站宣传视频地址
 
 [视频地址: https://www.bilibili.com/video/av81163488](https://www.bilibili.com/video/av81163488)
