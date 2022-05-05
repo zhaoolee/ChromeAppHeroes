@@ -1,0 +1,25 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "event.js" ]
+   },
+   "browser_action": {
+      "default_title": "SVG Export"
+   },
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "description": "Download SVGs from websites as SVGs, PNGs or JPEGs",
+   "icons": {
+      "128": "icons/128x128.png",
+      "16": "icons/16x16.png",
+      "19": "icons/19x19.png",
+      "38": "icons/38x38.png",
+      "48": "icons/48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvd972Rt0UvjVc/OAuHJhrY9hlL2+NkYRQ7UnWJLCDkfOy/C+MXYrCK8N+jNLvNDhHXk7DJQo3JTLNK3sRUUucbarb21+hDC5iD+01Hp/ftPk2luRDcSMHOJwuXzPLXkfSp7836DoZfN6zRAgTdAm6WQEKAZ89pfyzYzmmP+NOwCfKjpRcKHsk8sZv8NY/xRR14YUlLe7xXnzPL3y/RNMFe/nKpdJSiiy9ly6Z2WDea3vIGmAJQJ1iIYF3gETgLu6GVbGQSpouOPTlopAMuobhZ4GMuEBTb7KJ08dcTrLbTKijybkapdyed8jwt+uiQ6oV4/nFmmdvt4A5NjKKyDbGwIDAQAB",
+   "manifest_version": 2,
+   "name": "SVG Export",
+   "permissions": [ "activeTab" ],
+   "short_name": "SVG Export",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.17"
+}
