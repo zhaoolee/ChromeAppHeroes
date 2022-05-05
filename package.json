@@ -12,7 +12,7 @@
     "showdown": "1.9.1",
     "chmodr": "1.2.0",
     "fs-extra": "8.1.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "rsync": "0.6.1"
   },
   "devDependencies": {},
