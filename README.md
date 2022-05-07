@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [113《SVG Export》将SVG矢量图导出为任意尺寸的PNG图片](https://www.v2fy.com/p/113-svg-exprot-2022-05-05/)
+
 - [112《Smart TOC》节约滚动网页时间, 为任意网页自动添加索引，生成浮动智能小目录](https://v2fy.com/p/112-smart-toc-2021-09-09/)
 
 - [111《Unsplash For Chrome》查找免费无版权超清图并直接插入任意在线编辑器](https://v2fy.com/p/111-unsplash-for-chrome-2021-07-22/)
@@ -275,6 +277,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
+#### [113《SVG Export》将SVG矢量图导出为任意尺寸的PNG图片](https://www.v2fy.com/p/113-svg-exprot-2022-05-05/)
+
+![将svg转换为任意尺寸的png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1651729600009S5ppdtFN.gif)
+
+SVG非常适合作为品牌Logo, 因为无论放大多少倍, 都不会失真, 而在制作PPT或Word的过程中, 往往需要PNG格式的图片, 《SVG Export》这款扩展程序,可以将网页上的SVG矢量图导出为任意尺寸的PNG图片.
 
 #### [112《Smart TOC》节约滚动网页时间, 为任意网页自动添加索引，生成浮动智能小目录](https://v2fy.com/p/112-smart-toc-2021-09-09/)
 
