@@ -274,11 +274,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 内容同步更新到公众号「0加1」
 
-
 ![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621472051345iXBTrJEW.gif)
 
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
 
 #### [114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://www.v2fy.com/p/114-wordpress-sidebar-2022-07-10/)
 
