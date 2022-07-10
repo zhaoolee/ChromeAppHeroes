@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://www.v2fy.com/p/114-wordpress-sidebar-2022-07-10/)
+
 - [113《SVG Export》将SVG矢量图导出为任意尺寸的PNG图片](https://www.v2fy.com/p/113-svg-exprot-2022-05-05/)
 
 - [112《Smart TOC》节约滚动网页时间, 为任意网页自动添加索引，生成浮动智能小目录](https://v2fy.com/p/112-smart-toc-2021-09-09/)
@@ -277,6 +279,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
+#### [114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://www.v2fy.com/p/114-wordpress-sidebar-2022-07-10/)
+
+![WordPressSideBar](https://cdn.fangyuanxiaozhan.com/assets/1653215891375MZS3nyi1.gif)
+
+对于个人博客而言, GitBook的侧边栏文章目录, 非常适合广大读者阅读, 于是zhaoolee研究了一下WordPress的开放api接口, 然后写了个工具, 可以使用纯前端的方式, 以WordPress标准Api获取数据, 构建一个类似GitBook的侧边目录;
 
 #### [113《SVG Export》将SVG矢量图导出为任意尺寸的PNG图片](https://www.v2fy.com/p/113-svg-exprot-2022-05-05/)
 
