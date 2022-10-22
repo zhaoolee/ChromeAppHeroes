@@ -1,0 +1,52 @@
+.colorpicker-picker-span{
+    display: block;
+    width: 40px;
+    height: 40px;
+    float: left;
+    border: 1px solid #000;
+    margin-right: 2px;
+    cursor: pointer;
+}
+
+.colorpicker-picker-info{
+    padding: 0 0 2px;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.colorpicker-picker-span:hover {
+    border: 1px solid #fff;
+}
+
+.colorpicker-picker-span.active {
+    border: 1px solid #000;
+}
+
+.colorpicker-picker {
+    background-color: #353534;
+    padding: 5px;
+    display: none;
+    position: absolute;
+    top: 0;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #111;
+    -moz-box-shadow: 2px 2px 5px #111;
+    -webkit-box-shadow: 2px 2px 5px #111;
+}
+
+.colorpicker-trigger {
+    display: block;
+    width: 30px;
+    height: 30px;
+    float: left;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: #808080;;
+}
+
+.colorpicker-label {
+    float: left;
+    margin-right: 2px;
+}

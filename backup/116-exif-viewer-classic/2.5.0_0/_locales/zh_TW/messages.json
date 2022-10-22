@@ -1,0 +1,43 @@
+{
+   "ClickToCheckMap": {
+      "message": "點擊查看地圖"
+   },
+   "ClickToCheckMapInGoogleMaps": {
+      "message": "點擊在 Google 地圖中查看地圖"
+   },
+   "DefaultTemplateLite": {
+      "message": "{ExifViewer.CameraModel} | {FocalLength}mm F{FNumber} {ExposureTime} ISO{ISOSpeedRatings} | {DateTimeOriginal} | {Software}"
+   },
+   "ExifNotFound": {
+      "message": "沒有 EXIF 信息"
+   },
+   "ExtDescription": {
+      "message": "快速查看圖片的 EXIF 信息"
+   },
+   "GotoOptionsPage": {
+      "message": "(選項頁面)"
+   },
+   "ImageLoadFailure": {
+      "message": "圖片下載失敗"
+   },
+   "LoadingExif": {
+      "message": "正在讀取 EXIF"
+   },
+   "LoadingImage": {
+      "message": "等待圖片下載完畢"
+   },
+   "OptionsPage": {
+      "message": "options-zh_TW.html"
+   },
+   "ValueNotFound": {
+      "message": "N/A"
+   },
+   "WorkingNotify": {
+      "message": "ExifViewer 版本 $version$ 工作中",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   }
+}

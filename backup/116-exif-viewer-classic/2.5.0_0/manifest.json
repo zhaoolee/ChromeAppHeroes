@@ -1,0 +1,32 @@
+{
+   "background": {
+      "page": "service.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_title": "EXIF Viewer - Browser photos and get its EXIF data"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "exifviewerui.css" ],
+      "js": [ "jquery-1.9.1.js", "exifviewerutil.js", "exifviewerconfig.js", "exifviewerui.js", "exifviewer.js", "common.js", "db.js", "tracking.js", "notif.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://www.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "Quickly access EXIF data of your photos",
+   "icons": {
+      "128": "icon.png",
+      "16": "icon.png",
+      "48": "icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6xcFGmxnBYMlA/7VFoqxl/voOKhA02e8feWqCzGaXsdarD/SSZ0BStyb9rng8kZQb3D15aPC1yDpPBQfD8qkb3pF8IM8sn83AHZphEzjdRAP8UQxV5N1NeHT7ALYf93tYHGINjk0iv3gpcNsJ3o0cOi6uG0l2jIeqT4Awxyo4ZQIDAQAB",
+   "manifest_version": 2,
+   "name": "EXIF Viewer Classic",
+   "options_page": "options.html",
+   "permissions": [ "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.5.0"
+}

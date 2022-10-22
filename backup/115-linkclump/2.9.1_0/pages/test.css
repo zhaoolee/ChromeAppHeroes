@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+	background-color: #FFFFC0;
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	text-align: center;
+}
+
+a {
+	color: blue;
+}
+
+a:visited {
+	color: blue;
+}
+
+a:hover {
+	color: darkblue;
+}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+	font-size: 20px;
+	text-align: center;
+	list-style-type: none;
+}
+
+li {
+	padding: 15px;
+}

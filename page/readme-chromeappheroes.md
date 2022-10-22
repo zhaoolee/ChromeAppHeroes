@@ -44,6 +44,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时间光圈快门等Exif参数信息](https://www.v2fy.com/p/116-exif-viewer-classic-2022-10-22/)
+
+- [115《Linkclump》在网页画个长方形，打开长方形内所有超链接](https://www.v2fy.com/p/115-linkclump-2022-10-22/)
+
 - [114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://www.v2fy.com/p/114-wordpress-sidebar-2022-07-10/)
 
 - [113《SVG Export》将SVG矢量图导出为任意尺寸的PNG图片](https://www.v2fy.com/p/113-svg-exprot-2022-05-05/)
@@ -279,6 +283,18 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
+####  [116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时间光圈快门等Exif参数信息](https://www.v2fy.com/p/116-exif-viewer-classic-2022-10-22/)
+
+![使用效果](https://cdn.fangyuanxiaozhan.com/assets/1666428160952mwnyXnni.gif)
+
+《EXIF Viewer Classic》并不会对所有网页图片进行处理，只有当用户的手柄浮动到照片之上，才会试试读取图片Exif信息，并以文字浮层的形式，展示到照片顶部，如果照片包含GPS信息，会出现一个GPS红色标识，点击红色标识，会在Google 地图中展示出地点。
+
+#### [115《Linkclump》在网页画个长方形，打开长方形内所有超链接](https://www.v2fy.com/p/115-linkclump-2022-10-22/)
+
+![主播颜值区](https://cdn.fangyuanxiaozhan.com/assets/1666420328376RCRsk8G0.gif)
+
+Linkclump是一款很酷的小工具，开源地址 https://github.com/benblack86/linkclump ，Linkclump能让用户以更少的时间浏览更多的网页，非常适合高强度上网冲浪的新媒体工作者。
 
 #### [114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://www.v2fy.com/p/114-wordpress-sidebar-2022-07-10/)
 

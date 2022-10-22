@@ -1,0 +1,26 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "settings_manager.js", "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "linkclump.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Lets you open, copy or bookmark multiple links at the same time.",
+   "icons": {
+      "128": "images/128x128.png",
+      "16": "images/16x16.png",
+      "48": "images/48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDFH3vSrcoQSndyqJ6mrQH+TiIuGS+FrarJaokNPb2Zc1zdXjL0rT0H20nRnzPhWk0TcbIIZqaUa9kHRgfG+CAz2y2V9wOaI7DnY9s6LUO6ZSpO9Ln7uImyOm4WV5JHulr8EJYY184UNa5EBOT2MuXn5F+uXelDeB1EaVqX4GiCPQIDAQAB",
+   "manifest_version": 2,
+   "name": "Linkclump",
+   "options_page": "pages/options.html",
+   "permissions": [ "bookmarks", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.9.1",
+   "web_accessible_resources": [ "pages/test_area.html" ]
+}

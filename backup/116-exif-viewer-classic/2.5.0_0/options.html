@@ -1,0 +1,308 @@
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>ExifViewer Options</title>
+    <style type="text/css">
+        * {
+            font-family: arial, sans-serif;
+        }
+
+        .exiftaglist {
+            width: 100%;
+        }
+
+        .exiftaglist td:first-child {
+            font-family: monospace;
+        }
+
+        code {
+            color: #666;
+        }
+
+        table {
+            text-align: left;
+        }
+
+        th {
+            vertical-align: top;
+        }
+
+        .success {
+            color: #fff;
+            border: 1px solid #090;
+            background-color: #3c3;
+            display: none;
+            padding: 4px;
+            position: absolute;
+            left: 50%;
+        }
+
+        #main-container {
+            width: 800px;
+        }
+
+        #supported-tags td {
+            font-family: "Courier New", monospace;
+            font-size: 11px;
+            width: 33%;
+        }
+
+        #donation {
+            position: absolute;
+            right: 10px;
+            top: 10px;
+            background: #eee;
+            padding: 10px;
+        }
+
+    </style>
+    <link rel="stylesheet" type="text/css" href="optionsasset/jquery-ui-1.9.2.custom.css">
+    <script type="text/javascript" src="jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="optionsasset/jquery-ui-1.9.2.custom.js"></script>
+    <script type="text/javascript" src="exifviewerconfig.js"></script>
+    <script type="text/javascript" src="serviceasset/exifcache.js"></script>
+    <script type="text/javascript" src="serviceasset/exifviewermanifest.js"></script>
+    <script type="text/javascript" src="options.js"></script>
+</head>
+<body>
+<div id="save-success" class="success">Save success</div>
+<div id="main-container">
+    <h1>EXIF Viewer Options</h1>
+    <div id="options">
+        <ul>
+            <li><a href="#general-options">General</a></li>
+            <li><a href="#cache-options">Cache</a></li>
+            <li><a href="#filter-options">Exclude</a></li>
+        </ul>
+
+        <div id="general-options">
+            <form id="general-options-form" name="general-options-form" action="">
+                <table width="100%">
+                    <tr>
+                        <th style="width: 180px; ">
+                            <label for="template-lite">Template: </label>
+                        </th>
+                        <td>
+                            <textarea style="width: 100%; height: 200px; " id="template-lite"
+                                      name="template-lite"></textarea>
+                            <div id="supported-tags">
+                                <p><strong>Supported tags</strong></p>
+                                <table>
+                                    <tr>
+                                        <td>ExifVersion</td>
+                                        <td>FlashpixVersion</td>
+                                        <td>ColorSpace</td>
+                                    </tr>
+                                    <tr>
+                                        <td>PixelXDimension</td>
+                                        <td>PixelYDimension</td>
+                                        <td>ComponentsConfiguration</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CompressedBitsPerPixel</td>
+                                        <td>MakerNote</td>
+                                        <td>UserComment</td>
+                                    </tr>
+                                    <tr>
+                                        <td>RelatedSoundFile</td>
+                                        <td>DateTimeOriginal</td>
+                                        <td>DateTimeDigitized</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SubsecTime</td>
+                                        <td>SubsecTimeOriginal</td>
+                                        <td>SubsecTimeDigitized</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ExposureTime</td>
+                                        <td>FNumber</td>
+                                        <td>ExposureProgram</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SpectralSensitivity</td>
+                                        <td>ISOSpeedRatings</td>
+                                        <td>OECF</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ShutterSpeedValue</td>
+                                        <td>ApertureValue</td>
+                                        <td>BrightnessValue</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ExposureBias</td>
+                                        <td>MaxApertureValue</td>
+                                        <td>SubjectDistance</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MeteringMode</td>
+                                        <td>LightSource</td>
+                                        <td>Flash</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SubjectArea</td>
+                                        <td>FocalLength</td>
+                                        <td>FlashEnergy</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SpatialFrequencyResponse</td>
+                                        <td>FocalPlaneXResolution</td>
+                                        <td>FocalPlaneYResolution</td>
+                                    </tr>
+                                    <tr>
+                                        <td>FocalPlaneResolutionUnit</td>
+                                        <td>SubjectLocation</td>
+                                        <td>ExposureIndex</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SensingMethod</td>
+                                        <td>FileSource</td>
+                                        <td>SceneType</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CFAPattern</td>
+                                        <td>CustomRendered</td>
+                                        <td>ExposureMode</td>
+                                    </tr>
+                                    <tr>
+                                        <td>WhiteBalance</td>
+                                        <td>DigitalZoomRation</td>
+                                        <td>FocalLengthIn35mmFilm</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SceneCaptureType</td>
+                                        <td>GainControl</td>
+                                        <td>Contrast</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Saturation</td>
+                                        <td>Sharpness</td>
+                                        <td>DeviceSettingDescription</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SubjectDistanceRange</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ExifViewer.CameraModel</td>
+                                        <td>ExifViewer.Image.Width</td>
+                                        <td>ExifViewer.Image.Height</td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th><label title="Minimum image size to parse">Minimum image size</label></th>
+                        <td>
+                            <input name="min-image-width" id="min-image-width" type="text"
+                                   style="width: 4em; text-align: right;"/>×<input name="min-image-height"
+                                                                                   id="min-image-height" type="text"
+                                                                                   style="width: 4em; "/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th><label title="Auto parse exif as soon as images loaded">Auto parse</label></th>
+                        <td>
+                            <input name="auto-parse" id="auto-parse" value="true" type="checkbox"/>
+                        </td>
+                    </tr>
+                    <!--<tr>
+                        <th><label title="Hide tips if EXIF not existed">Auto hide</label></th>
+                        <td>
+                            <input name="auto-hide" id="auto-hide" value="true" type="checkbox" />
+                        </td>
+                    </tr>-->
+                    <tr>
+                        <th></th>
+                        <td>
+                            <button type="submit">Save</button>
+                            <a href="#" class="reset-button">Reset</a>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <div id="cache-options">
+            <form id="cache-options-form" name="cache-options-form" action="">
+                <table width="100%">
+                    <tr>
+                        <th style="width: 180px; ">
+                            <label for="cache-size">Cache size: </label>
+                        </th>
+                        <td><input title="Max 200 entries allowed" style="width: 4em; " type="text" value=""
+                                   id="cache-size" name="cache-size"/></td>
+                    </tr>
+                    <tr>
+                        <th>
+                            <label for="cache-entries">Cache entries: </label>
+                        </th>
+                        <td>
+                            <div><a id="show-cache-button" href="#">Show entries</a> <a href="#"
+                                                                                        id="clear-cache-button">Clear</a>
+                            </div>
+                            <div id="cache-list">
+
+                            </div>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <th></th>
+                        <td>
+                            <button type="submit">Save</button>
+                            <a href="#" class="reset-button">Reset</a>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <div id="filter-options">
+            <form id="filter-options-form" name="filter-options-form" action="">
+                <table width="100%">
+                    <tr>
+                        <th style="width: 180px; ">
+                            <label for="cache-size">Keywords:</label>
+                        </th>
+                        <td><textarea style="width: 100%; height: 200px; " id="filter-keywords"
+                                      name="filter-keywords"></textarea></td>
+                    </tr>
+
+                    <tr>
+                        <th></th>
+                        <td>
+                            <button type="submit">Save</button>
+                            <a href="#" class="reset-button">Reset</a>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </div>
+    <div id="donation" style="pointer-events: none;">
+        <div style="padding: 4px;">If you like this extension, please donate! Thanks!</div>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <table>
+                <tr>
+                    <td><input type="hidden" name="on0" value="Donation">Donation</td>
+                </tr>
+                <tr>
+                    <td><select name="os0">
+                        <option value="For $1">For $1 $1.00</option>
+                        <option value="For $5">For $5 $5.00</option>
+                        <option value="For $10">For $10 $10.00</option>
+                        <option value="For $100">For $100 $100.00</option>
+                    </select></td>
+                </tr>
+            </table>
+            <input type="hidden" name="currency_code" value="USD">
+            <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+            <input type="image" src="optionsasset/donate.gif" border="0" name="submit"
+                   alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+    </div>
+</div>
+<script type="text/javascript" src="serviceasset/garelated.js"></script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+{
+   "ClickToCheckMap": {
+      "message": "voir la carte"
+   },
+   "ClickToCheckMapInGoogleMaps": {
+      "message": "Voir à travers Google Maps"
+   },
+   "DefaultTemplateLite": {
+      "message": "{ExifViewer.CameraModel} | {FocalLength}mm F{FNumber} {ExposureTime} ISO{ISOSpeedRatings} | {DateTimeOriginal} | {Software}"
+   },
+   "ExifNotFound": {
+      "message": "Aucune information sur EXIF"
+   },
+   "ExtDescription": {
+      "message": "Visualiser rapidement les informations sur EXIF"
+   },
+   "GotoOptionsPage": {
+      "message": "(le page des options)"
+   },
+   "ImageLoadFailure": {
+      "message": "Téléchargement de l'image échoué"
+   },
+   "LoadingExif": {
+      "message": "EXIF en cours d'analyse"
+   },
+   "LoadingImage": {
+      "message": "des images en cours de telecharger"
+   },
+   "OptionsPage": {
+      "message": "options-zh_CN.html"
+   },
+   "ValueNotFound": {
+      "message": "N/A"
+   },
+   "WorkingNotify": {
+      "message": "ExifViewer $version$ mettre en oeuvre",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   }
+}

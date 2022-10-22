@@ -1,0 +1,43 @@
+{
+   "ClickToCheckMap": {
+      "message": "Click to check map"
+   },
+   "ClickToCheckMapInGoogleMaps": {
+      "message": "Click to check map in Google maps"
+   },
+   "DefaultTemplateLite": {
+      "message": "{ExifViewer.CameraModel} | {FocalLength}mm F{FNumber} {ExposureTime} ISO{ISOSpeedRatings} | {DateTimeOriginal} | {Software}"
+   },
+   "ExifNotFound": {
+      "message": "EXIF not found"
+   },
+   "ExtDescription": {
+      "message": "Quick viewing EXIF"
+   },
+   "GotoOptionsPage": {
+      "message": "(Options page)"
+   },
+   "ImageLoadFailure": {
+      "message": "Image load failure"
+   },
+   "LoadingExif": {
+      "message": "Parsing EXIF"
+   },
+   "LoadingImage": {
+      "message": "Loading image"
+   },
+   "OptionsPage": {
+      "message": "options-zh_CN.html"
+   },
+   "ValueNotFound": {
+      "message": "N/A"
+   },
+   "WorkingNotify": {
+      "message": "ExifViewer version $version$ is working!",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   }
+}

@@ -1,0 +1,43 @@
+{
+   "ClickToCheckMap": {
+      "message": "クリックしてマップをチェック"
+   },
+   "ClickToCheckMapInGoogleMaps": {
+      "message": "Google maps へ移動"
+   },
+   "DefaultTemplateLite": {
+      "message": "{ExifViewer.CameraModel} | {FocalLength}mm F{FNumber} {ExposureTime} ISO{ISOSpeedRatings} | {DateTimeOriginal} | {Software}"
+   },
+   "ExifNotFound": {
+      "message": "EXIF データなし"
+   },
+   "ExtDescription": {
+      "message": "画像の EXIF データを簡単にチェック"
+   },
+   "GotoOptionsPage": {
+      "message": "(オプションページ)"
+   },
+   "ImageLoadFailure": {
+      "message": "画像ダウンロード失敗"
+   },
+   "LoadingExif": {
+      "message": "EXIF データ読み込み中"
+   },
+   "LoadingImage": {
+      "message": "画像ダウンロード中"
+   },
+   "OptionsPage": {
+      "message": "options-ja.html"
+   },
+   "ValueNotFound": {
+      "message": "N/A"
+   },
+   "WorkingNotify": {
+      "message": "ExifViewer $version$ 作動中",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   }
+}
