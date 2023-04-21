@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [117《ChatGPT HeartBeat》让ChatGPT Web服务保持连接，避免反复刷新ChatGPT Web版页面](https://www.v2fy.com/p/117-chatgpt-heartbeat-2023-04-21/?post_category=chrome%e6%8f%92%e4%bb%b6%e8%8b%b1%e9%9b%84%e6%a6%9c)
+
 - [116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时间光圈快门等Exif参数信息](https://www.v2fy.com/p/116-exif-viewer-classic-2022-10-22/?post_category=Chrome插件英雄榜)
 
 - [115《Linkclump》在网页画个长方形，打开长方形内所有超链接](https://www.v2fy.com/p/115-linkclump-2022-10-22/?post_category=Chrome插件英雄榜)
@@ -283,6 +285,16 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
+#### [117《ChatGPT HeartBeat》让ChatGPT Web服务保持连接，避免反复刷新ChatGPT Web版页面](https://www.v2fy.com/p/117-chatgpt-heartbeat-2023-04-21/?post_category=chrome%e6%8f%92%e4%bb%b6%e8%8b%b1%e9%9b%84%e6%a6%9c)
+
+
+
+![ChatGPT HeartBeat](https://cdn.fangyuanxiaozhan.com/assets/1682076939916QSCmrbxp.gif)
+
+
+
+ChatGPT HeartBeat 这个油猴脚本，可以每隔30秒（具体的秒数可以自定义），请求 `_ssgManifest.js` 文件， 原理类似服务器ssh连接登录服务器的心跳包，向服务器表明，用户仍在活跃，不要断开连接
 
 ####  [116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时间光圈快门等Exif参数信息](https://www.v2fy.com/p/116-exif-viewer-classic-2022-10-22/?post_category=Chrome插件英雄榜)
 

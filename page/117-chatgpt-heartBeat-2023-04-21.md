@@ -29,6 +29,10 @@ title: Chrome插件英雄榜117《ChatGPT HeartBeat》让ChatGPT Web服务保持
 
 而ChatGPT HeartBeat 这个油猴脚本，可以每隔30秒（具体的秒数可以自定义），请求 `_ssgManifest.js` 文件， 原理类似服务器ssh连接登录服务器的心跳包，向服务器表明，用户仍在活跃，不要断开连接
 
+- 安装 `https://greasyfork.org/zh-CN/scripts/462967-chatgpt-heartbeat/code`
+
+![安装](https://cdn.fangyuanxiaozhan.com/assets/1682076807315zmJQS5Ap.gif)
+
 
 
 ![image-20230421183153928](https://cdn.fangyuanxiaozhan.com/assets/16820731152848iiQzz2F.png)
@@ -216,11 +220,15 @@ https://greasyfork.org/zh-CN/scripts/462967-chatgpt-heartbeat/code
 })();
 ```
 
+另外，ChatGPT会检测访问网页的IP, 如果你的IP被ban了，这个脚本无法帮你（我的新加坡阿里云和美国亚马逊云也被ban了，目前没找到解封的方案），我目前解决方案是，用GLaDOS家的服务 [http://i.v2fy.com/vpn](http://i.v2fy.com/vpn) ，走美国代理，然后配合本文的脚本，可以稳定使用ChatGPT Web版
+
+
+
 ## 小结
 
 
 
-ChatGPT 确实是很棒的工具，比Google好用的多，著名程序员问答网站Stack Overflow也因此失去了大量的访问量，这说明类似Stack Overflow的问答网站产品形态落后了，所有的问答网站，都会受到ChatGPT的影响，要么改革，要么凋零。
+ChatGPT 确实是很棒的工具，比Google好用的多，著名程序员问答网站Stack Overflow也因此失去了大量的访问量，这说明类似Stack Overflow的问答网站产品形态落后了，所有的问答网站，都会受到ChatGPT的影响，要么改革，要么被人忘记。
 
 
 
