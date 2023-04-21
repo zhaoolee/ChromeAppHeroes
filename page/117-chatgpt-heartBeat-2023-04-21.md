@@ -53,7 +53,7 @@ title: Chrome插件英雄榜117《ChatGPT HeartBeat》让ChatGPT Web服务保持
 
 
 
-## 脚本直接支持ChatGPT4链接
+## 改造脚本, 直接支持ChatGPT  model  gpt-4链接
 
 
 
