@@ -44,6 +44,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [118《Immersive Translate》沉浸式阅读英语的免费工具，模糊中文愉悦阅读英语文章](https://www.v2fy.com/p/118-immersive-translate-2023-05-12/?post_category=chrome%e6%8f%92%e4%bb%b6%e8%8b%b1%e9%9b%84%e6%a6%9c)
+
 - [117《ChatGPT HeartBeat》让ChatGPT Web服务保持连接，避免反复刷新ChatGPT Web版页面](https://www.v2fy.com/p/117-chatgpt-heartbeat-2023-04-21/?post_category=chrome%e6%8f%92%e4%bb%b6%e8%8b%b1%e9%9b%84%e6%a6%9c)
 
 - [116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时间光圈快门等Exif参数信息](https://www.v2fy.com/p/116-exif-viewer-classic-2022-10-22/?post_category=Chrome插件英雄榜)
@@ -285,6 +287,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
+#### [118《Immersive Translate》沉浸式阅读英语的免费工具，模糊中文愉悦阅读英语文章](https://www.v2fy.com/p/118-immersive-translate-2023-05-12/?post_category=chrome%e6%8f%92%e4%bb%b6%e8%8b%b1%e9%9b%84%e6%a6%9c)
+
+![ImmersiveTranslate](https://cdn.fangyuanxiaozhan.com/assets/1683885654444xAZeba6T.gif)
+
+Immersive Translate 是学习英语的好工具，开启中文模糊化处理后，能让用户无障碍地零成本阅读大量互联网文章，寓教于乐，学练一体。
 
 #### [117《ChatGPT HeartBeat》让ChatGPT Web服务保持连接，避免反复刷新ChatGPT Web版页面](https://www.v2fy.com/p/117-chatgpt-heartbeat-2023-04-21/?post_category=chrome%e6%8f%92%e4%bb%b6%e8%8b%b1%e9%9b%84%e6%a6%9c)
 
