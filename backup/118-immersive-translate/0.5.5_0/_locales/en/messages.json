@@ -1,0 +1,47 @@
+{
+   "brandDescription": {
+      "message": "Web bilingual translation, completely free to use, supports Deepl/Google/Bing/Tencent/Youdao, etc."
+   },
+   "brandName": {
+      "message": "Immersive Translate"
+   },
+   "donateContext": {
+      "message": "Sponsor Benefits"
+   },
+   "openAboutPage": {
+      "message": "About / Feedback"
+   },
+   "openEbookBuilder": {
+      "message": "Make Dual Epub ebook"
+   },
+   "openEbookViewer": {
+      "message": "Read local e-book"
+   },
+   "openOptionsPage": {
+      "message": "Open Settings Page"
+   },
+   "toggleTranslatePage": {
+      "message": "Toggle translate webpage "
+   },
+   "toggleTranslateTheMainPage": {
+      "message": "Toggle translate the main page"
+   },
+   "toggleTranslateTheWholePage": {
+      "message": "Toggle translate the whole page"
+   },
+   "toggleTranslateToThePageEndImmediately": {
+      "message": "Toggle translate to the bottom of the page immediately"
+   },
+   "toggleTranslationMask": {
+      "message": "Toggle translation mask style"
+   },
+   "translateLocalHtmlFile": {
+      "message": "Translate HTML/txt File"
+   },
+   "translateLocalPdfFile": {
+      "message": "Translate local PDF File"
+   },
+   "translateLocalSubtitleFile": {
+      "message": "Translate Subtitle File"
+   }
+}

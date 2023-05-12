@@ -1,0 +1,47 @@
+{
+   "brandDescription": {
+      "message": "沉浸式网页双语翻译扩展，免费使用，支持 Deepl/Google/有道/腾讯翻译等多个翻译服务，支持 Firefox/Chrome/油猴脚本，亦可在 iOS Safari 上使用。"
+   },
+   "brandName": {
+      "message": "沉浸式翻译"
+   },
+   "donateContext": {
+      "message": "了解赞助福利"
+   },
+   "openAboutPage": {
+      "message": "关于/反馈"
+   },
+   "openEbookBuilder": {
+      "message": "制作双语 Epub 电子书"
+   },
+   "openEbookViewer": {
+      "message": "阅读本地电子书"
+   },
+   "openOptionsPage": {
+      "message": "打开设置页"
+   },
+   "toggleTranslatePage": {
+      "message": "翻译网页/显示原文"
+   },
+   "toggleTranslateTheMainPage": {
+      "message": "翻译页面主要区域/显示原文"
+   },
+   "toggleTranslateTheWholePage": {
+      "message": "翻译页面全部区域/显示原文"
+   },
+   "toggleTranslateToThePageEndImmediately": {
+      "message": "立即翻译到页面底部/显示原文"
+   },
+   "toggleTranslationMask": {
+      "message": "显示/隐藏译文模糊效果"
+   },
+   "translateLocalHtmlFile": {
+      "message": "翻译 HTML/txt 文件"
+   },
+   "translateLocalPdfFile": {
+      "message": "翻译本地 PDF 文件"
+   },
+   "translateLocalSubtitleFile": {
+      "message": "翻译本地字幕文件"
+   }
+}

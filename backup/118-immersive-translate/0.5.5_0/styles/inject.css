@@ -1,0 +1,400 @@
+:root {
+  --immersive-translate-theme-underline-borderColor: #72ece9;
+  --immersive-translate-theme-nativeUnderline-borderColor: #72ece9;
+  --immersive-translate-theme-nativeDashed-borderColor: #72ece9;
+  --immersive-translate-theme-nativeDotted-borderColor: #72ece9;
+  --immersive-translate-theme-highlight-backgroundColor: #ffff00;
+  --immersive-translate-theme-dashed-borderColor: #59c1bd;
+  --immersive-translate-theme-blockquote-borderColor: #cc3355;
+  --immersive-translate-theme-thinDashed-borderColor: #ff374f;
+  --immersive-translate-theme-dashedBorder-borderColor: #94a3b8;
+  --immersive-translate-theme-dashedBorder-borderRadius: 0;
+  --immersive-translate-theme-solidBorder-borderColor: #94a3b8;
+  --immersive-translate-theme-solidBorder-borderRadius: 0;
+  --immersive-translate-theme-dotted-borderColor: #94a3b8;
+  --immersive-translate-theme-wavy-borderColor: #72ece9;
+  --immersive-translate-theme-dividingLine-borderColor: #94a3b8;
+  --immersive-translate-theme-grey-textColor: #2f4f4f;
+  --immersive-translate-theme-marker-backgroundColor: #fbda41;
+  --immersive-translate-theme-marker-backgroundColor-rgb: 251, 218, 65;
+  --immersive-translate-theme-marker2-backgroundColor: #ffff00;
+}
+
+.immersive-translate-target-translation-pre-whitespace {
+  white-space: pre-wrap !important;
+}
+
+.immersive-translate-pdf-target-container {
+  position: absolute;
+  background-color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    sans-serif;
+  top: 0;
+  width: 600px;
+  height: 100%;
+  z-index: 2;
+  line-height: 1.3;
+  font-size: 16px;
+}
+.immersive-translate-pdf-target-container .immersive-translate-target-wrapper {
+  color: rgb(0, 0, 0);
+  white-space: normal;
+  position: absolute;
+}
+
+.immersive-translate-pdf-target-container
+  .immersive-translate-target-wrapper
+  font {
+  color: inherit;
+  white-space: inherit;
+  position: unset;
+}
+
+.immersive-translate-target-translation-block-wrapper {
+  margin: 8px 0 !important;
+  display: block;
+}
+
+.immersive-translate-target-translation-pdf-block-wrapper {
+  margin: 0 !important;
+  display: block;
+}
+.immersive-translate-target-translation-theme-grey-inner {
+  color: var(--immersive-translate-theme-grey-textColor);
+}
+
+.immersive-translate-target-translation-inline-wrapper {
+}
+
+.immersive-translate-target-translation-theme-underline-inner {
+  border-bottom: 1px solid
+    var(--immersive-translate-theme-underline-borderColor) !important;
+}
+
+.immersive-translate-target-translation-theme-nativeUnderline-inner {
+  text-decoration: underline
+    var(--immersive-translate-theme-nativeUnderline-borderColor) !important;
+}
+
+.immersive-translate-target-translation-block-wrapper-theme-dashedBorder {
+  border: 1px dashed var(--immersive-translate-theme-dashedBorder-borderColor) !important;
+  border-radius: var(
+    --immersive-translate-theme-dashedBorder-borderRadius
+  ) !important;
+  padding: 6px;
+  margin-top: 2px;
+  display: block;
+}
+
+.immersive-translate-target-translation-inline-wrapper-theme-dashedBorder {
+  border: 1px dashed var(--immersive-translate-theme-dashedBorder-borderColor) !important;
+  border-radius: var(
+    --immersive-translate-theme-dashedBorder-borderRadius
+  ) !important;
+  padding: 2px;
+}
+
+.immersive-translate-target-translation-block-wrapper-theme-solidBorder {
+  border: 1px solid var(--immersive-translate-theme-solidBorder-borderColor) !important;
+  border-radius: var(
+    --immersive-translate-theme-solidBorder-borderRadius
+  ) !important;
+  padding: 6px;
+  margin-top: 2px;
+  display: block;
+}
+
+.immersive-translate-target-translation-inline-wrapper-theme-solidBorder {
+  border: 1px solid var(--immersive-translate-theme-solidBorder-borderColor) !important;
+  border-radius: var(
+    --immersive-translate-theme-solidBorder-borderRadius
+  ) !important;
+  padding: 2px;
+}
+
+.immersive-translate-target-translation-theme-nativeDashed-inner {
+  text-decoration: dashed underline
+    var(--immersive-translate-theme-nativeDashed-borderColor) !important;
+}
+
+.immersive-translate-target-translation-theme-thinDashed-inner {
+  border-bottom: 1px dashed
+    var(--immersive-translate-theme-thinDashed-borderColor) !important;
+}
+
+.immersive-translate-target-translation-theme-dotted-inner {
+  background-repeat: repeat-x;
+  background-image: linear-gradient(
+    to right,
+    var(--immersive-translate-theme-dotted-borderColor) 30%,
+    rgba(255, 255, 255, 0) 0%
+  );
+  background-position: bottom;
+  background-size: 5px 1px;
+  background-repeat: repeat-x;
+  padding-bottom: 3px;
+}
+.immersive-translate-target-translation-theme-nativeDotted-inner {
+  text-decoration: dotted underline
+    var(--immersive-translate-theme-nativeDotted-borderColor) !important;
+}
+
+.immersive-translate-target-translation-theme-wavy-inner {
+  text-decoration: wavy underline
+    var(--immersive-translate-theme-wavy-borderColor) !important;
+}
+
+.immersive-translate-target-translation-theme-dashed-inner {
+  background-repeat: repeat-x !important;
+  background: linear-gradient(
+      to right,
+      var(--immersive-translate-theme-dashed-borderColor) 0%,
+      var(--immersive-translate-theme-dashed-borderColor) 50%,
+      transparent 50%,
+      transparent 100%
+    )
+    repeat-x left bottom;
+  background-size: 8px 2px;
+  padding-bottom: 2px;
+}
+
+.immersive-translate-target-translation-block-wrapper-theme-dividingLine::before {
+  content: "";
+  display: block;
+  max-width: 80px;
+  width: 10%;
+  border-top: 1px dashed
+    var(--immersive-translate-theme-dividingLine-borderColor);
+  padding-top: 8px;
+}
+
+.immersive-translate-target-translation-theme-highlight-inner {
+  background: var(--immersive-translate-theme-highlight-backgroundColor);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+.immersive-translate-target-translation-block-wrapper-theme-marker {
+  line-height: 1.5em;
+}
+
+.immersive-translate-target-translation-theme-marker2-inner {
+  font-weight: bold;
+  text-shadow: 10px 0px 3px
+      var(--immersive-translate-theme-marker2-backgroundColor),
+    16px 3px 9px var(--immersive-translate-theme-marker2-backgroundColor),
+    2px 0px 6px var(--immersive-translate-theme-marker2-backgroundColor),
+    -12px 0px 12px var(--immersive-translate-theme-marker2-backgroundColor) !important;
+}
+
+.immersive-translate-target-translation-theme-marker-inner {
+  /* TODO: add more texture */
+  background: linear-gradient(
+    to right,
+    rgba(var(--immersive-translate-theme-marker-backgroundColor-rgb), 0.1),
+    rgba(var(--immersive-translate-theme-marker-backgroundColor-rgb), 0.9) 3%,
+    rgba(var(--immersive-translate-theme-marker-backgroundColor-rgb), 0.9) 35%,
+    rgba(var(--immersive-translate-theme-marker-backgroundColor-rgb), 0.9) 70%,
+    rgba(var(--immersive-translate-theme-marker-backgroundColor-rgb), 0.8) 95%,
+    rgba(var(--immersive-translate-theme-marker-backgroundColor-rgb), 0.3)
+  );
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.immersive-translate-target-translation-theme-weakening {
+  opacity: 0.618 !important;
+}
+
+.immersive-translate-target-translation-theme-italic {
+  font-style: italic !important;
+}
+
+.immersive-translate-target-translation-theme-bold {
+  font-weight: bold !important;
+}
+
+.immersive-translate-target-translation-block-wrapper-theme-paper {
+  margin: 8px 0;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 16px 32px;
+  display: block;
+}
+
+.immersive-translate-target-translation-block-wrapper-theme-blockquote {
+  border-left: 4px solid var(--immersive-translate-theme-blockquote-borderColor) !important;
+  padding-left: 12px !important;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  display: block;
+}
+
+.immersive-translate-target-translation-theme-mask-inner {
+  filter: blur(5px) !important;
+  transition: filter 0.3s ease !important;
+  border-radius: 10px;
+}
+
+[data-immersive-translate-root-translation-theme="none"]
+  .immersive-translate-target-translation-theme-mask-inner {
+  filter: none !important;
+}
+[data-immersive-translate-root-translation-theme="mask"]
+  .immersive-translate-target-inner {
+  filter: blur(5px) !important;
+  transition: filter 0.3s ease !important;
+  border-radius: 10px;
+}
+
+.immersive-translate-target-translation-theme-mask-inner:hover {
+  filter: none !important;
+}
+
+[data-immersive-translate-root-translation-theme="mask"]
+  .immersive-translate-target-inner:hover {
+  filter: none !important;
+}
+/* opacity theme start */
+
+.immersive-translate-target-translation-theme-opacity-inner {
+  filter: opacity(10%) !important;
+  transition: filter 0.3s ease !important;
+  border-radius: 10px;
+}
+
+[data-immersive-translate-root-translation-theme="none"]
+  .immersive-translate-target-translation-theme-opacity-inner {
+  filter: none !important;
+}
+[data-immersive-translate-root-translation-theme="opacity"]
+  .immersive-translate-target-inner {
+  filter: opacity(10%)  !important;
+  transition: filter 0.3s ease !important;
+  border-radius: 10px;
+}
+
+.immersive-translate-target-translation-theme-opacity-inner:hover {
+  filter: none !important;
+}
+
+[data-immersive-translate-root-translation-theme="opacity"]
+  .immersive-translate-target-inner:hover {
+  filter: none !important;
+}
+/* opacity theme end */
+
+/* vertical css , please remain it in the last one. */
+.immersive-translate-target-translation-vertical-block-wrapper {
+  margin: 0px 8px !important;
+}
+
+.immersive-translate-text {
+  font-size: 15px !important;
+}
+
+.immersive-translate-error {
+  color: red;
+}
+.immersive-translate-clickable-button {
+  align-items: normal;
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgb(0, 0, 238);
+  border-style: none;
+  box-sizing: content-box;
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: inline;
+  font: inherit;
+  height: auto;
+  padding: 0;
+  perspective-origin: 0 0;
+  text-align: start;
+  transform-origin: 0 0;
+  width: auto;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-logical-height: 1em; /* Chrome ignores auto, so we have to use this hack to set the correct height  */
+  -webkit-logical-width: auto; /* Chrome ignores auto, but here for completeness */
+}
+
+.immersive-translate-loading-spinner {
+  vertical-align: middle !important;
+  width: 10px !important;
+  height: 10px !important;
+  display: inline-block !important;
+  margin: 0 4px !important;
+  border: 2px rgba(221, 244, 255, 0.6) solid !important;
+  border-top: 2px rgba(9, 105, 218, 0.5) solid !important;
+  border-radius: 50% !important;
+  padding: 0 !important;
+  -webkit-animation: immersive-translate-loading-animation 0.6s infinite linear !important;
+  animation: immersive-translate-loading-animation 0.6s infinite linear !important;
+}
+
+.immersive-translate-loading-text:before {
+  content: "...";
+}
+
+.immersive-translate-loading-none {
+}
+/* dark mode for loading */
+
+@media only screen and (prefers-color-scheme: dark) {
+  .immersive-translate-loading {
+    border: 2px rgba(255, 255, 255, 0.25) solid !important;
+    border-top: 2px rgba(255, 255, 255, 1) solid !important;
+  }
+}
+
+.immersive-translate-tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dashed #000; /* little indicater to indicate it's hoverable */
+}
+.immersive-translate-tooltip:before {
+  content: attr(data-immersive-translate-tooltip-text); /* here's the magic */
+  position: absolute;
+  z-index: 100000000000;
+
+  /* vertically center */
+  top: 50%;
+  transform: translateY(-50%);
+
+  /* move to right */
+  left: 100%;
+  margin-left: 15px; /* and add a small left margin */
+
+  /* basic styles */
+  width: max-content;
+  max-width: 250px;
+  word-wrap: break-word;
+  white-space: pre-line;
+  padding: 10px;
+  border-radius: 10px;
+  background: #000;
+  color: #fff;
+  text-align: center;
+
+  display: none; /* hide by default */
+}
+.immersive-translate-tooltip:hover:before {
+  display: block;
+}
+
+@-webkit-keyframes immersive-translate-loading-animation {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(359deg);
+  }
+}
+@keyframes immersive-translate-loading-animation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}

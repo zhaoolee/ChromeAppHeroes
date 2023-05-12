@@ -1,0 +1,47 @@
+{
+   "brandDescription": {
+      "message": "沉浸式網頁雙語翻譯套件，完全免費使用，支援 Deepl/Google/騰訊/火山翻譯等多個翻譯服務，支援 Firefox/Chrome/油猴腳本，亦可在 iOS Safari 上使用。"
+   },
+   "brandName": {
+      "message": "沉浸式翻譯"
+   },
+   "donateContext": {
+      "message": "了解贊助福利"
+   },
+   "openAboutPage": {
+      "message": "關於/問題回報/贊助"
+   },
+   "openEbookBuilder": {
+      "message": "製作雙語 Epub 電子書"
+   },
+   "openEbookViewer": {
+      "message": "閱讀本機電子書"
+   },
+   "openOptionsPage": {
+      "message": "開啟設定頁面"
+   },
+   "toggleTranslatePage": {
+      "message": "翻譯網頁/顯示原文"
+   },
+   "toggleTranslateTheMainPage": {
+      "message": "翻譯頁面主要區域/顯示原文"
+   },
+   "toggleTranslateTheWholePage": {
+      "message": "翻譯頁面全部區域/顯示原文"
+   },
+   "toggleTranslateToThePageEndImmediately": {
+      "message": "立即翻譯到頁面底部/顯示原文"
+   },
+   "toggleTranslationMask": {
+      "message": "顯示/隱藏譯文模糊效果"
+   },
+   "translateLocalHtmlFile": {
+      "message": "翻譯 HTML/txt 檔案"
+   },
+   "translateLocalPdfFile": {
+      "message": "翻譯本機 PDF 檔案"
+   },
+   "translateLocalSubtitleFile": {
+      "message": "翻譯字幕檔案"
+   }
+}

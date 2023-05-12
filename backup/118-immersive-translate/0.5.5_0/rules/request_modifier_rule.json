@@ -1,0 +1,169 @@
+[{
+  "id": 1,
+  "priority": 1,
+  "action": {
+    "type": "modifyHeaders",
+    "requestHeaders": [
+      {
+        "header": "Referer",
+        "operation": "set",
+        "value": "https://httpstat.us/429"
+      },
+      {
+        "header": "origin",
+        "operation": "set",
+        "value": "https://httpstat.us/429"
+      },
+      {
+        "header": "DNT",
+        "operation": "set",
+        "value": "1"
+      }
+    ]
+  },
+  "condition": {
+    "urlFilter": "https://httpstat.us/429",
+    "resourceTypes": ["xmlhttprequest"],
+    "domainType": "thirdParty",
+    "initiatorDomains": [
+      "cfhamdkdjgoelclgllcoikbckcfpaklj",
+      "bpoadfkcbjbfhfodiogcnhhhpibjhbnh"
+    ]
+  }
+}, {
+  "id": 2,
+  "priority": 1,
+  "action": {
+    "type": "modifyHeaders",
+    "requestHeaders": [
+      {
+        "header": "Referer",
+        "operation": "set",
+        "value": "https://www.deepl.com/"
+      },
+      {
+        "header": "origin",
+        "operation": "set",
+        "value": "https://www.deepl.com"
+      },
+      {
+        "header": "DNT",
+        "operation": "set",
+        "value": "1"
+      },
+      { "header": "cookie", "operation": "remove" }
+    ]
+  },
+  "condition": {
+    "urlFilter": "https://www2.deepl.com/jsonrpc*",
+    "resourceTypes": ["xmlhttprequest"],
+    "domainType": "thirdParty",
+    "initiatorDomains": [
+      "cfhamdkdjgoelclgllcoikbckcfpaklj",
+      "bpoadfkcbjbfhfodiogcnhhhpibjhbnh"
+    ]
+  }
+}, {
+  "id": 200,
+  "priority": 1,
+  "action": {
+    "type": "modifyHeaders",
+    "requestHeaders": [
+      {
+        "header": "Referer",
+        "operation": "set",
+        "value": "https://www.deepl.com/"
+      },
+      {
+        "header": "origin",
+        "operation": "set",
+        "value": "chrome-extension://cofdbpoegempjloogbagkncekinflcnj"
+      },
+      {
+        "header": "DNT",
+        "operation": "set",
+        "value": "1"
+      }
+    ]
+  },
+  "condition": {
+    "urlFilter": "https://api.deepl.com/jsonrpc*",
+    "resourceTypes": ["xmlhttprequest"],
+    "domainType": "thirdParty",
+    "initiatorDomains": [
+      "cfhamdkdjgoelclgllcoikbckcfpaklj",
+      "bpoadfkcbjbfhfodiogcnhhhpibjhbnh"
+    ]
+  }
+}, {
+  "id": 201,
+  "priority": 1,
+  "action": {
+    "type": "modifyHeaders",
+    "requestHeaders": [
+      {
+        "header": "Referer",
+        "operation": "set",
+        "value": "https://www.deepl.com/"
+      },
+      {
+        "header": "origin",
+        "operation": "set",
+        "value": "chrome-extension://cofdbpoegempjloogbagkncekinflcnj"
+      }
+    ]
+  },
+  "condition": {
+    "urlFilter": "https://w.deepl.com/oidc/token",
+    "resourceTypes": ["xmlhttprequest"],
+    "domainType": "thirdParty",
+    "initiatorDomains": [
+      "cfhamdkdjgoelclgllcoikbckcfpaklj",
+      "bpoadfkcbjbfhfodiogcnhhhpibjhbnh"
+    ]
+  }
+}, {
+  "id": 3,
+  "priority": 1,
+  "action": {
+    "type": "modifyHeaders",
+    "requestHeaders": [
+      {
+        "header": "origin",
+        "operation": "set",
+        "value": "chrome-extension://lkjkfecdnfjopaeaibboihfkmhdjmanm"
+      }
+    ]
+  },
+  "condition": {
+    "urlFilter": "https://transmart.qq.com/api/imt",
+    "resourceTypes": ["xmlhttprequest"],
+    "domainType": "thirdParty",
+    "initiatorDomains": [
+      "cfhamdkdjgoelclgllcoikbckcfpaklj",
+      "bpoadfkcbjbfhfodiogcnhhhpibjhbnh"
+    ]
+  }
+}, {
+  "id": 4,
+  "priority": 1,
+  "action": {
+    "type": "modifyHeaders",
+    "requestHeaders": [
+      {
+        "header": "origin",
+        "operation": "set",
+        "value": "chrome-extension://lkjkfecdnfjopaeaibboihfkmhdjmanm"
+      }
+    ]
+  },
+  "condition": {
+    "urlFilter": "https://translate.volcengine.com/crx/translate/v1/",
+    "resourceTypes": ["xmlhttprequest"],
+    "domainType": "thirdParty",
+    "initiatorDomains": [
+      "cfhamdkdjgoelclgllcoikbckcfpaklj",
+      "bpoadfkcbjbfhfodiogcnhhhpibjhbnh"
+    ]
+  }
+}]

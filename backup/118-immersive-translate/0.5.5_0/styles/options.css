@@ -1,0 +1,313 @@
+:root {
+  --font-family: system-ui, -apple-system, "Segoe UI", "Roboto", "Ubuntu",
+    "Cantarell", "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+  --line-height: 1.5;
+  --font-weight: 400;
+  --border-radius: 0.25rem;
+  --border-width: 1px;
+  --outline-width: 3px;
+  --spacing: 0.5rem;
+  --typography-spacing-vertical: 1.5rem;
+  --block-spacing-vertical: calc(var(--spacing) * 2);
+  --block-spacing-horizontal: var(--spacing);
+  --grid-spacing-vertical: 0;
+  --grid-spacing-horizontal: var(--spacing);
+  --form-element-spacing-vertical: 0.75rem;
+  --form-element-spacing-horizontal: 1rem;
+  --nav-element-spacing-vertical: 1rem;
+  --nav-element-spacing-horizontal: 0.5rem;
+  --nav-link-spacing-vertical: 0.5rem;
+  --nav-link-spacing-horizontal: 0.5rem;
+  --form-label-font-weight: var(--font-weight);
+  --transition: 0.2s ease-in-out;
+  --modal-overlay-backdrop-filter: blur(0.25rem);
+}
+
+@media (min-width: 576px) {
+  :root {
+    --font-size: 17px;
+  }
+}
+@media (min-width: 768px) {
+  :root {
+    --font-size: 17px;
+  }
+}
+@media (min-width: 992px) {
+  :root {
+    --font-size: 18px;
+  }
+}
+@media (min-width: 1200px) {
+  :root {
+    --font-size: 18px;
+  }
+}
+html {
+  scroll-behavior: smooth;
+  /* background-color: rgba(242, 242, 242, 1); */
+  font-size: var(--font-size);
+  /* if not add the following two styles, in interface setting page, when clicking more themes, */
+  /* the page will jitter because the scrollbar occupies some width space */
+  width: 100vw;
+  overflow-x: hidden;
+}
+body {
+  font-size: var(--font-size);
+}
+
+#mount > main {
+  /* padding-top: calc(var(--block-spacing-vertical) + 3.5rem); */
+  padding-left: var(--block-spacing-horizontal);
+  padding-right: var(--block-spacing-horizontal);
+}
+#mount > nav {
+  --nav-link-spacing-vertical: 1rem;
+  padding-left: var(--block-spacing-horizontal);
+  padding-right: var(--block-spacing-horizontal);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  z-index: 99;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  backdrop-filter: saturate(180%) blur(20px);
+  background-color: var(--nav-background-color);
+  box-shadow: 0px 1px 0 var(--nav-border-color);
+}
+@media (min-width: 992px) {
+  #mount > nav ul:first-of-type li:nth-of-type(2) {
+    display: inline;
+  }
+}
+@media (min-width: 992px) {
+  #mount > main {
+    --block-spacing-horizontal: calc(var(--spacing) * 1.75);
+    grid-column-gap: calc(var(--block-spacing-horizontal) * 3);
+    display: grid;
+    grid-template-columns: 250px auto;
+  }
+}
+@media (min-width: 1200px) {
+  #mount > main {
+    --block-spacing-horizontal: calc(var(--spacing) * 2);
+  }
+}
+#mount > main > aside,
+#mount > main div[role="main"] {
+  min-width: 0;
+}
+main > aside nav {
+  width: 100%;
+  padding-bottom: var(--block-spacing-vertical);
+}
+
+@media (min-width: 992px) {
+  main > aside nav {
+    position: fixed;
+    width: 250px;
+    max-height: calc(100vh - 5.5rem);
+  }
+}
+
+a[role="button"] {
+  padding: 0.4rem 1rem;
+}
+
+a.no-focus:focus,
+[role="link"]:focus {
+  --background-color: transparent;
+}
+.immersive-translate-status {
+  font-size: 0.875rem;
+}
+
+hgroup.hgroup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+}
+.nav-left {
+  flex-shrink: 0;
+  flex: 6;
+  padding-right: 1.2rem;
+}
+.nav-right {
+  display: flex;
+  flex: 0 1 10rem;
+  justify-content: flex-end;
+}
+.select {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  flex: 0 1 10rem;
+  max-height: 12rem;
+}
+
+.title {
+  line-height: 1.6rem;
+}
+.description {
+  color: rgb(148 163 184);
+  font-size: 17px;
+}
+.docUrl {
+  font-size: 17px;
+}
+
+.input-row {
+  display: flex;
+  padding: 0.5rem 0rem;
+}
+
+input.input {
+  margin-bottom: 0;
+  max-height: 2.6rem;
+}
+label {
+  margin: 0;
+}
+
+.input-raw-left {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 6rem;
+}
+.input-left {
+  display: flex;
+  flex: 1 1 4rem;
+  max-width: 6rem;
+  justify-content: flex-end;
+  align-items: center;
+}
+.input-right {
+  flex: 1 1 auto;
+  margin: 0;
+}
+.confirm-button {
+  margin: 0.4rem 9rem;
+  padding: 0.4rem 1rem;
+}
+
+.option-list {
+  max-height: 16rem;
+  overflow: scroll;
+}
+.langs-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.lang-card {
+  display: flex;
+  align-items: center;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid rgba(233, 233, 233, 1);
+  margin-right: 1.1rem;
+  margin-bottom: 0.8rem;
+  color: rgb(148 163 184);
+  border-radius: 0.15rem;
+  font-size: 17px;
+  /* background-color: rgba(249, 249, 249, 1); */
+}
+.close {
+  width: 0.8rem;
+  height: 0.8rem;
+  margin-left: 0.4rem;
+  background-image: var(--icon-close);
+  background-size: auto 0.8rem;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+  transition: opacity var(--transition);
+}
+.url-list {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1.3rem;
+  /* background-color: rgba(255, 255, 255, 1); */
+  align-items: center;
+  line-height: 1.5;
+}
+.url-name {
+  font-weight: 500;
+}
+.height-tight {
+  line-height: 1.2;
+}
+.url-dot {
+  font-size: 1.2rem;
+}
+.add-button {
+  padding: 0.5rem 1rem;
+}
+
+nav li[role="list"] a,
+label.engine {
+  display: flex;
+  align-items: center;
+  font-size: 0.9rem;
+}
+
+dialog article .close {
+  margin-bottom: 0.5rem;
+}
+
+article.add-modal {
+  width: 30rem;
+}
+
+div.add-text {
+  font-size: 1.1rem;
+  margin: 16px 3px;
+}
+
+.footer-button {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+  flex-grow: 1;
+}
+.full-button {
+  width: 100%;
+  line-height: 1.2rem;
+  margin-top: 0.8rem;
+}
+.margin-left {
+  margin-left: 0.5rem;
+}
+.margin-right {
+  margin-right: 0.5rem;
+}
+nav details[role="list"] summary + ul li {
+  width: 6rem;
+  text-align: center;
+}
+.border-color-left {
+  display: flex;
+  align-items: center;
+}
+input.border-color-text {
+  width: 8rem;
+}
+input[type="color"] {
+  width: 5rem;
+}
+.reset-color {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+a.tiny-button {
+  padding: 0.2rem 0.6rem;
+  margin: 0.3rem 2rem;
+}

@@ -1,0 +1,136 @@
+.notie-container {
+  font-size: 1.6rem;
+  height: auto;
+  left: 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  z-index: 2147483647;
+  box-sizing: border-box;
+  -o-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+  -ms-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+}
+@media screen and (max-width: 900px) {
+  .notie-container {
+    font-size: 1.4rem;
+  }
+}
+@media screen and (max-width: 750px) {
+  .notie-container {
+    font-size: 1.2rem;
+  }
+}
+@media screen and (max-width: 400px) {
+  .notie-container {
+    font-size: 1rem;
+  }
+}
+
+.notie-background-success {
+  background-color: #57bf57;
+}
+
+.notie-background-warning {
+  background-color: #d6a14d;
+}
+
+.notie-background-error {
+  background-color: #e1715b;
+}
+
+.notie-background-info {
+  background-color: #4d82d6;
+}
+
+.notie-background-neutral {
+  background-color: #a0a0a0;
+}
+
+.notie-background-overlay {
+  background-color: #ffffff;
+}
+
+.notie-textbox {
+  color: #ffffff;
+  padding: 20px;
+}
+
+.notie-textbox-inner {
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+.notie-overlay {
+  height: 100%;
+  left: 0;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2147483646;
+}
+
+.notie-button {
+  color: #ffffff;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.notie-element {
+  color: #ffffff;
+  padding: 10px;
+}
+
+.notie-element-half {
+  display: inline-block;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.notie-element-third {
+  display: inline-block;
+  width: 33.3333%;
+  box-sizing: border-box;
+}
+
+.notie-alert {
+  cursor: pointer;
+}
+
+.notie-input-field {
+  background-color: #ffffff;
+  border: 0;
+  font-family: inherit;
+  font-size: inherit;
+  outline: 0;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.notie-select-choice-repeated {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  box-sizing: border-box;
+}
+
+.notie-date-selector-inner {
+  margin: 0 auto;
+  max-width: 900px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+.notie-date-selector-inner [contenteditable],
+.notie-date-selector-inner [contenteditable]:focus {
+  outline: 0px solid transparent;
+}
+
+.notie-date-selector-up {
+  transform: rotate(180deg);
+}

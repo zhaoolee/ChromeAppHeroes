@@ -1,0 +1,72 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/128.png",
+         "256": "icons/256.png",
+         "32": "icons/32.png",
+         "48": "icons/48.png",
+         "64": "icons/64.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "toggleTranslatePage": {
+         "description": "__MSG_toggleTranslatePage__",
+         "suggested_key": {
+            "default": "Alt+A"
+         }
+      },
+      "toggleTranslateTheMainPage": {
+         "description": "__MSG_toggleTranslateTheMainPage__"
+      },
+      "toggleTranslateTheWholePage": {
+         "description": "__MSG_toggleTranslateTheWholePage__",
+         "suggested_key": {
+            "default": "Alt+W"
+         }
+      },
+      "toggleTranslateToThePageEndImmediately": {
+         "description": "__MSG_toggleTranslateToThePageEndImmediately__"
+      },
+      "toggleTranslationMask": {
+         "description": "__MSG_toggleTranslationMask__"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content_script.js" ],
+      "matches": [ "\u003Call_urls>", "file:///*", "*://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset_1",
+         "path": "rules/request_modifier_rule.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_brandDescription__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7JPn78UfqI3xIIOPPLPS74UTzLfJL1gQM8hlk/deKWvFP/WqUBnPJPdhQeF45sFpI1OjO70nFqdATT4/RwYAiZK7G/E6m27MDVnhHjszfzReOuoAEn9J3RnE2xEx5pFhRFcelhnwTTLrrn90aaPcaMtNsgXtZA1Ggz/SnX9I4ZygqpJYjx3Ql2t6SyNK222oRQiKMT93Rrjgyc8RFA7FKXsWglG0TvseRjbmG5Jk5gDx+2/YTcWGqCDotQnWnkPj/dBO23UAX7IpyJK3FGYdkvWFih6OVClHIIWY8mfCjjwSGbXNQNesaa9F2hrzBZ5MRTj4m7yj76mGxuPHPIE8mwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_brandName__",
+   "options_page": "options.html",
+   "permissions": [ "storage", "activeTab", "contextMenus", "webRequest", "declarativeNetRequestWithHostAccess", "declarativeNetRequestFeedback", "declarativeNetRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5.5",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>", "file:///*", "*://*/*" ],
+      "resources": [ "styles/inject.css", "pdf/index.html", "ebook/index.html", "ebook/index.html", "ebook/make/index.html" ]
+   } ]
+}

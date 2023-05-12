@@ -1,0 +1,235 @@
+html {
+  font-size: 17px;
+  --font-size: 17px;
+}
+
+body {
+  max-width: 100%;
+  padding: 0;
+  margin: 0;
+  min-width: 250px;
+  border-radius: 10px;
+}
+.immersive-translate-popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  touch-action: none;
+}
+.immersive-translate-popup-wrapper {
+  background: var(--background-color);
+  border-radius: 10px;
+  border: 1px solid var(--muted-border-color);
+}
+
+#mount#mount {
+  --font-family: system-ui, -apple-system, "Segoe UI", "Roboto", "Ubuntu",
+    "Cantarell", "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+  --line-height: 1.5;
+  --font-weight: 400;
+  --font-size: 16px;
+  --border-radius: 4px;
+  --border-width: 1px;
+  --outline-width: 3px;
+  --spacing: 16px;
+  --typography-spacing-vertical: 24px;
+  --block-spacing-vertical: calc(var(--spacing) * 2);
+  --block-spacing-horizontal: var(--spacing);
+  --grid-spacing-vertical: 0;
+  --grid-spacing-horizontal: var(--spacing);
+  --form-element-spacing-vertical: 12px;
+  --form-element-spacing-horizontal: 16px;
+  --nav-element-spacing-vertical: 16px;
+  --nav-element-spacing-horizontal: 8px;
+  --nav-link-spacing-vertical: 8px;
+  --nav-link-spacing-horizontal: 8px;
+  --form-label-font-weight: var(--font-weight);
+  --transition: 0.2s ease-in-out;
+  --modal-overlay-backdrop-filter: blur(4px);
+}
+#mount {
+  min-width: 250px;
+}
+.main-button {
+  font-size: 14px;
+  vertical-align: middle;
+}
+
+.pt-4 {
+  padding-top: 24px;
+}
+.p-2 {
+  padding: 8px;
+}
+.pl-5 {
+  padding-left: 48px;
+}
+.p-0 {
+  padding: 0;
+}
+.pl-2 {
+  padding-left: 8px;
+}
+.pl-4 {
+  padding-left: 24px;
+}
+.pt-2 {
+  padding-top: 8px;
+}
+
+.pb-2 {
+  padding-bottom: 8px;
+}
+
+.pr-5 {
+  padding-right: 48px;
+}
+.text-sm {
+  font-size: 14px;
+}
+
+.flex {
+  display: flex;
+}
+.justify-between {
+  justify-content: space-between;
+}
+
+.mb-2 {
+  margin-bottom: 8px;
+}
+.inline-block {
+  display: inline-block;
+}
+
+.py-2 {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.mt-2 {
+  margin-top: 8px;
+}
+.mt-0 {
+  margin-top: 0;
+}
+
+.mb-1 {
+  margin-bottom: 4px;
+}
+.ml-4 {
+  margin-left: 24px;
+}
+.ml-3 {
+  margin-left: 16px;
+}
+.ml-2 {
+  margin-left: 8px;
+}
+.mr-1 {
+  margin-right: 4px;
+}
+.pl-3 {
+  padding-left: 12px;
+}
+.pr-3 {
+  padding-right: 12px;
+}
+.p-3 {
+  padding: 12px;
+}
+.mt-4 {
+  margin-top: 24px;
+}
+.py-0 {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.left-auto {
+  left: auto !important;
+}
+
+.max-h-28 {
+  max-height: 112px;
+}
+.max-h-30 {
+  max-height: 120px;
+}
+.overflow-y-scroll {
+  overflow-y: scroll;
+}
+.text-xs {
+  font-size: 12px;
+}
+
+.flex-1 {
+  flex: 1;
+}
+.flex-3 {
+  flex: 3;
+}
+.flex-4 {
+  flex: 4;
+}
+.flex-2 {
+  flex: 2;
+}
+.mt-3 {
+  margin-top: 16px;
+}
+.items-center {
+  align-items: center;
+}
+.items-end {
+  align-items: flex-end;
+}
+.items-baseline {
+  align-items: baseline;
+}
+
+.my-5 {
+  margin-top: 48px;
+  margin-bottom: 48px;
+}
+.my-4 {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+.my-3 {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.pt-3 {
+  padding-top: 12px;
+}
+.px-3 {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.pt-2 {
+  padding-top: 8px;
+}
+.px-2 {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pt-1 {
+  padding-top: 4px;
+}
+.px-1 {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.pb-2 {
+  padding-bottom: 8px;
+}
+.justify-end {
+  justify-content: flex-end;
+}
+.w-auto {
+  width: auto;
+}

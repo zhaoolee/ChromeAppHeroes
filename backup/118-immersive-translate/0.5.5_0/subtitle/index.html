@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="immersive-translate-subtitle-builder" content="true" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self' blob:; script-src 'self'; style-src 'self' blob: 'unsafe-inline'; img-src 'self' blob: data:; connect-src 'self' blob: data:; frame-src blob: data:; object-src blob: data:; form-action 'none';"
+    />
+    <title>Local Subtitle</title>
+
+    <link rel="stylesheet" href="../styles/pico.css" />
+    <link rel="stylesheet" href="../styles/inject.css" />
+    <link rel="stylesheet" href="./subtitle.css" />
+    <style>
+      #drop-target {
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+      }
+      #file-button {
+        font: inherit;
+        background: none;
+        border: 0;
+        padding: 0;
+        text-decoration: underline;
+        cursor: pointer;
+      }
+      .icon {
+        display: block;
+        fill: none;
+        stroke: currentcolor;
+        stroke-width: 2px;
+      }
+      .empty-state-icon {
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <input
+      x-ignore
+      type="file"
+      id="file-input"
+      accept=".srt,.vtt,.lrc,.smi,.ssa,.ass,.sub,.srt,.sbv,.json"
+      hidden
+    />
+    <div x-ignore id="drop-target" class="filter">
+      <div>
+        <svg
+          class="icon empty-state-icon"
+          width="72"
+          height="72"
+          aria-hidden="true"
+        >
+          <path
+            d="M36 18s-6-6-12-6-15 6-15 6v42s9-6 15-6 12 6 12 6c4-4 8-6 12-6s12 2 15 6V18c-6-4-12-6-15-6-4 0-8 2-12 6m0 0v42"
+          />
+        </svg>
+
+        <h3 class="notranslate">
+          Drop a srt/ass file here! (把本地 srt/ass 文件拖到这里！)
+        </h3>
+        <h4 class="notranslate">
+          Or&nbsp;
+          <a href="#" id="file-button" class="contrast"
+            >choose a file （选择一个文件）</a
+          >
+          &nbsp;to open it.
+        </h4>
+      </div>
+    </div>
+    <div id="mount"></div>
+    <script src="../libs/subtitle/subtitle.js"></script>
+    <script src="../content_script.js"></script>
+  </body>
+</html>

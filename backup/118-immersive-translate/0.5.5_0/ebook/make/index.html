@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="immersive-translate-ebook-builder" content="true" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self' blob:; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; style-src 'self' blob: 'unsafe-inline'; img-src 'self' blob: data:; connect-src 'self' blob: data:; frame-src blob: data:; object-src blob: data:; form-action 'none';"
+    />
+    <title>E-Book Maker</title>
+    <link rel="stylesheet" href="../../styles/inject.css" />
+    <style>
+      :root {
+        --active-bg: rgba(0, 0, 0, 0.05);
+        --bg: white;
+        --muted: rgba(0, 0, 0, 0.6);
+      }
+      .link {
+        color: rgb(43, 108, 176);
+        text-decoration: underline;
+        cursor: pointer;
+      }
+      a.disabled {
+        pointer-events: none;
+        cursor: default;
+        color: #ccc;
+      }
+      a.disabled:hover,
+      a.disabled:link,
+      a.disabled:visited,
+      a.disabled:active {
+        text-decoration: none;
+        color: #ccc;
+      }
+
+      @supports (color-scheme: light dark) {
+        @media (prefers-color-scheme: dark) {
+          :root {
+            --active-bg: rgba(255, 255, 255, 0.1);
+            --bg: #1e1e1e;
+            --muted: rgba(255, 255, 255, 0.6);
+          }
+        }
+      }
+
+      a,
+      a:visited,
+      a:hover,
+      a:active {
+        color: rgb(43, 108, 176);
+      }
+      a.contrast,
+      a.contrast:visited,
+      a.contrast:hover,
+      a.contrast:active {
+        color: inherit;
+        text-decoration: none;
+      }
+      body {
+        margin: 0;
+        font: menu;
+        font-family: system-ui, sans-serif;
+      }
+      #drop-target {
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+      }
+      #drop-target h1 {
+        font-weight: 900;
+      }
+      #tips {
+        width: 80%;
+        margin: 8px auto;
+        text-align: left;
+      }
+      blockquote {
+        border-left: 4px solid #cc3355 !important;
+        text-align: left;
+        padding-left: 12px !important;
+        margin-top: 4px;
+        margin-bottom: 4px;
+        margin-left: 0;
+        margin-right: 0;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        display: block;
+      }
+      #error {
+        color: red;
+      }
+
+      #file-button {
+        font: inherit;
+        background: none;
+        border: 0;
+        padding: 0;
+        text-decoration: underline;
+        cursor: pointer;
+      }
+      .icon {
+        display: block;
+        fill: none;
+        stroke: currentcolor;
+        stroke-width: 2px;
+      }
+      .flex {
+        display: flex;
+      }
+      .justify-center {
+        justify-content: center;
+      }
+      .items-center {
+        align-items: center;
+      }
+
+      .empty-state-icon {
+        margin: auto;
+      }
+      #editor {
+        padding: 0;
+        margin: 0;
+      }
+      .toolbar {
+        box-sizing: border-box;
+        position: absolute;
+        z-index: 1;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        height: 48px;
+        padding: 6px;
+        transition: opacity 250ms ease;
+        visibility: hidden;
+      }
+      .toolbar button {
+        padding: 3px;
+        border-radius: 6px;
+        background: none;
+        border: 0;
+        color: GrayText;
+      }
+      .toolbar button:hover {
+        background: rgba(0, 0, 0, 0.1);
+        color: currentcolor;
+      }
+      #header-bar {
+        top: 0;
+      }
+      #nav-bar {
+        bottom: 0;
+      }
+      #progress-slider {
+        flex-grow: 1;
+        margin: 0 12px;
+        visibility: hidden;
+      }
+      #side-bar {
+        visibility: hidden;
+        box-sizing: border-box;
+        position: absolute;
+        z-index: 2;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 320px;
+        transform: translateX(-320px);
+        display: flex;
+        flex-direction: column;
+        background: Canvas;
+        color: CanvasText;
+        box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2), 0 0 40px rgba(0, 0, 0, 0.2);
+        transition: visibility 0s linear 300ms, transform 300ms ease;
+      }
+      #side-bar.show {
+        visibility: visible;
+        transform: translateX(0);
+        transition-delay: 0s;
+      }
+      #dimming-overlay {
+        visibility: hidden;
+        position: fixed;
+        z-index: 2;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.2);
+        opacity: 0;
+        transition: visibility 0s linear 300ms, opacity 300ms ease;
+      }
+      #dimming-overlay.show {
+        visibility: visible;
+        opacity: 1;
+        transition-delay: 0s;
+      }
+      #side-bar-header {
+        padding: 1rem;
+        display: flex;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        align-items: center;
+      }
+      #side-bar-cover {
+        height: 10vh;
+        min-height: 60px;
+        max-height: 180px;
+        border-radius: 3px;
+        border: 0;
+        background: lightgray;
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0.1), 0 0 16px rgba(0, 0, 0, 0.1);
+        margin-inline-end: 1rem;
+      }
+      #side-bar-cover:not([src]) {
+        display: none;
+      }
+      #side-bar-title {
+        margin: 0.5rem 0;
+        font-size: inherit;
+      }
+      #side-bar-author {
+        margin: 0.5rem 0;
+        font-size: small;
+        color: GrayText;
+      }
+      #toc-view {
+        padding: 0.5rem;
+        overflow-y: scroll;
+      }
+      #toc-view li,
+      #toc-view ol {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+      #toc-view a,
+      #toc-view span {
+        display: block;
+        border-radius: 6px;
+        padding: 8px;
+        margin: 2px 0;
+      }
+      #toc-view a {
+        color: CanvasText;
+        text-decoration: none;
+      }
+      #toc-view a:hover {
+        background: var(--active-bg);
+      }
+      #toc-view span {
+        color: GrayText;
+      }
+      #toc-view svg {
+        margin-inline-start: -24px;
+        padding-inline-start: 5px;
+        padding-inline-end: 6px;
+        fill: CanvasText;
+        cursor: default;
+        transition: transform 0.2s ease;
+        opacity: 0.5;
+      }
+      #toc-view svg:hover {
+        opacity: 1;
+      }
+      #toc-view [aria-current] {
+        font-weight: bold;
+        background: var(--active-bg);
+      }
+      #toc-view [aria-expanded="false"] svg {
+        transform: rotate(-90deg);
+      }
+      #toc-view [aria-expanded="false"] + [role="group"] {
+        display: none;
+      }
+      .menu-container {
+        position: relative;
+      }
+      .none {
+        display: none;
+      }
+      .menu,
+      .menu ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      .menu {
+        visibility: hidden;
+        position: absolute;
+        right: 0;
+        background: Canvas;
+        color: CanvasText;
+        border-radius: 6px;
+        box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2), 0 0 16px rgba(0, 0, 0, 0.1);
+        padding: 6px;
+        cursor: default;
+      }
+      .menu.show {
+        visibility: visible;
+      }
+      .menu li {
+        padding: 6px 12px;
+        padding-left: 24px;
+        border-radius: 6px;
+      }
+      .menu li:hover {
+        background: var(--active-bg);
+      }
+      .menu li[aria-checked="true"] {
+        background-position: center left;
+        background-repeat: no-repeat;
+        background-image: url("data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%2212%22%20r%3D%223%22%2F%3E%3C%2Fsvg%3E");
+      }
+      .popover {
+        background: Canvas;
+        color: CanvasText;
+        border-radius: 6px;
+        box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2), 0 0 16px rgba(0, 0, 0, 0.1),
+          0 0 32px rgba(0, 0, 0, 0.1);
+      }
+      .bold {
+        font-weight: bold;
+      }
+      .popover-arrow-down {
+        fill: Canvas;
+        filter: drop-shadow(0 -1px 0 rgba(0, 0, 0, 0.2));
+      }
+      .popover-arrow-up {
+        fill: Canvas;
+        filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.2));
+      }
+      #chapters {
+        text-align: center;
+        padding: 0 1px;
+      }
+      #chapters iframe {
+        border: 1px solid rgba(0, 0, 0, 0.1);
+      }
+      #more {
+        width: 80%;
+        margin: 0 auto;
+        font-size: 13px;
+      }
+
+      a.muted,
+      a.muted:visited,
+      a.muted:hover,
+      a.muted:active {
+        color: var(--muted);
+      }
+
+      #tool {
+        width: 80%;
+        margin: 0 auto;
+        font-size: 15px;
+        position: sticky;
+        padding: 1rem 0;
+        top: 0px;
+        background: var(--bg);
+      }
+
+      #headers {
+        width: 80%;
+        margin: 0 auto;
+        background: var(--bg);
+      }
+      #fix-tool {
+      }
+      #tool-inner {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .mr-3 {
+        margin-right: 1rem;
+      }
+      .mb-3 {
+        margin-bottom: 0.5rem;
+      }
+      #stats,
+      #progress {
+        margin: 0 auto;
+        width: 80%;
+      }
+    </style>
+  </head>
+  <body>
+    <input type="file" id="file-input" hidden />
+    <div class="js-cc-container cc-container" style="top: 0px !important"></div>
+    <div id="drop-target" class="filter">
+      <div>
+        <svg
+          class="icon empty-state-icon"
+          width="72"
+          height="72"
+          aria-hidden="true"
+        >
+          <path
+            d="M36 18s-6-6-12-6-15 6-15 6v42s9-6 15-6 12 6 12 6c4-4 8-6 12-6s12 2 15 6V18c-6-4-12-6-15-6-4 0-8 2-12 6m0 0v42"
+          />
+        </svg>
+        <h1 class="notranslate">
+          Drop a book here! (把要制作的电子书 Epub 文件拖到这里)
+        </h1>
+        <h2 class="notranslate">
+          Or <button id="file-button">choose a file （选择一个文件）</button> to
+          open it.
+        </h2>
+      </div>
+    </div>
+    <div id="dimming-overlay" aria-hidden="true"></div>
+    <div id="side-bar">
+      <div id="side-bar-header">
+        <img id="side-bar-cover" />
+        <div>
+          <h1 id="side-bar-title"></h1>
+          <p id="side-bar-author"></p>
+        </div>
+      </div>
+      <div id="toc-view"></div>
+    </div>
+    <div id="header-bar" class="toolbar">
+      <button id="side-bar-button" aria-label="Show sidebar">
+        <svg class="icon" width="24" height="24" aria-hidden="true">
+          <path d="M 4 6 h 16 M 4 12 h 16 M 4 18 h 16" />
+        </svg>
+      </button>
+      <div id="menu-button" class="menu-container">
+        <button aria-label="Show settings" aria-haspopup="true">
+          <svg class="icon" width="24" height="24" aria-hidden="true">
+            <path
+              d="M5 12.7a7 7 0 0 1 0-1.4l-1.8-2 2-3.5 2.7.5a7 7 0 0 1 1.2-.7L10 3h4l.9 2.6 1.2.7 2.7-.5 2 3.4-1.8 2a7 7 0 0 1 0 1.5l1.8 2-2 3.5-2.7-.5a7 7 0 0 1-1.2.7L14 21h-4l-.9-2.6a7 7 0 0 1-1.2-.7l-2.7.5-2-3.4 1.8-2Z"
+            />
+            <circle cx="12" cy="12" r="3" />
+          </svg>
+        </button>
+      </div>
+    </div>
+    <div id="nav-bar" class="toolbar">
+      <button id="left-button" aria-label="Go left">
+        <svg class="icon" width="24" height="24" aria-hidden="true">
+          <path d="M 15 6 L 9 12 L 15 18" />
+        </svg>
+      </button>
+      <input
+        id="progress-slider"
+        type="range"
+        min="0"
+        max="1"
+        step="any"
+        list="tick-marks"
+      />
+      <datalist id="tick-marks"></datalist>
+      <button id="right-button" aria-label="Go right">
+        <svg class="icon" width="24" height="24" aria-hidden="true">
+          <path d="M 9 6 L 15 12 L 9 18" />
+        </svg>
+      </button>
+    </div>
+    <div id="editor" class="notranslate none">
+      <div id="headers" class="notranslate">
+        <h1 class="notranslate">
+          正在用<a
+            class="notranslate contrast"
+            href="https://immersive-translate.owenyoung.com/"
+            target="_blank"
+            >沉浸式双语翻译扩展</a
+          >翻译《<span id="bookTitle"></span>》&nbsp;<span
+            id="progress-number"
+          ></span>
+        </h1>
+        <p id="error"></p>
+      </div>
+
+      <div id="tool">
+        <div id="fix-tool">
+          <div id="tool-inner">
+            <a href="#" id="open" class="mr-3 mb-3">New (打开一本新书)</a>
+            <a href="#" id="edit" class="mr-3 mb-3">Edit (编辑)</a>
+            <a href="#" id="export" class="mr-3 mb-3 bold"
+              ><span id="exportAction">Export (导出) </span
+              ><span id="exportStatus"></span
+            ></a>
+          </div>
+        </div>
+      </div>
+
+      <details id="tips">
+        <summary>
+          Help (查看帮助，要开始翻译请手动点击沉浸式翻译扩展/脚本浮窗的翻译按钮)
+        </summary>
+      </details>
+      <div id="stats"></div>
+
+      <div id="progress"></div>
+
+      <div id="more" class="flex">
+        <a
+          target="_blank"
+          href="https://immersive-translate.owenyoung.com/services/deepL"
+          class="mr-3 mb-3 muted"
+          >使用 DeepL 翻译？</a
+        >
+
+        <a
+          target="_blank"
+          href="https://immersive-translate.owenyoung.com/services/openai"
+          class="mr-3 mb-3 muted"
+          >使用 OpenAI 翻译？</a
+        >
+        <a
+          target="_blank"
+          href="https://immersive-translate.owenyoung.com/donate"
+          class="mr-3 mb-3 muted"
+          >请我喝咖啡?☕️</a
+        >
+      </div>
+      <div id="chapters"></div>
+    </div>
+
+    <script src="../../libs/foliate-js/make.js" type="module"></script>
+    <script src="../ebook-builder-global.js"></script>
+    <script src="../../content_script.js" type="module"></script>
+  </body>
+</html>
