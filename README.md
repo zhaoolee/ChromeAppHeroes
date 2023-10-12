@@ -1411,7 +1411,7 @@ I need your support, I hope you can add a star 🌟 to this project.
 
 
 
-## Tg交流群
+## Chrome插件英雄榜官方Telegram频道
 
 
 https://t.me/ChromeAppHeroes
