@@ -44,6 +44,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+
+- [119《InsPop》用英语经典语录原音学英语](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/119-inspop-2023-10-12.md)
+
 - [118《Immersive Translate》沉浸式阅读英语的免费工具，模糊中文愉悦阅读英语文章](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/118-immersive-translate-2023-05-12.md)
 
 - [117《ChatGPT HeartBeat》让ChatGPT Web服务保持连接，避免反复刷新ChatGPT Web版页面](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/117-chatgpt-heartbeat-2023-04-21.md)
@@ -287,6 +290,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
+
+####  [119《InsPop》用英语经典语录原音学英语](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/119-inspop-2023-10-12.md)
+
+
+![InsPop](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1697093430853RcmPDSTF.gif)
+
+InsPop收录各种经典电影，电视剧，纪录片经典语录的中英文释义，原版音频，配上精美海报，每次打开浏览器新Tab，能看到经典句子以及海报，利用碎片化时间无痛学英语。
 
 #### [118《Immersive Translate》沉浸式阅读英语的免费工具，模糊中文愉悦阅读英语文章](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/118-immersive-translate-2023-05-12.md)
 
