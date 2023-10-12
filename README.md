@@ -40,7 +40,6 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 **付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.rocks/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验 [http://i.v2fy.com/vpn](http://i.v2fy.com/vpn)
 
-![广告位招租](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/zhaoolee-link.png)
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
@@ -1177,6 +1176,8 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 
 ---
 
+
+
 ## 他人眼中的 Chrome插件英雄榜(商业互吹模块)
 
 - [《这份“插件英雄榜Top20”才是Chrome的正确打开方式！》](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/88386634) 作者: [AI科技大本营](https://me.csdn.net/dQCFKyQDXYm3F8rB0)
@@ -1407,3 +1408,10 @@ I need your support, I hope you can add a star 🌟 to this project.
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+
+
+## Tg交流群
+
+
+https://t.me/ChromeAppHeroes
