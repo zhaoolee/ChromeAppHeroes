@@ -5,21 +5,21 @@ title: Chrome插件英雄榜054《二箱 以图搜图》让你在搜图方面随
 
 ## 实用功能一: 识别图片内容, 寻找图片相关信息的页面
 
-> ![0001](https://www.v2fy.com/asset/054_er_xiang_yi_tu_sou_tu/61757068-93ce3880-adf1-11e9-8903-ebf313fb6098.gif)
+> ![0001](https://v2fy.com/asset/054_er_xiang_yi_tu_sou_tu/61757068-93ce3880-adf1-11e9-8903-ebf313fb6098.gif)
 
-![](https://www.v2fy.com/asset/054_er_xiang_yi_tu_sou_tu/61839185-3b656c80-aebf-11e9-9953-0e0846ccc7d1.jpg)
+![](https://v2fy.com/asset/054_er_xiang_yi_tu_sou_tu/61839185-3b656c80-aebf-11e9-9953-0e0846ccc7d1.jpg)
 
 ## 实用功能二: 获取更高质量的图片
 
-> ![0002](https://www.v2fy.com/asset/054_er_xiang_yi_tu_sou_tu/61757094-ac3e5300-adf1-11e9-9e82-76a021aecb0f.gif)
+> ![0002](https://v2fy.com/asset/054_er_xiang_yi_tu_sou_tu/61757094-ac3e5300-adf1-11e9-9e82-76a021aecb0f.gif)
 
 
 ## 实用功能三: 根据部分图片获取完整图片
 
-> ![](https://www.v2fy.com/asset/054_er_xiang_yi_tu_sou_tu/61838554-6f8b5e00-aebc-11e9-88e9-e6a2b8c10590.gif)
+> ![](https://v2fy.com/asset/054_er_xiang_yi_tu_sou_tu/61838554-6f8b5e00-aebc-11e9-88e9-e6a2b8c10590.gif)
 
 
->![](https://www.v2fy.com/asset/054_er_xiang_yi_tu_sou_tu/61838270-15d66400-aebb-11e9-91d0-3c6a2045efc9.jpg)
+>![](https://v2fy.com/asset/054_er_xiang_yi_tu_sou_tu/61838270-15d66400-aebb-11e9-91d0-3c6a2045efc9.jpg)
 
 
 ## 二箱 以图搜图 下载地址:

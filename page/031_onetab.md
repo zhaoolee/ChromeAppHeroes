@@ -6,28 +6,28 @@ title: Chrome插件英雄榜031《OneTab》把多个Tab转换为一个列表
 ## 应用场景一: 把多个Tab转换为一个列表
 当你发现自己有太多的标签页时,单击OneTab图标,所有标签页会转换成一个列表,当你需要再次访问这些标签页时,点击OneTab图标唤出列表,点击列表恢复标签页
 - 当前我在浏览器打开了一组标签页
-> ![](https://www.v2fy.com/asset/031_onetab/6418858c3da74e42bde5b76b91be265c.png)
+> ![](https://v2fy.com/asset/031_onetab/6418858c3da74e42bde5b76b91be265c.png)
 - 点击OneTab图标
-> ![](https://www.v2fy.com/asset/031_onetab/29a667780cd940c8a08ade699f2c5577.png)
+> ![](https://v2fy.com/asset/031_onetab/29a667780cd940c8a08ade699f2c5577.png)
 - 所有标签页合并为列表(点击列表可恢复)
-> ![](https://www.v2fy.com/asset/031_onetab/57f3d5d3fe7c4b2bb0a9a860760f5872.png)
+> ![](https://v2fy.com/asset/031_onetab/57f3d5d3fe7c4b2bb0a9a860760f5872.png)
 - 点击恢复页面(点击恢复标签页后, 开启新的标签页)
-> ![](https://www.v2fy.com/asset/031_onetab/2a2142f68cc14d8388384b0ee1097a1b.png)
+> ![](https://v2fy.com/asset/031_onetab/2a2142f68cc14d8388384b0ee1097a1b.png)
 > 如果关闭了OneTab标签页, 只需点击浏览器插件栏OneTab图标恢复即可!
 
 ## 应用场景二: 批量分享网页
 可以将**场景一**中 生成的列表页生成二维码, 将二维码分享给别人, 这样别就可以收到你分享的一组网页了!
 
 - 将当前6个标签页分享为二维码
-> ![](https://www.v2fy.com/asset/031_onetab/c521739fc62349dd91f94f8c45250d68.png)
+> ![](https://v2fy.com/asset/031_onetab/c521739fc62349dd91f94f8c45250d68.png)
 
 - 扫描二维码即可查看分享的6个网址
-> ![](https://www.v2fy.com/asset/031_onetab/6c7fae770bce4f74b4f1e00d5f277cbf.png)
+> ![](https://v2fy.com/asset/031_onetab/6c7fae770bce4f74b4f1e00d5f277cbf.png)
 - 可以用这个二维码,体验一下
-> ![](https://www.v2fy.com/asset/031_onetab/cdce9cc22cbd4e8f81569e5e486244e8.png)
+> ![](https://v2fy.com/asset/031_onetab/cdce9cc22cbd4e8f81569e5e486244e8.png)
 
 - 通过二维码, 在手机端查看
-> ![](https://www.v2fy.com/asset/031_onetab/600be59abe4b4f0f82883599b7085411.jpeg)
+> ![](https://v2fy.com/asset/031_onetab/600be59abe4b4f0f82883599b7085411.jpeg)
 
 
 

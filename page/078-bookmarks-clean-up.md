@@ -10,9 +10,9 @@ title: Chrome插件英雄榜078《Bookmarks clean up》高效清理重复和损�
 
 
 
-![078-book001](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/078-book001.gif)
+![078-book001](https://v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/078-book001.gif)
 
-![image-20200910103031799](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/image-20200910103031799.png)
+![image-20200910103031799](https://v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/image-20200910103031799.png)
 
 
 
@@ -20,7 +20,7 @@ title: Chrome插件英雄榜078《Bookmarks clean up》高效清理重复和损�
 
 ## 使用Bookmarks clean up扫描清理失效的书签
 
-![078-book002](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/078-book002.gif)
+![078-book002](https://v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/078-book002.gif)
 
 
 
@@ -36,7 +36,7 @@ title: Chrome插件英雄榜078《Bookmarks clean up》高效清理重复和损�
 
 ## 使用Bookmarks clean up清理重复的书签
 
-![078-book003](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/078-book003.gif)
+![078-book003](https://v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/078-book003.gif)
 
 
 
@@ -46,7 +46,7 @@ title: Chrome插件英雄榜078《Bookmarks clean up》高效清理重复和损�
 
 
 
-![image-20200910110353136](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/image-20200910110353136.png)
+![image-20200910110353136](https://v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/image-20200910110353136.png)
 
 
 
@@ -60,7 +60,7 @@ title: Chrome插件英雄榜078《Bookmarks clean up》高效清理重复和损�
 
 
 
-![078-book004](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/078-book004.gif)
+![078-book004](https://v2fy.com/asset/0i/ChromeAppHeroes/page/078-bookmarks-clean-up.assets/078-book004.gif)
 
 
 

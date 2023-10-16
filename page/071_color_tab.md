@@ -4,15 +4,15 @@ title: Chrome插件英雄榜071 《Color Tab》色彩猎人优质配色提升你
 
 对于经常接触设计的人而言, 配色是一门玄学(你永远不知道甲方到底想要什么?)
 
-![77465b92e5286_720w](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/071_color_tab.assets/77465b92e5286_720w.jpg)
+![77465b92e5286_720w](https://v2fy.com/asset/0i/ChromeAppHeroes/page/071_color_tab.assets/77465b92e5286_720w.jpg)
 
 
 
 面对甲方有趣的需求(五彩斑斓的黑, 五光十色的白), 设计师只能大开脑洞!
 
-![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/071_color_tab.assets/242q0000s1pp5q0s48r4.jpg)
+![](https://v2fy.com/asset/0i/ChromeAppHeroes/page/071_color_tab.assets/242q0000s1pp5q0s48r4.jpg)
 
-![vffd8e02c_720w](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/071_color_tab.assets/vffd8e02c_720w.jpg)
+![vffd8e02c_720w](https://v2fy.com/asset/0i/ChromeAppHeroes/page/071_color_tab.assets/vffd8e02c_720w.jpg)
 
 
 
@@ -21,7 +21,7 @@ title: Chrome插件英雄榜071 《Color Tab》色彩猎人优质配色提升你
 色彩猎人网站: [https://colorhunt.co/](https://colorhunt.co/) 
 
 
-![ch](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/071_color_tab.assets/ch.gif)
+![ch](https://v2fy.com/asset/0i/ChromeAppHeroes/page/071_color_tab.assets/ch.gif)
 
 
 
@@ -37,7 +37,7 @@ title: Chrome插件英雄榜071 《Color Tab》色彩猎人优质配色提升你
 
 
 
-![nice](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/071_color_tab.assets/nice.gif)
+![nice](https://v2fy.com/asset/0i/ChromeAppHeroes/page/071_color_tab.assets/nice.gif)
 
 
 
@@ -49,7 +49,7 @@ title: Chrome插件英雄榜071 《Color Tab》色彩猎人优质配色提升你
 
 
 
-![getcolor](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/071_color_tab.assets/getcolor.gif)
+![getcolor](https://v2fy.com/asset/0i/ChromeAppHeroes/page/071_color_tab.assets/getcolor.gif)
 
 
 

@@ -27,7 +27,7 @@ async function get_wordpress_token() {
   try {
     wordpress_token = await axios({
       method: "post",
-      url: "https://www.v2fy.com/wp-json/jwt-auth/v1/token",
+      url: "https://v2fy.com/wp-json/jwt-auth/v1/token",
       data: up
     }).then(res => {
       return new Promise((resolve, reject) => {
@@ -44,7 +44,7 @@ async function get_wordpress_token() {
     try {
       let validate_data = await axios({
         method: "post",
-        url: "https://www.v2fy.com/wp-json/jwt-auth/v1/token/validate"
+        url: "https://v2fy.com/wp-json/jwt-auth/v1/token/validate"
       }).then(res => {
         return new Promise((resolve, reject) => {
           resolve(res.data);
@@ -72,7 +72,7 @@ async function get_md_filename_id_dic() {
   // 获取总页码数量
   let x_wp_totalpages = await axios({
     method: "get",
-    url: "https://www.v2fy.com/wp-json/wp/v2/posts?page=1"
+    url: "https://v2fy.com/wp-json/wp/v2/posts?page=1"
   }).then(res => {
     return new Promise((resolve, reject) => {
       resolve(parseInt(res.headers["x-wp-totalpages"]));
@@ -84,7 +84,7 @@ async function get_md_filename_id_dic() {
   for (let i = 1; i <= x_wp_totalpages; i++) {
     await axios({
       method: "get",
-      url: "https://www.v2fy.com/wp-json/wp/v2/posts?page=" + i
+      url: "https://v2fy.com/wp-json/wp/v2/posts?page=" + i
     }).then(res => {
       let res_data = res.data;
 
@@ -263,7 +263,7 @@ async function update_post(
 
   let res = await axios({
     method: "post",
-    url: "https://www.v2fy.com/wp-json/wp/v2/posts/" + id,
+    url: "https://v2fy.com/wp-json/wp/v2/posts/" + id,
     headers: {
       Authorization: "Bearer " + wordpress_token,
       "content-type": "application/json"
@@ -298,7 +298,7 @@ async function create_new_post(
 
     let res = await axios({
       method: "post",
-      url: "https://www.v2fy.com/wp-json/wp/v2/posts",
+      url: "https://v2fy.com/wp-json/wp/v2/posts",
       headers: {
         Authorization: "Bearer " + wordpress_token
       },
@@ -403,7 +403,7 @@ async function create_category_and_return_id(wordpress_token, name) {
   try {
     id = await axios({
       method: "post",
-      url: "https://www.v2fy.com/wp-json/wp/v2/categories",
+      url: "https://v2fy.com/wp-json/wp/v2/categories",
       headers: {
         Authorization: "Bearer " + wordpress_token
       },
@@ -440,7 +440,7 @@ async function get_categories_data(wordpress_token) {
 
     await axios({
       method: "get",
-      url: "https://www.v2fy.com/wp-json/wp/v2/categories",
+      url: "https://v2fy.com/wp-json/wp/v2/categories",
       headers: {
         Authorization: "Bearer " + wordpress_token
       },

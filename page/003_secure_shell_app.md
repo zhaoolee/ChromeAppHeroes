@@ -20,19 +20,19 @@ title: Chrome插件英雄榜003《Secure Shell App》 Chrome中开启ssh一种�
 - Rich language support
 
 
-![](https://www.v2fy.com/asset/003_secure_shell_app/c7d94a6e5fc346489514f20d4a73616f.png)
+![](https://v2fy.com/asset/003_secure_shell_app/c7d94a6e5fc346489514f20d4a73616f.png)
 
 ## Secure Shell App 登录界面 / Login interface
-![](https://www.v2fy.com/asset/003_secure_shell_app/639a15198f6047638974b9c7470a0770.png)
+![](https://v2fy.com/asset/003_secure_shell_app/639a15198f6047638974b9c7470a0770.png)
 ## Secure Shell App 操作界面 / Operation panel
-![支持高亮](https://www.v2fy.com/asset/003_secure_shell_app/2bb916abf8234c829f2b1bde03ec4398.png)
+![支持高亮](https://v2fy.com/asset/003_secure_shell_app/2bb916abf8234c829f2b1bde03ec4398.png)
 
 ## 支持窗口多开 / Multiple windows
-![](https://www.v2fy.com/asset/003_secure_shell_app/070a384456fa4e22815bf5944d7a0b34.png)
+![](https://v2fy.com/asset/003_secure_shell_app/070a384456fa4e22815bf5944d7a0b34.png)
 
 ## 支持界面自定义 / Panel can by diy
 
-![](https://www.v2fy.com/asset/003_secure_shell_app/ccc82a56ecf544f59b58ce99e71967cd.png)
+![](https://v2fy.com/asset/003_secure_shell_app/ccc82a56ecf544f59b58ce99e71967cd.png)
 
 
 > Secure Shell App很早就有了, 早期不支持中文输入, 大家都没把它当回事儿, 最近开始支持中文, 而且google在积极维护它, 就说明Secure Shell App还是有折腾一下的价值的, 另外在浏览器中使用ssh还是蛮酷的!!!
@@ -48,10 +48,10 @@ title: Chrome插件英雄榜003《Secure Shell App》 Chrome中开启ssh一种�
 <table style="table-layout: fixed;">
 <tbody>
 <tr>
-<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
-<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
-<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
-<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
+<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
 </tr>
 <tr>
 <td>

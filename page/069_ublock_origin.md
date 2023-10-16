@@ -10,7 +10,7 @@ ublock_origin是一款可以过滤视频广告的免费扩展程序
 ## 优酷独播的《火影忍者》广告可以过滤
 
 
-![](https://www.v2fy.com/asset/069_ublock_origin/001.gif)
+![](https://v2fy.com/asset/069_ublock_origin/001.gif)
 
 ublock_origin可以将60秒倒计时直接加速过滤掉，可以愉快的刷火影了
 
@@ -18,7 +18,7 @@ ublock_origin可以将60秒倒计时直接加速过滤掉，可以愉快的刷�
 ## 腾讯视频的广告可以完美过滤
 
 
-![](https://www.v2fy.com/asset/069_ublock_origin/002.gif)
+![](https://v2fy.com/asset/069_ublock_origin/002.gif)
 
 
 
@@ -26,13 +26,13 @@ ublock_origin可以将60秒倒计时直接加速过滤掉，可以愉快的刷�
 
 
 
-![](https://www.v2fy.com/asset/069_ublock_origin/003.gif)
+![](https://v2fy.com/asset/069_ublock_origin/003.gif)
 
 
 
 ## youtube广告也可以完美过滤
 
-![](https://www.v2fy.com/asset/069_ublock_origin/004.gif)
+![](https://v2fy.com/asset/069_ublock_origin/004.gif)
 
 
 YouTube并不是每一个视频都有广告，我通过火狐浏览器找了个有广告的视频，将url直接粘贴到 安装了ublock_origin 的Chrome浏览器,广告完美跳过

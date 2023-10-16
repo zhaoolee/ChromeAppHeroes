@@ -6,7 +6,7 @@ title: Chrome插件英雄榜091《FasterChrome》鼠标悬停预加载链接让�
 
  [https://github.com/instantpage/instant.page/blob/master/instantpage.js](https://github.com/instantpage/instant.page/blob/master/instantpage.js)
 
-![image-ttt20201228112338869](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/091-faster-chrome-2020-12-28.assets/image-ttt20201228112338869.png)
+![image-ttt20201228112338869](https://v2fy.com/asset/0i/ChromeAppHeroes/page/091-faster-chrome-2020-12-28.assets/image-ttt20201228112338869.png)
 
 从源码可知，鼠标悬停65毫秒，会自动加载下一页网页
 
@@ -14,13 +14,13 @@ title: Chrome插件英雄榜091《FasterChrome》鼠标悬停预加载链接让�
 
 打开Chrome开发者工具，可以看到鼠标悬浮到超链接时，插件会发起预加载的请求
 
-![page](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/091-faster-chrome-2020-12-28.assets/page.gif)
+![page](https://v2fy.com/asset/0i/ChromeAppHeroes/page/091-faster-chrome-2020-12-28.assets/page.gif)
 
-![image-20201228114325598](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/091-faster-chrome-2020-12-28.assets/image-20201228114325598.png)
+![image-20201228114325598](https://v2fy.com/asset/0i/ChromeAppHeroes/page/091-faster-chrome-2020-12-28.assets/image-20201228114325598.png)
 
 完成预加载后，当鼠标点击页面时，打开页面的速度会很快
 
-![091-pwc](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/091-faster-chrome-2020-12-28.assets/091-pwc.gif)
+![091-pwc](https://v2fy.com/asset/0i/ChromeAppHeroes/page/091-faster-chrome-2020-12-28.assets/091-pwc.gif)
 
 
 
@@ -37,10 +37,10 @@ title: Chrome插件英雄榜091《FasterChrome》鼠标悬停预加载链接让�
 <table style="table-layout: fixed;">
 <tbody>
 <tr>
-<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
-<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
-<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
-<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
+<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
 </tr>
 <tr>
 <td>

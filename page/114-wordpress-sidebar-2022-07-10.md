@@ -22,7 +22,7 @@ title: Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加�
 
 
 
-`<script src="https://www.v2fy.com/wordpress-sidebar/index.js"></script>`
+`<script src="https://v2fy.com/wordpress-sidebar/index.js"></script>`
 
 开源地址: [https://github.com/zhaoolee/wordpress-sidebar](https://github.com/zhaoolee/wordpress-sidebar) 
 

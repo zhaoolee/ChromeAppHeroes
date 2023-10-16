@@ -6,7 +6,7 @@ title: Chrome插件英雄榜074《破解右键锁》如何自由复制百度文�
 
 
 
-![yj](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/074-enable-right-click.assets/yj.gif)
+![yj](https://v2fy.com/asset/0i/ChromeAppHeroes/page/074-enable-right-click.assets/yj.gif)
 
 
 
@@ -14,7 +14,7 @@ title: Chrome插件英雄榜074《破解右键锁》如何自由复制百度文�
 
 
 
-![zhihuright](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/074-enable-right-click.assets/zhihuright.gif)
+![zhihuright](https://v2fy.com/asset/0i/ChromeAppHeroes/page/074-enable-right-click.assets/zhihuright.gif)
 
 
 

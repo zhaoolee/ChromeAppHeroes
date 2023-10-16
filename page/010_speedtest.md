@@ -5,32 +5,32 @@ title: Chrome插件英雄榜010《speedtest》网络测速插件speedtest
 
 - 你可以通过浏览器打开网站 http://www.speedtest.net/ 在线进行测速
 
-![](https://www.v2fy.com/asset/010_speedtest/9fb8383534ab40979fa56c21185b07fc.png)
+![](https://v2fy.com/asset/010_speedtest/9fb8383534ab40979fa56c21185b07fc.png)
 
 - 最后网站会给出ping，上传，下载，各自的速度
 
-![](https://www.v2fy.com/asset/010_speedtest/71dc8d85b4a74c8fbc0c311741fade7d.png)
+![](https://v2fy.com/asset/010_speedtest/71dc8d85b4a74c8fbc0c311741fade7d.png)
 
 
 然而，http://www.speedtest.net/ 貌似在大陆是访问不到的，好在speedtest提供了chrome插件，插件的完整名字是`Speedtest by Ookla`， 一样的画风, 一样的味道, 而且支持中文。
 
-![](https://www.v2fy.com/asset/010_speedtest/d24ac44d88794366938fc4529c59f34c.png)
+![](https://v2fy.com/asset/010_speedtest/d24ac44d88794366938fc4529c59f34c.png)
 
 
 
-![](https://www.v2fy.com/asset/010_speedtest/c6963d49da8044cfb2ac722fc77ce444.png)
+![](https://v2fy.com/asset/010_speedtest/c6963d49da8044cfb2ac722fc77ce444.png)
 
 
 
 ## 插件不止能测速
 
 插件`Speedtest by Ookla`不止是测速，还可以获取打开当前网页的速度（这个功能是默认开启的）
-![](https://www.v2fy.com/asset/010_speedtest/23378d582216478ba492e9a7dbcc8b30.png)
+![](https://v2fy.com/asset/010_speedtest/23378d582216478ba492e9a7dbcc8b30.png)
 
-![](https://www.v2fy.com/asset/010_speedtest/283df580a21c431599db0c6ed5b2d6f2.png)
+![](https://v2fy.com/asset/010_speedtest/283df580a21c431599db0c6ed5b2d6f2.png)
 
 
-![](https://www.v2fy.com/asset/010_speedtest/de67c5646f9240849528f533adb05056.png)
+![](https://v2fy.com/asset/010_speedtest/de67c5646f9240849528f533adb05056.png)
 
 
 
@@ -40,10 +40,10 @@ title: Chrome插件英雄榜010《speedtest》网络测速插件speedtest
 <table style="table-layout: fixed;">
 <tbody>
 <tr>
-<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
-<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
-<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
-<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
+<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
 </tr>
 <tr>
 <td>

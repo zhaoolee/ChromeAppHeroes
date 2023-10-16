@@ -9,7 +9,7 @@ title: Chrome插件英雄榜076《Listen1》Chrome听付费歌曲工具！免费
 
 
 
-![076-listen1-mo](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/076-listen1.assets/076-listen1-mo.gif)
+![076-listen1-mo](https://v2fy.com/asset/0i/ChromeAppHeroes/page/076-listen1.assets/076-listen1-mo.gif)
 
 
 
@@ -17,7 +17,7 @@ title: Chrome插件英雄榜076《Listen1》Chrome听付费歌曲工具！免费
 
 
 
-![image-20200818172210794](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/076-listen1.assets/image-20200818172210794.png)
+![image-20200818172210794](https://v2fy.com/asset/0i/ChromeAppHeroes/page/076-listen1.assets/image-20200818172210794.png)
 
 
 

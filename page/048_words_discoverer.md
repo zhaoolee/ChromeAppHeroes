@@ -5,25 +5,25 @@ title: Chrome插件英雄榜048《Words Discoverer》高亮标注单词,提升�
 
 每次打开网页, 我们都会一眼看到高亮的**罕见**词汇, 然后用优秀的查词插件(如[沙拉查词](https://zhaoolee.gitbooks.io/chrome/content/037.html))进行翻译, 就能快速记一遍**罕见**词汇 
 
-> ![](https://www.v2fy.com/asset/048_words_discoverer/305439fdd84017da654e00f16aaee752.gif)
+> ![](https://v2fy.com/asset/048_words_discoverer/305439fdd84017da654e00f16aaee752.gif)
 
 Words Discoverer(中文译名: 单词发现者),**可以突出显示网页上罕见的英语字典词汇和惯用语。促进英语语言学习并扩大词汇量**。
 
-> ![](https://www.v2fy.com/asset/048_words_discoverer/ac7320b45ddfdcebc8b27472a7a39e41.png)
+> ![](https://v2fy.com/asset/048_words_discoverer/ac7320b45ddfdcebc8b27472a7a39e41.png)
 
-> ![](https://www.v2fy.com/asset/048_words_discoverer/d35fb65356e42324b382ec9f57556c51.png)
+> ![](https://v2fy.com/asset/048_words_discoverer/d35fb65356e42324b382ec9f57556c51.png)
 
-> ![](https://www.v2fy.com/asset/048_words_discoverer/96bd0457aef3580b4fcc98b5a790b29c.png)
+> ![](https://v2fy.com/asset/048_words_discoverer/96bd0457aef3580b4fcc98b5a790b29c.png)
 
 ## 可以将高亮单词快速添加到单词本, 以便导出
 
 将单词A导入到单词本后, 单词A则不会在页面高亮显示, 将单词A从单词本删除后, 单词A可继续在页面高亮显示 
 
-> ![](https://www.v2fy.com/asset/048_words_discoverer/7eeffa4c41915dfd279c25c594a7cdef.gif)
+> ![](https://v2fy.com/asset/048_words_discoverer/7eeffa4c41915dfd279c25c594a7cdef.gif)
 
 单词发现者, 自带的查词会进行跳转网页进行查询, 体验不太好, 推荐使用[沙拉查词](https://zhaoolee.gitbooks.io/chrome/content/037.html)
 
-> ![](https://www.v2fy.com/asset/048_words_discoverer/78ef56e22fabc7095aa2348f6b44861d.gif)
+> ![](https://v2fy.com/asset/048_words_discoverer/78ef56e22fabc7095aa2348f6b44861d.gif)
 
 ## 单词发现者 下载地址:
 

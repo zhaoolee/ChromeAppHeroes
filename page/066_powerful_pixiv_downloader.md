@@ -12,7 +12,7 @@ Pixiv有7个排行榜: **今日排行榜**, **本周排行榜**, **本月排行�
 
 
 
-![](https://www.v2fy.com/asset/066_powerful_pixiv_downloader/7.png)
+![](https://v2fy.com/asset/066_powerful_pixiv_downloader/7.png)
 
 只需点击切换到对应页面, 打开**PowerfulPixivDownloader**,点击**抓取本排行榜作品**, 即可下载
 
@@ -23,13 +23,13 @@ Pixiv有7个排行榜: **今日排行榜**, **本周排行榜**, **本月排行�
 
 **一键下载**
 
-![](https://www.v2fy.com/asset/066_powerful_pixiv_downloader/download.gif)
+![](https://v2fy.com/asset/066_powerful_pixiv_downloader/download.gif)
 
 
 **下载完成**
 
 
-![](https://www.v2fy.com/asset/066_powerful_pixiv_downloader/d2.gif)
+![](https://v2fy.com/asset/066_powerful_pixiv_downloader/d2.gif)
 
 
 至此PowerfulPixivDownloader最简单实用的功能已经讲完了! 
@@ -38,9 +38,9 @@ Pixiv有7个排行榜: **今日排行榜**, **本周排行榜**, **本月排行�
 
 ## 支持下载单张图片
 
-![](https://www.v2fy.com/asset/066_powerful_pixiv_downloader/ppd.gif)
+![](https://v2fy.com/asset/066_powerful_pixiv_downloader/ppd.gif)
 
-![](https://www.v2fy.com/asset/066_powerful_pixiv_downloader/89.jpg)
+![](https://v2fy.com/asset/066_powerful_pixiv_downloader/89.jpg)
 
 ---
 
@@ -50,11 +50,11 @@ Pixiv有7个排行榜: **今日排行榜**, **本周排行榜**, **本月排行�
 ##  PowerfulPixivDownloader  高级设置
 
 
-![](https://www.v2fy.com/asset/066_powerful_pixiv_downloader/001.png)
+![](https://v2fy.com/asset/066_powerful_pixiv_downloader/001.png)
 
 
 
-![](https://www.v2fy.com/asset/066_powerful_pixiv_downloader/003.png)
+![](https://v2fy.com/asset/066_powerful_pixiv_downloader/003.png)
 
 
 以上是最常用的一些设置, 批量抓图完全够用了,更详细的设置,可以参考官方说明书:[https://github.com/xuejianxianzun/PixivBatchDownloader/wiki](https://github.com/xuejianxianzun/PixivBatchDownloader/wiki)  

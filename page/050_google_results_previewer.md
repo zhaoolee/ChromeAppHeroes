@@ -3,21 +3,21 @@ title: Chrome插件英雄榜050《Google Results Previewer》无点击查看谷�
 ---
 ## Google Results Previewer可以在谷歌搜索结果页面直接预览网页, 也可以通过预览窗口直接打开页面
 
-![](https://www.v2fy.com/asset/050_google_results_previewer/9219a092f0f4eb1c6f614c1667b316d1.gif)
+![](https://v2fy.com/asset/050_google_results_previewer/9219a092f0f4eb1c6f614c1667b316d1.gif)
 
 
 ##  Google Results Previewer 支持一键复制当前网页url 并在其它窗口打开
-![](https://www.v2fy.com/asset/050_google_results_previewer/45f72c199292f270e9526aae32930086.gif)
+![](https://v2fy.com/asset/050_google_results_previewer/45f72c199292f270e9526aae32930086.gif)
 
 - 小彩蛋: 如果某些页面无法生成预览, 会出现两个小人(小人A在安慰小人B ?)
 
-> ![](https://www.v2fy.com/asset/050_google_results_previewer/f7c10def8f691e93270c24fdcb806318.png)
-> ![](https://www.v2fy.com/asset/050_google_results_previewer/9c1b81bcd8cbf427ce2aa41c00917523.png)
+> ![](https://v2fy.com/asset/050_google_results_previewer/f7c10def8f691e93270c24fdcb806318.png)
+> ![](https://v2fy.com/asset/050_google_results_previewer/9c1b81bcd8cbf427ce2aa41c00917523.png)
 
 
 
 ## 感谢[lIIllIIl](https://github.com/lIIllIIl)推荐Google Results Previewer
-> ![](https://www.v2fy.com/asset/050_google_results_previewer/3626d7354dca8fbc38c585f723216d41.png)
+> ![](https://v2fy.com/asset/050_google_results_previewer/3626d7354dca8fbc38c585f723216d41.png)
 
 
 ## Google Results Previewer下载链接

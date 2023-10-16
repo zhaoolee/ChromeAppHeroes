@@ -11,11 +11,11 @@ title: Chrome插件英雄榜083《APK Downloader for Google Play Store》从谷�
 
 [https://play.google.com/store/apps](https://play.google.com/store/apps)
 
-![image-20201102180053593](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/083-apk-downloader-for-google-2020-11-02.assets/image-20201102180053593.png)
+![image-20201102180053593](https://v2fy.com/asset/0i/ChromeAppHeroes/page/083-apk-downloader-for-google-2020-11-02.assets/image-20201102180053593.png)
 
 然后使用《APK Downloader for Google Play Store》下载apk
 
-![20201102-google-play](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/083-apk-downloader-for-google-2020-11-02.assets/20201102-google-play.gif)
+![20201102-google-play](https://v2fy.com/asset/0i/ChromeAppHeroes/page/083-apk-downloader-for-google-2020-11-02.assets/20201102-google-play.gif)
 
 上图获取的老王VPN离线包：
 
@@ -25,7 +25,7 @@ title: Chrome插件英雄榜083《APK Downloader for Google Play Store》从谷�
 ## 如果你需要更多平台版本的apk，可以自行选择
 
 
-![image-20201102174345708](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/083-apk-downloader-for-google-2020-11-02.assets/image-20201102174345708.png)
+![image-20201102174345708](https://v2fy.com/asset/0i/ChromeAppHeroes/page/083-apk-downloader-for-google-2020-11-02.assets/image-20201102174345708.png)
 
 
 ## 《APK Downloader for Google Play Store》下载地址

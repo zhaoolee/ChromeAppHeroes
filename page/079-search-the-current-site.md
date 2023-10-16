@@ -7,7 +7,7 @@ title: Chrome插件英雄榜079《Search the current site(站内搜索)》超实
 
 
 
-![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/079-search-the-current-site.assets/image-20200914100350661.png)
+![](https://v2fy.com/asset/0i/ChromeAppHeroes/page/079-search-the-current-site.assets/image-20200914100350661.png)
 
 
 
@@ -19,7 +19,7 @@ title: Chrome插件英雄榜079《Search the current site(站内搜索)》超实
 
 比如在 [当我在扯淡](https://www.yinwang.org/) 搜索 **中国人**
 
-![](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/079-search-the-current-site.assets/079SearchTheCurrentSite.gif)
+![](https://v2fy.com/asset/0i/ChromeAppHeroes/page/079-search-the-current-site.assets/079SearchTheCurrentSite.gif)
 
 
 

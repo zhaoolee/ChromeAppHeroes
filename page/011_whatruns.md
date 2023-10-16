@@ -10,23 +10,23 @@ title: Chrome插件英雄榜011 《whatruns》一键分析网站技术栈
 
 - 这里先用简书jianshu.com试试水
 
-> ![](https://www.v2fy.com/asset/011_whatruns/129438a1f42348739f846d45321676c4.png)
+> ![](https://v2fy.com/asset/011_whatruns/129438a1f42348739f846d45321676c4.png)
 > - 简书使用webpack做打包, 也使用了VueJS, jQuery, Monment JS等技术
 
 - 看看vue的官网用了什么技术
-> ![](https://www.v2fy.com/asset/011_whatruns/16635272913343f8937943aaeda13dfd.png)
+> ![](https://v2fy.com/asset/011_whatruns/16635272913343f8937943aaeda13dfd.png)
 - 看看facebook用了什么技术
-> ![](https://www.v2fy.com/asset/011_whatruns/4f037040621341e8a282fe9ba762379e.png)
+> ![](https://v2fy.com/asset/011_whatruns/4f037040621341e8a282fe9ba762379e.png)
 
 ## 详细了解相关技术
 如果你需要详细了解某个技术, 可以通过whatruns快速调转到相关技术的官网
-> ![](https://www.v2fy.com/asset/011_whatruns/e5597c1ee3af41c0a52d67eb9ac417e2.png)
+> ![](https://v2fy.com/asset/011_whatruns/e5597c1ee3af41c0a52d67eb9ac417e2.png)
 同样的,你也可以查看使用了当前技术的相关网站, 以vue为例
-> ![](https://www.v2fy.com/asset/011_whatruns/2da4326622c444f785101f5d7380bb65.png)
-> ![](https://www.v2fy.com/asset/011_whatruns/06aef35378524f74b8e0b3bad24b85f5.png)
+> ![](https://v2fy.com/asset/011_whatruns/2da4326622c444f785101f5d7380bb65.png)
+> ![](https://v2fy.com/asset/011_whatruns/06aef35378524f74b8e0b3bad24b85f5.png)
 
 
-> ![](https://www.v2fy.com/asset/011_whatruns/5b556edb9a82463789e5f95caf3c024d.png)
+> ![](https://v2fy.com/asset/011_whatruns/5b556edb9a82463789e5f95caf3c024d.png)
 
 
 ## 小结:

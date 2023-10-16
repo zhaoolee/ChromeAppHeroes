@@ -4,9 +4,9 @@ title: Chrome插件英雄榜005《Video Speed Controller》 刷课（刷剧）�
 刷一些没营养视频的时候, 我们会有倍速播放视频的需求, 而网站的在线播放器一般只提供不高于4倍的播放速度, 最近发现了一个很好用的, 可以将视频播放速度提高到16倍开源浏览器插件Video Speed Controller,分享给大家, github开源地址: https://github.com/igrigorik/videospeed
 
 
-![](https://www.v2fy.com/asset/005_video_speed_controller/f010d690b78b48d3bab5e59f45e11993.png)
+![](https://v2fy.com/asset/005_video_speed_controller/f010d690b78b48d3bab5e59f45e11993.png)
 
-![](https://www.v2fy.com/asset/005_video_speed_controller/d880aad7585b4dbebda9ec5d46a3b9a0.png)
+![](https://v2fy.com/asset/005_video_speed_controller/d880aad7585b4dbebda9ec5d46a3b9a0.png)
 
 ## 快捷键清单
 - 显示/隐藏浮框`V`
@@ -22,7 +22,7 @@ title: Chrome插件英雄榜005《Video Speed Controller》 刷课（刷剧）�
 - 我也看到了一些曲线救国的方案, 比如一些油猴脚本, 可以让网站提供html5的视频播放方式(这确实是一个不错的思路（￣︶￣）)
 
 
-> ![](https://www.v2fy.com/asset/005_video_speed_controller/81748178cd944a2f92d8fb16eca64b26.png)
+> ![](https://v2fy.com/asset/005_video_speed_controller/81748178cd944a2f92d8fb16eca64b26.png)
 
 
 > 油猴脚本地址:https://greasyfork.org/zh-CN/scripts/30879-bye-flash-hello-html5-%E5%86%8D%E8%A7%81flash-%E4%BD%A0%E5%A5%BDhtml5
@@ -38,10 +38,10 @@ title: Chrome插件英雄榜005《Video Speed Controller》 刷课（刷剧）�
 <table style="table-layout: fixed;">
 <tbody>
 <tr>
-<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
-<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
-<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
-<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
+<td><div style="text-align: center;"><div style="font-weight: bold">Chrome</div><br/><div><img  style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-chrome-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">Edge</div><br/><div><img style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-edge-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">FireFox</div><br/><div><img  style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-firefox-icon.png"/></div></div></td>
+<td><div style="text-align: center;" ><div style="font-weight: bold">离线安装包</div><br/><div><img  style="width:50px; height:auto;" src="https://v2fy.com/asset/0i/ChromeAppHeroes/page/001_markdown_here.assets/chromeappheroes-github-download.png"/></div></div></td>
 </tr>
 <tr>
 <td>

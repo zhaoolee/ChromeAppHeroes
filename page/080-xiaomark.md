@@ -9,14 +9,14 @@ title: Chrome插件英雄榜080《小码短链接》免费为相同url生成多�
 
 ## 基本使用方法
 
-![2020-10-12-xiaomark-chrome](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/080-xiaomark.assets/2020-10-12-xiaomark-chrome.gif)
+![2020-10-12-xiaomark-chrome](https://v2fy.com/asset/0i/ChromeAppHeroes/page/080-xiaomark.assets/2020-10-12-xiaomark-chrome.gif)
 
 
 ## 短链接如何做统计
 
 短链接还有一个好处，就是可以做统计，比如目标网址
 
-[https://www.v2fy.com/p/readme-onlinetoolsbook/](https://www.v2fy.com/p/readme-onlinetoolsbook/) （46个字符）
+[https://v2fy.com/p/readme-onlinetoolsbook/](https://v2fy.com/p/readme-onlinetoolsbook/) （46个字符）
 
 我可以通过第三方服务生成的短链接 
 
@@ -31,7 +31,7 @@ title: Chrome插件英雄榜080《小码短链接》免费为相同url生成多�
 
 1. 为相同网址生成不同的短链接
 
-![20201013-xiaomark001](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/080-xiaomark.assets/20201013-xiaomark001.gif)
+![20201013-xiaomark001](https://v2fy.com/asset/0i/ChromeAppHeroes/page/080-xiaomark.assets/20201013-xiaomark001.gif)
 
 
 2. 然后两个网址发到不同的微信群组
@@ -44,7 +44,7 @@ https://sourl.cn/egDNiG
 
 3. 登录小码官网 https://xiaomark.com/ ，微信扫码登录，进入后台，即可获得链接各自的点击量
 
-![image-20201013144308659](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/080-xiaomark.assets/image-20201013144308659.png)
+![image-20201013144308659](https://v2fy.com/asset/0i/ChromeAppHeroes/page/080-xiaomark.assets/image-20201013144308659.png)
 
 
 
@@ -54,7 +54,7 @@ https://sourl.cn/egDNiG
 
 
 
-小码短链接更多后台操作介绍：[T038《小码助手》为一个网址生成多个短链接进行分发: https://www.v2fy.com/p/T038-xiaomark-2020-10-12/](https://www.v2fy.com/p/T038-xiaomark-2020-10-12/) 
+小码短链接更多后台操作介绍：[T038《小码助手》为一个网址生成多个短链接进行分发: https://v2fy.com/p/T038-xiaomark-2020-10-12/](https://v2fy.com/p/T038-xiaomark-2020-10-12/) 
 
 
 

@@ -8,7 +8,7 @@ Github以**仓库**为单位对**开源项目**进行管理, 但github没有提�
 
 阮一峰大佬在其开源项目《科技爱好者周刊》推荐了一款名为Sourcegraph的工具,对单个仓库的关键词进行搜索
 
-![image-20200907103902120](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907103902120.png)
+![image-20200907103902120](https://v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907103902120.png)
 
 
 
@@ -16,7 +16,7 @@ Github以**仓库**为单位对**开源项目**进行管理, 但github没有提�
 
 
 
-![077-sourcegraph](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/077-sourcegraph.gif)
+![077-sourcegraph](https://v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/077-sourcegraph.gif)
 
 
 
@@ -24,7 +24,7 @@ Github以**仓库**为单位对**开源项目**进行管理, 但github没有提�
 
 
 
-![image-20200907141221722](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907141221722.png)
+![image-20200907141221722](https://v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907141221722.png)
 
 
 
@@ -39,7 +39,7 @@ Github以**仓库**为单位对**开源项目**进行管理, 但github没有提�
 
 
 
-![image-20200907141243771](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907141243771.png)
+![image-20200907141243771](https://v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/image-20200907141243771.png)
 
 
 
@@ -51,7 +51,7 @@ Github以**仓库**为单位对**开源项目**进行管理, 但github没有提�
 
 
 
-![077-sourcegraph-002](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/077-sourcegraph-002.gif)
+![077-sourcegraph-002](https://v2fy.com/asset/0i/ChromeAppHeroes/page/077-sourcegraph.assets/077-sourcegraph-002.gif)
 
 
 
