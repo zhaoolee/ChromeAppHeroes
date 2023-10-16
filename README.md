@@ -43,6 +43,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [120《Wikiwand》提升维基百科的使用体验](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/120-wikiwand-2023-10-12.md)
 
 - [119《InsPop》用英语经典语录原音学英语](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/119-inspop-2023-10-12.md)
 
@@ -290,6 +291,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
 
+
+#### [120《Wikiwand》提升维基百科的使用体验](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/120-wikiwand-2023-10-12.md)
+
+
+![Wikiwand](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1697444185797NWNpnQeW.gif)
+
+
+Wikiwand是经典的设计向工具，Wiki的官方网页设计朴实，数据开源，Wikiwand基于Wiki已有的数据进行了页面优化，相当于增强主题，给用户更好的阅读体验，如果用户使用Wikiwand页面进行长时间浏览, Wikiwand还能获得很好的SEO，Wikiwand这个产品属于站在了巨人的肩膀上。
 
 ####  [119《InsPop》用英语经典语录原音学英语](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/119-inspop-2023-10-12.md)
 
