@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "0.21.2",
     "download": "7.1.0",
     "showdown": "1.9.1",
     "chmodr": "1.2.0",
