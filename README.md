@@ -43,6 +43,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [121《Console Importer》在Chrome直接使用npm军火库](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/121-console-importer-2023-12-20.md)
+
 - [120《Wikiwand》提升维基百科的使用体验](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/120-wikiwand-2023-10-12.md)
 
 - [119《InsPop》用英语经典语录原音学英语](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/119-inspop-2023-10-12.md)
@@ -289,8 +291,17 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621472051345iXBTrJEW.gif)
 
 
-公众号 「0加1」 由项目作者zhaoolee运营, 2021年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+公众号「0加1」由项目作者zhaoolee运营, 2024年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
 
+#### [121《Console Importer》在Chrome直接使用npm军火库](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/121-console-importer-2023-12-20.md)
+
+
+![Console控制台打印图片](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1703761331008zP4hFn3a.gif)
+
+
+一个很不错的开发者扩展程序《Console Importer》， 让javascript程序员们，可以直接在浏览器快速安装各种好用的npm依赖包（npm包的丰富程度堪称军火库），并进行编程。
+
+《Console Importer》会让Web工程师感觉很爽，但项目本身还有一些需要完善的点，我认为作者可以添加卸载npm包的功能，对于国内的程序员而言，允许设置npm软件源也是刚需。
 
 #### [120《Wikiwand》提升维基百科的使用体验](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/120-wikiwand-2023-10-12.md)
 
