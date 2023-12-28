@@ -43,7 +43,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
-- [121《Console Importer》在Chrome直接使用npm军火库](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/121-console-importer-2023-12-20.md)
+- [121《Console Importer》在Chrome直接使用npm军火库, 在控制台动态展示一张猫猫图](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/121-console-importer-2023-12-20.md)
 
 - [120《Wikiwand》提升维基百科的使用体验](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/120-wikiwand-2023-10-12.md)
 
@@ -293,7 +293,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 公众号「0加1」由项目作者zhaoolee运营, 2024年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
 
-#### [121《Console Importer》在Chrome直接使用npm军火库](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/121-console-importer-2023-12-20.md)
+#### [121《Console Importer》在Chrome直接使用npm军火库, 在控制台动态展示一张猫猫图](https://github.com/zhaoolee/ChromeAppHeroes/blob/master/page/121-console-importer-2023-12-20.md)
 
 
 ![Console控制台打印图片](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1703761331008zP4hFn3a.gif)
