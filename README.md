@@ -282,12 +282,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621472051345iXBTrJEW.gif)
 
-
 公众号「0加1」由项目作者zhaoolee运营, 2024年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
 
-## [123]
-
-## [122《Video Screenshot》为奈飞Netflix精彩画面截图，壁纸爱好者必备神器](https://zhaoolee.com/ChromeAppHeroes/#/122-video-screenshot-2024-03-16)
+#### [122《Video Screenshot》为奈飞Netflix精彩画面截图，壁纸爱好者必备神器](https://zhaoolee.com/ChromeAppHeroes/#/122-video-screenshot-2024-03-16)
 
 ![2024-03-16 16.27.41](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710577847018J8m0jEzc.gif)
 
