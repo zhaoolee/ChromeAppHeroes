@@ -1,0 +1,47 @@
+{
+  "name": "ChromeAppHeroes",
+  "version": "1.0.0",
+  "description": "[English](https://zhaoolee.com/ChromeAppHeroes/readme-en.html) | [中文简体](https://zhaoolee.gitbooks.io/chrome/content/)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "download": "^7.1.0",
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-3-ba": "^0.9.0",
+    "gitbook-plugin-ad": "0.0.4",
+    "gitbook-plugin-adsense": "^1.0.3",
+    "gitbook-plugin-disqus": "^0.1.0",
+    "gitbook-plugin-donate": "^1.0.2",
+    "gitbook-plugin-ga": "^1.0.1",
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-github-buttons": "^3.0.0",
+    "gitbook-plugin-search-plus": "^1.0.3",
+    "gitbook-plugin-sharing-plus": "^0.0.2",
+    "gitbook-plugin-sitemap-general": "^0.1.1",
+    "gitbook-plugin-splitter": "^0.0.8",
+    "gitbook-plugin-tbfed-pagefooter": "^0.0.1",
+    "showdown": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gitbook install && gitbook build ./ ./docs",
+    "pdf": "gitbook pdf ./ ./pdf",
+    "bpush": "gitbook install && gitbook build ./ ./docs && git add . && git commit -m 'ok' && git push",
+    "push": "node push.js && gitbook build ./ ./docs && git add . && git commit -m 'ok' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoolee/ChromeAppHeroes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes/issues"
+  },
+  "homepage": "https://github.com/zhaoolee/ChromeAppHeroes#readme"
+}
