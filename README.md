@@ -32,6 +32,9 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+
+- [122《Video Screenshot》为奈飞Netflix精彩画面截图，壁纸爱好者必备神器](https://zhaoolee.com/ChromeAppHeroes/#/122-video-screenshot-2024-03-16)
+
 - [121《Console Importer》在Chrome直接使用npm军火库, 在控制台动态展示一张猫猫图](https://zhaoolee.com/ChromeAppHeroes/#/121-console-importer-2023-12-20)
 
 - [120《Wikiwand》提升维基百科的使用体验](https://zhaoolee.com/ChromeAppHeroes/#/120-wikiwand-2023-10-12)
@@ -281,6 +284,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 公众号「0加1」由项目作者zhaoolee运营, 2024年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
+
+## [122《Video Screenshot》为奈飞Netflix精彩画面截图，壁纸爱好者必备神器](https://zhaoolee.com/ChromeAppHeroes/#/122-video-screenshot-2024-03-16)
+
+![Video Screenshot](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710577847018J8m0jEzc.gif)
+
+
+Netflix有很多优质节目，遇到精彩的画面，如果使用截屏，Netflix就会自动黑屏，这里推荐一个适用于Web版可以对Netflix截图的小工具，安装工具后，Netflix的播放器底部会出现一个小相机图标，点击即可自动自动截取当前画面，并下载到本地
 
 #### [121《Console Importer》在Chrome直接使用npm军火库, 在控制台动态展示一张猫猫图](https://zhaoolee.com/ChromeAppHeroes/#/121-console-importer-2023-12-20)
 
