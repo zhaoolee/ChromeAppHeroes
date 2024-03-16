@@ -112,7 +112,6 @@ https://github.com/pd4d10/console-importer
 暂无
 </div>
 </td>
-
 <td>
 <div style="text-align: center;"><a  href="https://cdn.jsdelivr.net/gh/zhaoolee/ChromeAppHeroes/backup/121-console-importer.zip">下载链接 / Download link</a></div>
 </td>

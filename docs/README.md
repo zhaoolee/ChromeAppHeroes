@@ -26,17 +26,6 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 ----
 
 
-## 如何下载离线安装包
-
-海外用户: 在文件夹[backup](https://github.com/zhaoolee/ChromeAppHeroes/tree/master/backup) 内可以找到ChromeAppHeroes所有离线安装包
-
-
-国内用户: 在公众号 `0加1` 后台回复`ChromeAppHeroes离线安装包` 即可获取
-
-## 项目新增CN服务器
-
-本项目使用了大量Gif图片, 而且github在国内的访问速度非常不稳定,导致文章页面打开稍慢, 为了解决大陆用户访问项目速度慢的问题, zhaoolee在阿里云买了一台5M的VPS, 已将所有文章链接替换到v2fy.com域名下, 访问速度会非常快, 而且图片支持懒加载, 可以节省下载gif图的流量,入口为[https://www.v2fy.com/ChromeAppHeroes/](https://www.v2fy.com/ChromeAppHeroes/)
-
 
 **付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.rocks/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验 [http://i.v2fy.com/vpn](http://i.v2fy.com/vpn)
 
