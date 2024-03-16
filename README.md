@@ -13,21 +13,21 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 [视频地址: https://www.bilibili.com/video/av81163488](https://www.bilibili.com/video/av81163488)
 
+
 ![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/71558263-138cbd00-2a8c-11ea-91c6-0acecaea38c2.png)
 [https://www.bilibili.com/video/av81163488](https://www.bilibili.com/video/av81163488)
 
-[Chrome插件英雄榜官方Telegram频道](https://t.me/ChromeAppHeroes)
-
 **感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo | [谷粒文化(老罗巴扎嘿语录)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)**
+
+
+## [Github兄弟项目推广: OnlineToolsBook在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook)
+[🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~ https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
 
 ----
 
-## 如何下载离线安装包
-
-海外用户: 在文件夹[backup](https://github.com/zhaoolee/ChromeAppHeroes/tree/master/backup) 内可以找到ChromeAppHeroes所有离线安装包
 
 
-**付费VPN科学上网工具推荐**: 通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.rocks/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验 [http://i.v2fy.com/vpn](http://i.v2fy.com/vpn)
+**付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.rocks/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验 [http://i.v2fy.com/vpn](http://i.v2fy.com/vpn)
 
 
 ## 目录(点击以下标题, 可以进入文章页~)
@@ -285,12 +285,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 公众号「0加1」由项目作者zhaoolee运营, 2024年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
 
+## [123]
+
 ## [122《Video Screenshot》为奈飞Netflix精彩画面截图，壁纸爱好者必备神器](https://zhaoolee.com/ChromeAppHeroes/#/122-video-screenshot-2024-03-16)
 
-![Video Screenshot](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710577847018J8m0jEzc.gif)
-
+![2024-03-16 16.27.41](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710577847018J8m0jEzc.gif)
 
 Netflix有很多优质节目，遇到精彩的画面，如果使用截屏，Netflix就会自动黑屏，这里推荐一个适用于Web版可以对Netflix截图的小工具，安装工具后，Netflix的播放器底部会出现一个小相机图标，点击即可自动自动截取当前画面，并下载到本地
+
 
 #### [121《Console Importer》在Chrome直接使用npm军火库, 在控制台动态展示一张猫猫图](https://zhaoolee.com/ChromeAppHeroes/#/121-console-importer-2023-12-20)
 
@@ -1428,3 +1430,9 @@ I need your support, I hope you can add a star 🌟 to this project.
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
 
+
+
+## Chrome插件英雄榜官方Telegram频道
+
+
+https://t.me/ChromeAppHeroes
