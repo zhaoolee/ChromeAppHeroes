@@ -9,18 +9,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![谷粒VI设计.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/17106763830728faCQ0DR.png)
 
-## 本项目B站宣传视频地址
-
-[视频地址: https://www.bilibili.com/video/av81163488](https://www.bilibili.com/video/av81163488)
-
-
-![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710677074109TXB3sd0T.png)
-[https://www.bilibili.com/video/av81163488](https://www.bilibili.com/video/av81163488)
-
 **感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo | [谷粒文化(老罗巴扎嘿语录)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)**
 
-**付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.rocks/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验 [http://i.v2fy.com/vpn](http://i.v2fy.com/vpn)
+谷粒-Chrome插件英雄榜使用开源魔法文档工具[docsify](https://github.com/docsifyjs/docsify/)构建,托管在 github pages, 完全开源!
 
+**付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.rocks/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验 [http://i.v2fy.com/vpn](http://i.v2fy.com/vpn)
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
