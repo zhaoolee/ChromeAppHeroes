@@ -1,5 +1,6 @@
 #!/bin/bash
 git pull
+node main.js
 git add .
 git commit -m "ok"
 #git tag $1

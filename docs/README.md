@@ -1,4 +1,4 @@
-![](https://v2fy.com/asset/README/9ac21b8aea054eb48fc404fd429638bf.jpeg)
+![谷粒-Chrome插件英雄榜](https://v2fy.com/asset/README/9ac21b8aea054eb48fc404fd429638bf.jpeg)
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/ChromeAppHeroes.svg?style=popout-square) ![https://v2fy.com/asset/README/ChromeAppHeroes.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg?style=popout-square)
 
@@ -18,7 +18,6 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [https://www.bilibili.com/video/av81163488](https://www.bilibili.com/video/av81163488)
 
 **感谢[老罗巴扎嘿](https://github.com/LuoJiangYong)为本项目设计的新的Logo | [谷粒文化(老罗巴扎嘿语录)](https://zhaoolee.gitbooks.io/chrome/content/gu-li-qu-yi.html)**
-
 
 **付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.rocks/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验 [http://i.v2fy.com/vpn](http://i.v2fy.com/vpn)
 
@@ -1409,7 +1408,6 @@ I need your support, I hope you can add a star 🌟 to this project.
 </table>
 </pre>
 </details>
-
 
 
 ![](https://v2fy.com/asset/jetbrain/jetbrains-variant-2.png)
