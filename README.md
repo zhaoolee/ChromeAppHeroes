@@ -279,7 +279,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 公众号「0加1」由项目作者zhaoolee运营, 2024年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
 
-#### [123《Language Learning with Netflix & YouTube-AFL》听原汁原味的读音，用奈飞Youtube双字幕学英语]
+#### [123《Language Learning with Netflix & YouTube-AFL》听原汁原味的读音，用奈飞Youtube双字幕学英语](https://zhaoolee.com/ChromeAppHeroes/#/123-language-learning-with-netflix-2024-03-16)
 
 ![2024-03-17 14.58.16](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710659383753tNbxikkj.gif)
 
