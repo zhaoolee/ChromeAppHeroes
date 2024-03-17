@@ -3,27 +3,24 @@ title: 001《markdown-here》 Markdown一键转换到"富文本格式"
 ---
 新浪微博，有一个头条文章编辑器的东西，只支持富文本，为了一键把简书的markdown文章，直接转换到头条文章编辑器中，我找到了一款神器 markdown-here！
 
-Article Editor of Sina Weibo, only rich text is supported(like gmail), In order to convert markdown to rich text, I find a very userful tool which name is **markdown-here** !
 
-## markdown-here效果演示  / Use the demo of markdown-here
+## markdown-here效果演示
 
 ![](https://v2fy.com/asset/001_markdown_here/1a22124d447946ab8277a45414a0cc37.gif)
 
 
-## [markdown-here Github开源地址](https://github.com/adam-p/markdown-here) / [markdown-here Github open source link](https://github.com/adam-p/markdown-here)
+## [markdown-here Github开源地址](https://github.com/adam-p/markdown-here)
 
 ![](https://v2fy.com/asset/001_markdown_here/b5dad00f00214715809cdca2ba24b9cc.png)
 
-## markdown-here支持个性化定制样式 / markdown-here support for personalized styles 
+## markdown-here支持个性化定制样式
 
-> markdown-here不仅对代码高亮支持的非常好, 而且markdown-here提供了不同样式的代码渲染效果供我们选择
-
-> Not only the markdown-here is very good for code highlighting, but also markdown-here provides different styles of code rendering for us to choose
+markdown-here不仅对代码高亮支持的非常好, 而且markdown-here提供了不同样式的代码渲染效果供我们选择
 
 
-> ![](https://v2fy.com/asset/001_markdown_here/b592991d49f84ee5a19ff93848bcf8e7.png)
+![](https://v2fy.com/asset/001_markdown_here/b592991d49f84ee5a19ff93848bcf8e7.png)
 
-## markdown-here用途 / What is markdown-here use?
+## markdown-here用途
 - 用 Markdown 写邮件，然后转换为富文本
 - Write a message with Markdown and convert to rich text
 - 用 Markdown 编辑微信后台内容
