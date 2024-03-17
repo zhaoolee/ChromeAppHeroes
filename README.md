@@ -268,16 +268,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 | [GLaDOS](https://chrome.google.com/webstore/detail/glados/dhjjibbeddglobeoapgppnlnmijajfbb) | [glados-network](https://github.com/glados-network) | [Github 仓库地址](https://github.com/glados-network/GLaDOS) | GLaDOS is trustable networking manager, a system to master your network. |
 
 
+![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710679297967C1J1dW7b.png)
 
-![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/60c92f0de3d44bb7a612d08e2e1f3d18.png)
-
-
-## 内容同步更新到公众号「0加1」
-
-
-![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621472051345iXBTrJEW.gif)
-
-公众号「0加1」由项目作者zhaoolee运营, 2024年会同步更新 ChromeAppHeroes (Chrome插件英雄榜) 
 
 #### [123《Language Learning with Netflix & YouTube-AFL》听原汁原味的读音，用奈飞Youtube双字幕学英语](https://zhaoolee.com/ChromeAppHeroes/#/123-language-learning-with-netflix-2024-03-16)
 
@@ -315,7 +307,7 @@ Wikiwand是经典的设计向工具，Wiki的官方网页设计朴实，数据�
 ####  [119《InsPop》用英语经典语录原音学英语](https://zhaoolee.com/ChromeAppHeroes/#/119-inspop-2023-10-12)
 
 
-![InsPop](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1697093430853RcmPDSTF.gif)
+![InsPop](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710679299729r55B1bZF.gif)
 
 InsPop收录各种经典电影，电视剧，纪录片经典语录的中英文释义，原版音频，配上精美海报，每次打开浏览器新Tab，能看到经典句子以及海报，利用碎片化时间无痛学英语。
 
