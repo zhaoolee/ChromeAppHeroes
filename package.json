@@ -1,7 +1,7 @@
 {
   "name": "chromeappheroes",
   "version": "1.0.0",
-  "description": "![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/9ac21b8aea054eb48fc404fd429638bf.jpeg)",
+  "description": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
   "main": "main.js",
   "directories": {
     "doc": "docs"
@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fs-extra": "^11.2.0",
-    "request": "^2.88.2"
+    "fs-extra": "11.2.0",
+    "request": "2.88.2"
   }
 }
