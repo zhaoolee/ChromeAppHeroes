@@ -5,6 +5,7 @@
 # 谷粒-Chrome插件英雄榜
 
 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~
+
 ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 
 ![谷粒VI设计.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/5ecd2856f287477c89c20efb7de11a9b.png)
@@ -23,7 +24,6 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 ## 目录(点击以下标题, 可以进入文章页~)
-
 
 - [123《Language Learning with Netflix & YouTube-AFL》听原汁原味的读音，用奈飞Youtube双字幕学英语](https://zhaoolee.com/ChromeAppHeroes/#/123-language-learning-with-netflix-2024-03-16)
 
@@ -1233,21 +1233,17 @@ Copy All Urls属于小而美地工具，如果你每天都需要查看几个固�
 
 ## Chrome扩展程序相关网站推荐
 
-
 [chajian5: 收藏好用的Chrome插件，不推荐评分低的还有多年不更新的插件。支持百度网盘和360云盘转存或下载，方便快捷。](https://www.chajian5.com/)
 
 **Chrome插件英雄榜** Github地址: [https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 我需要你的支持, 希望你能为本项目填加一个 🌟星.
 I need your support, I hope you can add a star 🌟 to this project.
 
-
 ## [一根火柴的N种打开方式(谷粒文化)](https://zhaoolee.com/ChromeAppHeroes/meaning_of_gu_li.html)
 
 ![smartmockups_juunlhbe.jpg](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/9ac21b8aea054eb48fc404fd429638bf.jpeg)
 
-
 ![2.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/dc9ab48d958843c98f2a4c9336cff748.png)
-
 
 
 ## 赞助打赏

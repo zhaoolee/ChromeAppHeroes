@@ -27,6 +27,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 - [123《Language Learning with Netflix & YouTube-AFL》听原汁原味的读音，用奈飞Youtube双字幕学英语](https://zhaoolee.com/ChromeAppHeroes/#/123-language-learning-with-netflix-2024-03-16)
 
+
 - [122《Video Screenshot》为奈飞Netflix精彩画面截图，壁纸爱好者必备神器](https://zhaoolee.com/ChromeAppHeroes/#/122-video-screenshot-2024-03-16)
 
 - [121《Console Importer》在Chrome直接使用npm军火库, 在控制台动态展示一张猫猫图](https://zhaoolee.com/ChromeAppHeroes/#/121-console-importer-2023-12-20)
