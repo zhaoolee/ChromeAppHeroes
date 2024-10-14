@@ -17,6 +17,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [125《Redirect Path》查看一个页面是如何跳转过来的](https://zhaoolee.com/ChromeAppHeroes/#/125-redirect-path.md)
+
 - [124《HackerNews New Tab》自动使用新标签页打开Hacker News内容](https://zhaoolee.com/ChromeAppHeroes/#/124-hackernews-new-tab.md)
 
 - [123《Language Learning with Netflix & YouTube-AFL》听原汁原味的读音，用奈飞Youtube双字幕学英语](https://zhaoolee.com/ChromeAppHeroes/#/123-language-learning-with-netflix-2024-03-16)
@@ -263,6 +265,15 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710679297967C1J1dW7b.png)
+
+#### [125《Redirect Path》查看一个页面是如何跳转过来的](https://zhaoolee.com/ChromeAppHeroes/#/125-redirect-path.md)
+
+
+![redirect-path](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1728903164776wcACwmse.gif)
+
+从巨量百应到抖音罗盘，中间有一个重定向页面，记录用户行为，同时完成两个平台联合授权登录的操作，作为一个开发者，如果我们需要获取这个记录页的信息，那Redirect Path是极好的工具
+
+
 
 ####  [124《HackerNews New Tab》自动使用新标签页打开Hacker News内容](https://zhaoolee.com/ChromeAppHeroes/#/124-hackernews-new-tab.md)
 

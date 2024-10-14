@@ -1,3 +1,4 @@
+* [125《Redirect Path》查看一个页面是如何跳转过来的](/125-redirect-path.md)
 * [124《HackerNews New Tab》自动使用新标签页打开Hacker News内容](/124-hackernews-new-tab.md)
 * [123《Language Learning with Netflix & YouTube-AFL》听原汁原味的读音，用奈飞Youtube双字幕学英语](/123-language-learning-with-netflix-2024-03-16.md)
 * [122《Video Screenshot》为奈飞Netflix精彩画面截图](/122-video-screenshot-2024-03-16.md)
