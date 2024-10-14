@@ -1,3 +1,4 @@
+* [124《HackerNews New Tab》自动使用新标签页打开Hacker News内容](/124-hackernews-new-tab.md)
 * [123《Language Learning with Netflix & YouTube-AFL》听原汁原味的读音，用奈飞Youtube双字幕学英语](/123-language-learning-with-netflix-2024-03-16.md)
 * [122《Video Screenshot》为奈飞Netflix精彩画面截图](/122-video-screenshot-2024-03-16.md)
 * [121《Console Importer》在Chrome直接使用npm军火库, 在控制台动态展示一张猫猫图](/121-console-importer-2023-12-20.md)

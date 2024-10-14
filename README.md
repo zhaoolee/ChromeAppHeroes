@@ -17,6 +17,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [124《HackerNews New Tab》自动使用新标签页打开Hacker News内容](https://zhaoolee.com/ChromeAppHeroes/#/124-hackernews-new-tab.md)
+
 - [123《Language Learning with Netflix & YouTube-AFL》听原汁原味的读音，用奈飞Youtube双字幕学英语](https://zhaoolee.com/ChromeAppHeroes/#/123-language-learning-with-netflix-2024-03-16)
 
 
@@ -262,6 +264,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710679297967C1J1dW7b.png)
 
+####  [124《HackerNews New Tab》自动使用新标签页打开Hacker News内容](https://zhaoolee.com/ChromeAppHeroes/#/124-hackernews-new-tab.md)
+
+![new-tab](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1728880192420BeDdDWfs.gif)
+
+HackerNews每天都会展示大量高质量的内容索引，但是每次点击任意索引，当前的HackerNews页面就会被覆盖，而HackerNews New Tab 这款扩展工具，可以让我们自动使用新标签页打开索引，我个人感觉这样非常舒服，推荐给大家。
 
 #### [123《Language Learning with Netflix & YouTube-AFL》听原汁原味的读音，用奈飞Youtube双字幕学英语](https://zhaoolee.com/ChromeAppHeroes/#/123-language-learning-with-netflix-2024-03-16)
 
