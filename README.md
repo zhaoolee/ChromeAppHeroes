@@ -17,6 +17,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [126《File Management - WebDav》优雅使用浏览器通过WebDav上传下载管理自建网盘的文件](https://zhaoolee.com/ChromeAppHeroes/#/126-file-management-webdav.md)
+
 - [125《Redirect Path》查看一个页面是如何跳转过来的](https://zhaoolee.com/ChromeAppHeroes/#/125-redirect-path.md)
 
 - [124《HackerNews New Tab》自动使用新标签页打开Hacker News内容](https://zhaoolee.com/ChromeAppHeroes/#/124-hackernews-new-tab.md)
@@ -265,6 +267,16 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710679297967C1J1dW7b.png)
+
+#### [126《File Management - WebDav》优雅使用浏览器通过WebDav上传下载管理自建网盘的文件](https://zhaoolee.com/ChromeAppHeroes/#/126-file-management-webdav.md)
+
+
+![File Management - WebDav](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/17335591577897PxbtfiP.gif)
+
+
+webdav与smb协议一样流行，在各大操作系统中被广泛支持，webdav基于http, 在不稳定的网络环境下表现更好，因为http协议本身就设计用于处理这种情况。在中国各类局域网的环境下，它可以轻松穿透防火墙，因为大多数防火墙默认允许HTTP/HTTPS流量。
+
+
 
 #### [125《Redirect Path》查看一个页面是如何跳转过来的](https://zhaoolee.com/ChromeAppHeroes/#/125-redirect-path.md)
 
