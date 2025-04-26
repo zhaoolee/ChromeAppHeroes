@@ -17,6 +17,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [127《Z-Library Finder》优雅进入全球最大的Z-Library自由免费Free图书馆](https://zhaoolee.com/ChromeAppHeroes/#/127-z-library-finder.md)
+
 - [126《File Management - WebDav》优雅使用浏览器通过WebDav上传下载管理自建网盘的文件](https://zhaoolee.com/ChromeAppHeroes/#/126-file-management-webdav.md)
 
 - [125《Redirect Path》查看一个页面是如何跳转过来的](https://zhaoolee.com/ChromeAppHeroes/#/125-redirect-path.md)
@@ -267,6 +269,12 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 ![造福人类.png](https://v2fy.com/asset/meaning_of_gu_li/b94a67d9a9d94b768c89711ea33ee2c0.png)
+
+#### [127《Z-Library Finder》优雅进入全球最大的Z-Library自由免费Free图书馆](https://zhaoolee.com/ChromeAppHeroes/#/127-z-library-finder.md)
+
+![Z-Library Finder](https://cdn.fangyuanxiaozhan.com/assets/1745650815740TEsSdnXb.gif)
+
+查找下载过程中，没有任何弹窗，点击即可下载，除了下载有点慢，没什么缺点，下载后的epub格式，可以被各类主流电子书软件打开，我个人比较喜欢Apple的Books，可以通过iCloud同步阅读进度。
 
 #### [126《File Management - WebDav》优雅使用浏览器通过WebDav上传下载管理自建网盘的文件](https://zhaoolee.com/ChromeAppHeroes/#/126-file-management-webdav.md)
 
