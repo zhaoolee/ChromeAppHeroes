@@ -17,6 +17,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [128《Wayback Machine》优雅查看任意网页的历史记录](https://zhaoolee.com/ChromeAppHeroes/#/128-wayback-machine.md)
+
 - [127《Z-Library Finder》优雅进入全球最大的Z-Library自由免费Free图书馆](https://zhaoolee.com/ChromeAppHeroes/#/127-z-library-finder.md)
 
 - [126《File Management - WebDav》优雅使用浏览器通过WebDav上传下载管理自建网盘的文件](https://zhaoolee.com/ChromeAppHeroes/#/126-file-management-webdav.md)
@@ -269,6 +271,10 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 ![造福人类.png](https://v2fy.com/asset/meaning_of_gu_li/b94a67d9a9d94b768c89711ea33ee2c0.png)
+
+#### [128《Wayback Machine》优雅查看任意网页的历史记录](https://zhaoolee.com/ChromeAppHeroes/#/128-wayback-machine.md)
+
+![](https://cdn.fangyuanxiaozhan.com/assets/1753606084381J4ywJ3f4.gif)
 
 #### [127《Z-Library Finder》优雅进入全球最大的Z-Library自由免费Free图书馆](https://zhaoolee.com/ChromeAppHeroes/#/127-z-library-finder.md)
 
