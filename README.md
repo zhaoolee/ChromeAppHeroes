@@ -17,7 +17,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
-
+- [128《Wayback Machine》优雅查看任意网页的历史记录](https://zhaoolee.com/ChromeAppHeroes/#/128-wayback-machine.md)
 
 - [127《Z-Library Finder》优雅进入全球最大的Z-Library自由免费Free图书馆](https://zhaoolee.com/ChromeAppHeroes/#/127-z-library-finder.md)
 
