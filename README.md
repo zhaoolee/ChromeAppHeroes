@@ -17,6 +17,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [129《YouTube Subtitle Downloader》下载Youtube视频的字幕，支持中英对照](https://zhaoolee.com/ChromeAppHeroes/#/129-youtube-subtitle-downloader.md)
+
 - [128《Wayback Machine》优雅查看任意网页的历史记录](https://zhaoolee.com/ChromeAppHeroes/#/128-wayback-machine.md)
 
 - [127《Z-Library Finder》优雅进入全球最大的Z-Library自由免费Free图书馆](https://zhaoolee.com/ChromeAppHeroes/#/127-z-library-finder.md)
@@ -272,6 +274,11 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710679297967C1J1dW7b.png)
 
+#### [129《YouTube Subtitle Downloader》下载Youtube视频的字幕，支持中英对照](https://zhaoolee.com/ChromeAppHeroes/#/129-youtube-subtitle-downloader.md)
+
+![YouTube Subtitle Downloader](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/1757225908885NWGMxraD.gif)
+
+Youtube 的精彩视频是极好的英语教材，里面包含了英语母语创作者最地道的表达，本文推荐一个可以快速下载纯英语字幕，以及中英对照字幕的插件，为英语学习者提供生动有趣的学习教材。
 
 #### [128《Wayback Machine》优雅查看任意网页的历史记录](https://zhaoolee.com/ChromeAppHeroes/#/128-wayback-machine.md)
 
