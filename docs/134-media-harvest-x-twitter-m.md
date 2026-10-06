@@ -43,7 +43,7 @@ title: 134《Media Harvest X (twitter) Media Downloader》一键下载推特X视
 <div style="text-align: center;"><a  href="https://chromewebstore.google.com/detail/media-harvest-x-twitter-m/hpcgabhdlnapolkkjpejieegfpehfdok">下载链接 / Download link</a></div>
 </td>
 <td>
-<div style="text-align: center;"><a  href="https://greasyfork.org/zh-CN/scripts/577261-shift-translator-hover-toggle-selection-tooltip-chrome-translator-api">下载链接 / Download link</a></div>
+<div style="text-align: center;"><a  href="https://microsoftedge.microsoft.com/addons/detail/media-harvest-x%EF%BC%88twitter/mmijhjnobkeodfgoobnlmnpjllmlibkb">下载链接 / Download link</a></div>
 </td>
 <td>
 <div style="text-align: center;"><a  href="https://github.com/EltonChou/TwitterMediaHarvest/releases/download/v4.5.7/mediaharvest@mediaharvest.app-v4.5.7.xpi">下载链接 / Download link</a></div>
