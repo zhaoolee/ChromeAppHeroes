@@ -17,6 +17,8 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [134《Media Harvest X (twitter) Media Downloader》一键下载推特X视频](https://zhaoolee.com/ChromeAppHeroes/#/134-media-harvest-x-twitter-m.md)
+
 - [133《Shift Translator Hover Toggle》调用Chrome自带的离线翻译API，沉浸式翻译的平替](https://zhaoolee.com/ChromeAppHeroes/#/133-shift-translator-hover-toggle.md)
 
 - [132《Gemini NanoBanana Watermark Remover》提升AI生图幸福感！油猴脚本自动移除NanaBanana水印](https://zhaoolee.com/ChromeAppHeroes/#/132-gemini-nano-banana-watermark-remover.md)
@@ -281,6 +283,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710679297967C1J1dW7b.png)
+
+### [134《Media Harvest X (twitter) Media Downloader》一键下载推特X视频](https://zhaoolee.com/ChromeAppHeroes/#/134-media-harvest-x-twitter-m.md)
+
+
+
+![](./docs/134-media-harvest-x-twitter-m.assets/b189f52aad109d7b8ff14872a2b11a623c47991e21ca7e5930cdb55921f203ed.gif)
+
+在AI的加持下，大量的产品被批量造出，想要让产品抓人眼球，必须得制作好的宣传视频，而推特X上有很多经过算法筛选的优质视频，逐帧下载研究这些视频，能为产品制作带来灵感。
 
 ### [133《Shift Translator Hover Toggle》调用Chrome自带的离线翻译API，沉浸式翻译的平替](https://zhaoolee.com/ChromeAppHeroes/#/133-shift-translator-hover-toggle.md)
 
