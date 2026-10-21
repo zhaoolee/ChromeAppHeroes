@@ -280,6 +280,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 | [Gitako - Github file tree](https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk)| [EnixCoda](https://github.com/EnixCoda) | [Github仓库地址](https://github.com/EnixCoda/Gitako) | 功能上类似于大名鼎鼎的 Octotree ，但是用了更现代化的前端工具，性能好很多。 |
 | [GITHUBER](https://chrome.google.com/webstore/detail/githuber/janmcneaglgklfljjcpihkkomeghljnf)| [zhuowenli](https://github.com/zhuowenli) | [Github仓库地址](https://github.com/zhuowenli/githuber) | 这是一个帮助 GitHub 开发者每日发现优质内容的 Chrome 主页拓展。 |
 | [GLaDOS](https://chrome.google.com/webstore/detail/glados/dhjjibbeddglobeoapgppnlnmijajfbb) | [glados-network](https://github.com/glados-network) | [Github 仓库地址](https://github.com/glados-network/GLaDOS) | GLaDOS is trustable networking manager, a system to master your network. |
+| [FlowPick](https://chromewebstore.google.com/detail/flowpick-media-sniffer-do/mfinfkkabangbkanlfhhbokgfekjklea) | [funcy-boy](https://github.com/funcy-boy) | [Github仓库地址](https://github.com/ezwebtools/flowpick) | 检测网页视频、音频和图片，支持 M3U8/HLS、DASH 媒体预览与本地下载。 |
 
 
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710679297967C1J1dW7b.png)
